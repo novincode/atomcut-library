@@ -1,0 +1,82 @@
+{
+  "id": "impacts-risers",
+  "title": "Impacts & Risers",
+  "blurb": "Weight and anticipation — the two halves of a hard cut.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "AtomCut",
+  "publisher": {
+    "id": "atomcut",
+    "name": "AtomCut"
+  },
+  "tags": [
+    "cinematic",
+    "impact"
+  ],
+  "files": [
+    {
+      "file": "audio/impact-deep.wav",
+      "tags": [
+        "boom",
+        "hit"
+      ],
+      "blurb": "Low, heavy, lands with the frame."
+    },
+    {
+      "file": "audio/sub-drop.wav",
+      "tags": [
+        "sub",
+        "bass"
+      ],
+      "blurb": "Pure sub for the bottom of a hit."
+    },
+    {
+      "file": "audio/riser-long.wav",
+      "tags": [
+        "riser",
+        "tension"
+      ],
+      "blurb": "Eight-second build into a cut."
+    },
+    {
+      "file": "audio/riser-short.wav",
+      "tags": [
+        "riser",
+        "quick"
+      ],
+      "blurb": "A fast lift for a one-second reveal."
+    },
+    {
+      "file": "audio/whoosh-low.wav",
+      "tags": [
+        "whoosh",
+        "move"
+      ],
+      "blurb": "Air under a slow move. Lead it by 80 ms."
+    },
+    {
+      "file": "audio/whoosh-high.wav",
+      "tags": [
+        "whoosh",
+        "fast"
+      ],
+      "blurb": "Quick pass for a snap transition."
+    },
+    {
+      "file": "audio/swell.wav",
+      "tags": [
+        "swell",
+        "soft"
+      ],
+      "blurb": "Soft-attack swell — its hit is where it becomes audible."
+    },
+    {
+      "file": "audio/tail.wav",
+      "tags": [
+        "reverse",
+        "outro"
+      ],
+      "blurb": "A reversed tail to end on."
+    }
+  ]
+}

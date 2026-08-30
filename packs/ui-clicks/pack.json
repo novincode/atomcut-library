@@ -1,0 +1,82 @@
+{
+  "id": "ui-clicks",
+  "title": "UI Clicks",
+  "blurb": "Taps, thocks and snaps for interface motion.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "AtomCut",
+  "publisher": {
+    "id": "atomcut",
+    "name": "AtomCut"
+  },
+  "tags": [
+    "ui",
+    "click"
+  ],
+  "files": [
+    {
+      "file": "audio/soft-tap.wav",
+      "tags": [
+        "soft",
+        "subtle"
+      ],
+      "blurb": "A quiet tap for small state changes."
+    },
+    {
+      "file": "audio/hard-click.wav",
+      "tags": [
+        "sharp",
+        "button"
+      ],
+      "blurb": "A definite click. Buttons, toggles, commits."
+    },
+    {
+      "file": "audio/thock.wav",
+      "tags": [
+        "keyboard",
+        "deep"
+      ],
+      "blurb": "Deep keyboard thock with body."
+    },
+    {
+      "file": "audio/pop.wav",
+      "tags": [
+        "bubble",
+        "playful"
+      ],
+      "blurb": "Round and bouncy — good on appear."
+    },
+    {
+      "file": "audio/snap.wav",
+      "tags": [
+        "sharp",
+        "crisp"
+      ],
+      "blurb": "Fast and dry. Lands exactly on the frame."
+    },
+    {
+      "file": "audio/tick.wav",
+      "tags": [
+        "tiny",
+        "counter"
+      ],
+      "blurb": "Tiny metronome tick for counters and steppers."
+    },
+    {
+      "file": "audio/toggle-on.wav",
+      "tags": [
+        "switch",
+        "rise"
+      ],
+      "blurb": "A switch flipping up."
+    },
+    {
+      "file": "audio/toggle-off.wav",
+      "tags": [
+        "switch",
+        "fall"
+      ],
+      "blurb": "The same switch, going back."
+    }
+  ]
+}
