@@ -38,7 +38,10 @@ jobs:
       - name: Check out the pipeline
         uses: actions/checkout@v4
         with:
-          repository: ${{ vars.APP_REPO || 'atomcut/typomation' }}
+          repository: ${{ vars.APP_REPO || 'novincode/atomcut-repo' }}
+          # The pipeline lives in the app repo. If that repo is private,
+          # APP_REPO_TOKEN must be a PAT with read access to it: the default
+          # GITHUB_TOKEN is scoped to THIS repository and cannot read another.
           token: ${{ secrets.APP_REPO_TOKEN || github.token }}
           path: app
 
