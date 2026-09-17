@@ -1,0 +1,214 @@
+{
+  "id": "motion-essentials",
+  "title": "Motion Essentials",
+  "blurb": "The transitions, passes and stingers a motion piece actually needs.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "AtomCut",
+  "publisher": {
+    "id": "atomcut",
+    "name": "AtomCut"
+  },
+  "tags": [
+    "cinematic",
+    "transition"
+  ],
+  "files": [
+    {
+      "file": "audio/whoosh-pass-fast.wav",
+      "tags": [
+        "whoosh",
+        "pass",
+        "quick"
+      ],
+      "blurb": "A hard pass-by. Lead the cut by 60 ms."
+    },
+    {
+      "file": "audio/whoosh-pass-slow.wav",
+      "tags": [
+        "whoosh",
+        "pass",
+        "slow"
+      ],
+      "blurb": "A long push across the frame."
+    },
+    {
+      "file": "audio/whoosh-reverse.wav",
+      "tags": [
+        "whoosh",
+        "reverse",
+        "in"
+      ],
+      "blurb": "Sucks inward — put it before a reveal."
+    },
+    {
+      "file": "audio/whoosh-tight.wav",
+      "tags": [
+        "whoosh",
+        "short",
+        "crisp"
+      ],
+      "blurb": "Tiny air for a 6-frame move."
+    },
+    {
+      "file": "audio/transition-sweep.wav",
+      "tags": [
+        "transition",
+        "sweep"
+      ],
+      "blurb": "Filtered sweep across a wipe."
+    },
+    {
+      "file": "audio/transition-glitch.wav",
+      "tags": [
+        "transition",
+        "glitch",
+        "digital"
+      ],
+      "blurb": "Broken signal between two shots."
+    },
+    {
+      "file": "audio/glitch-short.wav",
+      "tags": [
+        "glitch",
+        "digital",
+        "short"
+      ],
+      "blurb": "One frame of corruption."
+    },
+    {
+      "file": "audio/glitch-long.wav",
+      "tags": [
+        "glitch",
+        "digital",
+        "long"
+      ],
+      "blurb": "A held stutter to cut out of."
+    },
+    {
+      "file": "audio/riser-tension.wav",
+      "tags": [
+        "riser",
+        "tension",
+        "long"
+      ],
+      "blurb": "Three seconds of build. End it on the cut."
+    },
+    {
+      "file": "audio/riser-snap.wav",
+      "tags": [
+        "riser",
+        "quick"
+      ],
+      "blurb": "Half-second lift into a title."
+    },
+    {
+      "file": "audio/downer.wav",
+      "tags": [
+        "downer",
+        "fall",
+        "outro"
+      ],
+      "blurb": "The opposite of a riser — lands on an exit."
+    },
+    {
+      "file": "audio/impact-soft.wav",
+      "tags": [
+        "impact",
+        "soft",
+        "hit"
+      ],
+      "blurb": "Weight without violence. Titles, cards, panels."
+    },
+    {
+      "file": "audio/impact-metal.wav",
+      "tags": [
+        "impact",
+        "metal",
+        "sharp"
+      ],
+      "blurb": "Bright metallic hit with a short ring."
+    },
+    {
+      "file": "audio/sub-hit.wav",
+      "tags": [
+        "sub",
+        "bass",
+        "hit"
+      ],
+      "blurb": "Bottom end only. Layer it under any impact."
+    },
+    {
+      "file": "audio/stinger-up.wav",
+      "tags": [
+        "stinger",
+        "music",
+        "in"
+      ],
+      "blurb": "Two-note lift for a logo landing."
+    },
+    {
+      "file": "audio/stinger-down.wav",
+      "tags": [
+        "stinger",
+        "music",
+        "out"
+      ],
+      "blurb": "The same shape, resolving down."
+    },
+    {
+      "file": "audio/shutter.wav",
+      "tags": [
+        "camera",
+        "foley",
+        "mechanical"
+      ],
+      "blurb": "Camera shutter for a freeze frame."
+    },
+    {
+      "file": "audio/latch.wav",
+      "tags": [
+        "foley",
+        "mechanical",
+        "lock"
+      ],
+      "blurb": "Something locking into place."
+    },
+    {
+      "file": "audio/type-tick.wav",
+      "tags": [
+        "ui",
+        "type",
+        "tiny"
+      ],
+      "blurb": "Per-character tick for typewriter text."
+    },
+    {
+      "file": "audio/count-tick.wav",
+      "tags": [
+        "ui",
+        "counter",
+        "data"
+      ],
+      "blurb": "Steps a number. Good on data counters."
+    },
+    {
+      "file": "audio/reveal-soft.wav",
+      "tags": [
+        "reveal",
+        "soft",
+        "in"
+      ],
+      "blurb": "Gentle arrival for a fade-in."
+    },
+    {
+      "file": "audio/pop-in.wav",
+      "tags": [
+        "pop",
+        "in",
+        "playful"
+      ],
+      "blurb": "A single element arriving."
+    }
+  ]
+}

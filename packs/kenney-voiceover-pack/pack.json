@@ -1,0 +1,541 @@
+{
+  "id": "kenney-voiceover-pack",
+  "title": "Voiceover Pack",
+  "blurb": "51 sounds — mostly Human and Game.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "Kenney · kenney.nl · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "kenney",
+    "name": "Kenney"
+  },
+  "tags": [
+    "cc0",
+    "human",
+    "voice"
+  ],
+  "files": [
+    {
+      "file": "audio/1.m4a",
+      "name": "Female 1",
+      "tags": [
+        "human",
+        "female",
+        "voice"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/10.m4a",
+      "name": "Female 10",
+      "tags": [
+        "human",
+        "female",
+        "voice"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/2.m4a",
+      "name": "Female 2",
+      "tags": [
+        "human",
+        "female",
+        "voice"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/3.m4a",
+      "name": "Female 3",
+      "tags": [
+        "human",
+        "female",
+        "voice"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/4.m4a",
+      "name": "Female 4",
+      "tags": [
+        "human",
+        "female",
+        "voice"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/5.m4a",
+      "name": "Female 5",
+      "tags": [
+        "human",
+        "female",
+        "voice"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/6.m4a",
+      "name": "Female 6",
+      "tags": [
+        "human",
+        "female",
+        "voice"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/7.m4a",
+      "name": "Female 7",
+      "tags": [
+        "human",
+        "female",
+        "voice"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/8.m4a",
+      "name": "Female 8",
+      "tags": [
+        "human",
+        "female",
+        "voice"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/9.m4a",
+      "name": "Female 9",
+      "tags": [
+        "human",
+        "female",
+        "voice"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/congratulations.m4a",
+      "name": "Female Congratulations",
+      "tags": [
+        "human",
+        "female",
+        "voice"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/correct.m4a",
+      "name": "Female Correct",
+      "tags": [
+        "human",
+        "female",
+        "voice"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/final-round.m4a",
+      "name": "Female Round",
+      "tags": [
+        "human",
+        "female",
+        "voice"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/game-over.m4a",
+      "name": "Female Game Over",
+      "tags": [
+        "human",
+        "female",
+        "voice"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/go.m4a",
+      "name": "Female Go",
+      "tags": [
+        "human",
+        "female",
+        "voice"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hold.m4a",
+      "name": "Male Hold",
+      "tags": [
+        "human",
+        "male",
+        "voice"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hurry-up.m4a",
+      "name": "Female Hurry Up",
+      "tags": [
+        "human",
+        "female",
+        "voice"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/its-a-tie.m4a",
+      "name": "Female Its Tie",
+      "tags": [
+        "human",
+        "female",
+        "voice"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/level.m4a",
+      "name": "Female Level",
+      "tags": [
+        "game",
+        "female",
+        "level",
+        "human",
+        "voice"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/level-up.m4a",
+      "name": "Female Level Up",
+      "tags": [
+        "game",
+        "female",
+        "level",
+        "human",
+        "voice"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/mission-completed.m4a",
+      "name": "Female Mission Completed",
+      "tags": [
+        "human",
+        "female",
+        "voice"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/mission-failed.m4a",
+      "name": "Female Mission Failed",
+      "tags": [
+        "human",
+        "female",
+        "voice"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/new-highscore.m4a",
+      "name": "Female Highscore",
+      "tags": [
+        "human",
+        "female",
+        "voice"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/objective-achieved.m4a",
+      "name": "Female Objective Achieved",
+      "tags": [
+        "human",
+        "female",
+        "voice"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/power-up.m4a",
+      "name": "Female Power Up",
+      "tags": [
+        "game",
+        "female",
+        "power",
+        "human",
+        "voice"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/preview.m4a",
+      "name": "Preview",
+      "tags": [
+        "human",
+        "voice"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/preview-female.m4a",
+      "name": "Preview Female",
+      "tags": [
+        "human",
+        "female",
+        "voice"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/preview-male.m4a",
+      "name": "Preview Male",
+      "tags": [
+        "human",
+        "male",
+        "voice"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/ready.m4a",
+      "name": "Female Ready",
+      "tags": [
+        "human",
+        "female",
+        "voice"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/round.m4a",
+      "name": "Female Round",
+      "tags": [
+        "human",
+        "female",
+        "voice"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/set.m4a",
+      "name": "Female Set",
+      "tags": [
+        "human",
+        "female",
+        "voice"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/time-over.m4a",
+      "name": "Female Time Over",
+      "tags": [
+        "human",
+        "female",
+        "voice"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/war-call-for-backup.m4a",
+      "name": "Female War Call Backup",
+      "tags": [
+        "human",
+        "female",
+        "voice"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/war-cover-me.m4a",
+      "name": "Female War Cover Me",
+      "tags": [
+        "human",
+        "female",
+        "voice"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/war-fire-in-the-hole.m4a",
+      "name": "Female War Fire In Hole",
+      "tags": [
+        "human",
+        "female",
+        "fire",
+        "voice"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/war-get-down.m4a",
+      "name": "Female War Get Down",
+      "tags": [
+        "human",
+        "female",
+        "voice"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/war-go-go-go.m4a",
+      "name": "Female War Go Go Go",
+      "tags": [
+        "human",
+        "female",
+        "voice"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/war-hold.m4a",
+      "name": "Female War Hold",
+      "tags": [
+        "human",
+        "female",
+        "voice"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/war-look-out.m4a",
+      "name": "Female War Look Out",
+      "tags": [
+        "human",
+        "female",
+        "voice"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/war-medic.m4a",
+      "name": "Female War Medic",
+      "tags": [
+        "human",
+        "female",
+        "voice"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/war-reloading.m4a",
+      "name": "Female War Reloading",
+      "tags": [
+        "human",
+        "female",
+        "voice"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/war-rpg.m4a",
+      "name": "Female War Rpg",
+      "tags": [
+        "human",
+        "female",
+        "voice"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/war-sniper.m4a",
+      "name": "Female War Sniper",
+      "tags": [
+        "human",
+        "female",
+        "voice"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/war-suppressing-fire.m4a",
+      "name": "Male War Suppressing Fire",
+      "tags": [
+        "human",
+        "male",
+        "fire",
+        "voice"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/war-supressing-fire.m4a",
+      "name": "Female War Supressing Fire",
+      "tags": [
+        "human",
+        "female",
+        "fire",
+        "voice"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/war-target-destroyed.m4a",
+      "name": "Female War Target Destroyed",
+      "tags": [
+        "human",
+        "female",
+        "voice"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/war-target-engaged.m4a",
+      "name": "Female War Target Engaged",
+      "tags": [
+        "human",
+        "female",
+        "voice"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/war-watch-my-back.m4a",
+      "name": "Female War Watch My Back",
+      "tags": [
+        "human",
+        "female",
+        "voice"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wrong.m4a",
+      "name": "Female Wrong",
+      "tags": [
+        "human",
+        "female",
+        "voice"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/you-lose.m4a",
+      "name": "Female You Lose",
+      "tags": [
+        "game",
+        "female",
+        "lose",
+        "human",
+        "voice"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/you-win.m4a",
+      "name": "Female You Win",
+      "tags": [
+        "game",
+        "female",
+        "win",
+        "human",
+        "voice"
+      ],
+      "blurb": null
+    }
+  ]
+}

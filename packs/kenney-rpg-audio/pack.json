@@ -1,0 +1,489 @@
+{
+  "id": "kenney-rpg-audio",
+  "title": "RPG Audio",
+  "blurb": "52 sounds — mostly Foley and Interface.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "Kenney · kenney.nl · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "kenney",
+    "name": "Kenney"
+  },
+  "tags": [
+    "cc0",
+    "game"
+  ],
+  "files": [
+    {
+      "file": "audio/belt-handle1.m4a",
+      "name": "Belt Handle1",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/belt-handle2.m4a",
+      "name": "Belt Handle2",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/book-close.m4a",
+      "name": "Book Close",
+      "tags": [
+        "foley",
+        "book",
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/book-flip1.m4a",
+      "name": "Book Flip1",
+      "tags": [
+        "foley",
+        "book",
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/book-flip2.m4a",
+      "name": "Book Flip2",
+      "tags": [
+        "foley",
+        "book",
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/book-flip3.m4a",
+      "name": "Book Flip3",
+      "tags": [
+        "foley",
+        "book",
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/book-open.m4a",
+      "name": "Book Open",
+      "tags": [
+        "foley",
+        "book",
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/book-place1.m4a",
+      "name": "Book Place1",
+      "tags": [
+        "foley",
+        "book",
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/book-place2.m4a",
+      "name": "Book Place2",
+      "tags": [
+        "foley",
+        "book",
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/book-place3.m4a",
+      "name": "Book Place3",
+      "tags": [
+        "foley",
+        "book",
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/chop.m4a",
+      "name": "Chop",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/cloth-belt.m4a",
+      "name": "Cloth Belt",
+      "tags": [
+        "foley",
+        "cloth",
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/cloth-belt2.m4a",
+      "name": "Cloth Belt2",
+      "tags": [
+        "foley",
+        "cloth",
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/cloth1.m4a",
+      "name": "Cloth1",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/cloth2.m4a",
+      "name": "Cloth2",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/cloth3.m4a",
+      "name": "Cloth3",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/cloth4.m4a",
+      "name": "Cloth4",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/creak1.m4a",
+      "name": "Creak1",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/creak2.m4a",
+      "name": "Creak2",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/creak3.m4a",
+      "name": "Creak3",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/door-close-1.m4a",
+      "name": "Door Close 1",
+      "tags": [
+        "foley",
+        "door",
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/door-close-2.m4a",
+      "name": "Door Close 2",
+      "tags": [
+        "foley",
+        "door",
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/door-close-3.m4a",
+      "name": "Door Close 3",
+      "tags": [
+        "foley",
+        "door",
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/door-close-4.m4a",
+      "name": "Door Close 4",
+      "tags": [
+        "foley",
+        "door",
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/door-open-1.m4a",
+      "name": "Door Open 1",
+      "tags": [
+        "foley",
+        "door",
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/door-open-2.m4a",
+      "name": "Door Open 2",
+      "tags": [
+        "foley",
+        "door",
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/draw-knife1.m4a",
+      "name": "Draw Knife1",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/draw-knife2.m4a",
+      "name": "Draw Knife2",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/draw-knife3.m4a",
+      "name": "Draw Knife3",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/drop-leather.m4a",
+      "name": "Drop Leather",
+      "tags": [
+        "foley",
+        "drop",
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/footstep00.m4a",
+      "name": "Footstep00",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/footstep01.m4a",
+      "name": "Footstep01",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/footstep02.m4a",
+      "name": "Footstep02",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/footstep03.m4a",
+      "name": "Footstep03",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/footstep04.m4a",
+      "name": "Footstep04",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/footstep05.m4a",
+      "name": "Footstep05",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/footstep06.m4a",
+      "name": "Footstep06",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/footstep07.m4a",
+      "name": "Footstep07",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/footstep08.m4a",
+      "name": "Footstep08",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/footstep09.m4a",
+      "name": "Footstep09",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/handle-coins.m4a",
+      "name": "Handle Coins",
+      "tags": [
+        "foley",
+        "handle",
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/handle-coins2.m4a",
+      "name": "Handle Coins2",
+      "tags": [
+        "foley",
+        "handle",
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/handle-small-leather.m4a",
+      "name": "Handle Small Leather",
+      "tags": [
+        "foley",
+        "handle",
+        "small",
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/handle-small-leather2.m4a",
+      "name": "Handle Small Leather2",
+      "tags": [
+        "foley",
+        "handle",
+        "small",
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/knife-slice.m4a",
+      "name": "Knife Slice",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/knife-slice2.m4a",
+      "name": "Knife Slice2",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/metal-click.m4a",
+      "name": "Metal Click",
+      "tags": [
+        "interface",
+        "metal",
+        "click",
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/metal-latch.m4a",
+      "name": "Metal Latch",
+      "tags": [
+        "foley",
+        "metal",
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/metal-pot1.m4a",
+      "name": "Metal Pot1",
+      "tags": [
+        "foley",
+        "metal",
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/metal-pot2.m4a",
+      "name": "Metal Pot2",
+      "tags": [
+        "foley",
+        "metal",
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/metal-pot3.m4a",
+      "name": "Metal Pot3",
+      "tags": [
+        "foley",
+        "metal",
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/preview.m4a",
+      "name": "Preview",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    }
+  ]
+}

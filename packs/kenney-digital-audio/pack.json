@@ -1,0 +1,565 @@
+{
+  "id": "kenney-digital-audio",
+  "title": "Digital Audio",
+  "blurb": "63 sounds — mostly Digital and Game.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "Kenney · kenney.nl · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "kenney",
+    "name": "Kenney"
+  },
+  "tags": [
+    "cc0",
+    "digital"
+  ],
+  "files": [
+    {
+      "file": "audio/high-down.m4a",
+      "name": "High Down",
+      "tags": [
+        "digital",
+        "high"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/high-up.m4a",
+      "name": "High Up",
+      "tags": [
+        "digital",
+        "high"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/laser1.m4a",
+      "name": "Laser1",
+      "tags": [
+        "digital"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/laser2.m4a",
+      "name": "Laser2",
+      "tags": [
+        "digital"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/laser3.m4a",
+      "name": "Laser3",
+      "tags": [
+        "digital"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/laser4.m4a",
+      "name": "Laser4",
+      "tags": [
+        "digital"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/laser5.m4a",
+      "name": "Laser5",
+      "tags": [
+        "digital"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/laser6.m4a",
+      "name": "Laser6",
+      "tags": [
+        "digital"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/laser7.m4a",
+      "name": "Laser7",
+      "tags": [
+        "digital"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/laser8.m4a",
+      "name": "Laser8",
+      "tags": [
+        "digital"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/laser9.m4a",
+      "name": "Laser9",
+      "tags": [
+        "digital"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/low-down.m4a",
+      "name": "Low Down",
+      "tags": [
+        "digital",
+        "low"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/low-random.m4a",
+      "name": "Low Random",
+      "tags": [
+        "digital",
+        "low"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/low-three-tone.m4a",
+      "name": "Low Three Tone",
+      "tags": [
+        "digital",
+        "low"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/pep-sound1.m4a",
+      "name": "Pep Sound1",
+      "tags": [
+        "digital"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/pep-sound2.m4a",
+      "name": "Pep Sound2",
+      "tags": [
+        "digital"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/pep-sound3.m4a",
+      "name": "Pep Sound3",
+      "tags": [
+        "digital"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/pep-sound4.m4a",
+      "name": "Pep Sound4",
+      "tags": [
+        "digital"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/pep-sound5.m4a",
+      "name": "Pep Sound5",
+      "tags": [
+        "digital"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/phase-jump1.m4a",
+      "name": "Phase Jump1",
+      "tags": [
+        "digital"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/phase-jump2.m4a",
+      "name": "Phase Jump2",
+      "tags": [
+        "digital"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/phase-jump3.m4a",
+      "name": "Phase Jump3",
+      "tags": [
+        "digital"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/phase-jump4.m4a",
+      "name": "Phase Jump4",
+      "tags": [
+        "digital"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/phase-jump5.m4a",
+      "name": "Phase Jump5",
+      "tags": [
+        "digital"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/phaser-down1.m4a",
+      "name": "Phaser Down1",
+      "tags": [
+        "digital",
+        "phaser"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/phaser-down2.m4a",
+      "name": "Phaser Down2",
+      "tags": [
+        "digital",
+        "phaser"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/phaser-down3.m4a",
+      "name": "Phaser Down3",
+      "tags": [
+        "digital",
+        "phaser"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/phaser-up1.m4a",
+      "name": "Phaser Up1",
+      "tags": [
+        "digital",
+        "phaser"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/phaser-up2.m4a",
+      "name": "Phaser Up2",
+      "tags": [
+        "digital",
+        "phaser"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/phaser-up3.m4a",
+      "name": "Phaser Up3",
+      "tags": [
+        "digital",
+        "phaser"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/phaser-up4.m4a",
+      "name": "Phaser Up4",
+      "tags": [
+        "digital",
+        "phaser"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/phaser-up5.m4a",
+      "name": "Phaser Up5",
+      "tags": [
+        "digital",
+        "phaser"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/phaser-up6.m4a",
+      "name": "Phaser Up6",
+      "tags": [
+        "digital",
+        "phaser"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/phaser-up7.m4a",
+      "name": "Phaser Up7",
+      "tags": [
+        "digital",
+        "phaser"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/power-up1.m4a",
+      "name": "Power Up1",
+      "tags": [
+        "game",
+        "power",
+        "digital"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/power-up10.m4a",
+      "name": "Power Up10",
+      "tags": [
+        "game",
+        "power",
+        "digital"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/power-up11.m4a",
+      "name": "Power Up11",
+      "tags": [
+        "game",
+        "power",
+        "digital"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/power-up12.m4a",
+      "name": "Power Up12",
+      "tags": [
+        "game",
+        "power",
+        "digital"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/power-up2.m4a",
+      "name": "Power Up2",
+      "tags": [
+        "game",
+        "power",
+        "digital"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/power-up3.m4a",
+      "name": "Power Up3",
+      "tags": [
+        "game",
+        "power",
+        "digital"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/power-up4.m4a",
+      "name": "Power Up4",
+      "tags": [
+        "game",
+        "power",
+        "digital"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/power-up5.m4a",
+      "name": "Power Up5",
+      "tags": [
+        "game",
+        "power",
+        "digital"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/power-up6.m4a",
+      "name": "Power Up6",
+      "tags": [
+        "game",
+        "power",
+        "digital"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/power-up7.m4a",
+      "name": "Power Up7",
+      "tags": [
+        "game",
+        "power",
+        "digital"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/power-up8.m4a",
+      "name": "Power Up8",
+      "tags": [
+        "game",
+        "power",
+        "digital"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/power-up9.m4a",
+      "name": "Power Up9",
+      "tags": [
+        "game",
+        "power",
+        "digital"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/preview.m4a",
+      "name": "Preview",
+      "tags": [
+        "digital"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/space-trash1.m4a",
+      "name": "Space Trash1",
+      "tags": [
+        "digital"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/space-trash2.m4a",
+      "name": "Space Trash2",
+      "tags": [
+        "digital"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/space-trash3.m4a",
+      "name": "Space Trash3",
+      "tags": [
+        "digital"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/space-trash4.m4a",
+      "name": "Space Trash4",
+      "tags": [
+        "digital"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/space-trash5.m4a",
+      "name": "Space Trash5",
+      "tags": [
+        "digital"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/three-tone1.m4a",
+      "name": "Three Tone1",
+      "tags": [
+        "digital"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/three-tone2.m4a",
+      "name": "Three Tone2",
+      "tags": [
+        "digital"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/tone1.m4a",
+      "name": "Tone1",
+      "tags": [
+        "digital"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/two-tone1.m4a",
+      "name": "Two Tone1",
+      "tags": [
+        "digital"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/two-tone2.m4a",
+      "name": "Two Tone2",
+      "tags": [
+        "digital"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/zap-three-tone-down.m4a",
+      "name": "Zap Three Tone Down",
+      "tags": [
+        "digital",
+        "zap"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/zap-three-tone-up.m4a",
+      "name": "Zap Three Tone Up",
+      "tags": [
+        "digital",
+        "zap"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/zap-two-tone.m4a",
+      "name": "Zap Two Tone",
+      "tags": [
+        "digital",
+        "zap"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/zap-two-tone2.m4a",
+      "name": "Zap Two Tone2",
+      "tags": [
+        "digital",
+        "zap"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/zap1.m4a",
+      "name": "Zap1",
+      "tags": [
+        "digital"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/zap2.m4a",
+      "name": "Zap2",
+      "tags": [
+        "digital"
+      ],
+      "blurb": null
+    }
+  ]
+}

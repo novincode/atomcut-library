@@ -1,0 +1,972 @@
+{
+  "id": "kenney-interface-sounds",
+  "title": "Interface Sounds",
+  "blurb": "100 sounds — mostly Interface and Digital.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "Kenney · kenney.nl · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "kenney",
+    "name": "Kenney"
+  },
+  "tags": [
+    "cc0",
+    "ui"
+  ],
+  "files": [
+    {
+      "file": "audio/back-001.m4a",
+      "name": "Back 1",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/back-002.m4a",
+      "name": "Back 2",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/back-003.m4a",
+      "name": "Back 3",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/back-004.m4a",
+      "name": "Back 4",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bong-001.m4a",
+      "name": "Bong",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click-001.m4a",
+      "name": "Click 1",
+      "tags": [
+        "interface",
+        "click",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click-002.m4a",
+      "name": "Click 2",
+      "tags": [
+        "interface",
+        "click",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click-003.m4a",
+      "name": "Click 3",
+      "tags": [
+        "interface",
+        "click",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click-004.m4a",
+      "name": "Click 4",
+      "tags": [
+        "interface",
+        "click",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click-005.m4a",
+      "name": "Click 5",
+      "tags": [
+        "interface",
+        "click",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/close-001.m4a",
+      "name": "Close 1",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/close-002.m4a",
+      "name": "Close 2",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/close-003.m4a",
+      "name": "Close 3",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/close-004.m4a",
+      "name": "Close 4",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/confirmation-001.m4a",
+      "name": "Confirmation 1",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/confirmation-002.m4a",
+      "name": "Confirmation 2",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/confirmation-003.m4a",
+      "name": "Confirmation 3",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/confirmation-004.m4a",
+      "name": "Confirmation 4",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/drop-001.m4a",
+      "name": "Drop 1",
+      "tags": [
+        "foley",
+        "drop",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/drop-002.m4a",
+      "name": "Drop 2",
+      "tags": [
+        "foley",
+        "drop",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/drop-003.m4a",
+      "name": "Drop 3",
+      "tags": [
+        "foley",
+        "drop",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/drop-004.m4a",
+      "name": "Drop 4",
+      "tags": [
+        "foley",
+        "drop",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/error-001.m4a",
+      "name": "Error 1",
+      "tags": [
+        "digital",
+        "error",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/error-002.m4a",
+      "name": "Error 2",
+      "tags": [
+        "digital",
+        "error",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/error-003.m4a",
+      "name": "Error 3",
+      "tags": [
+        "digital",
+        "error",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/error-004.m4a",
+      "name": "Error 4",
+      "tags": [
+        "digital",
+        "error",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/error-005.m4a",
+      "name": "Error 5",
+      "tags": [
+        "digital",
+        "error",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/error-006.m4a",
+      "name": "Error 6",
+      "tags": [
+        "digital",
+        "error",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/error-007.m4a",
+      "name": "Error 7",
+      "tags": [
+        "digital",
+        "error",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/error-008.m4a",
+      "name": "Error 8",
+      "tags": [
+        "digital",
+        "error",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/glass-001.m4a",
+      "name": "Glass 1",
+      "tags": [
+        "impact",
+        "glass",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/glass-002.m4a",
+      "name": "Glass 2",
+      "tags": [
+        "impact",
+        "glass",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/glass-003.m4a",
+      "name": "Glass 3",
+      "tags": [
+        "impact",
+        "glass",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/glass-004.m4a",
+      "name": "Glass 4",
+      "tags": [
+        "impact",
+        "glass",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/glass-005.m4a",
+      "name": "Glass 5",
+      "tags": [
+        "impact",
+        "glass",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/glass-006.m4a",
+      "name": "Glass 6",
+      "tags": [
+        "impact",
+        "glass",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/glitch-001.m4a",
+      "name": "Glitch 1",
+      "tags": [
+        "digital",
+        "glitch",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/glitch-002.m4a",
+      "name": "Glitch 2",
+      "tags": [
+        "digital",
+        "glitch",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/glitch-003.m4a",
+      "name": "Glitch 3",
+      "tags": [
+        "digital",
+        "glitch",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/glitch-004.m4a",
+      "name": "Glitch 4",
+      "tags": [
+        "digital",
+        "glitch",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/maximize-001.m4a",
+      "name": "Maximize 1",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/maximize-002.m4a",
+      "name": "Maximize 2",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/maximize-003.m4a",
+      "name": "Maximize 3",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/maximize-004.m4a",
+      "name": "Maximize 4",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/maximize-005.m4a",
+      "name": "Maximize 5",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/maximize-006.m4a",
+      "name": "Maximize 6",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/maximize-007.m4a",
+      "name": "Maximize 7",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/maximize-008.m4a",
+      "name": "Maximize 8",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/maximize-009.m4a",
+      "name": "Maximize 9",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/minimize-001.m4a",
+      "name": "Minimize 1",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/minimize-002.m4a",
+      "name": "Minimize 2",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/minimize-003.m4a",
+      "name": "Minimize 3",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/minimize-004.m4a",
+      "name": "Minimize 4",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/minimize-005.m4a",
+      "name": "Minimize 5",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/minimize-006.m4a",
+      "name": "Minimize 6",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/minimize-007.m4a",
+      "name": "Minimize 7",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/minimize-008.m4a",
+      "name": "Minimize 8",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/minimize-009.m4a",
+      "name": "Minimize 9",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/open-001.m4a",
+      "name": "Open 1",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/open-002.m4a",
+      "name": "Open 2",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/open-003.m4a",
+      "name": "Open 3",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/open-004.m4a",
+      "name": "Open 4",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/pluck-001.m4a",
+      "name": "Pluck 1",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/pluck-002.m4a",
+      "name": "Pluck 2",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/question-001.m4a",
+      "name": "Question 1",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/question-002.m4a",
+      "name": "Question 2",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/question-003.m4a",
+      "name": "Question 3",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/question-004.m4a",
+      "name": "Question 4",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/scratch-001.m4a",
+      "name": "Scratch 1",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/scratch-002.m4a",
+      "name": "Scratch 2",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/scratch-003.m4a",
+      "name": "Scratch 3",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/scratch-004.m4a",
+      "name": "Scratch 4",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/scratch-005.m4a",
+      "name": "Scratch 5",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/scroll-001.m4a",
+      "name": "Scroll 1",
+      "tags": [
+        "interface",
+        "scroll",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/scroll-002.m4a",
+      "name": "Scroll 2",
+      "tags": [
+        "interface",
+        "scroll",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/scroll-003.m4a",
+      "name": "Scroll 3",
+      "tags": [
+        "interface",
+        "scroll",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/scroll-004.m4a",
+      "name": "Scroll 4",
+      "tags": [
+        "interface",
+        "scroll",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/scroll-005.m4a",
+      "name": "Scroll 5",
+      "tags": [
+        "interface",
+        "scroll",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/select-001.m4a",
+      "name": "Select 1",
+      "tags": [
+        "interface",
+        "select",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/select-002.m4a",
+      "name": "Select 2",
+      "tags": [
+        "interface",
+        "select",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/select-003.m4a",
+      "name": "Select 3",
+      "tags": [
+        "interface",
+        "select",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/select-004.m4a",
+      "name": "Select 4",
+      "tags": [
+        "interface",
+        "select",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/select-005.m4a",
+      "name": "Select 5",
+      "tags": [
+        "interface",
+        "select",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/select-006.m4a",
+      "name": "Select 6",
+      "tags": [
+        "interface",
+        "select",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/select-007.m4a",
+      "name": "Select 7",
+      "tags": [
+        "interface",
+        "select",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/select-008.m4a",
+      "name": "Select 8",
+      "tags": [
+        "interface",
+        "select",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/switch-001.m4a",
+      "name": "Switch 1",
+      "tags": [
+        "interface",
+        "switch",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/switch-002.m4a",
+      "name": "Switch 2",
+      "tags": [
+        "interface",
+        "switch",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/switch-003.m4a",
+      "name": "Switch 3",
+      "tags": [
+        "interface",
+        "switch",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/switch-004.m4a",
+      "name": "Switch 4",
+      "tags": [
+        "interface",
+        "switch",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/switch-005.m4a",
+      "name": "Switch 5",
+      "tags": [
+        "interface",
+        "switch",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/switch-006.m4a",
+      "name": "Switch 6",
+      "tags": [
+        "interface",
+        "switch",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/switch-007.m4a",
+      "name": "Switch 7",
+      "tags": [
+        "interface",
+        "switch",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/tick-001.m4a",
+      "name": "Tick 1",
+      "tags": [
+        "interface",
+        "tick",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/tick-002.m4a",
+      "name": "Tick 2",
+      "tags": [
+        "interface",
+        "tick",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/tick-004.m4a",
+      "name": "Tick 4",
+      "tags": [
+        "interface",
+        "tick",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/toggle-001.m4a",
+      "name": "Toggle 1",
+      "tags": [
+        "interface",
+        "toggle",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/toggle-002.m4a",
+      "name": "Toggle 2",
+      "tags": [
+        "interface",
+        "toggle",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/toggle-003.m4a",
+      "name": "Toggle 3",
+      "tags": [
+        "interface",
+        "toggle",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/toggle-004.m4a",
+      "name": "Toggle 4",
+      "tags": [
+        "interface",
+        "toggle",
+        "ui"
+      ],
+      "blurb": null
+    }
+  ]
+}

@@ -1,0 +1,486 @@
+{
+  "id": "kenney-casino-audio",
+  "title": "Casino Audio",
+  "blurb": "55 sounds — mostly Foley and Machines.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "Kenney · kenney.nl · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "kenney",
+    "name": "Kenney"
+  },
+  "tags": [
+    "cc0",
+    "game"
+  ],
+  "files": [
+    {
+      "file": "audio/card-fan-1.m4a",
+      "name": "Card Fan 1",
+      "tags": [
+        "machine",
+        "fan",
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/card-fan-2.m4a",
+      "name": "Card Fan 2",
+      "tags": [
+        "machine",
+        "fan",
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/card-place-1.m4a",
+      "name": "Card Place 1",
+      "tags": [
+        "foley",
+        "place",
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/card-place-2.m4a",
+      "name": "Card Place 2",
+      "tags": [
+        "foley",
+        "place",
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/card-place-3.m4a",
+      "name": "Card Place 3",
+      "tags": [
+        "foley",
+        "place",
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/card-place-4.m4a",
+      "name": "Card Place 4",
+      "tags": [
+        "foley",
+        "place",
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/card-shove-1.m4a",
+      "name": "Card Shove 1",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/card-shove-2.m4a",
+      "name": "Card Shove 2",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/card-shove-3.m4a",
+      "name": "Card Shove 3",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/card-shove-4.m4a",
+      "name": "Card Shove 4",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/card-shuffle.m4a",
+      "name": "Card Shuffle",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/card-slide-1.m4a",
+      "name": "Card Slide 1",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/card-slide-2.m4a",
+      "name": "Card Slide 2",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/card-slide-3.m4a",
+      "name": "Card Slide 3",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/card-slide-4.m4a",
+      "name": "Card Slide 4",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/card-slide-5.m4a",
+      "name": "Card Slide 5",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/card-slide-6.m4a",
+      "name": "Card Slide 6",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/card-slide-7.m4a",
+      "name": "Card Slide 7",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/card-slide-8.m4a",
+      "name": "Card Slide 8",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/cards-pack-open-1.m4a",
+      "name": "Cards Open 1",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/cards-pack-open-2.m4a",
+      "name": "Cards Open 2",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/cards-pack-take-out-1.m4a",
+      "name": "Cards Take Out 1",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/cards-pack-take-out-2.m4a",
+      "name": "Cards Take Out 2",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/chip-lay-1.m4a",
+      "name": "Chip Lay 1",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/chip-lay-2.m4a",
+      "name": "Chip Lay 2",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/chip-lay-3.m4a",
+      "name": "Chip Lay 3",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/chips-collide-1.m4a",
+      "name": "Chips Collide 1",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/chips-collide-2.m4a",
+      "name": "Chips Collide 2",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/chips-collide-3.m4a",
+      "name": "Chips Collide 3",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/chips-collide-4.m4a",
+      "name": "Chips Collide 4",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/chips-handle-1.m4a",
+      "name": "Chips Handle 1",
+      "tags": [
+        "foley",
+        "handle",
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/chips-handle-2.m4a",
+      "name": "Chips Handle 2",
+      "tags": [
+        "foley",
+        "handle",
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/chips-handle-3.m4a",
+      "name": "Chips Handle 3",
+      "tags": [
+        "foley",
+        "handle",
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/chips-handle-4.m4a",
+      "name": "Chips Handle 4",
+      "tags": [
+        "foley",
+        "handle",
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/chips-handle-5.m4a",
+      "name": "Chips Handle 5",
+      "tags": [
+        "foley",
+        "handle",
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/chips-handle-6.m4a",
+      "name": "Chips Handle 6",
+      "tags": [
+        "foley",
+        "handle",
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/chips-stack-1.m4a",
+      "name": "Chips Stack 1",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/chips-stack-2.m4a",
+      "name": "Chips Stack 2",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/chips-stack-3.m4a",
+      "name": "Chips Stack 3",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/chips-stack-4.m4a",
+      "name": "Chips Stack 4",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/chips-stack-5.m4a",
+      "name": "Chips Stack 5",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/chips-stack-6.m4a",
+      "name": "Chips Stack 6",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/dice-grab-1.m4a",
+      "name": "Dice Grab 1",
+      "tags": [
+        "foley",
+        "grab",
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/dice-grab-2.m4a",
+      "name": "Dice Grab 2",
+      "tags": [
+        "foley",
+        "grab",
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/dice-shake-1.m4a",
+      "name": "Dice Shake 1",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/dice-shake-2.m4a",
+      "name": "Dice Shake 2",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/dice-shake-3.m4a",
+      "name": "Dice Shake 3",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/dice-throw-1.m4a",
+      "name": "Dice Throw 1",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/dice-throw-2.m4a",
+      "name": "Dice Throw 2",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/dice-throw-3.m4a",
+      "name": "Dice Throw 3",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/die-throw-1.m4a",
+      "name": "Die Throw 1",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/die-throw-2.m4a",
+      "name": "Die Throw 2",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/die-throw-3.m4a",
+      "name": "Die Throw 3",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/die-throw-4.m4a",
+      "name": "Die Throw 4",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/preview.m4a",
+      "name": "Preview",
+      "tags": [
+        "game"
+      ],
+      "blurb": null
+    }
+  ]
+}

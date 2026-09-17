@@ -1,0 +1,740 @@
+{
+  "id": "kenney-music-jingles",
+  "title": "Music Jingles",
+  "blurb": "86 sounds — mostly Music and Impacts.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "Kenney · kenney.nl · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "kenney",
+    "name": "Kenney"
+  },
+  "tags": [
+    "cc0",
+    "music"
+  ],
+  "files": [
+    {
+      "file": "audio/jingles-hit00.m4a",
+      "name": "Hit Jingles Jingles Hit00",
+      "tags": [
+        "impact",
+        "hit",
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-hit01.m4a",
+      "name": "Hit Jingles Jingles Hit01",
+      "tags": [
+        "impact",
+        "hit",
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-hit02.m4a",
+      "name": "Hit Jingles Jingles Hit02",
+      "tags": [
+        "impact",
+        "hit",
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-hit03.m4a",
+      "name": "Hit Jingles Jingles Hit03",
+      "tags": [
+        "impact",
+        "hit",
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-hit04.m4a",
+      "name": "Hit Jingles Jingles Hit04",
+      "tags": [
+        "impact",
+        "hit",
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-hit05.m4a",
+      "name": "Hit Jingles Jingles Hit05",
+      "tags": [
+        "impact",
+        "hit",
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-hit06.m4a",
+      "name": "Hit Jingles Jingles Hit06",
+      "tags": [
+        "impact",
+        "hit",
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-hit07.m4a",
+      "name": "Hit Jingles Jingles Hit07",
+      "tags": [
+        "impact",
+        "hit",
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-hit08.m4a",
+      "name": "Hit Jingles Jingles Hit08",
+      "tags": [
+        "impact",
+        "hit",
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-hit09.m4a",
+      "name": "Hit Jingles Jingles Hit09",
+      "tags": [
+        "impact",
+        "hit",
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-hit10.m4a",
+      "name": "Hit Jingles Jingles Hit10",
+      "tags": [
+        "impact",
+        "hit",
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-hit11.m4a",
+      "name": "Hit Jingles Jingles Hit11",
+      "tags": [
+        "impact",
+        "hit",
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-hit12.m4a",
+      "name": "Hit Jingles Jingles Hit12",
+      "tags": [
+        "impact",
+        "hit",
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-hit13.m4a",
+      "name": "Hit Jingles Jingles Hit13",
+      "tags": [
+        "impact",
+        "hit",
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-hit14.m4a",
+      "name": "Hit Jingles Jingles Hit14",
+      "tags": [
+        "impact",
+        "hit",
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-hit15.m4a",
+      "name": "Hit Jingles Jingles Hit15",
+      "tags": [
+        "impact",
+        "hit",
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-hit16.m4a",
+      "name": "Hit Jingles Jingles Hit16",
+      "tags": [
+        "impact",
+        "hit",
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-nes00.m4a",
+      "name": "Bit Jingles Jingles Nes00",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-nes01.m4a",
+      "name": "Bit Jingles Jingles Nes01",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-nes02.m4a",
+      "name": "Bit Jingles Jingles Nes02",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-nes03.m4a",
+      "name": "Bit Jingles Jingles Nes03",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-nes04.m4a",
+      "name": "Bit Jingles Jingles Nes04",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-nes05.m4a",
+      "name": "Bit Jingles Jingles Nes05",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-nes06.m4a",
+      "name": "Bit Jingles Jingles Nes06",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-nes07.m4a",
+      "name": "Bit Jingles Jingles Nes07",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-nes08.m4a",
+      "name": "Bit Jingles Jingles Nes08",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-nes09.m4a",
+      "name": "Bit Jingles Jingles Nes09",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-nes10.m4a",
+      "name": "Bit Jingles Jingles Nes10",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-nes11.m4a",
+      "name": "Bit Jingles Jingles Nes11",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-nes12.m4a",
+      "name": "Bit Jingles Jingles Nes12",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-nes13.m4a",
+      "name": "Bit Jingles Jingles Nes13",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-nes14.m4a",
+      "name": "Bit Jingles Jingles Nes14",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-nes15.m4a",
+      "name": "Bit Jingles Jingles Nes15",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-nes16.m4a",
+      "name": "Bit Jingles Jingles Nes16",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-pizzi00.m4a",
+      "name": "Pizzicato Jingles Jingles Pizzi00",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-pizzi01.m4a",
+      "name": "Pizzicato Jingles Jingles Pizzi01",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-pizzi02.m4a",
+      "name": "Pizzicato Jingles Jingles Pizzi02",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-pizzi03.m4a",
+      "name": "Pizzicato Jingles Jingles Pizzi03",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-pizzi04.m4a",
+      "name": "Pizzicato Jingles Jingles Pizzi04",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-pizzi05.m4a",
+      "name": "Pizzicato Jingles Jingles Pizzi05",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-pizzi06.m4a",
+      "name": "Pizzicato Jingles Jingles Pizzi06",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-pizzi07.m4a",
+      "name": "Pizzicato Jingles Jingles Pizzi07",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-pizzi08.m4a",
+      "name": "Pizzicato Jingles Jingles Pizzi08",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-pizzi09.m4a",
+      "name": "Pizzicato Jingles Jingles Pizzi09",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-pizzi10.m4a",
+      "name": "Pizzicato Jingles Jingles Pizzi10",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-pizzi11.m4a",
+      "name": "Pizzicato Jingles Jingles Pizzi11",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-pizzi12.m4a",
+      "name": "Pizzicato Jingles Jingles Pizzi12",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-pizzi13.m4a",
+      "name": "Pizzicato Jingles Jingles Pizzi13",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-pizzi14.m4a",
+      "name": "Pizzicato Jingles Jingles Pizzi14",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-pizzi15.m4a",
+      "name": "Pizzicato Jingles Jingles Pizzi15",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-pizzi16.m4a",
+      "name": "Pizzicato Jingles Jingles Pizzi16",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-sax00.m4a",
+      "name": "Sax Jingles Jingles Sax00",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-sax01.m4a",
+      "name": "Sax Jingles Jingles Sax01",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-sax02.m4a",
+      "name": "Sax Jingles Jingles Sax02",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-sax03.m4a",
+      "name": "Sax Jingles Jingles Sax03",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-sax04.m4a",
+      "name": "Sax Jingles Jingles Sax04",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-sax05.m4a",
+      "name": "Sax Jingles Jingles Sax05",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-sax06.m4a",
+      "name": "Sax Jingles Jingles Sax06",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-sax07.m4a",
+      "name": "Sax Jingles Jingles Sax07",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-sax08.m4a",
+      "name": "Sax Jingles Jingles Sax08",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-sax09.m4a",
+      "name": "Sax Jingles Jingles Sax09",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-sax10.m4a",
+      "name": "Sax Jingles Jingles Sax10",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-sax11.m4a",
+      "name": "Sax Jingles Jingles Sax11",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-sax12.m4a",
+      "name": "Sax Jingles Jingles Sax12",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-sax13.m4a",
+      "name": "Sax Jingles Jingles Sax13",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-sax14.m4a",
+      "name": "Sax Jingles Jingles Sax14",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-sax15.m4a",
+      "name": "Sax Jingles Jingles Sax15",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-sax16.m4a",
+      "name": "Sax Jingles Jingles Sax16",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-steel00.m4a",
+      "name": "Steel Jingles Jingles Steel00",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-steel01.m4a",
+      "name": "Steel Jingles Jingles Steel01",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-steel02.m4a",
+      "name": "Steel Jingles Jingles Steel02",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-steel03.m4a",
+      "name": "Steel Jingles Jingles Steel03",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-steel04.m4a",
+      "name": "Steel Jingles Jingles Steel04",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-steel05.m4a",
+      "name": "Steel Jingles Jingles Steel05",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-steel06.m4a",
+      "name": "Steel Jingles Jingles Steel06",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-steel07.m4a",
+      "name": "Steel Jingles Jingles Steel07",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-steel08.m4a",
+      "name": "Steel Jingles Jingles Steel08",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-steel09.m4a",
+      "name": "Steel Jingles Jingles Steel09",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-steel10.m4a",
+      "name": "Steel Jingles Jingles Steel10",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-steel11.m4a",
+      "name": "Steel Jingles Jingles Steel11",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-steel12.m4a",
+      "name": "Steel Jingles Jingles Steel12",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-steel13.m4a",
+      "name": "Steel Jingles Jingles Steel13",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-steel14.m4a",
+      "name": "Steel Jingles Jingles Steel14",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-steel15.m4a",
+      "name": "Steel Jingles Jingles Steel15",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jingles-steel16.m4a",
+      "name": "Steel Jingles Jingles Steel16",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/preview.m4a",
+      "name": "Preview",
+      "tags": [
+        "music"
+      ],
+      "blurb": null
+    }
+  ]
+}

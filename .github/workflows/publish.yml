@@ -1,0 +1,72 @@
+# Push to main → the catalogue is live.
+#
+# SYNC, NOT RE-UPLOAD. Every blob is named by the sha256 of its own bytes, so
+# the publish script HEADs each key first and skips what is already there. A
+# commit that changes one sound uploads one object; a commit that only edits a
+# blurb uploads no objects at all and rewrites the manifests, which are the
+# only things that ever change.
+#
+# Manifests go up LAST, always, so the catalogue never points at bytes that
+# have not landed yet. That ordering is the whole reason publishing is two
+# phases, and it is what makes this safe to run on every push.
+#
+# Nothing secret lives in this repo. The credentials are GitHub Actions
+# secrets; the content is CC0 and the pipeline is reproducible from `sources/`.
+name: Publish catalogue
+
+on:
+  push:
+    branches: [main]
+    paths: ["packs/**", "sources/**"]
+  workflow_dispatch:
+
+concurrency:
+  # Two publishes racing would interleave their manifest writes. One at a time,
+  # and a superseded run is cancelled rather than queued.
+  group: publish
+  cancel-in-progress: true
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the content
+        uses: actions/checkout@v4
+        with:
+          path: content
+
+      - name: Check out the pipeline
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ vars.APP_REPO || 'atomcut/typomation' }}
+          token: ${{ secrets.APP_REPO_TOKEN || github.token }}
+          path: app
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+
+      # The analyser needs to decode whatever the pack ships.
+      - name: Install ffmpeg
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+
+      - name: Install wrangler
+        run: npm install --no-save wrangler@4
+        working-directory: app
+
+      - name: Build manifests
+        working-directory: app
+        run: node scripts/library/build.mjs --src ../content
+
+      - name: Publish to R2
+        working-directory: app
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          R2_ACCOUNT_ID: ${{ secrets.R2_ACCOUNT_ID }}
+          R2_BUCKET: ${{ secrets.R2_BUCKET }}
+          # Optional, and much faster: the S3 key pair only the account owner
+          # can mint. Absent, the script falls back to wrangler automatically.
+          R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          WRANGLER_BIN: ./node_modules/.bin/wrangler
+        run: node scripts/library/publish.mjs --dist ../content/dist

@@ -1,0 +1,486 @@
+{
+  "id": "kenney-ui-audio",
+  "title": "UI Audio",
+  "blurb": "52 sounds — mostly Interface.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "Kenney · kenney.nl · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "kenney",
+    "name": "Kenney"
+  },
+  "tags": [
+    "cc0",
+    "ui"
+  ],
+  "files": [
+    {
+      "file": "audio/click1.m4a",
+      "name": "Click1",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click2.m4a",
+      "name": "Click2",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click3.m4a",
+      "name": "Click3",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click4.m4a",
+      "name": "Click4",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click5.m4a",
+      "name": "Click5",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/mouseclick1.m4a",
+      "name": "Mouseclick1",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/mouserelease1.m4a",
+      "name": "Mouserelease1",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/preview.m4a",
+      "name": "Preview",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/rollover1.m4a",
+      "name": "Rollover1",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/rollover2.m4a",
+      "name": "Rollover2",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/rollover3.m4a",
+      "name": "Rollover3",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/rollover4.m4a",
+      "name": "Rollover4",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/rollover5.m4a",
+      "name": "Rollover5",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/rollover6.m4a",
+      "name": "Rollover6",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/switch1.m4a",
+      "name": "Switch1",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/switch10.m4a",
+      "name": "Switch10",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/switch11.m4a",
+      "name": "Switch11",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/switch12.m4a",
+      "name": "Switch12",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/switch13.m4a",
+      "name": "Switch13",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/switch14.m4a",
+      "name": "Switch14",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/switch15.m4a",
+      "name": "Switch15",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/switch16.m4a",
+      "name": "Switch16",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/switch17.m4a",
+      "name": "Switch17",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/switch18.m4a",
+      "name": "Switch18",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/switch19.m4a",
+      "name": "Switch19",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/switch2.m4a",
+      "name": "Switch2",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/switch20.m4a",
+      "name": "Switch20",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/switch21.m4a",
+      "name": "Switch21",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/switch22.m4a",
+      "name": "Switch22",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/switch23.m4a",
+      "name": "Switch23",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/switch24.m4a",
+      "name": "Switch24",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/switch25.m4a",
+      "name": "Switch25",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/switch26.m4a",
+      "name": "Switch26",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/switch27.m4a",
+      "name": "Switch27",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/switch28.m4a",
+      "name": "Switch28",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/switch29.m4a",
+      "name": "Switch29",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/switch3.m4a",
+      "name": "Switch3",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/switch30.m4a",
+      "name": "Switch30",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/switch31.m4a",
+      "name": "Switch31",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/switch32.m4a",
+      "name": "Switch32",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/switch33.m4a",
+      "name": "Switch33",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/switch34.m4a",
+      "name": "Switch34",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/switch35.m4a",
+      "name": "Switch35",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/switch36.m4a",
+      "name": "Switch36",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/switch37.m4a",
+      "name": "Switch37",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/switch38.m4a",
+      "name": "Switch38",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/switch4.m4a",
+      "name": "Switch4",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/switch5.m4a",
+      "name": "Switch5",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/switch6.m4a",
+      "name": "Switch6",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/switch7.m4a",
+      "name": "Switch7",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/switch8.m4a",
+      "name": "Switch8",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/switch9.m4a",
+      "name": "Switch9",
+      "tags": [
+        "interface",
+        "ui"
+      ],
+      "blurb": null
+    }
+  ]
+}

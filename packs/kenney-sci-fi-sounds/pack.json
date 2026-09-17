@@ -1,0 +1,816 @@
+{
+  "id": "kenney-sci-fi-sounds",
+  "title": "Sci-Fi Sounds",
+  "blurb": "73 sounds — mostly Digital and Machines.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "Kenney · kenney.nl · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "kenney",
+    "name": "Kenney"
+  },
+  "tags": [
+    "cc0",
+    "digital",
+    "scifi"
+  ],
+  "files": [
+    {
+      "file": "audio/computer-noise-000.m4a",
+      "name": "Computer Noise 1",
+      "tags": [
+        "digital",
+        "computer",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/computer-noise-001.m4a",
+      "name": "Computer Noise 2",
+      "tags": [
+        "digital",
+        "computer",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/computer-noise-002.m4a",
+      "name": "Computer Noise 3",
+      "tags": [
+        "digital",
+        "computer",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/computer-noise-003.m4a",
+      "name": "Computer Noise 4",
+      "tags": [
+        "digital",
+        "computer",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/door-close-000.m4a",
+      "name": "Door Close 1",
+      "tags": [
+        "foley",
+        "door",
+        "digital",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/door-close-001.m4a",
+      "name": "Door Close 2",
+      "tags": [
+        "foley",
+        "door",
+        "digital",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/door-close-002.m4a",
+      "name": "Door Close 3",
+      "tags": [
+        "foley",
+        "door",
+        "digital",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/door-open-000.m4a",
+      "name": "Door Open 1",
+      "tags": [
+        "foley",
+        "door",
+        "digital",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/door-open-001.m4a",
+      "name": "Door Open 2",
+      "tags": [
+        "foley",
+        "door",
+        "digital",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/door-open-002.m4a",
+      "name": "Door Open 3",
+      "tags": [
+        "foley",
+        "door",
+        "digital",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/engine-circular-000.m4a",
+      "name": "Engine Circular 1",
+      "tags": [
+        "machine",
+        "engine",
+        "digital",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/engine-circular-001.m4a",
+      "name": "Engine Circular 2",
+      "tags": [
+        "machine",
+        "engine",
+        "digital",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/engine-circular-002.m4a",
+      "name": "Engine Circular 3",
+      "tags": [
+        "machine",
+        "engine",
+        "digital",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/engine-circular-003.m4a",
+      "name": "Engine Circular 4",
+      "tags": [
+        "machine",
+        "engine",
+        "digital",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/engine-circular-004.m4a",
+      "name": "Engine Circular 5",
+      "tags": [
+        "machine",
+        "engine",
+        "digital",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/explosion-crunch-000.m4a",
+      "name": "Explosion Crunch 1",
+      "tags": [
+        "weapon",
+        "explosion",
+        "digital",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/explosion-crunch-001.m4a",
+      "name": "Explosion Crunch 2",
+      "tags": [
+        "weapon",
+        "explosion",
+        "digital",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/explosion-crunch-002.m4a",
+      "name": "Explosion Crunch 3",
+      "tags": [
+        "weapon",
+        "explosion",
+        "digital",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/explosion-crunch-003.m4a",
+      "name": "Explosion Crunch 4",
+      "tags": [
+        "weapon",
+        "explosion",
+        "digital",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/explosion-crunch-004.m4a",
+      "name": "Explosion Crunch 5",
+      "tags": [
+        "weapon",
+        "explosion",
+        "digital",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/force-field-000.m4a",
+      "name": "Force Field 1",
+      "tags": [
+        "digital",
+        "force",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/force-field-001.m4a",
+      "name": "Force Field 2",
+      "tags": [
+        "digital",
+        "force",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/force-field-002.m4a",
+      "name": "Force Field 3",
+      "tags": [
+        "digital",
+        "force",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/force-field-003.m4a",
+      "name": "Force Field 4",
+      "tags": [
+        "digital",
+        "force",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/force-field-004.m4a",
+      "name": "Force Field 5",
+      "tags": [
+        "digital",
+        "force",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/impact-metal-000.m4a",
+      "name": "Impact Metal 1",
+      "tags": [
+        "impact",
+        "metal",
+        "digital",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/impact-metal-001.m4a",
+      "name": "Impact Metal 2",
+      "tags": [
+        "impact",
+        "metal",
+        "digital",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/impact-metal-002.m4a",
+      "name": "Impact Metal 3",
+      "tags": [
+        "impact",
+        "metal",
+        "digital",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/impact-metal-003.m4a",
+      "name": "Impact Metal 4",
+      "tags": [
+        "impact",
+        "metal",
+        "digital",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/impact-metal-004.m4a",
+      "name": "Impact Metal 5",
+      "tags": [
+        "impact",
+        "metal",
+        "digital",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/laser-large-000.m4a",
+      "name": "Laser Large 1",
+      "tags": [
+        "digital",
+        "laser",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/laser-large-001.m4a",
+      "name": "Laser Large 2",
+      "tags": [
+        "digital",
+        "laser",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/laser-large-002.m4a",
+      "name": "Laser Large 3",
+      "tags": [
+        "digital",
+        "laser",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/laser-large-003.m4a",
+      "name": "Laser Large 4",
+      "tags": [
+        "digital",
+        "laser",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/laser-large-004.m4a",
+      "name": "Laser Large 5",
+      "tags": [
+        "digital",
+        "laser",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/laser-retro-000.m4a",
+      "name": "Laser Retro 1",
+      "tags": [
+        "digital",
+        "laser",
+        "retro",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/laser-retro-001.m4a",
+      "name": "Laser Retro 2",
+      "tags": [
+        "digital",
+        "laser",
+        "retro",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/laser-retro-002.m4a",
+      "name": "Laser Retro 3",
+      "tags": [
+        "digital",
+        "laser",
+        "retro",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/laser-retro-003.m4a",
+      "name": "Laser Retro 4",
+      "tags": [
+        "digital",
+        "laser",
+        "retro",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/laser-retro-004.m4a",
+      "name": "Laser Retro 5",
+      "tags": [
+        "digital",
+        "laser",
+        "retro",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/laser-small-000.m4a",
+      "name": "Laser Small 1",
+      "tags": [
+        "digital",
+        "laser",
+        "small",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/laser-small-001.m4a",
+      "name": "Laser Small 2",
+      "tags": [
+        "digital",
+        "laser",
+        "small",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/laser-small-002.m4a",
+      "name": "Laser Small 3",
+      "tags": [
+        "digital",
+        "laser",
+        "small",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/laser-small-003.m4a",
+      "name": "Laser Small 4",
+      "tags": [
+        "digital",
+        "laser",
+        "small",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/laser-small-004.m4a",
+      "name": "Laser Small 5",
+      "tags": [
+        "digital",
+        "laser",
+        "small",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/low-frequency-explosion-000.m4a",
+      "name": "Low Frequency Explosion 1",
+      "tags": [
+        "weapon",
+        "low",
+        "explosion",
+        "digital",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/low-frequency-explosion-001.m4a",
+      "name": "Low Frequency Explosion 2",
+      "tags": [
+        "weapon",
+        "low",
+        "explosion",
+        "digital",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/slime-000.m4a",
+      "name": "Slime 1",
+      "tags": [
+        "digital",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/slime-001.m4a",
+      "name": "Slime 2",
+      "tags": [
+        "digital",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/space-engine-000.m4a",
+      "name": "Space Engine 1",
+      "tags": [
+        "machine",
+        "engine",
+        "digital",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/space-engine-001.m4a",
+      "name": "Space Engine 2",
+      "tags": [
+        "machine",
+        "engine",
+        "digital",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/space-engine-002.m4a",
+      "name": "Space Engine 3",
+      "tags": [
+        "machine",
+        "engine",
+        "digital",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/space-engine-003.m4a",
+      "name": "Space Engine 4",
+      "tags": [
+        "machine",
+        "engine",
+        "digital",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/space-engine-large-000.m4a",
+      "name": "Space Engine Large 1",
+      "tags": [
+        "machine",
+        "engine",
+        "digital",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/space-engine-large-001.m4a",
+      "name": "Space Engine Large 2",
+      "tags": [
+        "machine",
+        "engine",
+        "digital",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/space-engine-large-002.m4a",
+      "name": "Space Engine Large 3",
+      "tags": [
+        "machine",
+        "engine",
+        "digital",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/space-engine-large-003.m4a",
+      "name": "Space Engine Large 4",
+      "tags": [
+        "machine",
+        "engine",
+        "digital",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/space-engine-large-004.m4a",
+      "name": "Space Engine Large 5",
+      "tags": [
+        "machine",
+        "engine",
+        "digital",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/space-engine-low-000.m4a",
+      "name": "Space Engine Low 1",
+      "tags": [
+        "machine",
+        "engine",
+        "low",
+        "digital",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/space-engine-low-001.m4a",
+      "name": "Space Engine Low 2",
+      "tags": [
+        "machine",
+        "engine",
+        "low",
+        "digital",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/space-engine-low-002.m4a",
+      "name": "Space Engine Low 3",
+      "tags": [
+        "machine",
+        "engine",
+        "low",
+        "digital",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/space-engine-low-003.m4a",
+      "name": "Space Engine Low 4",
+      "tags": [
+        "machine",
+        "engine",
+        "low",
+        "digital",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/space-engine-low-004.m4a",
+      "name": "Space Engine Low 5",
+      "tags": [
+        "machine",
+        "engine",
+        "low",
+        "digital",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/space-engine-small-000.m4a",
+      "name": "Space Engine Small 1",
+      "tags": [
+        "machine",
+        "engine",
+        "small",
+        "digital",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/space-engine-small-001.m4a",
+      "name": "Space Engine Small 2",
+      "tags": [
+        "machine",
+        "engine",
+        "small",
+        "digital",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/space-engine-small-002.m4a",
+      "name": "Space Engine Small 3",
+      "tags": [
+        "machine",
+        "engine",
+        "small",
+        "digital",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/space-engine-small-003.m4a",
+      "name": "Space Engine Small 4",
+      "tags": [
+        "machine",
+        "engine",
+        "small",
+        "digital",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/space-engine-small-004.m4a",
+      "name": "Space Engine Small 5",
+      "tags": [
+        "machine",
+        "engine",
+        "small",
+        "digital",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/thruster-fire-000.m4a",
+      "name": "Thruster Fire 1",
+      "tags": [
+        "nature",
+        "fire",
+        "digital",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/thruster-fire-001.m4a",
+      "name": "Thruster Fire 2",
+      "tags": [
+        "nature",
+        "fire",
+        "digital",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/thruster-fire-002.m4a",
+      "name": "Thruster Fire 3",
+      "tags": [
+        "nature",
+        "fire",
+        "digital",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/thruster-fire-003.m4a",
+      "name": "Thruster Fire 4",
+      "tags": [
+        "nature",
+        "fire",
+        "digital",
+        "scifi"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/thruster-fire-004.m4a",
+      "name": "Thruster Fire 5",
+      "tags": [
+        "nature",
+        "fire",
+        "digital",
+        "scifi"
+      ],
+      "blurb": null
+    }
+  ]
+}
