@@ -1,0 +1,128 @@
+{
+  "id": "opengameart-10-8bit-coin-sounds",
+  "title": "10 8bit coin sounds",
+  "blurb": "10 sounds — mostly Interface.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "lukerustltd · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-lukerustltd",
+    "name": "lukerustltd"
+  },
+  "homepage": "https://opengameart.org/content/10-8bit-coin-sounds",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/coin1.m4a",
+      "src": "coin-sounds/coin1.wav",
+      "name": "Coin1",
+      "tags": [
+        "interface",
+        "coin",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/coin10.m4a",
+      "src": "coin-sounds/coin10.wav",
+      "name": "Coin10",
+      "tags": [
+        "interface",
+        "coin",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/coin2.m4a",
+      "src": "coin-sounds/coin2.wav",
+      "name": "Coin2",
+      "tags": [
+        "interface",
+        "coin",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/coin3.m4a",
+      "src": "coin-sounds/coin3.wav",
+      "name": "Coin3",
+      "tags": [
+        "interface",
+        "coin",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/coin4.m4a",
+      "src": "coin-sounds/coin4.wav",
+      "name": "Coin4",
+      "tags": [
+        "interface",
+        "coin",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/coin5.m4a",
+      "src": "coin-sounds/coin5.wav",
+      "name": "Coin5",
+      "tags": [
+        "interface",
+        "coin",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/coin6.m4a",
+      "src": "coin-sounds/coin6.wav",
+      "name": "Coin6",
+      "tags": [
+        "interface",
+        "coin",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/coin7.m4a",
+      "src": "coin-sounds/coin7.wav",
+      "name": "Coin7",
+      "tags": [
+        "interface",
+        "coin",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/coin8.m4a",
+      "src": "coin-sounds/coin8.wav",
+      "name": "Coin8",
+      "tags": [
+        "interface",
+        "coin",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/coin9.m4a",
+      "src": "coin-sounds/coin9.wav",
+      "name": "Coin9",
+      "tags": [
+        "interface",
+        "coin",
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

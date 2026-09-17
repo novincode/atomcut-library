@@ -1,0 +1,106 @@
+{
+  "id": "opengameart-different-steps-on-wood-stone-leaves-gravel-and-mud",
+  "title": "Different steps on wood, stone, leaves, gravel and mud",
+  "blurb": "8 sounds — mostly Foley.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "tinyworlds · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-tinyworlds",
+    "name": "tinyworlds"
+  },
+  "homepage": "https://opengameart.org/content/different-steps-on-wood-stone-leaves-gravel-and-mud",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/gravel.m4a",
+      "src": "5-bkdd-5-ddifferent-steps-0/gravel.ogg",
+      "name": "Gravel",
+      "tags": [
+        "foley",
+        "step",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/leaves01.m4a",
+      "src": "5-bkdd-5-ddifferent-steps-0/leaves01.ogg",
+      "name": "Leaves01",
+      "tags": [
+        "foley",
+        "step",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/leaves02.m4a",
+      "src": "5-bkdd-5-ddifferent-steps-0/leaves02.ogg",
+      "name": "Leaves02",
+      "tags": [
+        "foley",
+        "step",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/mud02.m4a",
+      "src": "5-bkdd-5-ddifferent-steps-0/mud02.ogg",
+      "name": "Mud02",
+      "tags": [
+        "foley",
+        "step",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/stone01.m4a",
+      "src": "5-bkdd-5-ddifferent-steps-0/stone01.ogg",
+      "name": "Stone01",
+      "tags": [
+        "foley",
+        "step",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood01.m4a",
+      "src": "5-bkdd-5-ddifferent-steps-0/wood01.ogg",
+      "name": "Wood01",
+      "tags": [
+        "foley",
+        "step",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood02.m4a",
+      "src": "5-bkdd-5-ddifferent-steps-0/wood02.ogg",
+      "name": "Wood02",
+      "tags": [
+        "foley",
+        "step",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood03.m4a",
+      "src": "5-bkdd-5-ddifferent-steps-0/wood03.ogg",
+      "name": "Wood03",
+      "tags": [
+        "foley",
+        "step",
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "id": "opengameart-goblins-sound-pack",
+  "title": "Goblins Sound Pack",
+  "blurb": "15 sounds — mostly Creatures.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "artisticdude · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-artisticdude",
+    "name": "artisticdude"
+  },
+  "homepage": "https://opengameart.org/content/goblins-sound-pack",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/goblin-1.m4a",
+      "src": "goblins-0/goblins/goblin-1.wav",
+      "name": "Goblin 1",
+      "tags": [
+        "creature",
+        "goblin",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/goblin-10.m4a",
+      "src": "goblins-0/goblins/goblin-10.wav",
+      "name": "Goblin 10",
+      "tags": [
+        "creature",
+        "goblin",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/goblin-11.m4a",
+      "src": "goblins-0/goblins/goblin-11.wav",
+      "name": "Goblin 11",
+      "tags": [
+        "creature",
+        "goblin",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/goblin-12.m4a",
+      "src": "goblins-0/goblins/goblin-12.wav",
+      "name": "Goblin 12",
+      "tags": [
+        "creature",
+        "goblin",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/goblin-13.m4a",
+      "src": "goblins-0/goblins/goblin-13.wav",
+      "name": "Goblin 13",
+      "tags": [
+        "creature",
+        "goblin",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/goblin-14.m4a",
+      "src": "goblins-0/goblins/goblin-14.wav",
+      "name": "Goblin 14",
+      "tags": [
+        "creature",
+        "goblin",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/goblin-15.m4a",
+      "src": "goblins-0/goblins/goblin-15.wav",
+      "name": "Goblin 15",
+      "tags": [
+        "creature",
+        "goblin",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/goblin-2.m4a",
+      "src": "goblins-0/goblins/goblin-2.wav",
+      "name": "Goblin 2",
+      "tags": [
+        "creature",
+        "goblin",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/goblin-3.m4a",
+      "src": "goblins-0/goblins/goblin-3.wav",
+      "name": "Goblin 3",
+      "tags": [
+        "creature",
+        "goblin",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/goblin-4.m4a",
+      "src": "goblins-0/goblins/goblin-4.wav",
+      "name": "Goblin 4",
+      "tags": [
+        "creature",
+        "goblin",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/goblin-5.m4a",
+      "src": "goblins-0/goblins/goblin-5.wav",
+      "name": "Goblin 5",
+      "tags": [
+        "creature",
+        "goblin",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/goblin-6.m4a",
+      "src": "goblins-0/goblins/goblin-6.wav",
+      "name": "Goblin 6",
+      "tags": [
+        "creature",
+        "goblin",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/goblin-7.m4a",
+      "src": "goblins-0/goblins/goblin-7.wav",
+      "name": "Goblin 7",
+      "tags": [
+        "creature",
+        "goblin",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/goblin-8.m4a",
+      "src": "goblins-0/goblins/goblin-8.wav",
+      "name": "Goblin 8",
+      "tags": [
+        "creature",
+        "goblin",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/goblin-9.m4a",
+      "src": "goblins-0/goblins/goblin-9.wav",
+      "name": "Goblin 9",
+      "tags": [
+        "creature",
+        "goblin",
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

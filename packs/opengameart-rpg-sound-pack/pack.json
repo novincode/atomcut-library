@@ -1,0 +1,1107 @@
+{
+  "id": "opengameart-rpg-sound-pack",
+  "title": "RPG Sound Pack",
+  "blurb": "96 sounds — mostly Creatures and Foley.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "artisticdude · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-artisticdude",
+    "name": "artisticdude"
+  },
+  "homepage": "https://opengameart.org/content/rpg-sound-pack",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/armor-light.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/inventory/armor-light.wav",
+      "name": "Armor Light",
+      "tags": [
+        "foley",
+        "rpg",
+        "inventory",
+        "light",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/beads.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/inventory/beads.wav",
+      "name": "Beads",
+      "tags": [
+        "foley",
+        "rpg",
+        "inventory",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bite-small.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/NPC/beetle/bite-small.wav",
+      "name": "Bite Small",
+      "tags": [
+        "rpg",
+        "small",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bite-small2.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/NPC/beetle/bite-small2.wav",
+      "name": "Bite Small2",
+      "tags": [
+        "rpg",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bite-small3.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/NPC/beetle/bite-small3.wav",
+      "name": "Bite Small3",
+      "tags": [
+        "rpg",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bottle.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/inventory/bottle.wav",
+      "name": "Bottle",
+      "tags": [
+        "foley",
+        "rpg",
+        "inventory",
+        "bottle",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bubble.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/inventory/bubble.wav",
+      "name": "Bubble",
+      "tags": [
+        "foley",
+        "rpg",
+        "inventory",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bubble2.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/inventory/bubble2.wav",
+      "name": "Bubble2",
+      "tags": [
+        "foley",
+        "rpg",
+        "inventory",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bubble3.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/inventory/bubble3.wav",
+      "name": "Bubble3",
+      "tags": [
+        "foley",
+        "rpg",
+        "inventory",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/burp.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/misc/burp.wav",
+      "name": "Burp",
+      "tags": [
+        "rpg",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/chainmail1.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/inventory/chainmail1.wav",
+      "name": "Chainmail1",
+      "tags": [
+        "foley",
+        "rpg",
+        "inventory",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/chainmail2.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/inventory/chainmail2.wav",
+      "name": "Chainmail2",
+      "tags": [
+        "foley",
+        "rpg",
+        "inventory",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/cloth.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/inventory/cloth.wav",
+      "name": "Cloth",
+      "tags": [
+        "foley",
+        "rpg",
+        "inventory",
+        "cloth",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/cloth-heavy.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/inventory/cloth-heavy.wav",
+      "name": "Cloth Heavy",
+      "tags": [
+        "foley",
+        "rpg",
+        "inventory",
+        "cloth",
+        "heavy",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/coin.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/inventory/coin.wav",
+      "name": "Coin",
+      "tags": [
+        "interface",
+        "rpg",
+        "inventory",
+        "coin",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/coin2.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/inventory/coin2.wav",
+      "name": "Coin2",
+      "tags": [
+        "foley",
+        "rpg",
+        "inventory",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/coin3.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/inventory/coin3.wav",
+      "name": "Coin3",
+      "tags": [
+        "foley",
+        "rpg",
+        "inventory",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/door.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/world/door.wav",
+      "name": "Door",
+      "tags": [
+        "foley",
+        "rpg",
+        "door",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/giant1.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/NPC/giant/giant1.wav",
+      "name": "Giant1",
+      "tags": [
+        "rpg",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/giant2.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/NPC/giant/giant2.wav",
+      "name": "Giant2",
+      "tags": [
+        "rpg",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/giant3.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/NPC/giant/giant3.wav",
+      "name": "Giant3",
+      "tags": [
+        "rpg",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/giant4.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/NPC/giant/giant4.wav",
+      "name": "Giant4",
+      "tags": [
+        "rpg",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/giant5.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/NPC/giant/giant5.wav",
+      "name": "Giant5",
+      "tags": [
+        "rpg",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/interface1.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/interface/interface1.wav",
+      "name": "Interface1",
+      "tags": [
+        "interface",
+        "rpg",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/interface2.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/interface/interface2.wav",
+      "name": "Interface2",
+      "tags": [
+        "interface",
+        "rpg",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/interface3.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/interface/interface3.wav",
+      "name": "Interface3",
+      "tags": [
+        "interface",
+        "rpg",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/interface4.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/interface/interface4.wav",
+      "name": "Interface4",
+      "tags": [
+        "interface",
+        "rpg",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/interface5.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/interface/interface5.wav",
+      "name": "Interface5",
+      "tags": [
+        "interface",
+        "rpg",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/interface6.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/interface/interface6.wav",
+      "name": "Interface6",
+      "tags": [
+        "interface",
+        "rpg",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/magic1.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/battle/magic1.wav",
+      "name": "Magic1",
+      "tags": [
+        "rpg",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/metal-ringing.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/inventory/metal-ringing.wav",
+      "name": "Metal Ringing",
+      "tags": [
+        "foley",
+        "rpg",
+        "inventory",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/metal-small1.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/inventory/metal-small1.wav",
+      "name": "Metal Small1",
+      "tags": [
+        "foley",
+        "rpg",
+        "inventory",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/metal-small2.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/inventory/metal-small2.wav",
+      "name": "Metal Small2",
+      "tags": [
+        "foley",
+        "rpg",
+        "inventory",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/metal-small3.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/inventory/metal-small3.wav",
+      "name": "Metal Small3",
+      "tags": [
+        "foley",
+        "rpg",
+        "inventory",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/mnstr1.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/NPC/gutteral beast/mnstr1.wav",
+      "name": "Mnstr1",
+      "tags": [
+        "creature",
+        "rpg",
+        "beast",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/mnstr10.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/NPC/gutteral beast/mnstr10.wav",
+      "name": "Mnstr10",
+      "tags": [
+        "creature",
+        "rpg",
+        "beast",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/mnstr11.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/NPC/gutteral beast/mnstr11.wav",
+      "name": "Mnstr11",
+      "tags": [
+        "creature",
+        "rpg",
+        "beast",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/mnstr12.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/NPC/gutteral beast/mnstr12.wav",
+      "name": "Mnstr12",
+      "tags": [
+        "creature",
+        "rpg",
+        "beast",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/mnstr13.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/NPC/gutteral beast/mnstr13.wav",
+      "name": "Mnstr13",
+      "tags": [
+        "creature",
+        "rpg",
+        "beast",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/mnstr14.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/NPC/gutteral beast/mnstr14.wav",
+      "name": "Mnstr14",
+      "tags": [
+        "creature",
+        "rpg",
+        "beast",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/mnstr15.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/NPC/gutteral beast/mnstr15.wav",
+      "name": "Mnstr15",
+      "tags": [
+        "creature",
+        "rpg",
+        "beast",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/mnstr2.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/NPC/gutteral beast/mnstr2.wav",
+      "name": "Mnstr2",
+      "tags": [
+        "creature",
+        "rpg",
+        "beast",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/mnstr3.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/NPC/gutteral beast/mnstr3.wav",
+      "name": "Mnstr3",
+      "tags": [
+        "creature",
+        "rpg",
+        "beast",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/mnstr4.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/NPC/gutteral beast/mnstr4.wav",
+      "name": "Mnstr4",
+      "tags": [
+        "creature",
+        "rpg",
+        "beast",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/mnstr5.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/NPC/gutteral beast/mnstr5.wav",
+      "name": "Mnstr5",
+      "tags": [
+        "creature",
+        "rpg",
+        "beast",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/mnstr6.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/NPC/gutteral beast/mnstr6.wav",
+      "name": "Mnstr6",
+      "tags": [
+        "creature",
+        "rpg",
+        "beast",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/mnstr7.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/NPC/gutteral beast/mnstr7.wav",
+      "name": "Mnstr7",
+      "tags": [
+        "creature",
+        "rpg",
+        "beast",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/mnstr8.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/NPC/gutteral beast/mnstr8.wav",
+      "name": "Mnstr8",
+      "tags": [
+        "creature",
+        "rpg",
+        "beast",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/mnstr9.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/NPC/gutteral beast/mnstr9.wav",
+      "name": "Mnstr9",
+      "tags": [
+        "creature",
+        "rpg",
+        "beast",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/ogre1.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/NPC/ogre/ogre1.wav",
+      "name": "Ogre1",
+      "tags": [
+        "creature",
+        "rpg",
+        "ogre",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/ogre2.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/NPC/ogre/ogre2.wav",
+      "name": "Ogre2",
+      "tags": [
+        "creature",
+        "rpg",
+        "ogre",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/ogre3.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/NPC/ogre/ogre3.wav",
+      "name": "Ogre3",
+      "tags": [
+        "creature",
+        "rpg",
+        "ogre",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/ogre4.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/NPC/ogre/ogre4.wav",
+      "name": "Ogre4",
+      "tags": [
+        "creature",
+        "rpg",
+        "ogre",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/ogre5.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/NPC/ogre/ogre5.wav",
+      "name": "Ogre5",
+      "tags": [
+        "creature",
+        "rpg",
+        "ogre",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/random1.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/misc/random1.wav",
+      "name": "Random1",
+      "tags": [
+        "rpg",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/random2.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/misc/random2.wav",
+      "name": "Random2",
+      "tags": [
+        "rpg",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/random3.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/misc/random3.wav",
+      "name": "Random3",
+      "tags": [
+        "rpg",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/random4.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/misc/random4.wav",
+      "name": "Random4",
+      "tags": [
+        "rpg",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/random5.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/misc/random5.wav",
+      "name": "Random5",
+      "tags": [
+        "rpg",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/random6.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/misc/random6.wav",
+      "name": "Random6",
+      "tags": [
+        "rpg",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/shade1.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/NPC/shade/shade1.wav",
+      "name": "Shade1",
+      "tags": [
+        "rpg",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/shade10.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/NPC/shade/shade10.wav",
+      "name": "Shade10",
+      "tags": [
+        "rpg",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/shade11.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/NPC/shade/shade11.wav",
+      "name": "Shade11",
+      "tags": [
+        "rpg",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/shade12.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/NPC/shade/shade12.wav",
+      "name": "Shade12",
+      "tags": [
+        "rpg",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/shade13.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/NPC/shade/shade13.wav",
+      "name": "Shade13",
+      "tags": [
+        "rpg",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/shade14.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/NPC/shade/shade14.wav",
+      "name": "Shade14",
+      "tags": [
+        "rpg",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/shade15.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/NPC/shade/shade15.wav",
+      "name": "Shade15",
+      "tags": [
+        "rpg",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/shade2.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/NPC/shade/shade2.wav",
+      "name": "Shade2",
+      "tags": [
+        "rpg",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/shade3.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/NPC/shade/shade3.wav",
+      "name": "Shade3",
+      "tags": [
+        "rpg",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/shade4.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/NPC/shade/shade4.wav",
+      "name": "Shade4",
+      "tags": [
+        "rpg",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/shade5.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/NPC/shade/shade5.wav",
+      "name": "Shade5",
+      "tags": [
+        "rpg",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/shade6.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/NPC/shade/shade6.wav",
+      "name": "Shade6",
+      "tags": [
+        "rpg",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/shade7.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/NPC/shade/shade7.wav",
+      "name": "Shade7",
+      "tags": [
+        "rpg",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/shade8.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/NPC/shade/shade8.wav",
+      "name": "Shade8",
+      "tags": [
+        "rpg",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/shade9.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/NPC/shade/shade9.wav",
+      "name": "Shade9",
+      "tags": [
+        "rpg",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/slime1.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/NPC/slime/slime1.wav",
+      "name": "Slime1",
+      "tags": [
+        "creature",
+        "rpg",
+        "slime",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/slime10.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/NPC/slime/slime10.wav",
+      "name": "Slime10",
+      "tags": [
+        "creature",
+        "rpg",
+        "slime",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/slime2.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/NPC/slime/slime2.wav",
+      "name": "Slime2",
+      "tags": [
+        "creature",
+        "rpg",
+        "slime",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/slime3.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/NPC/slime/slime3.wav",
+      "name": "Slime3",
+      "tags": [
+        "creature",
+        "rpg",
+        "slime",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/slime4.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/NPC/slime/slime4.wav",
+      "name": "Slime4",
+      "tags": [
+        "creature",
+        "rpg",
+        "slime",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/slime5.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/NPC/slime/slime5.wav",
+      "name": "Slime5",
+      "tags": [
+        "creature",
+        "rpg",
+        "slime",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/slime6.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/NPC/slime/slime6.wav",
+      "name": "Slime6",
+      "tags": [
+        "creature",
+        "rpg",
+        "slime",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/slime7.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/NPC/slime/slime7.wav",
+      "name": "Slime7",
+      "tags": [
+        "creature",
+        "rpg",
+        "slime",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/slime8.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/NPC/slime/slime8.wav",
+      "name": "Slime8",
+      "tags": [
+        "creature",
+        "rpg",
+        "slime",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/slime9.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/NPC/slime/slime9.wav",
+      "name": "Slime9",
+      "tags": [
+        "creature",
+        "rpg",
+        "slime",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/spell.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/battle/spell.wav",
+      "name": "Spell",
+      "tags": [
+        "magic",
+        "rpg",
+        "spell",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/swing.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/battle/swing.wav",
+      "name": "Swing",
+      "tags": [
+        "rpg",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/swing2.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/battle/swing2.wav",
+      "name": "Swing2",
+      "tags": [
+        "rpg",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/swing3.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/battle/swing3.wav",
+      "name": "Swing3",
+      "tags": [
+        "rpg",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sword-unsheathe.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/battle/sword-unsheathe.wav",
+      "name": "Sword Unsheathe",
+      "tags": [
+        "weapon",
+        "rpg",
+        "sword",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sword-unsheathe2.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/battle/sword-unsheathe2.wav",
+      "name": "Sword Unsheathe2",
+      "tags": [
+        "weapon",
+        "rpg",
+        "sword",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sword-unsheathe3.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/battle/sword-unsheathe3.wav",
+      "name": "Sword Unsheathe3",
+      "tags": [
+        "weapon",
+        "rpg",
+        "sword",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sword-unsheathe4.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/battle/sword-unsheathe4.wav",
+      "name": "Sword Unsheathe4",
+      "tags": [
+        "weapon",
+        "rpg",
+        "sword",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sword-unsheathe5.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/battle/sword-unsheathe5.wav",
+      "name": "Sword Unsheathe5",
+      "tags": [
+        "weapon",
+        "rpg",
+        "sword",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wolfman.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/NPC/misc/wolfman.wav",
+      "name": "Wolfman",
+      "tags": [
+        "rpg",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-small.m4a",
+      "src": "rpg-sound-pack/RPG Sound Pack/inventory/wood-small.wav",
+      "name": "Wood Small",
+      "tags": [
+        "foley",
+        "rpg",
+        "inventory",
+        "wood",
+        "small",
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

@@ -1,0 +1,595 @@
+{
+  "id": "opengameart-sound-effects-mini-pack15",
+  "title": "Sound effects Mini Pack1.5",
+  "blurb": "55 sounds — mostly Digital and Interface.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "phoenix1291 · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-phoenix1291",
+    "name": "phoenix1291"
+  },
+  "homepage": "https://opengameart.org/content/sound-effects-mini-pack15",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/1up.m4a",
+      "src": "sound-20effects-20-mini-20-pack1/Sound effects Mini Pack1.5/1up/WAV/1up.wav",
+      "name": "1up",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/1up1.m4a",
+      "src": "sound-20effects-20-mini-20-pack1/Sound effects Mini Pack1.5/1up/WAV/1up1.wav",
+      "name": "1up1",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/1up2.m4a",
+      "src": "sound-20effects-20-mini-20-pack1/Sound effects Mini Pack1.5/1up/WAV/1up2.wav",
+      "name": "1up2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/1up3.m4a",
+      "src": "sound-20effects-20-mini-20-pack1/Sound effects Mini Pack1.5/1up/WAV/1up3.wav",
+      "name": "1up3",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/1up4.m4a",
+      "src": "sound-20effects-20-mini-20-pack1/Sound effects Mini Pack1.5/1up/WAV/1up4.wav",
+      "name": "1up4",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/blip.m4a",
+      "src": "sound-20effects-20-mini-20-pack1/Sound effects Mini Pack1.5/Blip/WAV/Blip.wav",
+      "name": "Blip",
+      "tags": [
+        "digital",
+        "blip",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/blip1.m4a",
+      "src": "sound-20effects-20-mini-20-pack1/Sound effects Mini Pack1.5/Blip/WAV/Blip1.wav",
+      "name": "Blip1",
+      "tags": [
+        "digital",
+        "blip",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/blip2.m4a",
+      "src": "sound-20effects-20-mini-20-pack1/Sound effects Mini Pack1.5/Blip/WAV/Blip2.wav",
+      "name": "Blip2",
+      "tags": [
+        "digital",
+        "blip",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/blip3.m4a",
+      "src": "sound-20effects-20-mini-20-pack1/Sound effects Mini Pack1.5/Blip/WAV/Blip3.wav",
+      "name": "Blip3",
+      "tags": [
+        "digital",
+        "blip",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/blip4.m4a",
+      "src": "sound-20effects-20-mini-20-pack1/Sound effects Mini Pack1.5/Blip/WAV/Blip4.wav",
+      "name": "Blip4",
+      "tags": [
+        "digital",
+        "blip",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/coin.m4a",
+      "src": "sound-20effects-20-mini-20-pack1/Sound effects Mini Pack1.5/Coins/WAV/Coin.wav",
+      "name": "Coin",
+      "tags": [
+        "interface",
+        "coin",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/coin1.m4a",
+      "src": "sound-20effects-20-mini-20-pack1/Sound effects Mini Pack1.5/Coins/WAV/Coin1.wav",
+      "name": "Coin1",
+      "tags": [
+        "interface",
+        "coin",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/coin2.m4a",
+      "src": "sound-20effects-20-mini-20-pack1/Sound effects Mini Pack1.5/Coins/WAV/Coin2.wav",
+      "name": "Coin2",
+      "tags": [
+        "interface",
+        "coin",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/coin3.m4a",
+      "src": "sound-20effects-20-mini-20-pack1/Sound effects Mini Pack1.5/Coins/WAV/Coin3.wav",
+      "name": "Coin3",
+      "tags": [
+        "interface",
+        "coin",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/coin4.m4a",
+      "src": "sound-20effects-20-mini-20-pack1/Sound effects Mini Pack1.5/Coins/WAV/Coin4.wav",
+      "name": "Coin4",
+      "tags": [
+        "interface",
+        "coin",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/explosion.m4a",
+      "src": "sound-20effects-20-mini-20-pack1/Sound effects Mini Pack1.5/Explosions/WAV/Explosion.wav",
+      "name": "Explosion",
+      "tags": [
+        "weapon",
+        "explosion",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/explosion1.m4a",
+      "src": "sound-20effects-20-mini-20-pack1/Sound effects Mini Pack1.5/Explosions/WAV/Explosion1.wav",
+      "name": "Explosion1",
+      "tags": [
+        "weapon",
+        "explosion",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/explosion2.m4a",
+      "src": "sound-20effects-20-mini-20-pack1/Sound effects Mini Pack1.5/Explosions/WAV/Explosion2.wav",
+      "name": "Explosion2",
+      "tags": [
+        "weapon",
+        "explosion",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/explosion3.m4a",
+      "src": "sound-20effects-20-mini-20-pack1/Sound effects Mini Pack1.5/Explosions/WAV/Explosion3.wav",
+      "name": "Explosion3",
+      "tags": [
+        "weapon",
+        "explosion",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/explosion4.m4a",
+      "src": "sound-20effects-20-mini-20-pack1/Sound effects Mini Pack1.5/Explosions/WAV/Explosion4.wav",
+      "name": "Explosion4",
+      "tags": [
+        "weapon",
+        "explosion",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit.m4a",
+      "src": "sound-20effects-20-mini-20-pack1/Sound effects Mini Pack1.5/Hit/WAV/Hit.wav",
+      "name": "Hit",
+      "tags": [
+        "impact",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit1.m4a",
+      "src": "sound-20effects-20-mini-20-pack1/Sound effects Mini Pack1.5/Hit/WAV/Hit1.wav",
+      "name": "Hit1",
+      "tags": [
+        "impact",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit2.m4a",
+      "src": "sound-20effects-20-mini-20-pack1/Sound effects Mini Pack1.5/Hit/WAV/Hit2.wav",
+      "name": "Hit2",
+      "tags": [
+        "impact",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit3.m4a",
+      "src": "sound-20effects-20-mini-20-pack1/Sound effects Mini Pack1.5/Hit/WAV/Hit3.wav",
+      "name": "Hit3",
+      "tags": [
+        "impact",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit4.m4a",
+      "src": "sound-20effects-20-mini-20-pack1/Sound effects Mini Pack1.5/Hit/WAV/Hit4.wav",
+      "name": "Hit4",
+      "tags": [
+        "impact",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jump.m4a",
+      "src": "sound-20effects-20-mini-20-pack1/Sound effects Mini Pack1.5/Jump/WAV/Jump.wav",
+      "name": "Jump",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jump1.m4a",
+      "src": "sound-20effects-20-mini-20-pack1/Sound effects Mini Pack1.5/Jump/WAV/Jump1.wav",
+      "name": "Jump1",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jump2.m4a",
+      "src": "sound-20effects-20-mini-20-pack1/Sound effects Mini Pack1.5/Jump/WAV/Jump2.wav",
+      "name": "Jump2",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jump3.m4a",
+      "src": "sound-20effects-20-mini-20-pack1/Sound effects Mini Pack1.5/Jump/WAV/Jump3.wav",
+      "name": "Jump3",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jump4.m4a",
+      "src": "sound-20effects-20-mini-20-pack1/Sound effects Mini Pack1.5/Jump/WAV/Jump4.wav",
+      "name": "Jump4",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/laser-weapon.m4a",
+      "src": "sound-20effects-20-mini-20-pack1/Sound effects Mini Pack1.5/Laser-weapon/WAV/Laser-weapon.wav",
+      "name": "Laser Weapon",
+      "tags": [
+        "digital",
+        "laser",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/laser-weapon1.m4a",
+      "src": "sound-20effects-20-mini-20-pack1/Sound effects Mini Pack1.5/Laser-weapon/WAV/Laser-weapon1.wav",
+      "name": "Laser Weapon1",
+      "tags": [
+        "digital",
+        "laser",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/laser-weapon2.m4a",
+      "src": "sound-20effects-20-mini-20-pack1/Sound effects Mini Pack1.5/Laser-weapon/WAV/Laser-weapon2.wav",
+      "name": "Laser Weapon2",
+      "tags": [
+        "digital",
+        "laser",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/laser-weapon3.m4a",
+      "src": "sound-20effects-20-mini-20-pack1/Sound effects Mini Pack1.5/Laser-weapon/WAV/Laser-weapon3.wav",
+      "name": "Laser Weapon3",
+      "tags": [
+        "digital",
+        "laser",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/laser-weapon4.m4a",
+      "src": "sound-20effects-20-mini-20-pack1/Sound effects Mini Pack1.5/Laser-weapon/WAV/Laser-weapon4.wav",
+      "name": "Laser Weapon4",
+      "tags": [
+        "digital",
+        "laser",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/lose.m4a",
+      "src": "sound-20effects-20-mini-20-pack1/Sound effects Mini Pack1.5/Lose/WAV/Lose.wav",
+      "name": "Lose",
+      "tags": [
+        "interface",
+        "lose",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/lose1.m4a",
+      "src": "sound-20effects-20-mini-20-pack1/Sound effects Mini Pack1.5/Lose/WAV/Lose1.wav",
+      "name": "Lose1",
+      "tags": [
+        "interface",
+        "lose",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/lose2.m4a",
+      "src": "sound-20effects-20-mini-20-pack1/Sound effects Mini Pack1.5/Lose/WAV/Lose2.wav",
+      "name": "Lose2",
+      "tags": [
+        "interface",
+        "lose",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/lose3.m4a",
+      "src": "sound-20effects-20-mini-20-pack1/Sound effects Mini Pack1.5/Lose/WAV/Lose3.wav",
+      "name": "Lose3",
+      "tags": [
+        "interface",
+        "lose",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/lose4.m4a",
+      "src": "sound-20effects-20-mini-20-pack1/Sound effects Mini Pack1.5/Lose/WAV/Lose4.wav",
+      "name": "Lose4",
+      "tags": [
+        "interface",
+        "lose",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/powerup.m4a",
+      "src": "sound-20effects-20-mini-20-pack1/Sound effects Mini Pack1.5/Power-up/WAV/Powerup.wav",
+      "name": "Powerup",
+      "tags": [
+        "magic",
+        "powerup",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/powerup1.m4a",
+      "src": "sound-20effects-20-mini-20-pack1/Sound effects Mini Pack1.5/Power-up/WAV/Powerup1.wav",
+      "name": "Powerup1",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/powerup2.m4a",
+      "src": "sound-20effects-20-mini-20-pack1/Sound effects Mini Pack1.5/Power-up/WAV/Powerup2.wav",
+      "name": "Powerup2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/powerup3.m4a",
+      "src": "sound-20effects-20-mini-20-pack1/Sound effects Mini Pack1.5/Power-up/WAV/Powerup3.wav",
+      "name": "Powerup3",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/powerup4.m4a",
+      "src": "sound-20effects-20-mini-20-pack1/Sound effects Mini Pack1.5/Power-up/WAV/Powerup4.wav",
+      "name": "Powerup4",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/random.m4a",
+      "src": "sound-20effects-20-mini-20-pack1/Sound effects Mini Pack1.5/Random/WAV/Random.wav",
+      "name": "Random",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/random1.m4a",
+      "src": "sound-20effects-20-mini-20-pack1/Sound effects Mini Pack1.5/Random/WAV/Random1.wav",
+      "name": "Random1",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/random2.m4a",
+      "src": "sound-20effects-20-mini-20-pack1/Sound effects Mini Pack1.5/Random/WAV/Random2.wav",
+      "name": "Random2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/random3.m4a",
+      "src": "sound-20effects-20-mini-20-pack1/Sound effects Mini Pack1.5/Random/WAV/Random3.wav",
+      "name": "Random3",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/random4.m4a",
+      "src": "sound-20effects-20-mini-20-pack1/Sound effects Mini Pack1.5/Random/WAV/Random4.wav",
+      "name": "Random4",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/teleport.m4a",
+      "src": "sound-20effects-20-mini-20-pack1/Sound effects Mini Pack1.5/Teleport/WAV/Teleport.wav",
+      "name": "Teleport",
+      "tags": [
+        "digital",
+        "teleport",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/teleport1.m4a",
+      "src": "sound-20effects-20-mini-20-pack1/Sound effects Mini Pack1.5/Teleport/WAV/Teleport1.wav",
+      "name": "Teleport1",
+      "tags": [
+        "digital",
+        "teleport",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/teleport2.m4a",
+      "src": "sound-20effects-20-mini-20-pack1/Sound effects Mini Pack1.5/Teleport/WAV/Teleport2.wav",
+      "name": "Teleport2",
+      "tags": [
+        "digital",
+        "teleport",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/teleport3.m4a",
+      "src": "sound-20effects-20-mini-20-pack1/Sound effects Mini Pack1.5/Teleport/WAV/Teleport3.wav",
+      "name": "Teleport3",
+      "tags": [
+        "digital",
+        "teleport",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/teleport4.m4a",
+      "src": "sound-20effects-20-mini-20-pack1/Sound effects Mini Pack1.5/Teleport/WAV/Teleport4.wav",
+      "name": "Teleport4",
+      "tags": [
+        "digital",
+        "teleport",
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

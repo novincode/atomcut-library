@@ -1,0 +1,92 @@
+{
+  "id": "opengameart-alien-sounds",
+  "title": "Alien sounds",
+  "blurb": "7 sounds — mostly Creatures.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "opengameart",
+    "name": "OpenGameArt"
+  },
+  "homepage": "https://opengameart.org/content/alien-sounds",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/alien-device-0.m4a",
+      "src": "alien_device_0.flac",
+      "name": "Alien Device",
+      "tags": [
+        "creature",
+        "alien",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/alien-sucker1.m4a",
+      "src": "alien_sucker1.flac",
+      "name": "Alien Sucker1",
+      "tags": [
+        "creature",
+        "alien",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/alien-sucker2.m4a",
+      "src": "alien_sucker2.flac",
+      "name": "Alien Sucker2",
+      "tags": [
+        "creature",
+        "alien",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/alien-sucker3.m4a",
+      "src": "alien_sucker3.flac",
+      "name": "Alien Sucker3",
+      "tags": [
+        "creature",
+        "alien",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/laser1.m4a",
+      "src": "laser1.flac",
+      "name": "Laser1",
+      "tags": [
+        "creature",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/laser2.m4a",
+      "src": "laser2.flac",
+      "name": "Laser2",
+      "tags": [
+        "creature",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/laser3.m4a",
+      "src": "laser3.flac",
+      "name": "Laser3",
+      "tags": [
+        "creature",
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

@@ -1,0 +1,678 @@
+{
+  "id": "opengameart-60-cc0-sci-fi-sfx",
+  "title": "60 Sci-Fi SFX",
+  "blurb": "60 sounds — mostly Digital.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "rubberduck · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-rubberduck",
+    "name": "rubberduck"
+  },
+  "homepage": "https://opengameart.org/content/60-cc0-sci-fi-sfx",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/sfx-01a.m4a",
+      "src": "60-sci-fi-sfx-0/sfx_01a.ogg",
+      "name": "01a",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-01b.m4a",
+      "src": "60-sci-fi-sfx-0/sfx_01b.ogg",
+      "name": "01b",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-01c.m4a",
+      "src": "60-sci-fi-sfx-0/sfx_01c.ogg",
+      "name": "01c",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-02a.m4a",
+      "src": "60-sci-fi-sfx-0/sfx_02a.ogg",
+      "name": "02a",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-02b.m4a",
+      "src": "60-sci-fi-sfx-0/sfx_02b.ogg",
+      "name": "02b",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-02c.m4a",
+      "src": "60-sci-fi-sfx-0/sfx_02c.ogg",
+      "name": "02c",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-02d.m4a",
+      "src": "60-sci-fi-sfx-0/sfx_02d.ogg",
+      "name": "02d",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-03a.m4a",
+      "src": "60-sci-fi-sfx-0/sfx_03a.ogg",
+      "name": "03a",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-03b.m4a",
+      "src": "60-sci-fi-sfx-0/sfx_03b.ogg",
+      "name": "03b",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-04a.m4a",
+      "src": "60-sci-fi-sfx-0/sfx_04a.ogg",
+      "name": "04a",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-04b.m4a",
+      "src": "60-sci-fi-sfx-0/sfx_04b.ogg",
+      "name": "04b",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-04c.m4a",
+      "src": "60-sci-fi-sfx-0/sfx_04c.ogg",
+      "name": "04c",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-05a.m4a",
+      "src": "60-sci-fi-sfx-0/sfx_05a.ogg",
+      "name": "05a",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-05b.m4a",
+      "src": "60-sci-fi-sfx-0/sfx_05b.ogg",
+      "name": "05b",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-05c.m4a",
+      "src": "60-sci-fi-sfx-0/sfx_05c.ogg",
+      "name": "05c",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-06.m4a",
+      "src": "60-sci-fi-sfx-0/sfx_06.ogg",
+      "name": "Sci Fi",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-06b.m4a",
+      "src": "60-sci-fi-sfx-0/sfx_06b.ogg",
+      "name": "06b",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-07a.m4a",
+      "src": "60-sci-fi-sfx-0/sfx_07a.ogg",
+      "name": "07a",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-07b.m4a",
+      "src": "60-sci-fi-sfx-0/sfx_07b.ogg",
+      "name": "07b",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-07c.m4a",
+      "src": "60-sci-fi-sfx-0/sfx_07c.ogg",
+      "name": "07c",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-07d.m4a",
+      "src": "60-sci-fi-sfx-0/sfx_07d.ogg",
+      "name": "07d",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-08a.m4a",
+      "src": "60-sci-fi-sfx-0/sfx_08a.ogg",
+      "name": "08a",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-08b.m4a",
+      "src": "60-sci-fi-sfx-0/sfx_08b.ogg",
+      "name": "08b",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-09a.m4a",
+      "src": "60-sci-fi-sfx-0/sfx_09a.ogg",
+      "name": "09a",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-09b.m4a",
+      "src": "60-sci-fi-sfx-0/sfx_09b.ogg",
+      "name": "09b",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-10a.m4a",
+      "src": "60-sci-fi-sfx-0/sfx_10a.ogg",
+      "name": "10a",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-10b.m4a",
+      "src": "60-sci-fi-sfx-0/sfx_10b.ogg",
+      "name": "10b",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-10c.m4a",
+      "src": "60-sci-fi-sfx-0/sfx_10c.ogg",
+      "name": "10c",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-11a.m4a",
+      "src": "60-sci-fi-sfx-0/sfx_11a.ogg",
+      "name": "11a",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-11b.m4a",
+      "src": "60-sci-fi-sfx-0/sfx_11b.ogg",
+      "name": "11b",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-11c.m4a",
+      "src": "60-sci-fi-sfx-0/sfx_11c.ogg",
+      "name": "11c",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-11d.m4a",
+      "src": "60-sci-fi-sfx-0/sfx_11d.ogg",
+      "name": "11d",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-12a.m4a",
+      "src": "60-sci-fi-sfx-0/sfx_12a.ogg",
+      "name": "12a",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-12b.m4a",
+      "src": "60-sci-fi-sfx-0/sfx_12b.ogg",
+      "name": "12b",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-12c.m4a",
+      "src": "60-sci-fi-sfx-0/sfx_12c.ogg",
+      "name": "12c",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-13a.m4a",
+      "src": "60-sci-fi-sfx-0/sfx_13a.ogg",
+      "name": "13a",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-13b.m4a",
+      "src": "60-sci-fi-sfx-0/sfx_13b.ogg",
+      "name": "13b",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-13c.m4a",
+      "src": "60-sci-fi-sfx-0/sfx_13c.ogg",
+      "name": "13c",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-14a.m4a",
+      "src": "60-sci-fi-sfx-0/sfx_14a.ogg",
+      "name": "14a",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-14b.m4a",
+      "src": "60-sci-fi-sfx-0/sfx_14b.ogg",
+      "name": "14b",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-14c.m4a",
+      "src": "60-sci-fi-sfx-0/sfx_14c.ogg",
+      "name": "14c",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-15a.m4a",
+      "src": "60-sci-fi-sfx-0/sfx_15a.ogg",
+      "name": "15a",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-15b.m4a",
+      "src": "60-sci-fi-sfx-0/sfx_15b.ogg",
+      "name": "15b",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-15c.m4a",
+      "src": "60-sci-fi-sfx-0/sfx_15c.ogg",
+      "name": "15c",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-16a.m4a",
+      "src": "60-sci-fi-sfx-0/sfx_16a.ogg",
+      "name": "16a",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-16b.m4a",
+      "src": "60-sci-fi-sfx-0/sfx_16b.ogg",
+      "name": "16b",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-17a.m4a",
+      "src": "60-sci-fi-sfx-0/sfx_17a.ogg",
+      "name": "17a",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-17b.m4a",
+      "src": "60-sci-fi-sfx-0/sfx_17b.ogg",
+      "name": "17b",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-18a.m4a",
+      "src": "60-sci-fi-sfx-0/sfx_18a.ogg",
+      "name": "18a",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-18b.m4a",
+      "src": "60-sci-fi-sfx-0/sfx_18b.ogg",
+      "name": "18b",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-19a.m4a",
+      "src": "60-sci-fi-sfx-0/sfx_19a.ogg",
+      "name": "19a",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-19b.m4a",
+      "src": "60-sci-fi-sfx-0/sfx_19b.ogg",
+      "name": "19b",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-19c.m4a",
+      "src": "60-sci-fi-sfx-0/sfx_19c.ogg",
+      "name": "19c",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-20a.m4a",
+      "src": "60-sci-fi-sfx-0/sfx_20a.ogg",
+      "name": "20a",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-20b.m4a",
+      "src": "60-sci-fi-sfx-0/sfx_20b.ogg",
+      "name": "20b",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-20c.m4a",
+      "src": "60-sci-fi-sfx-0/sfx_20c.ogg",
+      "name": "20c",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-21a.m4a",
+      "src": "60-sci-fi-sfx-0/sfx_21a.ogg",
+      "name": "21a",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-21b.m4a",
+      "src": "60-sci-fi-sfx-0/sfx_21b.ogg",
+      "name": "21b",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-22a.m4a",
+      "src": "60-sci-fi-sfx-0/sfx_22a.ogg",
+      "name": "22a",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-22b.m4a",
+      "src": "60-sci-fi-sfx-0/sfx_22b.ogg",
+      "name": "22b",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

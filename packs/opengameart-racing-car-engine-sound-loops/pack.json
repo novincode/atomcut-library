@@ -1,0 +1,84 @@
+{
+  "id": "opengameart-racing-car-engine-sound-loops",
+  "title": "racing car engine sound loops",
+  "blurb": "6 sounds — mostly Ambience.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "domasx2 · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-domasx2",
+    "name": "domasx2"
+  },
+  "homepage": "https://opengameart.org/content/racing-car-engine-sound-loops",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/loop-0.m4a",
+      "src": "loop_0.wav",
+      "name": "Loop 1",
+      "tags": [
+        "ambience",
+        "loop",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/loop-1-0.m4a",
+      "src": "loop_1_0.wav",
+      "name": "Loop 1",
+      "tags": [
+        "ambience",
+        "loop",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/loop-2-0.m4a",
+      "src": "loop_2_0.wav",
+      "name": "Loop 1",
+      "tags": [
+        "ambience",
+        "loop",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/loop-3-0.m4a",
+      "src": "loop_3_0.wav",
+      "name": "Loop 1",
+      "tags": [
+        "ambience",
+        "loop",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/loop-4-0.m4a",
+      "src": "loop_4_0.wav",
+      "name": "Loop 1",
+      "tags": [
+        "ambience",
+        "loop",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/loop-5-0.m4a",
+      "src": "loop_5_0.wav",
+      "name": "Loop 1",
+      "tags": [
+        "ambience",
+        "loop",
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

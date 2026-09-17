@@ -1,0 +1,162 @@
+{
+  "id": "opengameart-fantozzis-footsteps-grasssand-stone",
+  "title": "Fantozzi's Footsteps (Grass/Sand & Stone)",
+  "blurb": "12 sounds — mostly Foley.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "qubodup · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-qubodup",
+    "name": "qubodup"
+  },
+  "homepage": "https://opengameart.org/content/fantozzis-footsteps-grasssand-stone",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/fantozzi-sand-l1.m4a",
+      "src": "fantozzi-footsteps/Fantozzi-footsteps/flac/Fantozzi-SandL1.flac",
+      "name": "Fantozzi Sand 1",
+      "tags": [
+        "foley",
+        "footstep",
+        "sand",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/fantozzi-sand-l2.m4a",
+      "src": "fantozzi-footsteps/Fantozzi-footsteps/flac/Fantozzi-SandL2.flac",
+      "name": "Fantozzi Sand 2",
+      "tags": [
+        "foley",
+        "footstep",
+        "sand",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/fantozzi-sand-l3.m4a",
+      "src": "fantozzi-footsteps/Fantozzi-footsteps/flac/Fantozzi-SandL3.flac",
+      "name": "Fantozzi Sand 3",
+      "tags": [
+        "foley",
+        "footstep",
+        "sand",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/fantozzi-sand-r1.m4a",
+      "src": "fantozzi-footsteps/Fantozzi-footsteps/flac/Fantozzi-SandR1.flac",
+      "name": "Fantozzi Sand 1",
+      "tags": [
+        "foley",
+        "footstep",
+        "sand",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/fantozzi-sand-r2.m4a",
+      "src": "fantozzi-footsteps/Fantozzi-footsteps/flac/Fantozzi-SandR2.flac",
+      "name": "Fantozzi Sand 2",
+      "tags": [
+        "foley",
+        "footstep",
+        "sand",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/fantozzi-sand-r3.m4a",
+      "src": "fantozzi-footsteps/Fantozzi-footsteps/flac/Fantozzi-SandR3.flac",
+      "name": "Fantozzi Sand 3",
+      "tags": [
+        "foley",
+        "footstep",
+        "sand",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/fantozzi-stone-l1.m4a",
+      "src": "fantozzi-footsteps/Fantozzi-footsteps/flac/Fantozzi-StoneL1.flac",
+      "name": "Fantozzi Stone 1",
+      "tags": [
+        "foley",
+        "footstep",
+        "stone",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/fantozzi-stone-l2.m4a",
+      "src": "fantozzi-footsteps/Fantozzi-footsteps/flac/Fantozzi-StoneL2.flac",
+      "name": "Fantozzi Stone 2",
+      "tags": [
+        "foley",
+        "footstep",
+        "stone",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/fantozzi-stone-l3.m4a",
+      "src": "fantozzi-footsteps/Fantozzi-footsteps/flac/Fantozzi-StoneL3.flac",
+      "name": "Fantozzi Stone 3",
+      "tags": [
+        "foley",
+        "footstep",
+        "stone",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/fantozzi-stone-r1.m4a",
+      "src": "fantozzi-footsteps/Fantozzi-footsteps/flac/Fantozzi-StoneR1.flac",
+      "name": "Fantozzi Stone 1",
+      "tags": [
+        "foley",
+        "footstep",
+        "stone",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/fantozzi-stone-r2.m4a",
+      "src": "fantozzi-footsteps/Fantozzi-footsteps/flac/Fantozzi-StoneR2.flac",
+      "name": "Fantozzi Stone 2",
+      "tags": [
+        "foley",
+        "footstep",
+        "stone",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/fantozzi-stone-r3.m4a",
+      "src": "fantozzi-footsteps/Fantozzi-footsteps/flac/Fantozzi-StoneR3.flac",
+      "name": "Fantozzi Stone 3",
+      "tags": [
+        "foley",
+        "footstep",
+        "stone",
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

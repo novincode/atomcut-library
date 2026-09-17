@@ -1,0 +1,330 @@
+{
+  "id": "opengameart-wood-and-metal-sound-effects-volume-2",
+  "title": "Wood and Metal Sound Effects: Volume 2",
+  "blurb": "26 sounds — mostly Foley.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "ogrebane · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-ogrebane",
+    "name": "ogrebane"
+  },
+  "homepage": "https://opengameart.org/content/wood-and-metal-sound-effects-volume-2",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/metal1.m4a",
+      "src": "wood-and-metal-vol-2-0/wood_and_metal_vol.2/metal1.aif",
+      "name": "Metal1",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/metal2.m4a",
+      "src": "wood-and-metal-vol-2-0/wood_and_metal_vol.2/metal2.aif",
+      "name": "Metal2",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/metal3.m4a",
+      "src": "wood-and-metal-vol-2-0/wood_and_metal_vol.2/metal3.aif",
+      "name": "Metal3",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/metal4.m4a",
+      "src": "wood-and-metal-vol-2-0/wood_and_metal_vol.2/metal4.aif",
+      "name": "Metal4",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/metal5.m4a",
+      "src": "wood-and-metal-vol-2-0/wood_and_metal_vol.2/metal5.aif",
+      "name": "Metal5",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/metal6.m4a",
+      "src": "wood-and-metal-vol-2-0/wood_and_metal_vol.2/metal6.aif",
+      "name": "Metal6",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/metal7.m4a",
+      "src": "wood-and-metal-vol-2-0/wood_and_metal_vol.2/metal7.aif",
+      "name": "Metal7",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/metal8.m4a",
+      "src": "wood-and-metal-vol-2-0/wood_and_metal_vol.2/metal8.aif",
+      "name": "Metal8",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/metal9.m4a",
+      "src": "wood-and-metal-vol-2-0/wood_and_metal_vol.2/metal9.aif",
+      "name": "Metal9",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood1.m4a",
+      "src": "wood-and-metal-vol-2-0/wood_and_metal_vol.2/wood1.aif",
+      "name": "Wood1",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood10.m4a",
+      "src": "wood-and-metal-vol-2-0/wood_and_metal_vol.2/wood10.aif",
+      "name": "Wood10",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood11.m4a",
+      "src": "wood-and-metal-vol-2-0/wood_and_metal_vol.2/wood11.aif",
+      "name": "Wood11",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood12.m4a",
+      "src": "wood-and-metal-vol-2-0/wood_and_metal_vol.2/wood12.aif",
+      "name": "Wood12",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood13.m4a",
+      "src": "wood-and-metal-vol-2-0/wood_and_metal_vol.2/wood13.aif",
+      "name": "Wood13",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood14.m4a",
+      "src": "wood-and-metal-vol-2-0/wood_and_metal_vol.2/wood14.aif",
+      "name": "Wood14",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood15.m4a",
+      "src": "wood-and-metal-vol-2-0/wood_and_metal_vol.2/wood15.aif",
+      "name": "Wood15",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood16.m4a",
+      "src": "wood-and-metal-vol-2-0/wood_and_metal_vol.2/wood16.aif",
+      "name": "Wood16",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood17.m4a",
+      "src": "wood-and-metal-vol-2-0/wood_and_metal_vol.2/wood17.aif",
+      "name": "Wood17",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood2.m4a",
+      "src": "wood-and-metal-vol-2-0/wood_and_metal_vol.2/wood2.aif",
+      "name": "Wood2",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood3.m4a",
+      "src": "wood-and-metal-vol-2-0/wood_and_metal_vol.2/wood3.aif",
+      "name": "Wood3",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood4.m4a",
+      "src": "wood-and-metal-vol-2-0/wood_and_metal_vol.2/wood4.aif",
+      "name": "Wood4",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood5.m4a",
+      "src": "wood-and-metal-vol-2-0/wood_and_metal_vol.2/wood5.aif",
+      "name": "Wood5",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood6.m4a",
+      "src": "wood-and-metal-vol-2-0/wood_and_metal_vol.2/wood6.aif",
+      "name": "Wood6",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood7.m4a",
+      "src": "wood-and-metal-vol-2-0/wood_and_metal_vol.2/wood7.aif",
+      "name": "Wood7",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood8.m4a",
+      "src": "wood-and-metal-vol-2-0/wood_and_metal_vol.2/wood8.aif",
+      "name": "Wood8",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood9.m4a",
+      "src": "wood-and-metal-vol-2-0/wood_and_metal_vol.2/wood9.aif",
+      "name": "Wood9",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

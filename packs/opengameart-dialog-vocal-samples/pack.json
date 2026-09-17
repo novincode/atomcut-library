@@ -1,0 +1,406 @@
+{
+  "id": "opengameart-dialog-vocal-samples",
+  "title": "Dialog vocal samples",
+  "blurb": "32 sounds — mostly Human and Creatures.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "mirceakitsune · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-mirceakitsune",
+    "name": "mirceakitsune"
+  },
+  "homepage": "https://opengameart.org/content/dialog-vocal-samples",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/demon-1.m4a",
+      "src": "vocal-samples/demon_1.ogg",
+      "name": "Demon 1",
+      "tags": [
+        "creature",
+        "vocal",
+        "demon",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/demon-2.m4a",
+      "src": "vocal-samples/demon_2.ogg",
+      "name": "Demon 2",
+      "tags": [
+        "creature",
+        "vocal",
+        "demon",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/demon-3.m4a",
+      "src": "vocal-samples/demon_3.ogg",
+      "name": "Demon 3",
+      "tags": [
+        "creature",
+        "vocal",
+        "demon",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/demon-4.m4a",
+      "src": "vocal-samples/demon_4.ogg",
+      "name": "Demon 4",
+      "tags": [
+        "creature",
+        "vocal",
+        "demon",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/female-light-1.m4a",
+      "src": "vocal-samples/female_light_1.ogg",
+      "name": "Female Light 1",
+      "tags": [
+        "human",
+        "vocal",
+        "female",
+        "light",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/female-light-2.m4a",
+      "src": "vocal-samples/female_light_2.ogg",
+      "name": "Female Light 2",
+      "tags": [
+        "human",
+        "vocal",
+        "female",
+        "light",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/female-light-3.m4a",
+      "src": "vocal-samples/female_light_3.ogg",
+      "name": "Female Light 3",
+      "tags": [
+        "human",
+        "vocal",
+        "female",
+        "light",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/female-light-4.m4a",
+      "src": "vocal-samples/female_light_4.ogg",
+      "name": "Female Light 4",
+      "tags": [
+        "human",
+        "vocal",
+        "female",
+        "light",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/female-standard-1.m4a",
+      "src": "vocal-samples/female_standard_1.ogg",
+      "name": "Female Standard 1",
+      "tags": [
+        "human",
+        "vocal",
+        "female",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/female-standard-2.m4a",
+      "src": "vocal-samples/female_standard_2.ogg",
+      "name": "Female Standard 2",
+      "tags": [
+        "human",
+        "vocal",
+        "female",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/female-standard-3.m4a",
+      "src": "vocal-samples/female_standard_3.ogg",
+      "name": "Female Standard 3",
+      "tags": [
+        "human",
+        "vocal",
+        "female",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/female-standard-4.m4a",
+      "src": "vocal-samples/female_standard_4.ogg",
+      "name": "Female Standard 4",
+      "tags": [
+        "human",
+        "vocal",
+        "female",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/male-deep-1.m4a",
+      "src": "vocal-samples/male_deep_1.ogg",
+      "name": "Male Deep 1",
+      "tags": [
+        "human",
+        "vocal",
+        "male",
+        "deep",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/male-deep-2.m4a",
+      "src": "vocal-samples/male_deep_2.ogg",
+      "name": "Male Deep 2",
+      "tags": [
+        "human",
+        "vocal",
+        "male",
+        "deep",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/male-deep-3.m4a",
+      "src": "vocal-samples/male_deep_3.ogg",
+      "name": "Male Deep 3",
+      "tags": [
+        "human",
+        "vocal",
+        "male",
+        "deep",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/male-deep-4.m4a",
+      "src": "vocal-samples/male_deep_4.ogg",
+      "name": "Male Deep 4",
+      "tags": [
+        "human",
+        "vocal",
+        "male",
+        "deep",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/male-standard-1.m4a",
+      "src": "vocal-samples/male_standard_1.ogg",
+      "name": "Male Standard 1",
+      "tags": [
+        "human",
+        "vocal",
+        "male",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/male-standard-2.m4a",
+      "src": "vocal-samples/male_standard_2.ogg",
+      "name": "Male Standard 2",
+      "tags": [
+        "human",
+        "vocal",
+        "male",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/male-standard-3.m4a",
+      "src": "vocal-samples/male_standard_3.ogg",
+      "name": "Male Standard 3",
+      "tags": [
+        "human",
+        "vocal",
+        "male",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/male-standard-4.m4a",
+      "src": "vocal-samples/male_standard_4.ogg",
+      "name": "Male Standard 4",
+      "tags": [
+        "human",
+        "vocal",
+        "male",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/quick-1.m4a",
+      "src": "vocal-samples/quick_1.ogg",
+      "name": "Quick 1",
+      "tags": [
+        "human",
+        "vocal",
+        "quick",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/quick-2.m4a",
+      "src": "vocal-samples/quick_2.ogg",
+      "name": "Quick 2",
+      "tags": [
+        "human",
+        "vocal",
+        "quick",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/quick-3.m4a",
+      "src": "vocal-samples/quick_3.ogg",
+      "name": "Quick 3",
+      "tags": [
+        "human",
+        "vocal",
+        "quick",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/quick-4.m4a",
+      "src": "vocal-samples/quick_4.ogg",
+      "name": "Quick 4",
+      "tags": [
+        "human",
+        "vocal",
+        "quick",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/robot-1.m4a",
+      "src": "vocal-samples/robot_1.ogg",
+      "name": "Robot 1",
+      "tags": [
+        "digital",
+        "vocal",
+        "robot",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/robot-2.m4a",
+      "src": "vocal-samples/robot_2.ogg",
+      "name": "Robot 2",
+      "tags": [
+        "digital",
+        "vocal",
+        "robot",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/robot-3.m4a",
+      "src": "vocal-samples/robot_3.ogg",
+      "name": "Robot 3",
+      "tags": [
+        "digital",
+        "vocal",
+        "robot",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/robot-4.m4a",
+      "src": "vocal-samples/robot_4.ogg",
+      "name": "Robot 4",
+      "tags": [
+        "digital",
+        "vocal",
+        "robot",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/whisper-1.m4a",
+      "src": "vocal-samples/whisper_1.ogg",
+      "name": "Whisper 1",
+      "tags": [
+        "human",
+        "vocal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/whisper-2.m4a",
+      "src": "vocal-samples/whisper_2.ogg",
+      "name": "Whisper 2",
+      "tags": [
+        "human",
+        "vocal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/whisper-3.m4a",
+      "src": "vocal-samples/whisper_3.ogg",
+      "name": "Whisper 3",
+      "tags": [
+        "human",
+        "vocal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/whisper-4.m4a",
+      "src": "vocal-samples/whisper_4.ogg",
+      "name": "Whisper 4",
+      "tags": [
+        "human",
+        "vocal",
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

@@ -1,0 +1,415 @@
+{
+  "id": "opengameart-female-rpg-voice-starter-pack",
+  "title": "Female RPG Voice Starter Pack",
+  "blurb": "30 sounds — mostly Interface.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "cicifyre · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-cicifyre",
+    "name": "cicifyre"
+  },
+  "homepage": "https://opengameart.org/content/female-rpg-voice-starter-pack",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/aqua.m4a",
+      "src": "rpg-20-voice-20-starter-20-pack/RPG Voice Starter Pack/Type 1/aqua.wav",
+      "name": "Aqua",
+      "tags": [
+        "interface",
+        "rpg",
+        "voice",
+        "type",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/attack1.m4a",
+      "src": "rpg-20-voice-20-starter-20-pack/RPG Voice Starter Pack/Type 1/attack1.wav",
+      "name": "Attack1",
+      "tags": [
+        "interface",
+        "rpg",
+        "voice",
+        "type",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/attack2.m4a",
+      "src": "rpg-20-voice-20-starter-20-pack/RPG Voice Starter Pack/Type 1/attack2.wav",
+      "name": "Attack2",
+      "tags": [
+        "interface",
+        "rpg",
+        "voice",
+        "type",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/attack3.m4a",
+      "src": "rpg-20-voice-20-starter-20-pack/RPG Voice Starter Pack/Type 1/attack3.wav",
+      "name": "Attack3",
+      "tags": [
+        "interface",
+        "rpg",
+        "voice",
+        "type",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/blizzard.m4a",
+      "src": "rpg-20-voice-20-starter-20-pack/RPG Voice Starter Pack/Type 1/blizzard.wav",
+      "name": "Blizzard",
+      "tags": [
+        "interface",
+        "rpg",
+        "voice",
+        "type",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bubbles.m4a",
+      "src": "rpg-20-voice-20-starter-20-pack/RPG Voice Starter Pack/Type 1/bubbles.wav",
+      "name": "Bubbles",
+      "tags": [
+        "interface",
+        "rpg",
+        "voice",
+        "type",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/burn.m4a",
+      "src": "rpg-20-voice-20-starter-20-pack/RPG Voice Starter Pack/Type 1/burn.wav",
+      "name": "Burn",
+      "tags": [
+        "interface",
+        "rpg",
+        "voice",
+        "type",
+        "burn",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/corruption.m4a",
+      "src": "rpg-20-voice-20-starter-20-pack/RPG Voice Starter Pack/Type 1/corruption.wav",
+      "name": "Corruption",
+      "tags": [
+        "interface",
+        "rpg",
+        "voice",
+        "type",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/cure.m4a",
+      "src": "rpg-20-voice-20-starter-20-pack/RPG Voice Starter Pack/Type 1/cure.wav",
+      "name": "Cure",
+      "tags": [
+        "interface",
+        "rpg",
+        "voice",
+        "type",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/curse.m4a",
+      "src": "rpg-20-voice-20-starter-20-pack/RPG Voice Starter Pack/Type 1/curse.wav",
+      "name": "Curse",
+      "tags": [
+        "interface",
+        "rpg",
+        "voice",
+        "type",
+        "curse",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/cyclone.m4a",
+      "src": "rpg-20-voice-20-starter-20-pack/RPG Voice Starter Pack/Type 1/cyclone.wav",
+      "name": "Cyclone",
+      "tags": [
+        "interface",
+        "rpg",
+        "voice",
+        "type",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/damaged1.m4a",
+      "src": "rpg-20-voice-20-starter-20-pack/RPG Voice Starter Pack/Type 1/damaged1.wav",
+      "name": "Damaged1",
+      "tags": [
+        "interface",
+        "rpg",
+        "voice",
+        "type",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/damaged2.m4a",
+      "src": "rpg-20-voice-20-starter-20-pack/RPG Voice Starter Pack/Type 1/damaged2.wav",
+      "name": "Damaged2",
+      "tags": [
+        "interface",
+        "rpg",
+        "voice",
+        "type",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/damaged3.m4a",
+      "src": "rpg-20-voice-20-starter-20-pack/RPG Voice Starter Pack/Type 1/damaged3.wav",
+      "name": "Damaged3",
+      "tags": [
+        "interface",
+        "rpg",
+        "voice",
+        "type",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/fire.m4a",
+      "src": "rpg-20-voice-20-starter-20-pack/RPG Voice Starter Pack/Type 1/fire.wav",
+      "name": "Fire",
+      "tags": [
+        "interface",
+        "rpg",
+        "voice",
+        "type",
+        "fire",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/freeze.m4a",
+      "src": "rpg-20-voice-20-starter-20-pack/RPG Voice Starter Pack/Type 1/freeze.wav",
+      "name": "Freeze",
+      "tags": [
+        "interface",
+        "rpg",
+        "voice",
+        "type",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/heal.m4a",
+      "src": "rpg-20-voice-20-starter-20-pack/RPG Voice Starter Pack/Type 1/heal.wav",
+      "name": "Heal",
+      "tags": [
+        "interface",
+        "rpg",
+        "voice",
+        "type",
+        "heal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/healed1.m4a",
+      "src": "rpg-20-voice-20-starter-20-pack/RPG Voice Starter Pack/Type 1/healed1.wav",
+      "name": "Healed1",
+      "tags": [
+        "interface",
+        "rpg",
+        "voice",
+        "type",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/healed2.m4a",
+      "src": "rpg-20-voice-20-starter-20-pack/RPG Voice Starter Pack/Type 1/healed2.wav",
+      "name": "Healed2",
+      "tags": [
+        "interface",
+        "rpg",
+        "voice",
+        "type",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/healed3.m4a",
+      "src": "rpg-20-voice-20-starter-20-pack/RPG Voice Starter Pack/Type 1/healed3.wav",
+      "name": "Healed3",
+      "tags": [
+        "interface",
+        "rpg",
+        "voice",
+        "type",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hellstorm.m4a",
+      "src": "rpg-20-voice-20-starter-20-pack/RPG Voice Starter Pack/Type 1/hellstorm.wav",
+      "name": "Hellstorm",
+      "tags": [
+        "interface",
+        "rpg",
+        "voice",
+        "type",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hex.m4a",
+      "src": "rpg-20-voice-20-starter-20-pack/RPG Voice Starter Pack/Type 1/hex.wav",
+      "name": "Hex",
+      "tags": [
+        "interface",
+        "rpg",
+        "voice",
+        "type",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/ice.m4a",
+      "src": "rpg-20-voice-20-starter-20-pack/RPG Voice Starter Pack/Type 1/ice.wav",
+      "name": "Ice",
+      "tags": [
+        "interface",
+        "rpg",
+        "voice",
+        "type",
+        "ice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jump1.m4a",
+      "src": "rpg-20-voice-20-starter-20-pack/RPG Voice Starter Pack/Type 1/jump1.wav",
+      "name": "Jump1",
+      "tags": [
+        "interface",
+        "rpg",
+        "voice",
+        "type",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jump2.m4a",
+      "src": "rpg-20-voice-20-starter-20-pack/RPG Voice Starter Pack/Type 1/jump2.wav",
+      "name": "Jump2",
+      "tags": [
+        "interface",
+        "rpg",
+        "voice",
+        "type",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jump3.m4a",
+      "src": "rpg-20-voice-20-starter-20-pack/RPG Voice Starter Pack/Type 1/jump3.wav",
+      "name": "Jump3",
+      "tags": [
+        "interface",
+        "rpg",
+        "voice",
+        "type",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/tornado.m4a",
+      "src": "rpg-20-voice-20-starter-20-pack/RPG Voice Starter Pack/Type 1/tornado.wav",
+      "name": "Tornado",
+      "tags": [
+        "interface",
+        "rpg",
+        "voice",
+        "type",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/twister.m4a",
+      "src": "rpg-20-voice-20-starter-20-pack/RPG Voice Starter Pack/Type 1/twister.wav",
+      "name": "Twister",
+      "tags": [
+        "interface",
+        "rpg",
+        "voice",
+        "type",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/water.m4a",
+      "src": "rpg-20-voice-20-starter-20-pack/RPG Voice Starter Pack/Type 1/water.wav",
+      "name": "Water",
+      "tags": [
+        "interface",
+        "rpg",
+        "voice",
+        "type",
+        "water",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wind.m4a",
+      "src": "rpg-20-voice-20-starter-20-pack/RPG Voice Starter Pack/Type 1/wind.wav",
+      "name": "Wind",
+      "tags": [
+        "interface",
+        "rpg",
+        "voice",
+        "type",
+        "wind",
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

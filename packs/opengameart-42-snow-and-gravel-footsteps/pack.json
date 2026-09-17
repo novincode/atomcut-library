@@ -1,0 +1,462 @@
+{
+  "id": "opengameart-42-snow-and-gravel-footsteps",
+  "title": "42 Snow and Gravel Footsteps",
+  "blurb": "42 sounds — mostly Nature.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "qubodup · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-qubodup",
+    "name": "qubodup"
+  },
+  "homepage": "https://opengameart.org/content/42-snow-and-gravel-footsteps",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/corsica-s-walking-on-snow-covered-gravel-01.m4a",
+      "name": "Corsica Walking On Snow Covered Gravel 1",
+      "tags": [
+        "nature",
+        "snow",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/corsica-s-walking-on-snow-covered-gravel-02.m4a",
+      "name": "Corsica Walking On Snow Covered Gravel 2",
+      "tags": [
+        "nature",
+        "snow",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/corsica-s-walking-on-snow-covered-gravel-03.m4a",
+      "name": "Corsica Walking On Snow Covered Gravel 3",
+      "tags": [
+        "nature",
+        "snow",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/corsica-s-walking-on-snow-covered-gravel-04.m4a",
+      "name": "Corsica Walking On Snow Covered Gravel 4",
+      "tags": [
+        "nature",
+        "snow",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/corsica-s-walking-on-snow-covered-gravel-05.m4a",
+      "name": "Corsica Walking On Snow Covered Gravel 5",
+      "tags": [
+        "nature",
+        "snow",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/corsica-s-walking-on-snow-covered-gravel-06.m4a",
+      "name": "Corsica Walking On Snow Covered Gravel 6",
+      "tags": [
+        "nature",
+        "snow",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/corsica-s-walking-on-snow-covered-gravel-07.m4a",
+      "name": "Corsica Walking On Snow Covered Gravel 7",
+      "tags": [
+        "nature",
+        "snow",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/corsica-s-walking-on-snow-covered-gravel-08.m4a",
+      "name": "Corsica Walking On Snow Covered Gravel 8",
+      "tags": [
+        "nature",
+        "snow",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/corsica-s-walking-on-snow-covered-gravel-09.m4a",
+      "name": "Corsica Walking On Snow Covered Gravel 9",
+      "tags": [
+        "nature",
+        "snow",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/corsica-s-walking-on-snow-covered-gravel-10.m4a",
+      "name": "Corsica Walking On Snow Covered Gravel 10",
+      "tags": [
+        "nature",
+        "snow",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/corsica-s-walking-on-snow-covered-gravel-11.m4a",
+      "name": "Corsica Walking On Snow Covered Gravel 11",
+      "tags": [
+        "nature",
+        "snow",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/corsica-s-walking-on-snow-covered-gravel-12.m4a",
+      "name": "Corsica Walking On Snow Covered Gravel 12",
+      "tags": [
+        "nature",
+        "snow",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/corsica-s-walking-on-snow-covered-gravel-13.m4a",
+      "name": "Corsica Walking On Snow Covered Gravel 13",
+      "tags": [
+        "nature",
+        "snow",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/corsica-s-walking-on-snow-covered-gravel-14.m4a",
+      "name": "Corsica Walking On Snow Covered Gravel 14",
+      "tags": [
+        "nature",
+        "snow",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/corsica-s-walking-on-snow-covered-gravel-15.m4a",
+      "name": "Corsica Walking On Snow Covered Gravel 15",
+      "tags": [
+        "nature",
+        "snow",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/corsica-s-walking-on-snow-covered-gravel-16.m4a",
+      "name": "Corsica Walking On Snow Covered Gravel 16",
+      "tags": [
+        "nature",
+        "snow",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/corsica-s-walking-on-snow-covered-gravel-17.m4a",
+      "name": "Corsica Walking On Snow Covered Gravel 17",
+      "tags": [
+        "nature",
+        "snow",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/corsica-s-walking-on-snow-covered-gravel-18.m4a",
+      "name": "Corsica Walking On Snow Covered Gravel 18",
+      "tags": [
+        "nature",
+        "snow",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/corsica-s-walking-on-snow-covered-gravel-and-ice-01.m4a",
+      "name": "Corsica Walking On Snow Covered Gravel Ice 1",
+      "tags": [
+        "nature",
+        "snow",
+        "ice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/corsica-s-walking-on-snow-covered-gravel-and-ice-02.m4a",
+      "name": "Corsica Walking On Snow Covered Gravel Ice 2",
+      "tags": [
+        "nature",
+        "snow",
+        "ice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/corsica-s-walking-on-snow-covered-gravel-and-ice-03.m4a",
+      "name": "Corsica Walking On Snow Covered Gravel Ice 3",
+      "tags": [
+        "nature",
+        "snow",
+        "ice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/corsica-s-walking-on-snow-covered-gravel-and-ice-04.m4a",
+      "name": "Corsica Walking On Snow Covered Gravel Ice 4",
+      "tags": [
+        "nature",
+        "snow",
+        "ice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/corsica-s-walking-on-snow-covered-gravel-and-ice-05.m4a",
+      "name": "Corsica Walking On Snow Covered Gravel Ice 5",
+      "tags": [
+        "nature",
+        "snow",
+        "ice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/corsica-s-walking-on-snow-covered-gravel-and-ice-06.m4a",
+      "name": "Corsica Walking On Snow Covered Gravel Ice 6",
+      "tags": [
+        "nature",
+        "snow",
+        "ice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/corsica-s-walking-on-snow-covered-gravel-and-ice-07.m4a",
+      "name": "Corsica Walking On Snow Covered Gravel Ice 7",
+      "tags": [
+        "nature",
+        "snow",
+        "ice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/corsica-s-walking-on-snow-covered-gravel-and-ice-08.m4a",
+      "name": "Corsica Walking On Snow Covered Gravel Ice 8",
+      "tags": [
+        "nature",
+        "snow",
+        "ice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/corsica-s-walking-on-snow-covered-gravel-and-ice-09.m4a",
+      "name": "Corsica Walking On Snow Covered Gravel Ice 9",
+      "tags": [
+        "nature",
+        "snow",
+        "ice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/corsica-s-walking-on-snow-covered-gravel-and-ice-10.m4a",
+      "name": "Corsica Walking On Snow Covered Gravel Ice 10",
+      "tags": [
+        "nature",
+        "snow",
+        "ice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/corsica-s-walking-on-snow-covered-gravel-and-ice-11.m4a",
+      "name": "Corsica Walking On Snow Covered Gravel Ice 11",
+      "tags": [
+        "nature",
+        "snow",
+        "ice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/corsica-s-walking-on-snow-covered-gravel-and-ice-12.m4a",
+      "name": "Corsica Walking On Snow Covered Gravel Ice 12",
+      "tags": [
+        "nature",
+        "snow",
+        "ice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/corsica-s-walking-on-snow-covered-gravel-and-ice-13.m4a",
+      "name": "Corsica Walking On Snow Covered Gravel Ice 13",
+      "tags": [
+        "nature",
+        "snow",
+        "ice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/corsica-s-walking-on-snow-covered-gravel-and-ice-14.m4a",
+      "name": "Corsica Walking On Snow Covered Gravel Ice 14",
+      "tags": [
+        "nature",
+        "snow",
+        "ice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/corsica-s-walking-on-snow-covered-gravel-and-ice-15.m4a",
+      "name": "Corsica Walking On Snow Covered Gravel Ice 15",
+      "tags": [
+        "nature",
+        "snow",
+        "ice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/corsica-s-walking-on-snow-covered-gravel-and-ice-16.m4a",
+      "name": "Corsica Walking On Snow Covered Gravel Ice 16",
+      "tags": [
+        "nature",
+        "snow",
+        "ice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/corsica-s-walking-on-snow-covered-gravel-and-ice-17.m4a",
+      "name": "Corsica Walking On Snow Covered Gravel Ice 17",
+      "tags": [
+        "nature",
+        "snow",
+        "ice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/corsica-s-walking-on-snow-covered-gravel-and-ice-18.m4a",
+      "name": "Corsica Walking On Snow Covered Gravel Ice 18",
+      "tags": [
+        "nature",
+        "snow",
+        "ice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/corsica-s-walking-on-snow-covered-gravel-and-ice-19.m4a",
+      "name": "Corsica Walking On Snow Covered Gravel Ice 19",
+      "tags": [
+        "nature",
+        "snow",
+        "ice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/corsica-s-walking-on-snow-covered-gravel-and-ice-20.m4a",
+      "name": "Corsica Walking On Snow Covered Gravel Ice 20",
+      "tags": [
+        "nature",
+        "snow",
+        "ice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/corsica-s-walking-on-snow-covered-gravel-and-ice-21.m4a",
+      "name": "Corsica Walking On Snow Covered Gravel Ice 21",
+      "tags": [
+        "nature",
+        "snow",
+        "ice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/corsica-s-walking-on-snow-covered-gravel-and-ice-22.m4a",
+      "name": "Corsica Walking On Snow Covered Gravel Ice 22",
+      "tags": [
+        "nature",
+        "snow",
+        "ice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/corsica-s-walking-on-snow-covered-gravel-and-ice-23.m4a",
+      "name": "Corsica Walking On Snow Covered Gravel Ice 23",
+      "tags": [
+        "nature",
+        "snow",
+        "ice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/corsica-s-walking-on-snow-covered-gravel-and-ice-24.m4a",
+      "name": "Corsica Walking On Snow Covered Gravel Ice 24",
+      "tags": [
+        "nature",
+        "snow",
+        "ice",
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "id": "opengameart-retro-shooter-sound-effects",
+  "title": "Retro Shooter Sound Effects",
+  "blurb": "9 sounds — mostly Digital.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "muncheybobo · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-muncheybobo",
+    "name": "muncheybobo"
+  },
+  "homepage": "https://opengameart.org/content/retro-shooter-sound-effects",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/fire-1.m4a",
+      "src": "misc-20-lasers/Fire 1.mp3",
+      "name": "Fire 1",
+      "tags": [
+        "digital",
+        "laser",
+        "fire",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/fire-2.m4a",
+      "src": "misc-20-lasers/Fire 2.mp3",
+      "name": "Fire 2",
+      "tags": [
+        "digital",
+        "laser",
+        "fire",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/fire-3.m4a",
+      "src": "misc-20-lasers/Fire 3.mp3",
+      "name": "Fire 3",
+      "tags": [
+        "digital",
+        "laser",
+        "fire",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/fire-4.m4a",
+      "src": "misc-20-lasers/Fire 4.mp3",
+      "name": "Fire 4",
+      "tags": [
+        "digital",
+        "laser",
+        "fire",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/fire-5.m4a",
+      "src": "misc-20-lasers/Fire 5.mp3",
+      "name": "Fire 5",
+      "tags": [
+        "digital",
+        "laser",
+        "fire",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/fire-6.m4a",
+      "src": "misc-20-lasers/Fire 6.mp3",
+      "name": "Fire 6",
+      "tags": [
+        "digital",
+        "laser",
+        "fire",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/game-over.m4a",
+      "src": "misc-20-lasers/Game Over.mp3",
+      "name": "Game Over",
+      "tags": [
+        "digital",
+        "laser",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit-1.m4a",
+      "src": "misc-20-lasers/Hit 1.mp3",
+      "name": "Hit",
+      "tags": [
+        "digital",
+        "laser",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/misc-lasers.m4a",
+      "src": "misc-20-lasers/Misc Lasers.mp3",
+      "name": "Misc Lasers",
+      "tags": [
+        "digital",
+        "laser",
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

@@ -1,0 +1,1248 @@
+{
+  "id": "opengameart-100-cc0-metal-and-wood-sfx",
+  "title": "100 metal and wood SFX",
+  "blurb": "100 sounds — mostly Foley and Impacts.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "rubberduck · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-rubberduck",
+    "name": "rubberduck"
+  },
+  "homepage": "https://opengameart.org/content/100-cc0-metal-and-wood-sfx",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/door-open-01.m4a",
+      "src": "100-cc0-wood-metal-sfx/door_open_01.ogg",
+      "name": "Door Open",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "door",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hammer-01.m4a",
+      "src": "100-cc0-wood-metal-sfx/hammer_01.ogg",
+      "name": "Hammer 1",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hammer-02.m4a",
+      "src": "100-cc0-wood-metal-sfx/hammer_02.ogg",
+      "name": "Hammer 2",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hammer-03.m4a",
+      "src": "100-cc0-wood-metal-sfx/hammer_03.ogg",
+      "name": "Hammer 3",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hammer-04.m4a",
+      "src": "100-cc0-wood-metal-sfx/hammer_04.ogg",
+      "name": "Hammer 4",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/keys-01.m4a",
+      "src": "100-cc0-wood-metal-sfx/keys_01.ogg",
+      "name": "Keys 1",
+      "tags": [
+        "interface",
+        "wood",
+        "metal",
+        "key",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/keys-02.m4a",
+      "src": "100-cc0-wood-metal-sfx/keys_02.ogg",
+      "name": "Keys 2",
+      "tags": [
+        "interface",
+        "wood",
+        "metal",
+        "key",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/keys-03.m4a",
+      "src": "100-cc0-wood-metal-sfx/keys_03.ogg",
+      "name": "Keys 3",
+      "tags": [
+        "interface",
+        "wood",
+        "metal",
+        "key",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/keys-04.m4a",
+      "src": "100-cc0-wood-metal-sfx/keys_04.ogg",
+      "name": "Keys 4",
+      "tags": [
+        "interface",
+        "wood",
+        "metal",
+        "key",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/keys-05.m4a",
+      "src": "100-cc0-wood-metal-sfx/keys_05.ogg",
+      "name": "Keys 5",
+      "tags": [
+        "interface",
+        "wood",
+        "metal",
+        "key",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/keys-06.m4a",
+      "src": "100-cc0-wood-metal-sfx/keys_06.ogg",
+      "name": "Keys 6",
+      "tags": [
+        "interface",
+        "wood",
+        "metal",
+        "key",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/keys-07.m4a",
+      "src": "100-cc0-wood-metal-sfx/keys_07.ogg",
+      "name": "Keys 7",
+      "tags": [
+        "interface",
+        "wood",
+        "metal",
+        "key",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/lock-open-01.m4a",
+      "src": "100-cc0-wood-metal-sfx/lock_open_01.ogg",
+      "name": "Lock Open",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "lock",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/metal-close-01.m4a",
+      "src": "100-cc0-wood-metal-sfx/metal_close_01.ogg",
+      "name": "Metal Close",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/metal-falling-01.m4a",
+      "src": "100-cc0-wood-metal-sfx/metal_falling_01.ogg",
+      "name": "Metal Falling 1",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/metal-falling-02.m4a",
+      "src": "100-cc0-wood-metal-sfx/metal_falling_02.ogg",
+      "name": "Metal Falling 2",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/metal-hit-01.m4a",
+      "src": "100-cc0-wood-metal-sfx/metal_hit_01.ogg",
+      "name": "Metal Hit 1",
+      "tags": [
+        "impact",
+        "wood",
+        "metal",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/metal-hit-02.m4a",
+      "src": "100-cc0-wood-metal-sfx/metal_hit_02.ogg",
+      "name": "Metal Hit 2",
+      "tags": [
+        "impact",
+        "wood",
+        "metal",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/metal-hit-03.m4a",
+      "src": "100-cc0-wood-metal-sfx/metal_hit_03.ogg",
+      "name": "Metal Hit 3",
+      "tags": [
+        "impact",
+        "wood",
+        "metal",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/metal-hit-04.m4a",
+      "src": "100-cc0-wood-metal-sfx/metal_hit_04.ogg",
+      "name": "Metal Hit 4",
+      "tags": [
+        "impact",
+        "wood",
+        "metal",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/metal-hit-05.m4a",
+      "src": "100-cc0-wood-metal-sfx/metal_hit_05.ogg",
+      "name": "Metal Hit 5",
+      "tags": [
+        "impact",
+        "wood",
+        "metal",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/metal-open-01.m4a",
+      "src": "100-cc0-wood-metal-sfx/metal_open_01.ogg",
+      "name": "Metal Open",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/metal-sheet-01.m4a",
+      "src": "100-cc0-wood-metal-sfx/metal_sheet_01.ogg",
+      "name": "Metal Sheet 1",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/metal-sheet-02.m4a",
+      "src": "100-cc0-wood-metal-sfx/metal_sheet_02.ogg",
+      "name": "Metal Sheet 2",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/metal-sheet-03.m4a",
+      "src": "100-cc0-wood-metal-sfx/metal_sheet_03.ogg",
+      "name": "Metal Sheet 3",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/metal-sheet-04.m4a",
+      "src": "100-cc0-wood-metal-sfx/metal_sheet_04.ogg",
+      "name": "Metal Sheet 4",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/metal-sheet-05.m4a",
+      "src": "100-cc0-wood-metal-sfx/metal_sheet_05.ogg",
+      "name": "Metal Sheet 5",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/metal-sheet-06.m4a",
+      "src": "100-cc0-wood-metal-sfx/metal_sheet_06.ogg",
+      "name": "Metal Sheet 6",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/metal-slam-01.m4a",
+      "src": "100-cc0-wood-metal-sfx/metal_slam_01.ogg",
+      "name": "Metal Slam",
+      "tags": [
+        "impact",
+        "wood",
+        "metal",
+        "slam",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/metal-spring-01.m4a",
+      "src": "100-cc0-wood-metal-sfx/metal_spring_01.ogg",
+      "name": "Metal Spring 1",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/metal-spring-02.m4a",
+      "src": "100-cc0-wood-metal-sfx/metal_spring_02.ogg",
+      "name": "Metal Spring 2",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/misc-01.m4a",
+      "src": "100-cc0-wood-metal-sfx/misc_01.ogg",
+      "name": "Misc 1",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/misc-02.m4a",
+      "src": "100-cc0-wood-metal-sfx/misc_02.ogg",
+      "name": "Misc 2",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/misc-03.m4a",
+      "src": "100-cc0-wood-metal-sfx/misc_03.ogg",
+      "name": "Misc 3",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/misc-04.m4a",
+      "src": "100-cc0-wood-metal-sfx/misc_04.ogg",
+      "name": "Misc 4",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/misc-05.m4a",
+      "src": "100-cc0-wood-metal-sfx/misc_05.ogg",
+      "name": "Misc 5",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/misc-06.m4a",
+      "src": "100-cc0-wood-metal-sfx/misc_06.ogg",
+      "name": "Misc 6",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/misc-07.m4a",
+      "src": "100-cc0-wood-metal-sfx/misc_07.ogg",
+      "name": "Misc 7",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/misc-08.m4a",
+      "src": "100-cc0-wood-metal-sfx/misc_08.ogg",
+      "name": "Misc 8",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/misc-09.m4a",
+      "src": "100-cc0-wood-metal-sfx/misc_09.ogg",
+      "name": "Misc 9",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/misc-10.m4a",
+      "src": "100-cc0-wood-metal-sfx/misc_10.ogg",
+      "name": "Misc 10",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/misc-11.m4a",
+      "src": "100-cc0-wood-metal-sfx/misc_11.ogg",
+      "name": "Misc 11",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/misc-12.m4a",
+      "src": "100-cc0-wood-metal-sfx/misc_12.ogg",
+      "name": "Misc 12",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/misc-13.m4a",
+      "src": "100-cc0-wood-metal-sfx/misc_13.ogg",
+      "name": "Misc 13",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/misc-14.m4a",
+      "src": "100-cc0-wood-metal-sfx/misc_14.ogg",
+      "name": "Misc 14",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/misc-15.m4a",
+      "src": "100-cc0-wood-metal-sfx/misc_15.ogg",
+      "name": "Misc 15",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/misc-16.m4a",
+      "src": "100-cc0-wood-metal-sfx/misc_16.ogg",
+      "name": "Misc 16",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/misc-17.m4a",
+      "src": "100-cc0-wood-metal-sfx/misc_17.ogg",
+      "name": "Misc 17",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/tools-01.m4a",
+      "src": "100-cc0-wood-metal-sfx/tools_01.ogg",
+      "name": "Tools 1",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/tools-02.m4a",
+      "src": "100-cc0-wood-metal-sfx/tools_02.ogg",
+      "name": "Tools 2",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/tools-03.m4a",
+      "src": "100-cc0-wood-metal-sfx/tools_03.ogg",
+      "name": "Tools 3",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/tools-04.m4a",
+      "src": "100-cc0-wood-metal-sfx/tools_04.ogg",
+      "name": "Tools 4",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/tools-05.m4a",
+      "src": "100-cc0-wood-metal-sfx/tools_05.ogg",
+      "name": "Tools 5",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/tools-06.m4a",
+      "src": "100-cc0-wood-metal-sfx/tools_06.ogg",
+      "name": "Tools 6",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/tools-07.m4a",
+      "src": "100-cc0-wood-metal-sfx/tools_07.ogg",
+      "name": "Tools 7",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/tools-08.m4a",
+      "src": "100-cc0-wood-metal-sfx/tools_08.ogg",
+      "name": "Tools 8",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/tools-09.m4a",
+      "src": "100-cc0-wood-metal-sfx/tools_09.ogg",
+      "name": "Tools 9",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/tools-10.m4a",
+      "src": "100-cc0-wood-metal-sfx/tools_10.ogg",
+      "name": "Tools 10",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/tools-11.m4a",
+      "src": "100-cc0-wood-metal-sfx/tools_11.ogg",
+      "name": "Tools 11",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/tools-12.m4a",
+      "src": "100-cc0-wood-metal-sfx/tools_12.ogg",
+      "name": "Tools 12",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-breaking-01.m4a",
+      "src": "100-cc0-wood-metal-sfx/wood_breaking_01.ogg",
+      "name": "Wood Breaking 1",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-breaking-02.m4a",
+      "src": "100-cc0-wood-metal-sfx/wood_breaking_02.ogg",
+      "name": "Wood Breaking 2",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-close-01.m4a",
+      "src": "100-cc0-wood-metal-sfx/wood_close_01.ogg",
+      "name": "Wood Close 1",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-close-02.m4a",
+      "src": "100-cc0-wood-metal-sfx/wood_close_02.ogg",
+      "name": "Wood Close 2",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-cracking-01.m4a",
+      "src": "100-cc0-wood-metal-sfx/wood_cracking_01.ogg",
+      "name": "Wood Cracking 1",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-cracking-02.m4a",
+      "src": "100-cc0-wood-metal-sfx/wood_cracking_02.ogg",
+      "name": "Wood Cracking 2",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-cracking-03.m4a",
+      "src": "100-cc0-wood-metal-sfx/wood_cracking_03.ogg",
+      "name": "Wood Cracking 3",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-cracking-04.m4a",
+      "src": "100-cc0-wood-metal-sfx/wood_cracking_04.ogg",
+      "name": "Wood Cracking 4",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-falling-01.m4a",
+      "src": "100-cc0-wood-metal-sfx/wood_falling_01.ogg",
+      "name": "Wood Falling 1",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-falling-02.m4a",
+      "src": "100-cc0-wood-metal-sfx/wood_falling_02.ogg",
+      "name": "Wood Falling 2",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-falling-03.m4a",
+      "src": "100-cc0-wood-metal-sfx/wood_falling_03.ogg",
+      "name": "Wood Falling 3",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-falling-04.m4a",
+      "src": "100-cc0-wood-metal-sfx/wood_falling_04.ogg",
+      "name": "Wood Falling 4",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-falling-05.m4a",
+      "src": "100-cc0-wood-metal-sfx/wood_falling_05.ogg",
+      "name": "Wood Falling 5",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-falling-06.m4a",
+      "src": "100-cc0-wood-metal-sfx/wood_falling_06.ogg",
+      "name": "Wood Falling 6",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-hammer-01.m4a",
+      "src": "100-cc0-wood-metal-sfx/wood_hammer_01.ogg",
+      "name": "Wood Hammer 1",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-hammer-02.m4a",
+      "src": "100-cc0-wood-metal-sfx/wood_hammer_02.ogg",
+      "name": "Wood Hammer 2",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-hit-01.m4a",
+      "src": "100-cc0-wood-metal-sfx/wood_hit_01.ogg",
+      "name": "Wood Hit 1",
+      "tags": [
+        "impact",
+        "wood",
+        "metal",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-hit-02.m4a",
+      "src": "100-cc0-wood-metal-sfx/wood_hit_02.ogg",
+      "name": "Wood Hit 2",
+      "tags": [
+        "impact",
+        "wood",
+        "metal",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-hit-03.m4a",
+      "src": "100-cc0-wood-metal-sfx/wood_hit_03.ogg",
+      "name": "Wood Hit 3",
+      "tags": [
+        "impact",
+        "wood",
+        "metal",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-hit-04.m4a",
+      "src": "100-cc0-wood-metal-sfx/wood_hit_04.ogg",
+      "name": "Wood Hit 4",
+      "tags": [
+        "impact",
+        "wood",
+        "metal",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-hit-05.m4a",
+      "src": "100-cc0-wood-metal-sfx/wood_hit_05.ogg",
+      "name": "Wood Hit 5",
+      "tags": [
+        "impact",
+        "wood",
+        "metal",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-hit-06.m4a",
+      "src": "100-cc0-wood-metal-sfx/wood_hit_06.ogg",
+      "name": "Wood Hit 6",
+      "tags": [
+        "impact",
+        "wood",
+        "metal",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-hit-07.m4a",
+      "src": "100-cc0-wood-metal-sfx/wood_hit_07.ogg",
+      "name": "Wood Hit 7",
+      "tags": [
+        "impact",
+        "wood",
+        "metal",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-hit-08.m4a",
+      "src": "100-cc0-wood-metal-sfx/wood_hit_08.ogg",
+      "name": "Wood Hit 8",
+      "tags": [
+        "impact",
+        "wood",
+        "metal",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-hit-09.m4a",
+      "src": "100-cc0-wood-metal-sfx/wood_hit_09.ogg",
+      "name": "Wood Hit 9",
+      "tags": [
+        "impact",
+        "wood",
+        "metal",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-misc-01.m4a",
+      "src": "100-cc0-wood-metal-sfx/wood_misc_01.ogg",
+      "name": "Wood Misc 1",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-misc-02.m4a",
+      "src": "100-cc0-wood-metal-sfx/wood_misc_02.ogg",
+      "name": "Wood Misc 2",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-misc-03.m4a",
+      "src": "100-cc0-wood-metal-sfx/wood_misc_03.ogg",
+      "name": "Wood Misc 3",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-misc-04.m4a",
+      "src": "100-cc0-wood-metal-sfx/wood_misc_04.ogg",
+      "name": "Wood Misc 4",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-misc-05.m4a",
+      "src": "100-cc0-wood-metal-sfx/wood_misc_05.ogg",
+      "name": "Wood Misc 5",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-misc-06.m4a",
+      "src": "100-cc0-wood-metal-sfx/wood_misc_06.ogg",
+      "name": "Wood Misc 6",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-misc-07.m4a",
+      "src": "100-cc0-wood-metal-sfx/wood_misc_07.ogg",
+      "name": "Wood Misc 7",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-misc-08.m4a",
+      "src": "100-cc0-wood-metal-sfx/wood_misc_08.ogg",
+      "name": "Wood Misc 8",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-misc-09.m4a",
+      "src": "100-cc0-wood-metal-sfx/wood_misc_09.ogg",
+      "name": "Wood Misc 9",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-slam-01.m4a",
+      "src": "100-cc0-wood-metal-sfx/wood_slam_01.ogg",
+      "name": "Wood Slam 1",
+      "tags": [
+        "impact",
+        "wood",
+        "metal",
+        "slam",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-slam-02.m4a",
+      "src": "100-cc0-wood-metal-sfx/wood_slam_02.ogg",
+      "name": "Wood Slam 2",
+      "tags": [
+        "impact",
+        "wood",
+        "metal",
+        "slam",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-slam-03.m4a",
+      "src": "100-cc0-wood-metal-sfx/wood_slam_03.ogg",
+      "name": "Wood Slam 3",
+      "tags": [
+        "impact",
+        "wood",
+        "metal",
+        "slam",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-slam-04.m4a",
+      "src": "100-cc0-wood-metal-sfx/wood_slam_04.ogg",
+      "name": "Wood Slam 4",
+      "tags": [
+        "impact",
+        "wood",
+        "metal",
+        "slam",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-squeak-01.m4a",
+      "src": "100-cc0-wood-metal-sfx/wood_squeak_01.ogg",
+      "name": "Wood Squeak 1",
+      "tags": [
+        "creature",
+        "wood",
+        "metal",
+        "squeak",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-squeak-02.m4a",
+      "src": "100-cc0-wood-metal-sfx/wood_squeak_02.ogg",
+      "name": "Wood Squeak 2",
+      "tags": [
+        "creature",
+        "wood",
+        "metal",
+        "squeak",
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

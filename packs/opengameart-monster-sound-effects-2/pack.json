@@ -1,0 +1,205 @@
+{
+  "id": "opengameart-monster-sound-effects-2",
+  "title": "Monster Sound Effects 2",
+  "blurb": "17 sounds — mostly Creatures.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "ogrebane · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-ogrebane",
+    "name": "ogrebane"
+  },
+  "homepage": "https://opengameart.org/content/monster-sound-effects-2",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/monster-1.m4a",
+      "src": "monster-sfx-pack-2/monster_sfx_pack_2/monster-1.wav",
+      "name": "Monster 1",
+      "tags": [
+        "creature",
+        "monster",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/monster-10.m4a",
+      "src": "monster-sfx-pack-2/monster_sfx_pack_2/monster-10.wav",
+      "name": "Monster 10",
+      "tags": [
+        "creature",
+        "monster",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/monster-11.m4a",
+      "src": "monster-sfx-pack-2/monster_sfx_pack_2/monster-11.wav",
+      "name": "Monster 11",
+      "tags": [
+        "creature",
+        "monster",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/monster-12.m4a",
+      "src": "monster-sfx-pack-2/monster_sfx_pack_2/monster-12.wav",
+      "name": "Monster 12",
+      "tags": [
+        "creature",
+        "monster",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/monster-13.m4a",
+      "src": "monster-sfx-pack-2/monster_sfx_pack_2/monster-13.wav",
+      "name": "Monster 13",
+      "tags": [
+        "creature",
+        "monster",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/monster-14.m4a",
+      "src": "monster-sfx-pack-2/monster_sfx_pack_2/monster-14.wav",
+      "name": "Monster 14",
+      "tags": [
+        "creature",
+        "monster",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/monster-15.m4a",
+      "src": "monster-sfx-pack-2/monster_sfx_pack_2/monster-15.wav",
+      "name": "Monster 15",
+      "tags": [
+        "creature",
+        "monster",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/monster-16.m4a",
+      "src": "monster-sfx-pack-2/monster_sfx_pack_2/monster-16.wav",
+      "name": "Monster 16",
+      "tags": [
+        "creature",
+        "monster",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/monster-17.m4a",
+      "src": "monster-sfx-pack-2/monster_sfx_pack_2/monster-17.wav",
+      "name": "Monster 17",
+      "tags": [
+        "creature",
+        "monster",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/monster-2.m4a",
+      "src": "monster-sfx-pack-2/monster_sfx_pack_2/monster-2.wav",
+      "name": "Monster 2",
+      "tags": [
+        "creature",
+        "monster",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/monster-3.m4a",
+      "src": "monster-sfx-pack-2/monster_sfx_pack_2/monster-3.wav",
+      "name": "Monster 3",
+      "tags": [
+        "creature",
+        "monster",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/monster-4.m4a",
+      "src": "monster-sfx-pack-2/monster_sfx_pack_2/monster-4.wav",
+      "name": "Monster 4",
+      "tags": [
+        "creature",
+        "monster",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/monster-5.m4a",
+      "src": "monster-sfx-pack-2/monster_sfx_pack_2/monster-5.wav",
+      "name": "Monster 5",
+      "tags": [
+        "creature",
+        "monster",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/monster-6.m4a",
+      "src": "monster-sfx-pack-2/monster_sfx_pack_2/monster-6.wav",
+      "name": "Monster 6",
+      "tags": [
+        "creature",
+        "monster",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/monster-7.m4a",
+      "src": "monster-sfx-pack-2/monster_sfx_pack_2/monster-7.wav",
+      "name": "Monster 7",
+      "tags": [
+        "creature",
+        "monster",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/monster-8.m4a",
+      "src": "monster-sfx-pack-2/monster_sfx_pack_2/monster-8.wav",
+      "name": "Monster 8",
+      "tags": [
+        "creature",
+        "monster",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/monster-9.m4a",
+      "src": "monster-sfx-pack-2/monster_sfx_pack_2/monster-9.wav",
+      "name": "Monster 9",
+      "tags": [
+        "creature",
+        "monster",
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

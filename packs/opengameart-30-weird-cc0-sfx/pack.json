@@ -1,0 +1,288 @@
+{
+  "id": "opengameart-30-weird-cc0-sfx",
+  "title": "30 weird SFX",
+  "blurb": "30 sounds.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "rubberduck · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-rubberduck",
+    "name": "rubberduck"
+  },
+  "homepage": "https://opengameart.org/content/30-weird-cc0-sfx",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/weird-01.m4a",
+      "src": "30-cc0-weird-sfx/weird_01.ogg",
+      "name": "Weird 1",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/weird-02.m4a",
+      "src": "30-cc0-weird-sfx/weird_02.ogg",
+      "name": "Weird 2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/weird-03.m4a",
+      "src": "30-cc0-weird-sfx/weird_03.ogg",
+      "name": "Weird 3",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/weird-04.m4a",
+      "src": "30-cc0-weird-sfx/weird_04.ogg",
+      "name": "Weird 4",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/weird-05.m4a",
+      "src": "30-cc0-weird-sfx/weird_05.ogg",
+      "name": "Weird 5",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/weird-06.m4a",
+      "src": "30-cc0-weird-sfx/weird_06.ogg",
+      "name": "Weird 6",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/weird-07.m4a",
+      "src": "30-cc0-weird-sfx/weird_07.ogg",
+      "name": "Weird 7",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/weird-08.m4a",
+      "src": "30-cc0-weird-sfx/weird_08.ogg",
+      "name": "Weird 8",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/weird-09.m4a",
+      "src": "30-cc0-weird-sfx/weird_09.ogg",
+      "name": "Weird 9",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/weird-10.m4a",
+      "src": "30-cc0-weird-sfx/weird_10.ogg",
+      "name": "Weird 10",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/weird-11.m4a",
+      "src": "30-cc0-weird-sfx/weird_11.ogg",
+      "name": "Weird 11",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/weird-12.m4a",
+      "src": "30-cc0-weird-sfx/weird_12.ogg",
+      "name": "Weird 12",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/weird-13.m4a",
+      "src": "30-cc0-weird-sfx/weird_13.ogg",
+      "name": "Weird 13",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/weird-14.m4a",
+      "src": "30-cc0-weird-sfx/weird_14.ogg",
+      "name": "Weird 14",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/weird-15.m4a",
+      "src": "30-cc0-weird-sfx/weird_15.ogg",
+      "name": "Weird 15",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/weird-16.m4a",
+      "src": "30-cc0-weird-sfx/weird_16.ogg",
+      "name": "Weird 16",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/weird-17.m4a",
+      "src": "30-cc0-weird-sfx/weird_17.ogg",
+      "name": "Weird 17",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/weird-18.m4a",
+      "src": "30-cc0-weird-sfx/weird_18.ogg",
+      "name": "Weird 18",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/weird-19.m4a",
+      "src": "30-cc0-weird-sfx/weird_19.ogg",
+      "name": "Weird 19",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/weird-20.m4a",
+      "src": "30-cc0-weird-sfx/weird_20.ogg",
+      "name": "Weird 20",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/weird-21.m4a",
+      "src": "30-cc0-weird-sfx/weird_21.ogg",
+      "name": "Weird 21",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/weird-22.m4a",
+      "src": "30-cc0-weird-sfx/weird_22.ogg",
+      "name": "Weird 22",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/weird-23.m4a",
+      "src": "30-cc0-weird-sfx/weird_23.ogg",
+      "name": "Weird 23",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/weird-24.m4a",
+      "src": "30-cc0-weird-sfx/weird_24.ogg",
+      "name": "Weird 24",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/weird-25.m4a",
+      "src": "30-cc0-weird-sfx/weird_25.ogg",
+      "name": "Weird 25",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/weird-26.m4a",
+      "src": "30-cc0-weird-sfx/weird_26.ogg",
+      "name": "Weird 26",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/weird-27.m4a",
+      "src": "30-cc0-weird-sfx/weird_27.ogg",
+      "name": "Weird 27",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/weird-28.m4a",
+      "src": "30-cc0-weird-sfx/weird_28.ogg",
+      "name": "Weird 28",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/weird-29.m4a",
+      "src": "30-cc0-weird-sfx/weird_29.ogg",
+      "name": "Weird 29",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/weird-30.m4a",
+      "src": "30-cc0-weird-sfx/weird_30.ogg",
+      "name": "Weird 30",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

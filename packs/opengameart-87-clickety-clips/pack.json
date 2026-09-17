@@ -1,0 +1,975 @@
+{
+  "id": "opengameart-87-clickety-clips",
+  "title": "87 Clickety Clips",
+  "blurb": "87 sounds — mostly Interface.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "owlishmedia · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-owlishmedia",
+    "name": "owlishmedia"
+  },
+  "homepage": "https://opengameart.org/content/87-clickety-clips",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/click1.m4a",
+      "src": "click-clips/click1.wav",
+      "name": "Click1",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click10.m4a",
+      "src": "click-clips/click10.wav",
+      "name": "Click10",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click11.m4a",
+      "src": "click-clips/click11.wav",
+      "name": "Click11",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click12.m4a",
+      "src": "click-clips/click12.wav",
+      "name": "Click12",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click13.m4a",
+      "src": "click-clips/click13.wav",
+      "name": "Click13",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click14.m4a",
+      "src": "click-clips/click14.wav",
+      "name": "Click14",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click15.m4a",
+      "src": "click-clips/click15.wav",
+      "name": "Click15",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click16.m4a",
+      "src": "click-clips/click16.wav",
+      "name": "Click16",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click17.m4a",
+      "src": "click-clips/click17.wav",
+      "name": "Click17",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click18.m4a",
+      "src": "click-clips/click18.wav",
+      "name": "Click18",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click19.m4a",
+      "src": "click-clips/click19.wav",
+      "name": "Click19",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click2.m4a",
+      "src": "click-clips/click2.wav",
+      "name": "Click2",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click20.m4a",
+      "src": "click-clips/click20.wav",
+      "name": "Click20",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click21.m4a",
+      "src": "click-clips/click21.wav",
+      "name": "Click21",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click22.m4a",
+      "src": "click-clips/click22.wav",
+      "name": "Click22",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click23.m4a",
+      "src": "click-clips/click23.wav",
+      "name": "Click23",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click24.m4a",
+      "src": "click-clips/click24.wav",
+      "name": "Click24",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click25.m4a",
+      "src": "click-clips/click25.wav",
+      "name": "Click25",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click26.m4a",
+      "src": "click-clips/click26.wav",
+      "name": "Click26",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click27.m4a",
+      "src": "click-clips/click27.wav",
+      "name": "Click27",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click28.m4a",
+      "src": "click-clips/click28.wav",
+      "name": "Click28",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click29.m4a",
+      "src": "click-clips/click29.wav",
+      "name": "Click29",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click3.m4a",
+      "src": "click-clips/click3.wav",
+      "name": "Click3",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click30.m4a",
+      "src": "click-clips/click30.wav",
+      "name": "Click30",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click31.m4a",
+      "src": "click-clips/click31.wav",
+      "name": "Click31",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click32.m4a",
+      "src": "click-clips/click32.wav",
+      "name": "Click32",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click33.m4a",
+      "src": "click-clips/click33.wav",
+      "name": "Click33",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click34.m4a",
+      "src": "click-clips/click34.wav",
+      "name": "Click34",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click35.m4a",
+      "src": "click-clips/click35.wav",
+      "name": "Click35",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click36.m4a",
+      "src": "click-clips/click36.wav",
+      "name": "Click36",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click37.m4a",
+      "src": "click-clips/click37.wav",
+      "name": "Click37",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click38.m4a",
+      "src": "click-clips/click38.wav",
+      "name": "Click38",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click39.m4a",
+      "src": "click-clips/click39.wav",
+      "name": "Click39",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click4.m4a",
+      "src": "click-clips/click4.wav",
+      "name": "Click4",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click40.m4a",
+      "src": "click-clips/click40.wav",
+      "name": "Click40",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click41.m4a",
+      "src": "click-clips/click41.wav",
+      "name": "Click41",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click42.m4a",
+      "src": "click-clips/click42.wav",
+      "name": "Click42",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click43.m4a",
+      "src": "click-clips/click43.wav",
+      "name": "Click43",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click44.m4a",
+      "src": "click-clips/click44.wav",
+      "name": "Click44",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click45.m4a",
+      "src": "click-clips/click45.wav",
+      "name": "Click45",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click46.m4a",
+      "src": "click-clips/click46.wav",
+      "name": "Click46",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click47.m4a",
+      "src": "click-clips/click47.wav",
+      "name": "Click47",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click48.m4a",
+      "src": "click-clips/click48.wav",
+      "name": "Click48",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click49.m4a",
+      "src": "click-clips/click49.wav",
+      "name": "Click49",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click5.m4a",
+      "src": "click-clips/click5.wav",
+      "name": "Click5",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click50.m4a",
+      "src": "click-clips/click50.wav",
+      "name": "Click50",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click51.m4a",
+      "src": "click-clips/click51.wav",
+      "name": "Click51",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click52.m4a",
+      "src": "click-clips/click52.wav",
+      "name": "Click52",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click53.m4a",
+      "src": "click-clips/click53.wav",
+      "name": "Click53",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click54.m4a",
+      "src": "click-clips/click54.wav",
+      "name": "Click54",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click55.m4a",
+      "src": "click-clips/click55.wav",
+      "name": "Click55",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click56.m4a",
+      "src": "click-clips/click56.wav",
+      "name": "Click56",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click57.m4a",
+      "src": "click-clips/click57.wav",
+      "name": "Click57",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click58.m4a",
+      "src": "click-clips/click58.wav",
+      "name": "Click58",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click59.m4a",
+      "src": "click-clips/click59.wav",
+      "name": "Click59",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click6.m4a",
+      "src": "click-clips/click6.wav",
+      "name": "Click6",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click60.m4a",
+      "src": "click-clips/click60.wav",
+      "name": "Click60",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click61.m4a",
+      "src": "click-clips/click61.wav",
+      "name": "Click61",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click62.m4a",
+      "src": "click-clips/click62.wav",
+      "name": "Click62",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click63.m4a",
+      "src": "click-clips/click63.wav",
+      "name": "Click63",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click64.m4a",
+      "src": "click-clips/click64.wav",
+      "name": "Click64",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click65.m4a",
+      "src": "click-clips/click65.wav",
+      "name": "Click65",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click66.m4a",
+      "src": "click-clips/click66.wav",
+      "name": "Click66",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click67.m4a",
+      "src": "click-clips/click67.wav",
+      "name": "Click67",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click68.m4a",
+      "src": "click-clips/click68.wav",
+      "name": "Click68",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click69.m4a",
+      "src": "click-clips/click69.wav",
+      "name": "Click69",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click7.m4a",
+      "src": "click-clips/click7.wav",
+      "name": "Click7",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click70.m4a",
+      "src": "click-clips/click70.wav",
+      "name": "Click70",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click71.m4a",
+      "src": "click-clips/click71.wav",
+      "name": "Click71",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click72.m4a",
+      "src": "click-clips/click72.wav",
+      "name": "Click72",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click73.m4a",
+      "src": "click-clips/click73.wav",
+      "name": "Click73",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click74.m4a",
+      "src": "click-clips/click74.wav",
+      "name": "Click74",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click75.m4a",
+      "src": "click-clips/click75.wav",
+      "name": "Click75",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click76.m4a",
+      "src": "click-clips/click76.wav",
+      "name": "Click76",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click77.m4a",
+      "src": "click-clips/click77.wav",
+      "name": "Click77",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click78.m4a",
+      "src": "click-clips/click78.wav",
+      "name": "Click78",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click79.m4a",
+      "src": "click-clips/click79.wav",
+      "name": "Click79",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click8.m4a",
+      "src": "click-clips/click8.wav",
+      "name": "Click8",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click80.m4a",
+      "src": "click-clips/click80.wav",
+      "name": "Click80",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click81.m4a",
+      "src": "click-clips/click81.wav",
+      "name": "Click81",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click82.m4a",
+      "src": "click-clips/click82.wav",
+      "name": "Click82",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click83.m4a",
+      "src": "click-clips/click83.wav",
+      "name": "Click83",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click84.m4a",
+      "src": "click-clips/click84.wav",
+      "name": "Click84",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click85.m4a",
+      "src": "click-clips/click85.wav",
+      "name": "Click85",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click86.m4a",
+      "src": "click-clips/click86.wav",
+      "name": "Click86",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click87.m4a",
+      "src": "click-clips/click87.wav",
+      "name": "Click87",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click9.m4a",
+      "src": "click-clips/click9.wav",
+      "name": "Click9",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

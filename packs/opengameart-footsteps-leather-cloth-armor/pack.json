@@ -1,0 +1,166 @@
+{
+  "id": "opengameart-footsteps-leather-cloth-armor",
+  "title": "Footsteps Leather, Cloth, Armor",
+  "blurb": "12 sounds — mostly Foley.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "haeldb · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-haeldb",
+    "name": "haeldb"
+  },
+  "homepage": "https://opengameart.org/content/footsteps-leather-cloth-armor",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/step-cloth1.m4a",
+      "src": "footsteps/footsteps/step_cloth1.ogg",
+      "name": "Step Cloth1",
+      "tags": [
+        "foley",
+        "footstep",
+        "step",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/step-cloth2.m4a",
+      "src": "footsteps/footsteps/step_cloth2.ogg",
+      "name": "Step Cloth2",
+      "tags": [
+        "foley",
+        "footstep",
+        "step",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/step-cloth3.m4a",
+      "src": "footsteps/footsteps/step_cloth3.ogg",
+      "name": "Step Cloth3",
+      "tags": [
+        "foley",
+        "footstep",
+        "step",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/step-cloth4.m4a",
+      "src": "footsteps/footsteps/step_cloth4.ogg",
+      "name": "Step Cloth4",
+      "tags": [
+        "foley",
+        "footstep",
+        "step",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/step-lth1.m4a",
+      "src": "footsteps/footsteps/step_lth1.ogg",
+      "name": "Step Lth1",
+      "tags": [
+        "foley",
+        "footstep",
+        "step",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/step-lth2.m4a",
+      "src": "footsteps/footsteps/step_lth2.ogg",
+      "name": "Step Lth2",
+      "tags": [
+        "foley",
+        "footstep",
+        "step",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/step-lth33.m4a",
+      "src": "footsteps/footsteps/step_lth33.ogg",
+      "name": "Step Lth33",
+      "tags": [
+        "foley",
+        "footstep",
+        "step",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/step-lth4.m4a",
+      "src": "footsteps/footsteps/step_lth4.ogg",
+      "name": "Step Lth4",
+      "tags": [
+        "foley",
+        "footstep",
+        "step",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/step-metal.m4a",
+      "src": "footsteps/footsteps/step_metal.ogg",
+      "name": "Step Metal",
+      "tags": [
+        "foley",
+        "footstep",
+        "step",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/step-metal-2.m4a",
+      "src": "footsteps/footsteps/step_metal (2).ogg",
+      "name": "Step Metal",
+      "tags": [
+        "foley",
+        "footstep",
+        "step",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/step-metal-3.m4a",
+      "src": "footsteps/footsteps/step_metal (3).ogg",
+      "name": "Step Metal",
+      "tags": [
+        "foley",
+        "footstep",
+        "step",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/step-metal-4.m4a",
+      "src": "footsteps/footsteps/step_metal (4).ogg",
+      "name": "Step Metal",
+      "tags": [
+        "foley",
+        "footstep",
+        "step",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

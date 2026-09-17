@@ -1,0 +1,448 @@
+{
+  "id": "opengameart-swish-bamboo-stick-weapon-swhoshes",
+  "title": "Swish - bamboo stick weapon swhoshes",
+  "blurb": "43 sounds — mostly Whooshes.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "qubodup · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-qubodup",
+    "name": "qubodup"
+  },
+  "homepage": "https://opengameart.org/content/swish-bamboo-stick-weapon-swhoshes",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/swosh-01.m4a",
+      "src": "swoshes/swosh-01.flac",
+      "name": "Swosh 1",
+      "tags": [
+        "whoosh",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/swosh-02.m4a",
+      "src": "swoshes/swosh-02.flac",
+      "name": "Swosh 2",
+      "tags": [
+        "whoosh",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/swosh-03.m4a",
+      "src": "swoshes/swosh-03.flac",
+      "name": "Swosh 3",
+      "tags": [
+        "whoosh",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/swosh-04.m4a",
+      "src": "swoshes/swosh-04.flac",
+      "name": "Swosh 4",
+      "tags": [
+        "whoosh",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/swosh-05.m4a",
+      "src": "swoshes/swosh-05.flac",
+      "name": "Swosh 5",
+      "tags": [
+        "whoosh",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/swosh-06.m4a",
+      "src": "swoshes/swosh-06.flac",
+      "name": "Swosh 6",
+      "tags": [
+        "whoosh",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/swosh-07.m4a",
+      "src": "swoshes/swosh-07.flac",
+      "name": "Swosh 7",
+      "tags": [
+        "whoosh",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/swosh-08.m4a",
+      "src": "swoshes/swosh-08.flac",
+      "name": "Swosh 8",
+      "tags": [
+        "whoosh",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/swosh-09.m4a",
+      "src": "swoshes/swosh-09.flac",
+      "name": "Swosh 9",
+      "tags": [
+        "whoosh",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/swosh-10.m4a",
+      "src": "swoshes/swosh-10.flac",
+      "name": "Swosh 10",
+      "tags": [
+        "whoosh",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/swosh-11.m4a",
+      "src": "swoshes/swosh-11.flac",
+      "name": "Swosh 11",
+      "tags": [
+        "whoosh",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/swosh-12.m4a",
+      "src": "swoshes/swosh-12.flac",
+      "name": "Swosh 12",
+      "tags": [
+        "whoosh",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/swosh-13.m4a",
+      "src": "swoshes/swosh-13.flac",
+      "name": "Swosh 13",
+      "tags": [
+        "whoosh",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/swosh-14.m4a",
+      "src": "swoshes/swosh-14.flac",
+      "name": "Swosh 14",
+      "tags": [
+        "whoosh",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/swosh-15.m4a",
+      "src": "swoshes/swosh-15.flac",
+      "name": "Swosh 15",
+      "tags": [
+        "whoosh",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/swosh-16.m4a",
+      "src": "swoshes/swosh-16.flac",
+      "name": "Swosh 16",
+      "tags": [
+        "whoosh",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/swosh-17.m4a",
+      "src": "swoshes/swosh-17.flac",
+      "name": "Swosh 17",
+      "tags": [
+        "whoosh",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/swosh-18.m4a",
+      "src": "swoshes/swosh-18.flac",
+      "name": "Swosh 18",
+      "tags": [
+        "whoosh",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/swosh-19.m4a",
+      "src": "swoshes/swosh-19.flac",
+      "name": "Swosh 19",
+      "tags": [
+        "whoosh",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/swosh-20.m4a",
+      "src": "swoshes/swosh-20.flac",
+      "name": "Swosh 20",
+      "tags": [
+        "whoosh",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/swosh-21.m4a",
+      "src": "swoshes/swosh-21.flac",
+      "name": "Swosh 21",
+      "tags": [
+        "whoosh",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/swosh-22.m4a",
+      "src": "swoshes/swosh-22.flac",
+      "name": "Swosh 22",
+      "tags": [
+        "whoosh",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/swosh-23.m4a",
+      "src": "swoshes/swosh-23.flac",
+      "name": "Swosh 23",
+      "tags": [
+        "whoosh",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/swosh-24.m4a",
+      "src": "swoshes/swosh-24.flac",
+      "name": "Swosh 24",
+      "tags": [
+        "whoosh",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/swosh-25.m4a",
+      "src": "swoshes/swosh-25.flac",
+      "name": "Swosh 25",
+      "tags": [
+        "whoosh",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/swosh-26.m4a",
+      "src": "swoshes/swosh-26.flac",
+      "name": "Swosh 26",
+      "tags": [
+        "whoosh",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/swosh-27.m4a",
+      "src": "swoshes/swosh-27.flac",
+      "name": "Swosh 27",
+      "tags": [
+        "whoosh",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/swosh-28.m4a",
+      "src": "swoshes/swosh-28.flac",
+      "name": "Swosh 28",
+      "tags": [
+        "whoosh",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/swosh-29.m4a",
+      "src": "swoshes/swosh-29.flac",
+      "name": "Swosh 29",
+      "tags": [
+        "whoosh",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/swosh-30.m4a",
+      "src": "swoshes/swosh-30.flac",
+      "name": "Swosh 30",
+      "tags": [
+        "whoosh",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/swosh-31.m4a",
+      "src": "swoshes/swosh-31.flac",
+      "name": "Swosh 31",
+      "tags": [
+        "whoosh",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/swosh-32.m4a",
+      "src": "swoshes/swosh-32.flac",
+      "name": "Swosh 32",
+      "tags": [
+        "whoosh",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/swosh-33.m4a",
+      "src": "swoshes/swosh-33.flac",
+      "name": "Swosh 33",
+      "tags": [
+        "whoosh",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/swosh-34.m4a",
+      "src": "swoshes/swosh-34.flac",
+      "name": "Swosh 34",
+      "tags": [
+        "whoosh",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/swosh-35.m4a",
+      "src": "swoshes/swosh-35.flac",
+      "name": "Swosh 35",
+      "tags": [
+        "whoosh",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/swosh-36.m4a",
+      "src": "swoshes/swosh-36.flac",
+      "name": "Swosh 36",
+      "tags": [
+        "whoosh",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/swosh-37.m4a",
+      "src": "swoshes/swosh-37.flac",
+      "name": "Swosh 37",
+      "tags": [
+        "whoosh",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/swosh-38.m4a",
+      "src": "swoshes/swosh-38.flac",
+      "name": "Swosh 38",
+      "tags": [
+        "whoosh",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/swosh-39.m4a",
+      "src": "swoshes/swosh-39.flac",
+      "name": "Swosh 39",
+      "tags": [
+        "whoosh",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/swosh-40.m4a",
+      "src": "swoshes/swosh-40.flac",
+      "name": "Swosh 40",
+      "tags": [
+        "whoosh",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/swosh-41.m4a",
+      "src": "swoshes/swosh-41.flac",
+      "name": "Swosh 41",
+      "tags": [
+        "whoosh",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/swosh-42.m4a",
+      "src": "swoshes/swosh-42.flac",
+      "name": "Swosh 42",
+      "tags": [
+        "whoosh",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/swosh-43.m4a",
+      "src": "swoshes/swosh-43.flac",
+      "name": "Swosh 43",
+      "tags": [
+        "whoosh",
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

@@ -9,6 +9,7 @@
     "id": "kenney",
     "name": "Kenney"
   },
+  "homepage": "https://kenney.nl/assets/category:Audio",
   "tags": [
     "cc0",
     "digital",
@@ -17,6 +18,7 @@
   "files": [
     {
       "file": "audio/computer-noise-000.m4a",
+      "src": "Audio/computerNoise_000.ogg",
       "name": "Computer Noise 1",
       "tags": [
         "digital",
@@ -27,6 +29,7 @@
     },
     {
       "file": "audio/computer-noise-001.m4a",
+      "src": "Audio/computerNoise_001.ogg",
       "name": "Computer Noise 2",
       "tags": [
         "digital",
@@ -37,6 +40,7 @@
     },
     {
       "file": "audio/computer-noise-002.m4a",
+      "src": "Audio/computerNoise_002.ogg",
       "name": "Computer Noise 3",
       "tags": [
         "digital",
@@ -47,6 +51,7 @@
     },
     {
       "file": "audio/computer-noise-003.m4a",
+      "src": "Audio/computerNoise_003.ogg",
       "name": "Computer Noise 4",
       "tags": [
         "digital",
@@ -57,6 +62,7 @@
     },
     {
       "file": "audio/door-close-000.m4a",
+      "src": "Audio/doorClose_000.ogg",
       "name": "Door Close 1",
       "tags": [
         "foley",
@@ -68,6 +74,7 @@
     },
     {
       "file": "audio/door-close-001.m4a",
+      "src": "Audio/doorClose_001.ogg",
       "name": "Door Close 2",
       "tags": [
         "foley",
@@ -79,6 +86,7 @@
     },
     {
       "file": "audio/door-close-002.m4a",
+      "src": "Audio/doorClose_002.ogg",
       "name": "Door Close 3",
       "tags": [
         "foley",
@@ -90,6 +98,7 @@
     },
     {
       "file": "audio/door-open-000.m4a",
+      "src": "Audio/doorOpen_000.ogg",
       "name": "Door Open 1",
       "tags": [
         "foley",
@@ -101,6 +110,7 @@
     },
     {
       "file": "audio/door-open-001.m4a",
+      "src": "Audio/doorOpen_001.ogg",
       "name": "Door Open 2",
       "tags": [
         "foley",
@@ -112,6 +122,7 @@
     },
     {
       "file": "audio/door-open-002.m4a",
+      "src": "Audio/doorOpen_002.ogg",
       "name": "Door Open 3",
       "tags": [
         "foley",
@@ -123,6 +134,7 @@
     },
     {
       "file": "audio/engine-circular-000.m4a",
+      "src": "Audio/engineCircular_000.ogg",
       "name": "Engine Circular 1",
       "tags": [
         "machine",
@@ -134,6 +146,7 @@
     },
     {
       "file": "audio/engine-circular-001.m4a",
+      "src": "Audio/engineCircular_001.ogg",
       "name": "Engine Circular 2",
       "tags": [
         "machine",
@@ -145,6 +158,7 @@
     },
     {
       "file": "audio/engine-circular-002.m4a",
+      "src": "Audio/engineCircular_002.ogg",
       "name": "Engine Circular 3",
       "tags": [
         "machine",
@@ -156,6 +170,7 @@
     },
     {
       "file": "audio/engine-circular-003.m4a",
+      "src": "Audio/engineCircular_003.ogg",
       "name": "Engine Circular 4",
       "tags": [
         "machine",
@@ -167,6 +182,7 @@
     },
     {
       "file": "audio/engine-circular-004.m4a",
+      "src": "Audio/engineCircular_004.ogg",
       "name": "Engine Circular 5",
       "tags": [
         "machine",
@@ -178,10 +194,12 @@
     },
     {
       "file": "audio/explosion-crunch-000.m4a",
+      "src": "Audio/explosionCrunch_000.ogg",
       "name": "Explosion Crunch 1",
       "tags": [
         "weapon",
         "explosion",
+        "crunch",
         "digital",
         "scifi"
       ],
@@ -189,10 +207,12 @@
     },
     {
       "file": "audio/explosion-crunch-001.m4a",
+      "src": "Audio/explosionCrunch_001.ogg",
       "name": "Explosion Crunch 2",
       "tags": [
         "weapon",
         "explosion",
+        "crunch",
         "digital",
         "scifi"
       ],
@@ -200,10 +220,12 @@
     },
     {
       "file": "audio/explosion-crunch-002.m4a",
+      "src": "Audio/explosionCrunch_002.ogg",
       "name": "Explosion Crunch 3",
       "tags": [
         "weapon",
         "explosion",
+        "crunch",
         "digital",
         "scifi"
       ],
@@ -211,10 +233,12 @@
     },
     {
       "file": "audio/explosion-crunch-003.m4a",
+      "src": "Audio/explosionCrunch_003.ogg",
       "name": "Explosion Crunch 4",
       "tags": [
         "weapon",
         "explosion",
+        "crunch",
         "digital",
         "scifi"
       ],
@@ -222,10 +246,12 @@
     },
     {
       "file": "audio/explosion-crunch-004.m4a",
+      "src": "Audio/explosionCrunch_004.ogg",
       "name": "Explosion Crunch 5",
       "tags": [
         "weapon",
         "explosion",
+        "crunch",
         "digital",
         "scifi"
       ],
@@ -233,6 +259,7 @@
     },
     {
       "file": "audio/force-field-000.m4a",
+      "src": "Audio/forceField_000.ogg",
       "name": "Force Field 1",
       "tags": [
         "digital",
@@ -243,6 +270,7 @@
     },
     {
       "file": "audio/force-field-001.m4a",
+      "src": "Audio/forceField_001.ogg",
       "name": "Force Field 2",
       "tags": [
         "digital",
@@ -253,6 +281,7 @@
     },
     {
       "file": "audio/force-field-002.m4a",
+      "src": "Audio/forceField_002.ogg",
       "name": "Force Field 3",
       "tags": [
         "digital",
@@ -263,6 +292,7 @@
     },
     {
       "file": "audio/force-field-003.m4a",
+      "src": "Audio/forceField_003.ogg",
       "name": "Force Field 4",
       "tags": [
         "digital",
@@ -273,6 +303,7 @@
     },
     {
       "file": "audio/force-field-004.m4a",
+      "src": "Audio/forceField_004.ogg",
       "name": "Force Field 5",
       "tags": [
         "digital",
@@ -283,6 +314,7 @@
     },
     {
       "file": "audio/impact-metal-000.m4a",
+      "src": "Audio/impactMetal_000.ogg",
       "name": "Impact Metal 1",
       "tags": [
         "impact",
@@ -294,6 +326,7 @@
     },
     {
       "file": "audio/impact-metal-001.m4a",
+      "src": "Audio/impactMetal_001.ogg",
       "name": "Impact Metal 2",
       "tags": [
         "impact",
@@ -305,6 +338,7 @@
     },
     {
       "file": "audio/impact-metal-002.m4a",
+      "src": "Audio/impactMetal_002.ogg",
       "name": "Impact Metal 3",
       "tags": [
         "impact",
@@ -316,6 +350,7 @@
     },
     {
       "file": "audio/impact-metal-003.m4a",
+      "src": "Audio/impactMetal_003.ogg",
       "name": "Impact Metal 4",
       "tags": [
         "impact",
@@ -327,6 +362,7 @@
     },
     {
       "file": "audio/impact-metal-004.m4a",
+      "src": "Audio/impactMetal_004.ogg",
       "name": "Impact Metal 5",
       "tags": [
         "impact",
@@ -338,6 +374,7 @@
     },
     {
       "file": "audio/laser-large-000.m4a",
+      "src": "Audio/laserLarge_000.ogg",
       "name": "Laser Large 1",
       "tags": [
         "digital",
@@ -348,6 +385,7 @@
     },
     {
       "file": "audio/laser-large-001.m4a",
+      "src": "Audio/laserLarge_001.ogg",
       "name": "Laser Large 2",
       "tags": [
         "digital",
@@ -358,6 +396,7 @@
     },
     {
       "file": "audio/laser-large-002.m4a",
+      "src": "Audio/laserLarge_002.ogg",
       "name": "Laser Large 3",
       "tags": [
         "digital",
@@ -368,6 +407,7 @@
     },
     {
       "file": "audio/laser-large-003.m4a",
+      "src": "Audio/laserLarge_003.ogg",
       "name": "Laser Large 4",
       "tags": [
         "digital",
@@ -378,6 +418,7 @@
     },
     {
       "file": "audio/laser-large-004.m4a",
+      "src": "Audio/laserLarge_004.ogg",
       "name": "Laser Large 5",
       "tags": [
         "digital",
@@ -388,6 +429,7 @@
     },
     {
       "file": "audio/laser-retro-000.m4a",
+      "src": "Audio/laserRetro_000.ogg",
       "name": "Laser Retro 1",
       "tags": [
         "digital",
@@ -399,6 +441,7 @@
     },
     {
       "file": "audio/laser-retro-001.m4a",
+      "src": "Audio/laserRetro_001.ogg",
       "name": "Laser Retro 2",
       "tags": [
         "digital",
@@ -410,6 +453,7 @@
     },
     {
       "file": "audio/laser-retro-002.m4a",
+      "src": "Audio/laserRetro_002.ogg",
       "name": "Laser Retro 3",
       "tags": [
         "digital",
@@ -421,6 +465,7 @@
     },
     {
       "file": "audio/laser-retro-003.m4a",
+      "src": "Audio/laserRetro_003.ogg",
       "name": "Laser Retro 4",
       "tags": [
         "digital",
@@ -432,6 +477,7 @@
     },
     {
       "file": "audio/laser-retro-004.m4a",
+      "src": "Audio/laserRetro_004.ogg",
       "name": "Laser Retro 5",
       "tags": [
         "digital",
@@ -443,6 +489,7 @@
     },
     {
       "file": "audio/laser-small-000.m4a",
+      "src": "Audio/laserSmall_000.ogg",
       "name": "Laser Small 1",
       "tags": [
         "digital",
@@ -454,6 +501,7 @@
     },
     {
       "file": "audio/laser-small-001.m4a",
+      "src": "Audio/laserSmall_001.ogg",
       "name": "Laser Small 2",
       "tags": [
         "digital",
@@ -465,6 +513,7 @@
     },
     {
       "file": "audio/laser-small-002.m4a",
+      "src": "Audio/laserSmall_002.ogg",
       "name": "Laser Small 3",
       "tags": [
         "digital",
@@ -476,6 +525,7 @@
     },
     {
       "file": "audio/laser-small-003.m4a",
+      "src": "Audio/laserSmall_003.ogg",
       "name": "Laser Small 4",
       "tags": [
         "digital",
@@ -487,6 +537,7 @@
     },
     {
       "file": "audio/laser-small-004.m4a",
+      "src": "Audio/laserSmall_004.ogg",
       "name": "Laser Small 5",
       "tags": [
         "digital",
@@ -498,6 +549,7 @@
     },
     {
       "file": "audio/low-frequency-explosion-000.m4a",
+      "src": "Audio/lowFrequency_explosion_000.ogg",
       "name": "Low Frequency Explosion 1",
       "tags": [
         "weapon",
@@ -510,6 +562,7 @@
     },
     {
       "file": "audio/low-frequency-explosion-001.m4a",
+      "src": "Audio/lowFrequency_explosion_001.ogg",
       "name": "Low Frequency Explosion 2",
       "tags": [
         "weapon",
@@ -522,8 +575,11 @@
     },
     {
       "file": "audio/slime-000.m4a",
+      "src": "Audio/slime_000.ogg",
       "name": "Slime 1",
       "tags": [
+        "creature",
+        "slime",
         "digital",
         "scifi"
       ],
@@ -531,8 +587,11 @@
     },
     {
       "file": "audio/slime-001.m4a",
+      "src": "Audio/slime_001.ogg",
       "name": "Slime 2",
       "tags": [
+        "creature",
+        "slime",
         "digital",
         "scifi"
       ],
@@ -540,6 +599,7 @@
     },
     {
       "file": "audio/space-engine-000.m4a",
+      "src": "Audio/spaceEngine_000.ogg",
       "name": "Space Engine 1",
       "tags": [
         "machine",
@@ -551,6 +611,7 @@
     },
     {
       "file": "audio/space-engine-001.m4a",
+      "src": "Audio/spaceEngine_001.ogg",
       "name": "Space Engine 2",
       "tags": [
         "machine",
@@ -562,6 +623,7 @@
     },
     {
       "file": "audio/space-engine-002.m4a",
+      "src": "Audio/spaceEngine_002.ogg",
       "name": "Space Engine 3",
       "tags": [
         "machine",
@@ -573,6 +635,7 @@
     },
     {
       "file": "audio/space-engine-003.m4a",
+      "src": "Audio/spaceEngine_003.ogg",
       "name": "Space Engine 4",
       "tags": [
         "machine",
@@ -584,6 +647,7 @@
     },
     {
       "file": "audio/space-engine-large-000.m4a",
+      "src": "Audio/spaceEngineLarge_000.ogg",
       "name": "Space Engine Large 1",
       "tags": [
         "machine",
@@ -595,6 +659,7 @@
     },
     {
       "file": "audio/space-engine-large-001.m4a",
+      "src": "Audio/spaceEngineLarge_001.ogg",
       "name": "Space Engine Large 2",
       "tags": [
         "machine",
@@ -606,6 +671,7 @@
     },
     {
       "file": "audio/space-engine-large-002.m4a",
+      "src": "Audio/spaceEngineLarge_002.ogg",
       "name": "Space Engine Large 3",
       "tags": [
         "machine",
@@ -617,6 +683,7 @@
     },
     {
       "file": "audio/space-engine-large-003.m4a",
+      "src": "Audio/spaceEngineLarge_003.ogg",
       "name": "Space Engine Large 4",
       "tags": [
         "machine",
@@ -628,6 +695,7 @@
     },
     {
       "file": "audio/space-engine-large-004.m4a",
+      "src": "Audio/spaceEngineLarge_004.ogg",
       "name": "Space Engine Large 5",
       "tags": [
         "machine",
@@ -639,6 +707,7 @@
     },
     {
       "file": "audio/space-engine-low-000.m4a",
+      "src": "Audio/spaceEngineLow_000.ogg",
       "name": "Space Engine Low 1",
       "tags": [
         "machine",
@@ -651,6 +720,7 @@
     },
     {
       "file": "audio/space-engine-low-001.m4a",
+      "src": "Audio/spaceEngineLow_001.ogg",
       "name": "Space Engine Low 2",
       "tags": [
         "machine",
@@ -663,6 +733,7 @@
     },
     {
       "file": "audio/space-engine-low-002.m4a",
+      "src": "Audio/spaceEngineLow_002.ogg",
       "name": "Space Engine Low 3",
       "tags": [
         "machine",
@@ -675,6 +746,7 @@
     },
     {
       "file": "audio/space-engine-low-003.m4a",
+      "src": "Audio/spaceEngineLow_003.ogg",
       "name": "Space Engine Low 4",
       "tags": [
         "machine",
@@ -687,6 +759,7 @@
     },
     {
       "file": "audio/space-engine-low-004.m4a",
+      "src": "Audio/spaceEngineLow_004.ogg",
       "name": "Space Engine Low 5",
       "tags": [
         "machine",
@@ -699,6 +772,7 @@
     },
     {
       "file": "audio/space-engine-small-000.m4a",
+      "src": "Audio/spaceEngineSmall_000.ogg",
       "name": "Space Engine Small 1",
       "tags": [
         "machine",
@@ -711,6 +785,7 @@
     },
     {
       "file": "audio/space-engine-small-001.m4a",
+      "src": "Audio/spaceEngineSmall_001.ogg",
       "name": "Space Engine Small 2",
       "tags": [
         "machine",
@@ -723,6 +798,7 @@
     },
     {
       "file": "audio/space-engine-small-002.m4a",
+      "src": "Audio/spaceEngineSmall_002.ogg",
       "name": "Space Engine Small 3",
       "tags": [
         "machine",
@@ -735,6 +811,7 @@
     },
     {
       "file": "audio/space-engine-small-003.m4a",
+      "src": "Audio/spaceEngineSmall_003.ogg",
       "name": "Space Engine Small 4",
       "tags": [
         "machine",
@@ -747,6 +824,7 @@
     },
     {
       "file": "audio/space-engine-small-004.m4a",
+      "src": "Audio/spaceEngineSmall_004.ogg",
       "name": "Space Engine Small 5",
       "tags": [
         "machine",
@@ -759,6 +837,7 @@
     },
     {
       "file": "audio/thruster-fire-000.m4a",
+      "src": "Audio/thrusterFire_000.ogg",
       "name": "Thruster Fire 1",
       "tags": [
         "nature",
@@ -770,6 +849,7 @@
     },
     {
       "file": "audio/thruster-fire-001.m4a",
+      "src": "Audio/thrusterFire_001.ogg",
       "name": "Thruster Fire 2",
       "tags": [
         "nature",
@@ -781,6 +861,7 @@
     },
     {
       "file": "audio/thruster-fire-002.m4a",
+      "src": "Audio/thrusterFire_002.ogg",
       "name": "Thruster Fire 3",
       "tags": [
         "nature",
@@ -792,6 +873,7 @@
     },
     {
       "file": "audio/thruster-fire-003.m4a",
+      "src": "Audio/thrusterFire_003.ogg",
       "name": "Thruster Fire 4",
       "tags": [
         "nature",
@@ -803,6 +885,7 @@
     },
     {
       "file": "audio/thruster-fire-004.m4a",
+      "src": "Audio/thrusterFire_004.ogg",
       "name": "Thruster Fire 5",
       "tags": [
         "nature",

@@ -1,0 +1,149 @@
+{
+  "id": "opengameart-platformer-sounds-terminal-interaction-door-shots-bang-and-footsteps",
+  "title": "Platformer Sounds: Terminal, Interaction, Door, Shots, Bang and Footsteps",
+  "blurb": "12 sounds — mostly Foley and Weapons.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "yd · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-yd",
+    "name": "yd"
+  },
+  "homepage": "https://opengameart.org/content/platformer-sounds-terminal-interaction-door-shots-bang-and-footsteps",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/beep-message.m4a",
+      "src": "yd-sounds/yd-Sounds/beep_message.ogg",
+      "name": "Beep Message",
+      "tags": [
+        "digital",
+        "beep",
+        "message",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/boxopen.m4a",
+      "src": "yd-sounds/yd-Sounds/boxopen.ogg",
+      "name": "Boxopen",
+      "tags": [
+        "weapon",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/cogs.m4a",
+      "src": "yd-sounds/yd-Sounds/cogs.ogg",
+      "name": "Cogs",
+      "tags": [
+        "weapon",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/door-open.m4a",
+      "src": "yd-sounds/yd-Sounds/door_open.ogg",
+      "name": "Door Open",
+      "tags": [
+        "foley",
+        "door",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/explode.m4a",
+      "src": "yd-sounds/yd-Sounds/explode.ogg",
+      "name": "Explode",
+      "tags": [
+        "weapon",
+        "explode",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/kill-shoot.m4a",
+      "src": "yd-sounds/yd-Sounds/kill_shoot.ogg",
+      "name": "Kill Shoot",
+      "tags": [
+        "weapon",
+        "shoot",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/landing.m4a",
+      "src": "yd-sounds/yd-Sounds/landing.ogg",
+      "name": "Landing",
+      "tags": [
+        "weapon",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/steps-chain.m4a",
+      "src": "yd-sounds/yd-Sounds/steps_chain.ogg",
+      "name": "Steps Chain",
+      "tags": [
+        "foley",
+        "step",
+        "chain",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/steps-platform.m4a",
+      "src": "yd-sounds/yd-Sounds/steps_platform.ogg",
+      "name": "Steps Platform",
+      "tags": [
+        "foley",
+        "step",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/steps-platform2.m4a",
+      "src": "yd-sounds/yd-Sounds/steps_platform2.ogg",
+      "name": "Steps Platform2",
+      "tags": [
+        "foley",
+        "step",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/steps-stairs.m4a",
+      "src": "yd-sounds/yd-Sounds/steps_stairs.ogg",
+      "name": "Steps Stairs",
+      "tags": [
+        "foley",
+        "step",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/steps-stairs1.m4a",
+      "src": "yd-sounds/yd-Sounds/steps_stairs1.ogg",
+      "name": "Steps Stairs1",
+      "tags": [
+        "foley",
+        "step",
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

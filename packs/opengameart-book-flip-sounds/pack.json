@@ -1,0 +1,161 @@
+{
+  "id": "opengameart-book-flip-sounds",
+  "title": "Book Flip Sounds",
+  "blurb": "13 sounds — mostly Foley.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "voltiment555 · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-voltiment555",
+    "name": "voltiment555"
+  },
+  "homepage": "https://opengameart.org/content/book-flip-sounds",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/book-flip1.m4a",
+      "src": "book-flip-sfx/BookFlip1.wav",
+      "name": "Book Flip1",
+      "tags": [
+        "foley",
+        "book",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/book-flip10.m4a",
+      "src": "book-flip-sfx/BookFlip10.wav",
+      "name": "Book Flip10",
+      "tags": [
+        "foley",
+        "book",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/book-flip11.m4a",
+      "src": "book-flip-sfx/BookFlip11.wav",
+      "name": "Book Flip11",
+      "tags": [
+        "foley",
+        "book",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/book-flip12.m4a",
+      "src": "book-flip-sfx/BookFlip12.wav",
+      "name": "Book Flip12",
+      "tags": [
+        "foley",
+        "book",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/book-flip13.m4a",
+      "src": "book-flip-sfx/BookFlip13.wav",
+      "name": "Book Flip13",
+      "tags": [
+        "foley",
+        "book",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/book-flip2.m4a",
+      "src": "book-flip-sfx/BookFlip2.wav",
+      "name": "Book Flip2",
+      "tags": [
+        "foley",
+        "book",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/book-flip3.m4a",
+      "src": "book-flip-sfx/BookFlip3.wav",
+      "name": "Book Flip3",
+      "tags": [
+        "foley",
+        "book",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/book-flip4.m4a",
+      "src": "book-flip-sfx/BookFlip4.wav",
+      "name": "Book Flip4",
+      "tags": [
+        "foley",
+        "book",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/book-flip5.m4a",
+      "src": "book-flip-sfx/BookFlip5.wav",
+      "name": "Book Flip5",
+      "tags": [
+        "foley",
+        "book",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/book-flip6.m4a",
+      "src": "book-flip-sfx/BookFlip6.wav",
+      "name": "Book Flip6",
+      "tags": [
+        "foley",
+        "book",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/book-flip7.m4a",
+      "src": "book-flip-sfx/BookFlip7.wav",
+      "name": "Book Flip7",
+      "tags": [
+        "foley",
+        "book",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/book-flip8.m4a",
+      "src": "book-flip-sfx/BookFlip8.wav",
+      "name": "Book Flip8",
+      "tags": [
+        "foley",
+        "book",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/book-flip9.m4a",
+      "src": "book-flip-sfx/BookFlip9.wav",
+      "name": "Book Flip9",
+      "tags": [
+        "foley",
+        "book",
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

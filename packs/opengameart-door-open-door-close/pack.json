@@ -1,0 +1,108 @@
+{
+  "id": "opengameart-door-open-door-close",
+  "title": "Door open, door close",
+  "blurb": "9 sounds — mostly Foley.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "qubodup · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-qubodup",
+    "name": "qubodup"
+  },
+  "homepage": "https://opengameart.org/content/door-open-door-close",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/door-01.m4a",
+      "name": "Door 1",
+      "tags": [
+        "foley",
+        "door",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/door-02.m4a",
+      "name": "Door 2",
+      "tags": [
+        "foley",
+        "door",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/door-03.m4a",
+      "name": "Door 3",
+      "tags": [
+        "foley",
+        "door",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/door-04.m4a",
+      "name": "Door 4",
+      "tags": [
+        "foley",
+        "door",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/door-05.m4a",
+      "name": "Door 5",
+      "tags": [
+        "foley",
+        "door",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/door-06.m4a",
+      "name": "Door 6",
+      "tags": [
+        "foley",
+        "door",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/door-07.m4a",
+      "name": "Door 7",
+      "tags": [
+        "foley",
+        "door",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/door-08.m4a",
+      "name": "Door 8",
+      "tags": [
+        "foley",
+        "door",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/door-09.m4a",
+      "name": "Door 9",
+      "tags": [
+        "foley",
+        "door",
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

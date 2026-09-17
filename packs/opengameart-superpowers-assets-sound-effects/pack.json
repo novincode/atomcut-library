@@ -1,0 +1,1214 @@
+{
+  "id": "opengameart-superpowers-assets-sound-effects",
+  "title": "Superpowers assets sound effects",
+  "blurb": "134 sounds — mostly Weapons and Human.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "medicinestorm · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-medicinestorm",
+    "name": "medicinestorm"
+  },
+  "homepage": "https://opengameart.org/content/superpowers-assets-sound-effects",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/1.m4a",
+      "name": "Superpowers assets sound effects 1",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/10.m4a",
+      "name": "Superpowers assets sound effects 10",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/11.m4a",
+      "name": "Superpowers assets sound effects 11",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/12.m4a",
+      "name": "Superpowers assets sound effects 12",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/13.m4a",
+      "name": "Superpowers assets sound effects 13",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/14.m4a",
+      "name": "Superpowers assets sound effects 14",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/15.m4a",
+      "name": "Superpowers assets sound effects 15",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/16.m4a",
+      "name": "Superpowers assets sound effects 16",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/17.m4a",
+      "name": "Superpowers assets sound effects 17",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/18.m4a",
+      "name": "Superpowers assets sound effects 18",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/19.m4a",
+      "name": "Superpowers assets sound effects 19",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/2.m4a",
+      "name": "Superpowers assets sound effects 2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/20.m4a",
+      "name": "Superpowers assets sound effects 20",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/21.m4a",
+      "name": "Superpowers assets sound effects 21",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/22.m4a",
+      "name": "Superpowers assets sound effects 22",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/23.m4a",
+      "name": "Superpowers assets sound effects 23",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/24.m4a",
+      "name": "Superpowers assets sound effects 24",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/25.m4a",
+      "name": "Superpowers assets sound effects 25",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/26.m4a",
+      "name": "Superpowers assets sound effects 26",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/27.m4a",
+      "name": "Superpowers assets sound effects 27",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/28.m4a",
+      "name": "Superpowers assets sound effects 28",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/29.m4a",
+      "name": "Superpowers assets sound effects 29",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/3.m4a",
+      "name": "Superpowers assets sound effects 3",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/30.m4a",
+      "name": "Superpowers assets sound effects 30",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/31.m4a",
+      "name": "Superpowers assets sound effects 31",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/32.m4a",
+      "name": "Superpowers assets sound effects 32",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/33.m4a",
+      "name": "Superpowers assets sound effects 33",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/34.m4a",
+      "name": "Superpowers assets sound effects 34",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/35.m4a",
+      "name": "Superpowers assets sound effects 35",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/36.m4a",
+      "name": "Superpowers assets sound effects 36",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/37.m4a",
+      "name": "Superpowers assets sound effects 37",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/38.m4a",
+      "name": "Superpowers assets sound effects 38",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/39.m4a",
+      "name": "Superpowers assets sound effects 39",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/4.m4a",
+      "name": "Superpowers assets sound effects 4",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/40.m4a",
+      "name": "Superpowers assets sound effects 40",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/5.m4a",
+      "name": "Superpowers assets sound effects 5",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/6.m4a",
+      "name": "Superpowers assets sound effects 6",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/7.m4a",
+      "name": "Superpowers assets sound effects 7",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/8.m4a",
+      "name": "Superpowers assets sound effects 8",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/9.m4a",
+      "name": "Superpowers assets sound effects 9",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/alert.m4a",
+      "name": "Alert",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/ammo.m4a",
+      "name": "Ammo",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/arrow.m4a",
+      "name": "Arrow",
+      "tags": [
+        "weapon",
+        "arrow",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/boss-death.m4a",
+      "name": "Boss Death",
+      "tags": [
+        "human",
+        "death",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/boss-shoot.m4a",
+      "name": "Boss Shoot",
+      "tags": [
+        "weapon",
+        "shoot",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bulls.m4a",
+      "name": "Bulls",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/cure.m4a",
+      "name": "Cure",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/dark-shoot.m4a",
+      "name": "Dark Shoot",
+      "tags": [
+        "weapon",
+        "dark",
+        "shoot",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/death.m4a",
+      "name": "Death",
+      "tags": [
+        "human",
+        "death",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/desert-ambience.m4a",
+      "name": "Desert Ambience",
+      "tags": [
+        "ambience",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/dinosaur-1.m4a",
+      "name": "Dinosaur 1",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/dinosaur-2.m4a",
+      "name": "Dinosaur 2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/dinosaur-3.m4a",
+      "name": "Dinosaur 3",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/dinosaur-4.m4a",
+      "name": "Dinosaur 4",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/dinosaur-5.m4a",
+      "name": "Dinosaur 5",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/explosion-1.m4a",
+      "name": "Explosion 1",
+      "tags": [
+        "weapon",
+        "explosion",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/explosion-2.m4a",
+      "name": "Explosion 2",
+      "tags": [
+        "weapon",
+        "explosion",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/explosion-3.m4a",
+      "name": "Explosion 3",
+      "tags": [
+        "weapon",
+        "explosion",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/flame-thrower.m4a",
+      "name": "Flame Thrower",
+      "tags": [
+        "nature",
+        "flame",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/forest-ambience.m4a",
+      "name": "Forest Ambience",
+      "tags": [
+        "nature",
+        "forest",
+        "ambience",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/game-over.m4a",
+      "name": "Game Over",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/game-over-2.m4a",
+      "name": "Game Over",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/glass-breaking-1.m4a",
+      "name": "Glass Breaking 1",
+      "tags": [
+        "impact",
+        "glass",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/glass-breaking-2.m4a",
+      "name": "Glass Breaking 2",
+      "tags": [
+        "impact",
+        "glass",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/gold-1.m4a",
+      "name": "Gold 1",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/gold-2.m4a",
+      "name": "Gold 2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/gold-3.m4a",
+      "name": "Gold 3",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/gold-4.m4a",
+      "name": "Gold 4",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/gun-1.m4a",
+      "name": "Gun 1",
+      "tags": [
+        "weapon",
+        "gun",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/gun-2.m4a",
+      "name": "Gun 2",
+      "tags": [
+        "weapon",
+        "gun",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/gun-3.m4a",
+      "name": "Gun 3",
+      "tags": [
+        "weapon",
+        "gun",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/gun-4.m4a",
+      "name": "Gun 4",
+      "tags": [
+        "weapon",
+        "gun",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/gun-5.m4a",
+      "name": "Gun 5",
+      "tags": [
+        "weapon",
+        "gun",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit.m4a",
+      "name": "Hit",
+      "tags": [
+        "impact",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit-1.m4a",
+      "name": "Hit 1",
+      "tags": [
+        "impact",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit-2.m4a",
+      "name": "Hit 2",
+      "tags": [
+        "impact",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/impact-1.m4a",
+      "name": "Impact 1",
+      "tags": [
+        "impact",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/impact-2.m4a",
+      "name": "Impact 2",
+      "tags": [
+        "impact",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/kill.m4a",
+      "name": "Kill",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/laser.m4a",
+      "name": "Laser",
+      "tags": [
+        "digital",
+        "laser",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/machinegun.m4a",
+      "name": "Machinegun",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/magic.m4a",
+      "name": "Magic",
+      "tags": [
+        "magic",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/magic-1.m4a",
+      "name": "Magic",
+      "tags": [
+        "magic",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/menu-1.m4a",
+      "name": "Menu 1",
+      "tags": [
+        "interface",
+        "menu",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/menu-2.m4a",
+      "name": "Menu 2",
+      "tags": [
+        "interface",
+        "menu",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/menu-3.m4a",
+      "name": "Menu 3",
+      "tags": [
+        "interface",
+        "menu",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/menu-4.m4a",
+      "name": "Menu 4",
+      "tags": [
+        "interface",
+        "menu",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/menu-5.m4a",
+      "name": "Menu 5",
+      "tags": [
+        "interface",
+        "menu",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/menu-6.m4a",
+      "name": "Menu 6",
+      "tags": [
+        "interface",
+        "menu",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/monster-1.m4a",
+      "name": "Monster 1",
+      "tags": [
+        "creature",
+        "monster",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/monster-2.m4a",
+      "name": "Monster 2",
+      "tags": [
+        "creature",
+        "monster",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/no-ammo.m4a",
+      "name": "No Ammo",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/power-up.m4a",
+      "name": "Power Up",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/power-up-1.m4a",
+      "name": "Power Up 1",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/power-up-2.m4a",
+      "name": "Power Up 2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/power-up-3.m4a",
+      "name": "Power Up 3",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/raven-1.m4a",
+      "name": "Raven 1",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/raven-2.m4a",
+      "name": "Raven 2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/reload.m4a",
+      "name": "Reload",
+      "tags": [
+        "weapon",
+        "reload",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sand-step.m4a",
+      "name": "Sand Step",
+      "tags": [
+        "foley",
+        "sand",
+        "step",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/scream-1.m4a",
+      "name": "Scream 1",
+      "tags": [
+        "human",
+        "scream",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/scream-2.m4a",
+      "name": "Scream 2",
+      "tags": [
+        "human",
+        "scream",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/scream-3.m4a",
+      "name": "Scream 3",
+      "tags": [
+        "human",
+        "scream",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/scream-4.m4a",
+      "name": "Scream 4",
+      "tags": [
+        "human",
+        "scream",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/scream-5.m4a",
+      "name": "Scream 5",
+      "tags": [
+        "human",
+        "scream",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/scream-6.m4a",
+      "name": "Scream 6",
+      "tags": [
+        "human",
+        "scream",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/secret-1.m4a",
+      "name": "Secret",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/shoot-1.m4a",
+      "name": "Shoot 1",
+      "tags": [
+        "weapon",
+        "shoot",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/shoot-2.m4a",
+      "name": "Shoot 2",
+      "tags": [
+        "weapon",
+        "shoot",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/shoot-3.m4a",
+      "name": "Shoot 3",
+      "tags": [
+        "weapon",
+        "shoot",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/shoot-destroy.m4a",
+      "name": "Shoot Destroy",
+      "tags": [
+        "weapon",
+        "shoot",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/succes.m4a",
+      "name": "Succes",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/succes-2.m4a",
+      "name": "Succes 2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/succes-3.m4a",
+      "name": "Succes 3",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sword.m4a",
+      "name": "Sword",
+      "tags": [
+        "weapon",
+        "sword",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sword-1.m4a",
+      "name": "Sword 1",
+      "tags": [
+        "weapon",
+        "sword",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sword-2.m4a",
+      "name": "Sword 2",
+      "tags": [
+        "weapon",
+        "sword",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/victory-1.m4a",
+      "name": "Victory 1",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/victory-2.m4a",
+      "name": "Victory 2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/victory-3.m4a",
+      "name": "Victory 3",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/voice-1.m4a",
+      "name": "Voice 1",
+      "tags": [
+        "human",
+        "voice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/voice-2.m4a",
+      "name": "Voice 2",
+      "tags": [
+        "human",
+        "voice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/voice-3.m4a",
+      "name": "Voice 3",
+      "tags": [
+        "human",
+        "voice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/voice-4.m4a",
+      "name": "Voice 4",
+      "tags": [
+        "human",
+        "voice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/window-hit-1.m4a",
+      "name": "Window Hit 1",
+      "tags": [
+        "impact",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/window-hit-2.m4a",
+      "name": "Window Hit 2",
+      "tags": [
+        "impact",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-1.m4a",
+      "name": "Wood 1",
+      "tags": [
+        "foley",
+        "wood",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-2.m4a",
+      "name": "Wood 2",
+      "tags": [
+        "foley",
+        "wood",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-3.m4a",
+      "name": "Wood 3",
+      "tags": [
+        "foley",
+        "wood",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-4.m4a",
+      "name": "Wood 4",
+      "tags": [
+        "foley",
+        "wood",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-5.m4a",
+      "name": "Wood 5",
+      "tags": [
+        "foley",
+        "wood",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/woosh-1.m4a",
+      "name": "Woosh 1",
+      "tags": [
+        "whoosh",
+        "woosh",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/woosh-2.m4a",
+      "name": "Woosh 2",
+      "tags": [
+        "whoosh",
+        "woosh",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/woosh-3.m4a",
+      "name": "Woosh 3",
+      "tags": [
+        "whoosh",
+        "woosh",
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

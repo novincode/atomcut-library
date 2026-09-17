@@ -1,0 +1,302 @@
+{
+  "id": "opengameart-25-cc0-bang-firework-sfx",
+  "title": "25 bang / firework SFX",
+  "blurb": "25 sounds — mostly Impacts and Weapons.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "rubberduck · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-rubberduck",
+    "name": "rubberduck"
+  },
+  "homepage": "https://opengameart.org/content/25-cc0-bang-firework-sfx",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/bang-01.m4a",
+      "src": "25-cc0-bang-sfx/bang_01.ogg",
+      "name": "Bang 1",
+      "tags": [
+        "impact",
+        "bang",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bang-02.m4a",
+      "src": "25-cc0-bang-sfx/bang_02.ogg",
+      "name": "Bang 2",
+      "tags": [
+        "impact",
+        "bang",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bang-03.m4a",
+      "src": "25-cc0-bang-sfx/bang_03.ogg",
+      "name": "Bang 3",
+      "tags": [
+        "impact",
+        "bang",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bang-04.m4a",
+      "src": "25-cc0-bang-sfx/bang_04.ogg",
+      "name": "Bang 4",
+      "tags": [
+        "impact",
+        "bang",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bang-05.m4a",
+      "src": "25-cc0-bang-sfx/bang_05.ogg",
+      "name": "Bang 5",
+      "tags": [
+        "impact",
+        "bang",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bang-06.m4a",
+      "src": "25-cc0-bang-sfx/bang_06.ogg",
+      "name": "Bang 6",
+      "tags": [
+        "impact",
+        "bang",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bang-07.m4a",
+      "src": "25-cc0-bang-sfx/bang_07.ogg",
+      "name": "Bang 7",
+      "tags": [
+        "impact",
+        "bang",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bang-08.m4a",
+      "src": "25-cc0-bang-sfx/bang_08.ogg",
+      "name": "Bang 8",
+      "tags": [
+        "impact",
+        "bang",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bang-09.m4a",
+      "src": "25-cc0-bang-sfx/bang_09.ogg",
+      "name": "Bang 9",
+      "tags": [
+        "impact",
+        "bang",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bang-10.m4a",
+      "src": "25-cc0-bang-sfx/bang_10.ogg",
+      "name": "Bang 10",
+      "tags": [
+        "impact",
+        "bang",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/cannon-01.m4a",
+      "src": "25-cc0-bang-sfx/cannon_01.ogg",
+      "name": "Cannon 1",
+      "tags": [
+        "weapon",
+        "bang",
+        "cannon",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/cannon-02.m4a",
+      "src": "25-cc0-bang-sfx/cannon_02.ogg",
+      "name": "Cannon 2",
+      "tags": [
+        "weapon",
+        "bang",
+        "cannon",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/cannon-03.m4a",
+      "src": "25-cc0-bang-sfx/cannon_03.ogg",
+      "name": "Cannon 3",
+      "tags": [
+        "weapon",
+        "bang",
+        "cannon",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/cannon-04.m4a",
+      "src": "25-cc0-bang-sfx/cannon_04.ogg",
+      "name": "Cannon 4",
+      "tags": [
+        "weapon",
+        "bang",
+        "cannon",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/cannon-05.m4a",
+      "src": "25-cc0-bang-sfx/cannon_05.ogg",
+      "name": "Cannon 5",
+      "tags": [
+        "weapon",
+        "bang",
+        "cannon",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/fw-01.m4a",
+      "src": "25-cc0-bang-sfx/fw_01.ogg",
+      "name": "Fw 1",
+      "tags": [
+        "impact",
+        "bang",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/fw-02.m4a",
+      "src": "25-cc0-bang-sfx/fw_02.ogg",
+      "name": "Fw 2",
+      "tags": [
+        "impact",
+        "bang",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/fw-03.m4a",
+      "src": "25-cc0-bang-sfx/fw_03.ogg",
+      "name": "Fw 3",
+      "tags": [
+        "impact",
+        "bang",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/fw-04.m4a",
+      "src": "25-cc0-bang-sfx/fw_04.ogg",
+      "name": "Fw 4",
+      "tags": [
+        "impact",
+        "bang",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/fw-05.m4a",
+      "src": "25-cc0-bang-sfx/fw_05.ogg",
+      "name": "Fw 5",
+      "tags": [
+        "impact",
+        "bang",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/fw-06.m4a",
+      "src": "25-cc0-bang-sfx/fw_06.ogg",
+      "name": "Fw 6",
+      "tags": [
+        "impact",
+        "bang",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/fw-loop.m4a",
+      "src": "25-cc0-bang-sfx/fw_loop.ogg",
+      "name": "Fw Loop",
+      "tags": [
+        "impact",
+        "bang",
+        "loop",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/shot-01.m4a",
+      "src": "25-cc0-bang-sfx/shot_01.ogg",
+      "name": "Shot 1",
+      "tags": [
+        "weapon",
+        "bang",
+        "shot",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/shot-02.m4a",
+      "src": "25-cc0-bang-sfx/shot_02.ogg",
+      "name": "Shot 2",
+      "tags": [
+        "weapon",
+        "bang",
+        "shot",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/shot-03.m4a",
+      "src": "25-cc0-bang-sfx/shot_03.ogg",
+      "name": "Shot 3",
+      "tags": [
+        "weapon",
+        "bang",
+        "shot",
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

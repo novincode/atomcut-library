@@ -1,0 +1,638 @@
+{
+  "id": "opengameart-50-cc0-retro-synth-sfx",
+  "title": "50 retro / synth SFX",
+  "blurb": "50 sounds — mostly Digital.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "rubberduck · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-rubberduck",
+    "name": "rubberduck"
+  },
+  "homepage": "https://opengameart.org/content/50-cc0-retro-synth-sfx",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/power-up-01.m4a",
+      "src": "50-cc0-retro-synth-sfx/power_up_01.ogg",
+      "name": "Power Up 1",
+      "tags": [
+        "digital",
+        "retro",
+        "synth",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/power-up-02.m4a",
+      "src": "50-cc0-retro-synth-sfx/power_up_02.ogg",
+      "name": "Power Up 2",
+      "tags": [
+        "digital",
+        "retro",
+        "synth",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/power-up-03.m4a",
+      "src": "50-cc0-retro-synth-sfx/power_up_03.ogg",
+      "name": "Power Up 3",
+      "tags": [
+        "digital",
+        "retro",
+        "synth",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/power-up-04.m4a",
+      "src": "50-cc0-retro-synth-sfx/power_up_04.ogg",
+      "name": "Power Up 4",
+      "tags": [
+        "digital",
+        "retro",
+        "synth",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/power-up-05.m4a",
+      "src": "50-cc0-retro-synth-sfx/power_up_05.ogg",
+      "name": "Power Up 5",
+      "tags": [
+        "digital",
+        "retro",
+        "synth",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/power-up-06.m4a",
+      "src": "50-cc0-retro-synth-sfx/power_up_06.ogg",
+      "name": "Power Up 6",
+      "tags": [
+        "digital",
+        "retro",
+        "synth",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/retro-coin-01.m4a",
+      "src": "50-cc0-retro-synth-sfx/retro_coin_01.ogg",
+      "name": "Retro Coin 1",
+      "tags": [
+        "digital",
+        "retro",
+        "synth",
+        "coin",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/retro-coin-02.m4a",
+      "src": "50-cc0-retro-synth-sfx/retro_coin_02.ogg",
+      "name": "Retro Coin 2",
+      "tags": [
+        "digital",
+        "retro",
+        "synth",
+        "coin",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/retro-die-01.m4a",
+      "src": "50-cc0-retro-synth-sfx/retro_die_01.ogg",
+      "name": "Retro Die 1",
+      "tags": [
+        "digital",
+        "retro",
+        "synth",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/retro-die-02.m4a",
+      "src": "50-cc0-retro-synth-sfx/retro_die_02.ogg",
+      "name": "Retro Die 2",
+      "tags": [
+        "digital",
+        "retro",
+        "synth",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/retro-die-03.m4a",
+      "src": "50-cc0-retro-synth-sfx/retro_die_03.ogg",
+      "name": "Retro Die 3",
+      "tags": [
+        "digital",
+        "retro",
+        "synth",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/retro-explosion-01.m4a",
+      "src": "50-cc0-retro-synth-sfx/retro_explosion_01.ogg",
+      "name": "Retro Explosion 1",
+      "tags": [
+        "digital",
+        "retro",
+        "synth",
+        "explosion",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/retro-explosion-02.m4a",
+      "src": "50-cc0-retro-synth-sfx/retro_explosion_02.ogg",
+      "name": "Retro Explosion 2",
+      "tags": [
+        "digital",
+        "retro",
+        "synth",
+        "explosion",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/retro-explosion-03.m4a",
+      "src": "50-cc0-retro-synth-sfx/retro_explosion_03.ogg",
+      "name": "Retro Explosion 3",
+      "tags": [
+        "digital",
+        "retro",
+        "synth",
+        "explosion",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/retro-explosion-04.m4a",
+      "src": "50-cc0-retro-synth-sfx/retro_explosion_04.ogg",
+      "name": "Retro Explosion 4",
+      "tags": [
+        "digital",
+        "retro",
+        "synth",
+        "explosion",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/retro-explosion-05.m4a",
+      "src": "50-cc0-retro-synth-sfx/retro_explosion_05.ogg",
+      "name": "Retro Explosion 5",
+      "tags": [
+        "digital",
+        "retro",
+        "synth",
+        "explosion",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/retro-misc-01.m4a",
+      "src": "50-cc0-retro-synth-sfx/retro_misc_01.ogg",
+      "name": "Retro Misc 1",
+      "tags": [
+        "digital",
+        "retro",
+        "synth",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/retro-misc-02.m4a",
+      "src": "50-cc0-retro-synth-sfx/retro_misc_02.ogg",
+      "name": "Retro Misc 2",
+      "tags": [
+        "digital",
+        "retro",
+        "synth",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/retro-misc-03.m4a",
+      "src": "50-cc0-retro-synth-sfx/retro_misc_03.ogg",
+      "name": "Retro Misc 3",
+      "tags": [
+        "digital",
+        "retro",
+        "synth",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/retro-misc-04.m4a",
+      "src": "50-cc0-retro-synth-sfx/retro_misc_04.ogg",
+      "name": "Retro Misc 4",
+      "tags": [
+        "digital",
+        "retro",
+        "synth",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/retro-misc-05.m4a",
+      "src": "50-cc0-retro-synth-sfx/retro_misc_05.ogg",
+      "name": "Retro Misc 5",
+      "tags": [
+        "digital",
+        "retro",
+        "synth",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/shot-01.m4a",
+      "src": "50-cc0-retro-synth-sfx/shot_01.ogg",
+      "name": "Shot 1",
+      "tags": [
+        "digital",
+        "retro",
+        "synth",
+        "shot",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/shot-02.m4a",
+      "src": "50-cc0-retro-synth-sfx/shot_02.ogg",
+      "name": "Shot 2",
+      "tags": [
+        "digital",
+        "retro",
+        "synth",
+        "shot",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/synth-beep-01.m4a",
+      "src": "50-cc0-retro-synth-sfx/synth_beep_01.ogg",
+      "name": "Synth Beep 1",
+      "tags": [
+        "digital",
+        "retro",
+        "synth",
+        "beep",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/synth-beep-02.m4a",
+      "src": "50-cc0-retro-synth-sfx/synth_beep_02.ogg",
+      "name": "Synth Beep 2",
+      "tags": [
+        "digital",
+        "retro",
+        "synth",
+        "beep",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/synth-beep-03.m4a",
+      "src": "50-cc0-retro-synth-sfx/synth_beep_03.ogg",
+      "name": "Synth Beep 3",
+      "tags": [
+        "digital",
+        "retro",
+        "synth",
+        "beep",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/synth-laser-01.m4a",
+      "src": "50-cc0-retro-synth-sfx/synth_laser_01.ogg",
+      "name": "Synth Laser 1",
+      "tags": [
+        "digital",
+        "retro",
+        "synth",
+        "laser",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/synth-laser-02.m4a",
+      "src": "50-cc0-retro-synth-sfx/synth_laser_02.ogg",
+      "name": "Synth Laser 2",
+      "tags": [
+        "digital",
+        "retro",
+        "synth",
+        "laser",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/synth-laser-03.m4a",
+      "src": "50-cc0-retro-synth-sfx/synth_laser_03.ogg",
+      "name": "Synth Laser 3",
+      "tags": [
+        "digital",
+        "retro",
+        "synth",
+        "laser",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/synth-laser-04.m4a",
+      "src": "50-cc0-retro-synth-sfx/synth_laser_04.ogg",
+      "name": "Synth Laser 4",
+      "tags": [
+        "digital",
+        "retro",
+        "synth",
+        "laser",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/synth-laser-05.m4a",
+      "src": "50-cc0-retro-synth-sfx/synth_laser_05.ogg",
+      "name": "Synth Laser 5",
+      "tags": [
+        "digital",
+        "retro",
+        "synth",
+        "laser",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/synth-laser-06.m4a",
+      "src": "50-cc0-retro-synth-sfx/synth_laser_06.ogg",
+      "name": "Synth Laser 6",
+      "tags": [
+        "digital",
+        "retro",
+        "synth",
+        "laser",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/synth-laser-07.m4a",
+      "src": "50-cc0-retro-synth-sfx/synth_laser_07.ogg",
+      "name": "Synth Laser 7",
+      "tags": [
+        "digital",
+        "retro",
+        "synth",
+        "laser",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/synth-laser-08.m4a",
+      "src": "50-cc0-retro-synth-sfx/synth_laser_08.ogg",
+      "name": "Synth Laser 8",
+      "tags": [
+        "digital",
+        "retro",
+        "synth",
+        "laser",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/synth-misc-01.m4a",
+      "src": "50-cc0-retro-synth-sfx/synth_misc_01.ogg",
+      "name": "Synth Misc 1",
+      "tags": [
+        "digital",
+        "retro",
+        "synth",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/synth-misc-02.m4a",
+      "src": "50-cc0-retro-synth-sfx/synth_misc_02.ogg",
+      "name": "Synth Misc 2",
+      "tags": [
+        "digital",
+        "retro",
+        "synth",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/synth-misc-03.m4a",
+      "src": "50-cc0-retro-synth-sfx/synth_misc_03.ogg",
+      "name": "Synth Misc 3",
+      "tags": [
+        "digital",
+        "retro",
+        "synth",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/synth-misc-04.m4a",
+      "src": "50-cc0-retro-synth-sfx/synth_misc_04.ogg",
+      "name": "Synth Misc 4",
+      "tags": [
+        "digital",
+        "retro",
+        "synth",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/synth-misc-05.m4a",
+      "src": "50-cc0-retro-synth-sfx/synth_misc_05.ogg",
+      "name": "Synth Misc 5",
+      "tags": [
+        "digital",
+        "retro",
+        "synth",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/synth-misc-06.m4a",
+      "src": "50-cc0-retro-synth-sfx/synth_misc_06.ogg",
+      "name": "Synth Misc 6",
+      "tags": [
+        "digital",
+        "retro",
+        "synth",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/synth-misc-07.m4a",
+      "src": "50-cc0-retro-synth-sfx/synth_misc_07.ogg",
+      "name": "Synth Misc 7",
+      "tags": [
+        "digital",
+        "retro",
+        "synth",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/synth-misc-08.m4a",
+      "src": "50-cc0-retro-synth-sfx/synth_misc_08.ogg",
+      "name": "Synth Misc 8",
+      "tags": [
+        "digital",
+        "retro",
+        "synth",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/synth-misc-09.m4a",
+      "src": "50-cc0-retro-synth-sfx/synth_misc_09.ogg",
+      "name": "Synth Misc 9",
+      "tags": [
+        "digital",
+        "retro",
+        "synth",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/synth-misc-10.m4a",
+      "src": "50-cc0-retro-synth-sfx/synth_misc_10.ogg",
+      "name": "Synth Misc 10",
+      "tags": [
+        "digital",
+        "retro",
+        "synth",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/synth-misc-11.m4a",
+      "src": "50-cc0-retro-synth-sfx/synth_misc_11.ogg",
+      "name": "Synth Misc 11",
+      "tags": [
+        "digital",
+        "retro",
+        "synth",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/synth-misc-12.m4a",
+      "src": "50-cc0-retro-synth-sfx/synth_misc_12.ogg",
+      "name": "Synth Misc 12",
+      "tags": [
+        "digital",
+        "retro",
+        "synth",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/synth-misc-13.m4a",
+      "src": "50-cc0-retro-synth-sfx/synth_misc_13.ogg",
+      "name": "Synth Misc 13",
+      "tags": [
+        "digital",
+        "retro",
+        "synth",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/synth-misc-14.m4a",
+      "src": "50-cc0-retro-synth-sfx/synth_misc_14.ogg",
+      "name": "Synth Misc 14",
+      "tags": [
+        "digital",
+        "retro",
+        "synth",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/synth-misc-15.m4a",
+      "src": "50-cc0-retro-synth-sfx/synth_misc_15.ogg",
+      "name": "Synth Misc 15",
+      "tags": [
+        "digital",
+        "retro",
+        "synth",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/synth-misc-16.m4a",
+      "src": "50-cc0-retro-synth-sfx/synth_misc_16.ogg",
+      "name": "Synth Misc 16",
+      "tags": [
+        "digital",
+        "retro",
+        "synth",
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

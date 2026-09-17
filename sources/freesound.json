@@ -1,0 +1,22 @@
+{
+  "id": "freesound",
+  "fetch": "freesound",
+  "license": "CC0-1.0",
+  "attribution": "freesound.org · CC0 1.0 (public domain)",
+  "homepage": "https://freesound.org/search/?f=license%3A%22Creative+Commons+0%22",
+  "publisher": { "id": "freesound", "name": "Freesound" },
+  "tags": ["cc0"],
+  "maxSeconds": 20,
+  "packs": [
+    { "slug": "impacts", "query": "impact hit", "title": "Impacts", "tags": ["impact"], "count": 200 },
+    { "slug": "whooshes", "query": "whoosh swoosh", "title": "Whooshes", "tags": ["whoosh"], "count": 200 },
+    { "slug": "interface", "query": "ui click button", "title": "Interface", "tags": ["ui"], "count": 200 },
+    { "slug": "digital", "query": "glitch digital beep", "title": "Digital", "tags": ["digital"], "count": 200 },
+    { "slug": "foley", "query": "foley handling cloth paper", "title": "Foley", "tags": ["foley"], "count": 200 },
+    { "slug": "nature", "query": "water wind fire nature", "title": "Nature", "tags": ["nature"], "count": 200 },
+    { "slug": "machines", "query": "machine motor mechanical", "title": "Machines", "tags": ["machine"], "count": 150 },
+    { "slug": "human", "query": "voice crowd laugh breath", "title": "Human", "tags": ["human"], "count": 150 },
+    { "slug": "risers", "query": "riser transition sweep", "title": "Risers", "tags": ["whoosh"], "count": 150 },
+    { "slug": "stingers", "query": "stinger cinematic trailer hit", "title": "Stingers", "tags": ["music"], "count": 150 }
+  ]
+}

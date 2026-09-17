@@ -1,0 +1,238 @@
+{
+  "id": "opengameart-20-sword-sound-effects-attacks-and-clashes",
+  "title": "20 Sword Sound Effects (Attacks and Clashes)",
+  "blurb": "20 sounds — mostly Weapons.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "starninjas · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-starninjas",
+    "name": "starninjas"
+  },
+  "homepage": "https://opengameart.org/content/20-sword-sound-effects-attacks-and-clashes",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/sword-1.m4a",
+      "src": "sword-starninjas-1/sword - StarNinjas/sword.1.ogg",
+      "name": "Sword 1",
+      "tags": [
+        "weapon",
+        "sword",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sword-10.m4a",
+      "src": "sword-starninjas-1/sword - StarNinjas/sword.10.ogg",
+      "name": "Sword 10",
+      "tags": [
+        "weapon",
+        "sword",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sword-2.m4a",
+      "src": "sword-starninjas-1/sword - StarNinjas/sword.2.ogg",
+      "name": "Sword 2",
+      "tags": [
+        "weapon",
+        "sword",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sword-3.m4a",
+      "src": "sword-starninjas-1/sword - StarNinjas/sword.3.ogg",
+      "name": "Sword 3",
+      "tags": [
+        "weapon",
+        "sword",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sword-4.m4a",
+      "src": "sword-starninjas-1/sword - StarNinjas/sword.4.ogg",
+      "name": "Sword 4",
+      "tags": [
+        "weapon",
+        "sword",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sword-5.m4a",
+      "src": "sword-starninjas-1/sword - StarNinjas/sword.5.ogg",
+      "name": "Sword 5",
+      "tags": [
+        "weapon",
+        "sword",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sword-6.m4a",
+      "src": "sword-starninjas-1/sword - StarNinjas/sword.6.ogg",
+      "name": "Sword 6",
+      "tags": [
+        "weapon",
+        "sword",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sword-7.m4a",
+      "src": "sword-starninjas-1/sword - StarNinjas/sword.7.ogg",
+      "name": "Sword 7",
+      "tags": [
+        "weapon",
+        "sword",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sword-8.m4a",
+      "src": "sword-starninjas-1/sword - StarNinjas/sword.8.ogg",
+      "name": "Sword 8",
+      "tags": [
+        "weapon",
+        "sword",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sword-9.m4a",
+      "src": "sword-starninjas-1/sword - StarNinjas/sword.9.ogg",
+      "name": "Sword 9",
+      "tags": [
+        "weapon",
+        "sword",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sword-clash-1.m4a",
+      "src": "sword-clash-starninjas-0/sword_clash.1.ogg",
+      "name": "Sword Clash 1",
+      "tags": [
+        "weapon",
+        "sword",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sword-clash-10.m4a",
+      "src": "sword-clash-starninjas-0/sword_clash.10.ogg",
+      "name": "Sword Clash 10",
+      "tags": [
+        "weapon",
+        "sword",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sword-clash-2.m4a",
+      "src": "sword-clash-starninjas-0/sword_clash.2.ogg",
+      "name": "Sword Clash 2",
+      "tags": [
+        "weapon",
+        "sword",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sword-clash-3.m4a",
+      "src": "sword-clash-starninjas-0/sword_clash.3.ogg",
+      "name": "Sword Clash 3",
+      "tags": [
+        "weapon",
+        "sword",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sword-clash-4.m4a",
+      "src": "sword-clash-starninjas-0/sword_clash.4.ogg",
+      "name": "Sword Clash 4",
+      "tags": [
+        "weapon",
+        "sword",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sword-clash-5.m4a",
+      "src": "sword-clash-starninjas-0/sword_clash.5.ogg",
+      "name": "Sword Clash 5",
+      "tags": [
+        "weapon",
+        "sword",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sword-clash-6.m4a",
+      "src": "sword-clash-starninjas-0/sword_clash.6.ogg",
+      "name": "Sword Clash 6",
+      "tags": [
+        "weapon",
+        "sword",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sword-clash-7.m4a",
+      "src": "sword-clash-starninjas-0/sword_clash.7.ogg",
+      "name": "Sword Clash 7",
+      "tags": [
+        "weapon",
+        "sword",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sword-clash-8.m4a",
+      "src": "sword-clash-starninjas-0/sword_clash.8.ogg",
+      "name": "Sword Clash 8",
+      "tags": [
+        "weapon",
+        "sword",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sword-clash-9.m4a",
+      "src": "sword-clash-starninjas-0/sword_clash.9.ogg",
+      "name": "Sword Clash 9",
+      "tags": [
+        "weapon",
+        "sword",
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

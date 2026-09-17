@@ -1,0 +1,107 @@
+{
+  "id": "opengameart-7-assorted-sound-effects-menu-level-up",
+  "title": "7 Assorted Sound Effects (Menu, Level Up)",
+  "blurb": "8 sounds — mostly Interface and Digital.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "joth · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-joth",
+    "name": "joth"
+  },
+  "homepage": "https://opengameart.org/content/7-assorted-sound-effects-menu-level-up",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/ability-learn.m4a",
+      "src": "uisound-effects/Ability Learn.mp3",
+      "name": "Ability Learn",
+      "tags": [
+        "interface",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/item-pickup.m4a",
+      "src": "uisound-effects/Item Pickup.mp3",
+      "name": "Item Pickup",
+      "tags": [
+        "interface",
+        "pickup",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/level-up.m4a",
+      "src": "uisound-effects/Level Up.mp3",
+      "name": "Level Up",
+      "tags": [
+        "interface",
+        "level",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/menu-confirm.m4a",
+      "src": "uisound-effects/Menu Confirm.mp3",
+      "name": "Menu Confirm",
+      "tags": [
+        "interface",
+        "menu",
+        "confirm",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/menu-error.m4a",
+      "src": "uisound-effects/Menu Error.mp3",
+      "name": "Menu Error",
+      "tags": [
+        "digital",
+        "menu",
+        "error",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/menu-move.m4a",
+      "src": "uisound-effects/Menu Move.mp3",
+      "name": "Menu Move",
+      "tags": [
+        "interface",
+        "menu",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/menu-sfxpreview.m4a",
+      "src": "uisound-effects/MenuSFXPreview.mp3",
+      "name": "Menu Sfxpreview",
+      "tags": [
+        "interface",
+        "menu",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/transition.m4a",
+      "src": "uisound-effects/Transition.mp3",
+      "name": "Transition",
+      "tags": [
+        "whoosh",
+        "transition",
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

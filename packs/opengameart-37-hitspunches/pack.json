@@ -1,0 +1,462 @@
+{
+  "id": "opengameart-37-hitspunches",
+  "title": "37 hits/punches",
+  "blurb": "37 sounds — mostly Impacts.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "qubodup · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-qubodup",
+    "name": "qubodup"
+  },
+  "homepage": "https://opengameart.org/content/37-hitspunches",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/hit01-mp3.m4a",
+      "src": "independent-nu-ljudbank-hits-and-punches/hits/hit01.mp3.flac",
+      "name": "Hit01",
+      "tags": [
+        "impact",
+        "hit",
+        "punch",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit02-mp3.m4a",
+      "src": "independent-nu-ljudbank-hits-and-punches/hits/hit02.mp3.flac",
+      "name": "Hit02",
+      "tags": [
+        "impact",
+        "hit",
+        "punch",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit03-mp3.m4a",
+      "src": "independent-nu-ljudbank-hits-and-punches/hits/hit03.mp3.flac",
+      "name": "Hit03",
+      "tags": [
+        "impact",
+        "hit",
+        "punch",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit04-mp3.m4a",
+      "src": "independent-nu-ljudbank-hits-and-punches/hits/hit04.mp3.flac",
+      "name": "Hit04",
+      "tags": [
+        "impact",
+        "hit",
+        "punch",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit05-mp3.m4a",
+      "src": "independent-nu-ljudbank-hits-and-punches/hits/hit05.mp3.flac",
+      "name": "Hit05",
+      "tags": [
+        "impact",
+        "hit",
+        "punch",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit06-mp3.m4a",
+      "src": "independent-nu-ljudbank-hits-and-punches/hits/hit06.mp3.flac",
+      "name": "Hit06",
+      "tags": [
+        "impact",
+        "hit",
+        "punch",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit07-mp3.m4a",
+      "src": "independent-nu-ljudbank-hits-and-punches/hits/hit07.mp3.flac",
+      "name": "Hit07",
+      "tags": [
+        "impact",
+        "hit",
+        "punch",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit08-mp3.m4a",
+      "src": "independent-nu-ljudbank-hits-and-punches/hits/hit08.mp3.flac",
+      "name": "Hit08",
+      "tags": [
+        "impact",
+        "hit",
+        "punch",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit09-mp3.m4a",
+      "src": "independent-nu-ljudbank-hits-and-punches/hits/hit09.mp3.flac",
+      "name": "Hit09",
+      "tags": [
+        "impact",
+        "hit",
+        "punch",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit10-mp3.m4a",
+      "src": "independent-nu-ljudbank-hits-and-punches/hits/hit10.mp3.flac",
+      "name": "Hit10",
+      "tags": [
+        "impact",
+        "hit",
+        "punch",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit11-mp3.m4a",
+      "src": "independent-nu-ljudbank-hits-and-punches/hits/hit11.mp3.flac",
+      "name": "Hit11",
+      "tags": [
+        "impact",
+        "hit",
+        "punch",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit12-mp3.m4a",
+      "src": "independent-nu-ljudbank-hits-and-punches/hits/hit12.mp3.flac",
+      "name": "Hit12",
+      "tags": [
+        "impact",
+        "hit",
+        "punch",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit13-mp3.m4a",
+      "src": "independent-nu-ljudbank-hits-and-punches/hits/hit13.mp3.flac",
+      "name": "Hit13",
+      "tags": [
+        "impact",
+        "hit",
+        "punch",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit14-mp3.m4a",
+      "src": "independent-nu-ljudbank-hits-and-punches/hits/hit14.mp3.flac",
+      "name": "Hit14",
+      "tags": [
+        "impact",
+        "hit",
+        "punch",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit15-mp3.m4a",
+      "src": "independent-nu-ljudbank-hits-and-punches/hits/hit15.mp3.flac",
+      "name": "Hit15",
+      "tags": [
+        "impact",
+        "hit",
+        "punch",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit16-mp3.m4a",
+      "src": "independent-nu-ljudbank-hits-and-punches/hits/hit16.mp3.flac",
+      "name": "Hit16",
+      "tags": [
+        "impact",
+        "hit",
+        "punch",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit17-mp3.m4a",
+      "src": "independent-nu-ljudbank-hits-and-punches/hits/hit17.mp3.flac",
+      "name": "Hit17",
+      "tags": [
+        "impact",
+        "hit",
+        "punch",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit18-mp3.m4a",
+      "src": "independent-nu-ljudbank-hits-and-punches/hits/hit18.mp3.flac",
+      "name": "Hit18",
+      "tags": [
+        "impact",
+        "hit",
+        "punch",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit19-mp3.m4a",
+      "src": "independent-nu-ljudbank-hits-and-punches/hits/hit19.mp3.flac",
+      "name": "Hit19",
+      "tags": [
+        "impact",
+        "hit",
+        "punch",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit20-mp3.m4a",
+      "src": "independent-nu-ljudbank-hits-and-punches/hits/hit20.mp3.flac",
+      "name": "Hit20",
+      "tags": [
+        "impact",
+        "hit",
+        "punch",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit21-mp3.m4a",
+      "src": "independent-nu-ljudbank-hits-and-punches/hits/hit21.mp3.flac",
+      "name": "Hit21",
+      "tags": [
+        "impact",
+        "hit",
+        "punch",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit22-mp3.m4a",
+      "src": "independent-nu-ljudbank-hits-and-punches/hits/hit22.mp3.flac",
+      "name": "Hit22",
+      "tags": [
+        "impact",
+        "hit",
+        "punch",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit23-mp3.m4a",
+      "src": "independent-nu-ljudbank-hits-and-punches/hits/hit23.mp3.flac",
+      "name": "Hit23",
+      "tags": [
+        "impact",
+        "hit",
+        "punch",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit24-mp3.m4a",
+      "src": "independent-nu-ljudbank-hits-and-punches/hits/hit24.mp3.flac",
+      "name": "Hit24",
+      "tags": [
+        "impact",
+        "hit",
+        "punch",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit25-mp3.m4a",
+      "src": "independent-nu-ljudbank-hits-and-punches/hits/hit25.mp3.flac",
+      "name": "Hit25",
+      "tags": [
+        "impact",
+        "hit",
+        "punch",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit26-mp3.m4a",
+      "src": "independent-nu-ljudbank-hits-and-punches/hits/hit26.mp3.flac",
+      "name": "Hit26",
+      "tags": [
+        "impact",
+        "hit",
+        "punch",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit27-mp3.m4a",
+      "src": "independent-nu-ljudbank-hits-and-punches/hits/hit27.mp3.flac",
+      "name": "Hit27",
+      "tags": [
+        "impact",
+        "hit",
+        "punch",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit28-mp3.m4a",
+      "src": "independent-nu-ljudbank-hits-and-punches/hits/hit28.mp3.flac",
+      "name": "Hit28",
+      "tags": [
+        "impact",
+        "hit",
+        "punch",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit29-mp3.m4a",
+      "src": "independent-nu-ljudbank-hits-and-punches/hits/hit29.mp3.flac",
+      "name": "Hit29",
+      "tags": [
+        "impact",
+        "hit",
+        "punch",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit30-mp3.m4a",
+      "src": "independent-nu-ljudbank-hits-and-punches/hits/hit30.mp3.flac",
+      "name": "Hit30",
+      "tags": [
+        "impact",
+        "hit",
+        "punch",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit31-mp3.m4a",
+      "src": "independent-nu-ljudbank-hits-and-punches/hits/hit31.mp3.flac",
+      "name": "Hit31",
+      "tags": [
+        "impact",
+        "hit",
+        "punch",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit32-mp3.m4a",
+      "src": "independent-nu-ljudbank-hits-and-punches/hits/hit32.mp3.flac",
+      "name": "Hit32",
+      "tags": [
+        "impact",
+        "hit",
+        "punch",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit33-mp3.m4a",
+      "src": "independent-nu-ljudbank-hits-and-punches/hits/hit33.mp3.flac",
+      "name": "Hit33",
+      "tags": [
+        "impact",
+        "hit",
+        "punch",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit34-mp3.m4a",
+      "src": "independent-nu-ljudbank-hits-and-punches/hits/hit34.mp3.flac",
+      "name": "Hit34",
+      "tags": [
+        "impact",
+        "hit",
+        "punch",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit35-mp3.m4a",
+      "src": "independent-nu-ljudbank-hits-and-punches/hits/hit35.mp3.flac",
+      "name": "Hit35",
+      "tags": [
+        "impact",
+        "hit",
+        "punch",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit36-mp3.m4a",
+      "src": "independent-nu-ljudbank-hits-and-punches/hits/hit36.mp3.flac",
+      "name": "Hit36",
+      "tags": [
+        "impact",
+        "hit",
+        "punch",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit37-mp3.m4a",
+      "src": "independent-nu-ljudbank-hits-and-punches/hits/hit37.mp3.flac",
+      "name": "Hit37",
+      "tags": [
+        "impact",
+        "hit",
+        "punch",
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

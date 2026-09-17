@@ -1,0 +1,657 @@
+{
+  "id": "opengameart-63-digital-sound-effects-lasers-phasers-space-etc",
+  "title": "63 Digital sound effects (lasers, phasers, space etc.)",
+  "blurb": "62 sounds — mostly Digital.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "kenney · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-kenney",
+    "name": "kenney"
+  },
+  "homepage": "https://opengameart.org/content/63-digital-sound-effects-lasers-phasers-space-etc",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/high-down.m4a",
+      "src": "digital-sfx-set/highDown.mp3",
+      "name": "High Down",
+      "tags": [
+        "digital",
+        "high",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/high-up.m4a",
+      "src": "digital-sfx-set/highUp.mp3",
+      "name": "High Up",
+      "tags": [
+        "digital",
+        "high",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/laser1.m4a",
+      "src": "digital-sfx-set/laser1.mp3",
+      "name": "Laser1",
+      "tags": [
+        "digital",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/laser2.m4a",
+      "src": "digital-sfx-set/laser2.mp3",
+      "name": "Laser2",
+      "tags": [
+        "digital",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/laser3.m4a",
+      "src": "digital-sfx-set/laser3.mp3",
+      "name": "Laser3",
+      "tags": [
+        "digital",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/laser4.m4a",
+      "src": "digital-sfx-set/laser4.mp3",
+      "name": "Laser4",
+      "tags": [
+        "digital",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/laser5.m4a",
+      "src": "digital-sfx-set/laser5.mp3",
+      "name": "Laser5",
+      "tags": [
+        "digital",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/laser6.m4a",
+      "src": "digital-sfx-set/laser6.mp3",
+      "name": "Laser6",
+      "tags": [
+        "digital",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/laser7.m4a",
+      "src": "digital-sfx-set/laser7.mp3",
+      "name": "Laser7",
+      "tags": [
+        "digital",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/laser8.m4a",
+      "src": "digital-sfx-set/laser8.mp3",
+      "name": "Laser8",
+      "tags": [
+        "digital",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/laser9.m4a",
+      "src": "digital-sfx-set/laser9.mp3",
+      "name": "Laser9",
+      "tags": [
+        "digital",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/low-down.m4a",
+      "src": "digital-sfx-set/lowDown.mp3",
+      "name": "Low Down",
+      "tags": [
+        "digital",
+        "low",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/low-random.m4a",
+      "src": "digital-sfx-set/lowRandom.mp3",
+      "name": "Low Random",
+      "tags": [
+        "digital",
+        "low",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/low-three-tone.m4a",
+      "src": "digital-sfx-set/lowThreeTone.mp3",
+      "name": "Low Three Tone",
+      "tags": [
+        "digital",
+        "low",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/pep-sound1.m4a",
+      "src": "digital-sfx-set/pepSound1.mp3",
+      "name": "Pep Sound1",
+      "tags": [
+        "digital",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/pep-sound2.m4a",
+      "src": "digital-sfx-set/pepSound2.mp3",
+      "name": "Pep Sound2",
+      "tags": [
+        "digital",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/pep-sound3.m4a",
+      "src": "digital-sfx-set/pepSound3.mp3",
+      "name": "Pep Sound3",
+      "tags": [
+        "digital",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/pep-sound4.m4a",
+      "src": "digital-sfx-set/pepSound4.mp3",
+      "name": "Pep Sound4",
+      "tags": [
+        "digital",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/pep-sound5.m4a",
+      "src": "digital-sfx-set/pepSound5.mp3",
+      "name": "Pep Sound5",
+      "tags": [
+        "digital",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/phase-jump1.m4a",
+      "src": "digital-sfx-set/phaseJump1.mp3",
+      "name": "Phase Jump1",
+      "tags": [
+        "digital",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/phase-jump2.m4a",
+      "src": "digital-sfx-set/phaseJump2.mp3",
+      "name": "Phase Jump2",
+      "tags": [
+        "digital",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/phase-jump3.m4a",
+      "src": "digital-sfx-set/phaseJump3.mp3",
+      "name": "Phase Jump3",
+      "tags": [
+        "digital",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/phase-jump4.m4a",
+      "src": "digital-sfx-set/phaseJump4.mp3",
+      "name": "Phase Jump4",
+      "tags": [
+        "digital",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/phase-jump5.m4a",
+      "src": "digital-sfx-set/phaseJump5.mp3",
+      "name": "Phase Jump5",
+      "tags": [
+        "digital",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/phaser-down1.m4a",
+      "src": "digital-sfx-set/phaserDown1.mp3",
+      "name": "Phaser Down1",
+      "tags": [
+        "digital",
+        "phaser",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/phaser-down2.m4a",
+      "src": "digital-sfx-set/phaserDown2.mp3",
+      "name": "Phaser Down2",
+      "tags": [
+        "digital",
+        "phaser",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/phaser-down3.m4a",
+      "src": "digital-sfx-set/phaserDown3.mp3",
+      "name": "Phaser Down3",
+      "tags": [
+        "digital",
+        "phaser",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/phaser-up1.m4a",
+      "src": "digital-sfx-set/phaserUp1.mp3",
+      "name": "Phaser Up1",
+      "tags": [
+        "digital",
+        "phaser",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/phaser-up2.m4a",
+      "src": "digital-sfx-set/phaserUp2.mp3",
+      "name": "Phaser Up2",
+      "tags": [
+        "digital",
+        "phaser",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/phaser-up3.m4a",
+      "src": "digital-sfx-set/phaserUp3.mp3",
+      "name": "Phaser Up3",
+      "tags": [
+        "digital",
+        "phaser",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/phaser-up4.m4a",
+      "src": "digital-sfx-set/phaserUp4.mp3",
+      "name": "Phaser Up4",
+      "tags": [
+        "digital",
+        "phaser",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/phaser-up5.m4a",
+      "src": "digital-sfx-set/phaserUp5.mp3",
+      "name": "Phaser Up5",
+      "tags": [
+        "digital",
+        "phaser",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/phaser-up6.m4a",
+      "src": "digital-sfx-set/phaserUp6.mp3",
+      "name": "Phaser Up6",
+      "tags": [
+        "digital",
+        "phaser",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/phaser-up7.m4a",
+      "src": "digital-sfx-set/phaserUp7.mp3",
+      "name": "Phaser Up7",
+      "tags": [
+        "digital",
+        "phaser",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/power-up1.m4a",
+      "src": "digital-sfx-set/powerUp1.mp3",
+      "name": "Power Up1",
+      "tags": [
+        "digital",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/power-up10.m4a",
+      "src": "digital-sfx-set/powerUp10.mp3",
+      "name": "Power Up10",
+      "tags": [
+        "digital",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/power-up11.m4a",
+      "src": "digital-sfx-set/powerUp11.mp3",
+      "name": "Power Up11",
+      "tags": [
+        "digital",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/power-up12.m4a",
+      "src": "digital-sfx-set/powerUp12.mp3",
+      "name": "Power Up12",
+      "tags": [
+        "digital",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/power-up2.m4a",
+      "src": "digital-sfx-set/powerUp2.mp3",
+      "name": "Power Up2",
+      "tags": [
+        "digital",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/power-up3.m4a",
+      "src": "digital-sfx-set/powerUp3.mp3",
+      "name": "Power Up3",
+      "tags": [
+        "digital",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/power-up4.m4a",
+      "src": "digital-sfx-set/powerUp4.mp3",
+      "name": "Power Up4",
+      "tags": [
+        "digital",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/power-up5.m4a",
+      "src": "digital-sfx-set/powerUp5.mp3",
+      "name": "Power Up5",
+      "tags": [
+        "digital",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/power-up6.m4a",
+      "src": "digital-sfx-set/powerUp6.mp3",
+      "name": "Power Up6",
+      "tags": [
+        "digital",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/power-up7.m4a",
+      "src": "digital-sfx-set/powerUp7.mp3",
+      "name": "Power Up7",
+      "tags": [
+        "digital",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/power-up8.m4a",
+      "src": "digital-sfx-set/powerUp8.mp3",
+      "name": "Power Up8",
+      "tags": [
+        "digital",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/power-up9.m4a",
+      "src": "digital-sfx-set/powerUp9.mp3",
+      "name": "Power Up9",
+      "tags": [
+        "digital",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/space-trash1.m4a",
+      "src": "digital-sfx-set/spaceTrash1.mp3",
+      "name": "Space Trash1",
+      "tags": [
+        "digital",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/space-trash2.m4a",
+      "src": "digital-sfx-set/spaceTrash2.mp3",
+      "name": "Space Trash2",
+      "tags": [
+        "digital",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/space-trash3.m4a",
+      "src": "digital-sfx-set/spaceTrash3.mp3",
+      "name": "Space Trash3",
+      "tags": [
+        "digital",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/space-trash4.m4a",
+      "src": "digital-sfx-set/spaceTrash4.mp3",
+      "name": "Space Trash4",
+      "tags": [
+        "digital",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/space-trash5.m4a",
+      "src": "digital-sfx-set/spaceTrash5.mp3",
+      "name": "Space Trash5",
+      "tags": [
+        "digital",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/three-tone1.m4a",
+      "src": "digital-sfx-set/threeTone1.mp3",
+      "name": "Three Tone1",
+      "tags": [
+        "digital",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/three-tone2.m4a",
+      "src": "digital-sfx-set/threeTone2.mp3",
+      "name": "Three Tone2",
+      "tags": [
+        "digital",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/tone1.m4a",
+      "src": "digital-sfx-set/tone1.mp3",
+      "name": "Tone1",
+      "tags": [
+        "digital",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/two-tone1.m4a",
+      "src": "digital-sfx-set/twoTone1.mp3",
+      "name": "Two Tone1",
+      "tags": [
+        "digital",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/two-tone2.m4a",
+      "src": "digital-sfx-set/twoTone2.mp3",
+      "name": "Two Tone2",
+      "tags": [
+        "digital",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/zap-three-tone-down.m4a",
+      "src": "digital-sfx-set/zapThreeToneDown.mp3",
+      "name": "Zap Three Tone Down",
+      "tags": [
+        "digital",
+        "zap",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/zap-three-tone-up.m4a",
+      "src": "digital-sfx-set/zapThreeToneUp.mp3",
+      "name": "Zap Three Tone Up",
+      "tags": [
+        "digital",
+        "zap",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/zap-two-tone.m4a",
+      "src": "digital-sfx-set/zapTwoTone.mp3",
+      "name": "Zap Two Tone",
+      "tags": [
+        "digital",
+        "zap",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/zap-two-tone2.m4a",
+      "src": "digital-sfx-set/zapTwoTone2.mp3",
+      "name": "Zap Two Tone2",
+      "tags": [
+        "digital",
+        "zap",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/zap1.m4a",
+      "src": "digital-sfx-set/zap1.mp3",
+      "name": "Zap1",
+      "tags": [
+        "digital",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/zap2.m4a",
+      "src": "digital-sfx-set/zap2.mp3",
+      "name": "Zap2",
+      "tags": [
+        "digital",
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

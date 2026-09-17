@@ -1,0 +1,99 @@
+{
+  "id": "opengameart-space-ship-shield-sounds",
+  "title": "Space Ship Shield Sounds",
+  "blurb": "9 sounds.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "bart · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-bart",
+    "name": "bart"
+  },
+  "homepage": "https://opengameart.org/content/space-ship-shield-sounds",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/space-shield-sounds-1.m4a",
+      "src": "space-20shield-20sounds/space shield sounds - 1.wav",
+      "name": "Space Shield 1",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/space-shield-sounds-2.m4a",
+      "src": "space-20shield-20sounds/space shield sounds - 2.wav",
+      "name": "Space Shield 2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/space-shield-sounds-3.m4a",
+      "src": "space-20shield-20sounds/space shield sounds - 3.wav",
+      "name": "Space Shield 3",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/space-shield-sounds-4.m4a",
+      "src": "space-20shield-20sounds/space shield sounds - 4.wav",
+      "name": "Space Shield 4",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/space-shield-sounds-5.m4a",
+      "src": "space-20shield-20sounds/space shield sounds - 5.wav",
+      "name": "Space Shield 5",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/space-shield-sounds-6.m4a",
+      "src": "space-20shield-20sounds/space shield sounds - 6.wav",
+      "name": "Space Shield 6",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/space-shield-sounds-7.m4a",
+      "src": "space-20shield-20sounds/space shield sounds - 7.wav",
+      "name": "Space Shield 7",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/space-shield-sounds-8.m4a",
+      "src": "space-20shield-20sounds/space shield sounds - 8.wav",
+      "name": "Space Shield 8",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/space-shield-sounds-9.m4a",
+      "src": "space-20shield-20sounds/space shield sounds - 9.wav",
+      "name": "Space Shield 9",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

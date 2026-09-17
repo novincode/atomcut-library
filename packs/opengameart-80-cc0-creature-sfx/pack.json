@@ -1,0 +1,858 @@
+{
+  "id": "opengameart-80-cc0-creature-sfx",
+  "title": "80 creature SFX",
+  "blurb": "80 sounds — mostly Creatures.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "rubberduck · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-rubberduck",
+    "name": "rubberduck"
+  },
+  "homepage": "https://opengameart.org/content/80-cc0-creature-sfx",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/alien-01.m4a",
+      "src": "80-cc0-creature-sfx-0/alien_01.ogg",
+      "name": "Alien 1",
+      "tags": [
+        "creature",
+        "alien",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/alien-02.m4a",
+      "src": "80-cc0-creature-sfx-0/alien_02.ogg",
+      "name": "Alien 2",
+      "tags": [
+        "creature",
+        "alien",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/alien-03.m4a",
+      "src": "80-cc0-creature-sfx-0/alien_03.ogg",
+      "name": "Alien 3",
+      "tags": [
+        "creature",
+        "alien",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/alien-04.m4a",
+      "src": "80-cc0-creature-sfx-0/alien_04.ogg",
+      "name": "Alien 4",
+      "tags": [
+        "creature",
+        "alien",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/alien-05.m4a",
+      "src": "80-cc0-creature-sfx-0/alien_05.ogg",
+      "name": "Alien 5",
+      "tags": [
+        "creature",
+        "alien",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/alien-06.m4a",
+      "src": "80-cc0-creature-sfx-0/alien_06.ogg",
+      "name": "Alien 6",
+      "tags": [
+        "creature",
+        "alien",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/barking-01.m4a",
+      "src": "80-cc0-creature-sfx-0/barking_01.ogg",
+      "name": "Barking 1",
+      "tags": [
+        "creature",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/barking-02.m4a",
+      "src": "80-cc0-creature-sfx-0/barking_02.ogg",
+      "name": "Barking 2",
+      "tags": [
+        "creature",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/breath.m4a",
+      "src": "80-cc0-creature-sfx-0/breath.ogg",
+      "name": "Breath",
+      "tags": [
+        "creature",
+        "breath",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bug-01.m4a",
+      "src": "80-cc0-creature-sfx-0/bug_01.ogg",
+      "name": "Bug 1",
+      "tags": [
+        "creature",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bug-02.m4a",
+      "src": "80-cc0-creature-sfx-0/bug_02.ogg",
+      "name": "Bug 2",
+      "tags": [
+        "creature",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bug-03.m4a",
+      "src": "80-cc0-creature-sfx-0/bug_03.ogg",
+      "name": "Bug 3",
+      "tags": [
+        "creature",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bug-04.m4a",
+      "src": "80-cc0-creature-sfx-0/bug_04.ogg",
+      "name": "Bug 4",
+      "tags": [
+        "creature",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/burble-01.m4a",
+      "src": "80-cc0-creature-sfx-0/burble_01.ogg",
+      "name": "Burble 1",
+      "tags": [
+        "creature",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/burble-02.m4a",
+      "src": "80-cc0-creature-sfx-0/burble_02.ogg",
+      "name": "Burble 2",
+      "tags": [
+        "creature",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/burp-01.m4a",
+      "src": "80-cc0-creature-sfx-0/burp_01.ogg",
+      "name": "Burp 1",
+      "tags": [
+        "creature",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/burp-02.m4a",
+      "src": "80-cc0-creature-sfx-0/burp_02.ogg",
+      "name": "Burp 2",
+      "tags": [
+        "creature",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/cough-01.m4a",
+      "src": "80-cc0-creature-sfx-0/cough_01.ogg",
+      "name": "Cough 1",
+      "tags": [
+        "creature",
+        "cough",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/cough-02.m4a",
+      "src": "80-cc0-creature-sfx-0/cough_02.ogg",
+      "name": "Cough 2",
+      "tags": [
+        "creature",
+        "cough",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/cough-03.m4a",
+      "src": "80-cc0-creature-sfx-0/cough_03.ogg",
+      "name": "Cough 3",
+      "tags": [
+        "creature",
+        "cough",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/cute-01.m4a",
+      "src": "80-cc0-creature-sfx-0/cute_01.ogg",
+      "name": "Cute 1",
+      "tags": [
+        "creature",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/cute-02.m4a",
+      "src": "80-cc0-creature-sfx-0/cute_02.ogg",
+      "name": "Cute 2",
+      "tags": [
+        "creature",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/cute-03.m4a",
+      "src": "80-cc0-creature-sfx-0/cute_03.ogg",
+      "name": "Cute 3",
+      "tags": [
+        "creature",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/cute-04.m4a",
+      "src": "80-cc0-creature-sfx-0/cute_04.ogg",
+      "name": "Cute 4",
+      "tags": [
+        "creature",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/cute-05.m4a",
+      "src": "80-cc0-creature-sfx-0/cute_05.ogg",
+      "name": "Cute 5",
+      "tags": [
+        "creature",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/cute-06.m4a",
+      "src": "80-cc0-creature-sfx-0/cute_06.ogg",
+      "name": "Cute 6",
+      "tags": [
+        "creature",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/cute-07.m4a",
+      "src": "80-cc0-creature-sfx-0/cute_07.ogg",
+      "name": "Cute 7",
+      "tags": [
+        "creature",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/cute-08.m4a",
+      "src": "80-cc0-creature-sfx-0/cute_08.ogg",
+      "name": "Cute 8",
+      "tags": [
+        "creature",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/cute-09.m4a",
+      "src": "80-cc0-creature-sfx-0/cute_09.ogg",
+      "name": "Cute 9",
+      "tags": [
+        "creature",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/cute-10.m4a",
+      "src": "80-cc0-creature-sfx-0/cute_10.ogg",
+      "name": "Cute 10",
+      "tags": [
+        "creature",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/eat-01.m4a",
+      "src": "80-cc0-creature-sfx-0/eat_01.ogg",
+      "name": "Eat 1",
+      "tags": [
+        "creature",
+        "eat",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/eat-02.m4a",
+      "src": "80-cc0-creature-sfx-0/eat_02.ogg",
+      "name": "Eat 2",
+      "tags": [
+        "creature",
+        "eat",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/eat-03.m4a",
+      "src": "80-cc0-creature-sfx-0/eat_03.ogg",
+      "name": "Eat 3",
+      "tags": [
+        "creature",
+        "eat",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/eat-04.m4a",
+      "src": "80-cc0-creature-sfx-0/eat_04.ogg",
+      "name": "Eat 4",
+      "tags": [
+        "creature",
+        "eat",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/grunt-01.m4a",
+      "src": "80-cc0-creature-sfx-0/grunt_01.ogg",
+      "name": "Grunt 1",
+      "tags": [
+        "creature",
+        "grunt",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/grunt-02.m4a",
+      "src": "80-cc0-creature-sfx-0/grunt_02.ogg",
+      "name": "Grunt 2",
+      "tags": [
+        "creature",
+        "grunt",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/grunt-03.m4a",
+      "src": "80-cc0-creature-sfx-0/grunt_03.ogg",
+      "name": "Grunt 3",
+      "tags": [
+        "creature",
+        "grunt",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/grunt-04.m4a",
+      "src": "80-cc0-creature-sfx-0/grunt_04.ogg",
+      "name": "Grunt 4",
+      "tags": [
+        "creature",
+        "grunt",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/grunt-05.m4a",
+      "src": "80-cc0-creature-sfx-0/grunt_05.ogg",
+      "name": "Grunt 5",
+      "tags": [
+        "creature",
+        "grunt",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/howl.m4a",
+      "src": "80-cc0-creature-sfx-0/howl.ogg",
+      "name": "Howl",
+      "tags": [
+        "creature",
+        "howl",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hurt-01.m4a",
+      "src": "80-cc0-creature-sfx-0/hurt_01.ogg",
+      "name": "Hurt 1",
+      "tags": [
+        "creature",
+        "hurt",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hurt-02.m4a",
+      "src": "80-cc0-creature-sfx-0/hurt_02.ogg",
+      "name": "Hurt 2",
+      "tags": [
+        "creature",
+        "hurt",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hurt-03.m4a",
+      "src": "80-cc0-creature-sfx-0/hurt_03.ogg",
+      "name": "Hurt 3",
+      "tags": [
+        "creature",
+        "hurt",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hurt-04.m4a",
+      "src": "80-cc0-creature-sfx-0/hurt_04.ogg",
+      "name": "Hurt 4",
+      "tags": [
+        "creature",
+        "hurt",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hurt-05.m4a",
+      "src": "80-cc0-creature-sfx-0/hurt_05.ogg",
+      "name": "Hurt 5",
+      "tags": [
+        "creature",
+        "hurt",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/misc-01.m4a",
+      "src": "80-cc0-creature-sfx-0/misc_01.ogg",
+      "name": "Misc 1",
+      "tags": [
+        "creature",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/misc-02.m4a",
+      "src": "80-cc0-creature-sfx-0/misc_02.ogg",
+      "name": "Misc 2",
+      "tags": [
+        "creature",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/misc-03.m4a",
+      "src": "80-cc0-creature-sfx-0/misc_03.ogg",
+      "name": "Misc 3",
+      "tags": [
+        "creature",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/misc-04.m4a",
+      "src": "80-cc0-creature-sfx-0/misc_04.ogg",
+      "name": "Misc 4",
+      "tags": [
+        "creature",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/misc-05.m4a",
+      "src": "80-cc0-creature-sfx-0/misc_05.ogg",
+      "name": "Misc 5",
+      "tags": [
+        "creature",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/misc-06.m4a",
+      "src": "80-cc0-creature-sfx-0/misc_06.ogg",
+      "name": "Misc 6",
+      "tags": [
+        "creature",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/misc-07.m4a",
+      "src": "80-cc0-creature-sfx-0/misc_07.ogg",
+      "name": "Misc 7",
+      "tags": [
+        "creature",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/misc-08.m4a",
+      "src": "80-cc0-creature-sfx-0/misc_08.ogg",
+      "name": "Misc 8",
+      "tags": [
+        "creature",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/misc-09.m4a",
+      "src": "80-cc0-creature-sfx-0/misc_09.ogg",
+      "name": "Misc 9",
+      "tags": [
+        "creature",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/monster-01.m4a",
+      "src": "80-cc0-creature-sfx-0/monster_01.ogg",
+      "name": "Monster 1",
+      "tags": [
+        "creature",
+        "monster",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/monster-02.m4a",
+      "src": "80-cc0-creature-sfx-0/monster_02.ogg",
+      "name": "Monster 2",
+      "tags": [
+        "creature",
+        "monster",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/monster-03.m4a",
+      "src": "80-cc0-creature-sfx-0/monster_03.ogg",
+      "name": "Monster 3",
+      "tags": [
+        "creature",
+        "monster",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/monster-04.m4a",
+      "src": "80-cc0-creature-sfx-0/monster_04.ogg",
+      "name": "Monster 4",
+      "tags": [
+        "creature",
+        "monster",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/monster-05.m4a",
+      "src": "80-cc0-creature-sfx-0/monster_05.ogg",
+      "name": "Monster 5",
+      "tags": [
+        "creature",
+        "monster",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/monster-06.m4a",
+      "src": "80-cc0-creature-sfx-0/monster_06.ogg",
+      "name": "Monster 6",
+      "tags": [
+        "creature",
+        "monster",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/monster-07.m4a",
+      "src": "80-cc0-creature-sfx-0/monster_07.ogg",
+      "name": "Monster 7",
+      "tags": [
+        "creature",
+        "monster",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/nose.m4a",
+      "src": "80-cc0-creature-sfx-0/nose.ogg",
+      "name": "Nose",
+      "tags": [
+        "creature",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/ooh.m4a",
+      "src": "80-cc0-creature-sfx-0/ooh.ogg",
+      "name": "Ooh",
+      "tags": [
+        "creature",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/roar-01.m4a",
+      "src": "80-cc0-creature-sfx-0/roar_01.ogg",
+      "name": "Roar 1",
+      "tags": [
+        "creature",
+        "roar",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/roar-02.m4a",
+      "src": "80-cc0-creature-sfx-0/roar_02.ogg",
+      "name": "Roar 2",
+      "tags": [
+        "creature",
+        "roar",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/roar-03.m4a",
+      "src": "80-cc0-creature-sfx-0/roar_03.ogg",
+      "name": "Roar 3",
+      "tags": [
+        "creature",
+        "roar",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/scream-01.m4a",
+      "src": "80-cc0-creature-sfx-0/scream_01.ogg",
+      "name": "Scream 1",
+      "tags": [
+        "creature",
+        "scream",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/scream-02.m4a",
+      "src": "80-cc0-creature-sfx-0/scream_02.ogg",
+      "name": "Scream 2",
+      "tags": [
+        "creature",
+        "scream",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/snore.m4a",
+      "src": "80-cc0-creature-sfx-0/snore.ogg",
+      "name": "Snore",
+      "tags": [
+        "creature",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/spit-01.m4a",
+      "src": "80-cc0-creature-sfx-0/spit_01.ogg",
+      "name": "Spit 1",
+      "tags": [
+        "creature",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/spit-02.m4a",
+      "src": "80-cc0-creature-sfx-0/spit_02.ogg",
+      "name": "Spit 2",
+      "tags": [
+        "creature",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/spit-03.m4a",
+      "src": "80-cc0-creature-sfx-0/spit_03.ogg",
+      "name": "Spit 3",
+      "tags": [
+        "creature",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/troll-01.m4a",
+      "src": "80-cc0-creature-sfx-0/troll_01.ogg",
+      "name": "Troll 1",
+      "tags": [
+        "creature",
+        "troll",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/troll-02.m4a",
+      "src": "80-cc0-creature-sfx-0/troll_02.ogg",
+      "name": "Troll 2",
+      "tags": [
+        "creature",
+        "troll",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/troll-03.m4a",
+      "src": "80-cc0-creature-sfx-0/troll_03.ogg",
+      "name": "Troll 3",
+      "tags": [
+        "creature",
+        "troll",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/weird-01.m4a",
+      "src": "80-cc0-creature-sfx-0/weird_01.ogg",
+      "name": "Weird 1",
+      "tags": [
+        "creature",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/weird-02.m4a",
+      "src": "80-cc0-creature-sfx-0/weird_02.ogg",
+      "name": "Weird 2",
+      "tags": [
+        "creature",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/weird-03.m4a",
+      "src": "80-cc0-creature-sfx-0/weird_03.ogg",
+      "name": "Weird 3",
+      "tags": [
+        "creature",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/weird-04.m4a",
+      "src": "80-cc0-creature-sfx-0/weird_04.ogg",
+      "name": "Weird 4",
+      "tags": [
+        "creature",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/weird-05.m4a",
+      "src": "80-cc0-creature-sfx-0/weird_05.ogg",
+      "name": "Weird 5",
+      "tags": [
+        "creature",
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

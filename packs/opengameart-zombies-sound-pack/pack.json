@@ -1,0 +1,282 @@
+{
+  "id": "opengameart-zombies-sound-pack",
+  "title": "Zombies Sound Pack",
+  "blurb": "24 sounds — mostly Creatures.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "artisticdude · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-artisticdude",
+    "name": "artisticdude"
+  },
+  "homepage": "https://opengameart.org/content/zombies-sound-pack",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/zombie-1.m4a",
+      "src": "zombies/zombies/zombie-1.wav",
+      "name": "Zombie 1",
+      "tags": [
+        "creature",
+        "zombie",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/zombie-10.m4a",
+      "src": "zombies/zombies/zombie-10.wav",
+      "name": "Zombie 10",
+      "tags": [
+        "creature",
+        "zombie",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/zombie-11.m4a",
+      "src": "zombies/zombies/zombie-11.wav",
+      "name": "Zombie 11",
+      "tags": [
+        "creature",
+        "zombie",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/zombie-12.m4a",
+      "src": "zombies/zombies/zombie-12.wav",
+      "name": "Zombie 12",
+      "tags": [
+        "creature",
+        "zombie",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/zombie-13.m4a",
+      "src": "zombies/zombies/zombie-13.wav",
+      "name": "Zombie 13",
+      "tags": [
+        "creature",
+        "zombie",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/zombie-14.m4a",
+      "src": "zombies/zombies/zombie-14.wav",
+      "name": "Zombie 14",
+      "tags": [
+        "creature",
+        "zombie",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/zombie-15.m4a",
+      "src": "zombies/zombies/zombie-15.wav",
+      "name": "Zombie 15",
+      "tags": [
+        "creature",
+        "zombie",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/zombie-16.m4a",
+      "src": "zombies/zombies/zombie-16.wav",
+      "name": "Zombie 16",
+      "tags": [
+        "creature",
+        "zombie",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/zombie-17.m4a",
+      "src": "zombies/zombies/zombie-17.wav",
+      "name": "Zombie 17",
+      "tags": [
+        "creature",
+        "zombie",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/zombie-18.m4a",
+      "src": "zombies/zombies/zombie-18.wav",
+      "name": "Zombie 18",
+      "tags": [
+        "creature",
+        "zombie",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/zombie-19.m4a",
+      "src": "zombies/zombies/zombie-19.wav",
+      "name": "Zombie 19",
+      "tags": [
+        "creature",
+        "zombie",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/zombie-2.m4a",
+      "src": "zombies/zombies/zombie-2.wav",
+      "name": "Zombie 2",
+      "tags": [
+        "creature",
+        "zombie",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/zombie-20.m4a",
+      "src": "zombies/zombies/zombie-20.wav",
+      "name": "Zombie 20",
+      "tags": [
+        "creature",
+        "zombie",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/zombie-21.m4a",
+      "src": "zombies/zombies/zombie-21.wav",
+      "name": "Zombie 21",
+      "tags": [
+        "creature",
+        "zombie",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/zombie-22.m4a",
+      "src": "zombies/zombies/zombie-22.wav",
+      "name": "Zombie 22",
+      "tags": [
+        "creature",
+        "zombie",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/zombie-23.m4a",
+      "src": "zombies/zombies/zombie-23.wav",
+      "name": "Zombie 23",
+      "tags": [
+        "creature",
+        "zombie",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/zombie-24.m4a",
+      "src": "zombies/zombies/zombie-24.wav",
+      "name": "Zombie 24",
+      "tags": [
+        "creature",
+        "zombie",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/zombie-3.m4a",
+      "src": "zombies/zombies/zombie-3.wav",
+      "name": "Zombie 3",
+      "tags": [
+        "creature",
+        "zombie",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/zombie-4.m4a",
+      "src": "zombies/zombies/zombie-4.wav",
+      "name": "Zombie 4",
+      "tags": [
+        "creature",
+        "zombie",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/zombie-5.m4a",
+      "src": "zombies/zombies/zombie-5.wav",
+      "name": "Zombie 5",
+      "tags": [
+        "creature",
+        "zombie",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/zombie-6.m4a",
+      "src": "zombies/zombies/zombie-6.wav",
+      "name": "Zombie 6",
+      "tags": [
+        "creature",
+        "zombie",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/zombie-7.m4a",
+      "src": "zombies/zombies/zombie-7.wav",
+      "name": "Zombie 7",
+      "tags": [
+        "creature",
+        "zombie",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/zombie-8.m4a",
+      "src": "zombies/zombies/zombie-8.wav",
+      "name": "Zombie 8",
+      "tags": [
+        "creature",
+        "zombie",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/zombie-9.m4a",
+      "src": "zombies/zombies/zombie-9.wav",
+      "name": "Zombie 9",
+      "tags": [
+        "creature",
+        "zombie",
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

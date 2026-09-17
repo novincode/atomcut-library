@@ -1,0 +1,88 @@
+{
+  "id": "opengameart-magic-spell-sfx",
+  "title": "Magic Spell SFX",
+  "blurb": "7 sounds — mostly Magic.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "jaggedstone · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-jaggedstone",
+    "name": "jaggedstone"
+  },
+  "homepage": "https://opengameart.org/content/magic-spell-sfx",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/magical-1-0.m4a",
+      "src": "magical_1_0.ogg",
+      "name": "Magical 1",
+      "tags": [
+        "magic",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/magical-2.m4a",
+      "src": "magical_2.ogg",
+      "name": "Magical 3",
+      "tags": [
+        "magic",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/magical-3.m4a",
+      "src": "magical_3.ogg",
+      "name": "Magical 4",
+      "tags": [
+        "magic",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/magical-4.m4a",
+      "src": "magical_4.ogg",
+      "name": "Magical 5",
+      "tags": [
+        "magic",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/magical-5.m4a",
+      "src": "magical_5.ogg",
+      "name": "Magical 6",
+      "tags": [
+        "magic",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/magical-6-0.m4a",
+      "src": "magical_6_0.ogg",
+      "name": "Magical 1",
+      "tags": [
+        "magic",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/magical-7-0.m4a",
+      "src": "magical_7_0.ogg",
+      "name": "Magical 1",
+      "tags": [
+        "magic",
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

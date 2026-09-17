@@ -1,0 +1,84 @@
+{
+  "id": "opengameart-5-hit-sounds-dying",
+  "title": "5 Hit Sounds + Dying",
+  "blurb": "6 sounds — mostly Impacts.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "tinyworlds · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-tinyworlds",
+    "name": "tinyworlds"
+  },
+  "homepage": "https://opengameart.org/content/5-hit-sounds-dying",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/die1.m4a",
+      "src": "5-hit-sounds/ogg/die1.ogg",
+      "name": "Die1",
+      "tags": [
+        "impact",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit1.m4a",
+      "src": "5-hit-sounds/ogg/hit1.ogg",
+      "name": "Hit1",
+      "tags": [
+        "impact",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit2.m4a",
+      "src": "5-hit-sounds/ogg/hit2.ogg",
+      "name": "Hit2",
+      "tags": [
+        "impact",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit3.m4a",
+      "src": "5-hit-sounds/ogg/hit3.ogg",
+      "name": "Hit3",
+      "tags": [
+        "impact",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit4.m4a",
+      "src": "5-hit-sounds/ogg/hit4.ogg",
+      "name": "Hit4",
+      "tags": [
+        "impact",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit5.m4a",
+      "src": "5-hit-sounds/ogg/hit5.ogg",
+      "name": "Hit5",
+      "tags": [
+        "impact",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

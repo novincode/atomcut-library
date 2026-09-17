@@ -1,0 +1,135 @@
+{
+  "id": "opengameart-gui-sound-effects",
+  "title": "GUI Sound Effects",
+  "blurb": "13 sounds — mostly Interface.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "lokif · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-lokif",
+    "name": "lokif"
+  },
+  "homepage": "https://opengameart.org/content/gui-sound-effects",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/click.m4a",
+      "name": "Click",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click-2.m4a",
+      "name": "Click",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/load.m4a",
+      "name": "Load",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/misc-menu.m4a",
+      "name": "Misc Menu",
+      "tags": [
+        "interface",
+        "menu",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/misc-menu-2.m4a",
+      "name": "Misc Menu 2",
+      "tags": [
+        "interface",
+        "menu",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/misc-menu-3.m4a",
+      "name": "Misc Menu 3",
+      "tags": [
+        "interface",
+        "menu",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/misc-menu-4.m4a",
+      "name": "Misc Menu 4",
+      "tags": [
+        "interface",
+        "menu",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/misc-sound.m4a",
+      "name": "Misc",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/negative.m4a",
+      "name": "Negative",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/negative-2.m4a",
+      "name": "Negative",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/positive.m4a",
+      "name": "Positive",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/save.m4a",
+      "name": "Save",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sharp-echo.m4a",
+      "name": "Sharp Echo",
+      "tags": [
+        "sharp",
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

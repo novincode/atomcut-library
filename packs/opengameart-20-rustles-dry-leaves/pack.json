@@ -1,0 +1,238 @@
+{
+  "id": "opengameart-20-rustles-dry-leaves",
+  "title": "20 Rustles of dry leaves",
+  "blurb": "20 sounds — mostly Foley.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "qubodup · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-qubodup",
+    "name": "qubodup"
+  },
+  "homepage": "https://opengameart.org/content/20-rustles-dry-leaves",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/rustle01.m4a",
+      "src": "qubodup-rustle/rustle/rustle01.flac",
+      "name": "Rustle01",
+      "tags": [
+        "foley",
+        "rustle",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/rustle02.m4a",
+      "src": "qubodup-rustle/rustle/rustle02.flac",
+      "name": "Rustle02",
+      "tags": [
+        "foley",
+        "rustle",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/rustle03.m4a",
+      "src": "qubodup-rustle/rustle/rustle03.flac",
+      "name": "Rustle03",
+      "tags": [
+        "foley",
+        "rustle",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/rustle04.m4a",
+      "src": "qubodup-rustle/rustle/rustle04.flac",
+      "name": "Rustle04",
+      "tags": [
+        "foley",
+        "rustle",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/rustle05.m4a",
+      "src": "qubodup-rustle/rustle/rustle05.flac",
+      "name": "Rustle05",
+      "tags": [
+        "foley",
+        "rustle",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/rustle06.m4a",
+      "src": "qubodup-rustle/rustle/rustle06.flac",
+      "name": "Rustle06",
+      "tags": [
+        "foley",
+        "rustle",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/rustle07.m4a",
+      "src": "qubodup-rustle/rustle/rustle07.flac",
+      "name": "Rustle07",
+      "tags": [
+        "foley",
+        "rustle",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/rustle08.m4a",
+      "src": "qubodup-rustle/rustle/rustle08.flac",
+      "name": "Rustle08",
+      "tags": [
+        "foley",
+        "rustle",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/rustle09.m4a",
+      "src": "qubodup-rustle/rustle/rustle09.flac",
+      "name": "Rustle09",
+      "tags": [
+        "foley",
+        "rustle",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/rustle10.m4a",
+      "src": "qubodup-rustle/rustle/rustle10.flac",
+      "name": "Rustle10",
+      "tags": [
+        "foley",
+        "rustle",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/rustle11.m4a",
+      "src": "qubodup-rustle/rustle/rustle11.flac",
+      "name": "Rustle11",
+      "tags": [
+        "foley",
+        "rustle",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/rustle12.m4a",
+      "src": "qubodup-rustle/rustle/rustle12.flac",
+      "name": "Rustle12",
+      "tags": [
+        "foley",
+        "rustle",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/rustle13.m4a",
+      "src": "qubodup-rustle/rustle/rustle13.flac",
+      "name": "Rustle13",
+      "tags": [
+        "foley",
+        "rustle",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/rustle14.m4a",
+      "src": "qubodup-rustle/rustle/rustle14.flac",
+      "name": "Rustle14",
+      "tags": [
+        "foley",
+        "rustle",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/rustle15.m4a",
+      "src": "qubodup-rustle/rustle/rustle15.flac",
+      "name": "Rustle15",
+      "tags": [
+        "foley",
+        "rustle",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/rustle16.m4a",
+      "src": "qubodup-rustle/rustle/rustle16.flac",
+      "name": "Rustle16",
+      "tags": [
+        "foley",
+        "rustle",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/rustle17.m4a",
+      "src": "qubodup-rustle/rustle/rustle17.flac",
+      "name": "Rustle17",
+      "tags": [
+        "foley",
+        "rustle",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/rustle18.m4a",
+      "src": "qubodup-rustle/rustle/rustle18.flac",
+      "name": "Rustle18",
+      "tags": [
+        "foley",
+        "rustle",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/rustle19.m4a",
+      "src": "qubodup-rustle/rustle/rustle19.flac",
+      "name": "Rustle19",
+      "tags": [
+        "foley",
+        "rustle",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/rustle20.m4a",
+      "src": "qubodup-rustle/rustle/rustle20.flac",
+      "name": "Rustle20",
+      "tags": [
+        "foley",
+        "rustle",
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

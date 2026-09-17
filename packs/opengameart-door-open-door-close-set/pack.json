@@ -1,0 +1,216 @@
+{
+  "id": "opengameart-door-open-door-close-set",
+  "title": "Door Open, Door Close Set",
+  "blurb": "18 sounds — mostly Foley.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "qubodup · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-qubodup",
+    "name": "qubodup"
+  },
+  "homepage": "https://opengameart.org/content/door-open-door-close-set",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/qubodup-door-close01.m4a",
+      "src": "qubodup-door-set/qubodup-DoorSet/flac/qubodup-DoorClose01.flac",
+      "name": "Qubodup Door Close01",
+      "tags": [
+        "foley",
+        "door",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/qubodup-door-close02.m4a",
+      "src": "qubodup-door-set/qubodup-DoorSet/flac/qubodup-DoorClose02.flac",
+      "name": "Qubodup Door Close02",
+      "tags": [
+        "foley",
+        "door",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/qubodup-door-close03.m4a",
+      "src": "qubodup-door-set/qubodup-DoorSet/flac/qubodup-DoorClose03.flac",
+      "name": "Qubodup Door Close03",
+      "tags": [
+        "foley",
+        "door",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/qubodup-door-close04.m4a",
+      "src": "qubodup-door-set/qubodup-DoorSet/flac/qubodup-DoorClose04.flac",
+      "name": "Qubodup Door Close04",
+      "tags": [
+        "foley",
+        "door",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/qubodup-door-close05.m4a",
+      "src": "qubodup-door-set/qubodup-DoorSet/flac/qubodup-DoorClose05.flac",
+      "name": "Qubodup Door Close05",
+      "tags": [
+        "foley",
+        "door",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/qubodup-door-close06.m4a",
+      "src": "qubodup-door-set/qubodup-DoorSet/flac/qubodup-DoorClose06.flac",
+      "name": "Qubodup Door Close06",
+      "tags": [
+        "foley",
+        "door",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/qubodup-door-close07.m4a",
+      "src": "qubodup-door-set/qubodup-DoorSet/flac/qubodup-DoorClose07.flac",
+      "name": "Qubodup Door Close07",
+      "tags": [
+        "foley",
+        "door",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/qubodup-door-close08.m4a",
+      "src": "qubodup-door-set/qubodup-DoorSet/flac/qubodup-DoorClose08.flac",
+      "name": "Qubodup Door Close08",
+      "tags": [
+        "foley",
+        "door",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/qubodup-door-close09.m4a",
+      "src": "qubodup-door-set/qubodup-DoorSet/flac/qubodup-DoorClose09.flac",
+      "name": "Qubodup Door Close09",
+      "tags": [
+        "foley",
+        "door",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/qubodup-door-close10.m4a",
+      "src": "qubodup-door-set/qubodup-DoorSet/flac/qubodup-DoorClose10.flac",
+      "name": "Qubodup Door Close10",
+      "tags": [
+        "foley",
+        "door",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/qubodup-door-open01.m4a",
+      "src": "qubodup-door-set/qubodup-DoorSet/flac/qubodup-DoorOpen01.flac",
+      "name": "Qubodup Door Open01",
+      "tags": [
+        "foley",
+        "door",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/qubodup-door-open02.m4a",
+      "src": "qubodup-door-set/qubodup-DoorSet/flac/qubodup-DoorOpen02.flac",
+      "name": "Qubodup Door Open02",
+      "tags": [
+        "foley",
+        "door",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/qubodup-door-open03.m4a",
+      "src": "qubodup-door-set/qubodup-DoorSet/flac/qubodup-DoorOpen03.flac",
+      "name": "Qubodup Door Open03",
+      "tags": [
+        "foley",
+        "door",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/qubodup-door-open04.m4a",
+      "src": "qubodup-door-set/qubodup-DoorSet/flac/qubodup-DoorOpen04.flac",
+      "name": "Qubodup Door Open04",
+      "tags": [
+        "foley",
+        "door",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/qubodup-door-open05.m4a",
+      "src": "qubodup-door-set/qubodup-DoorSet/flac/qubodup-DoorOpen05.flac",
+      "name": "Qubodup Door Open05",
+      "tags": [
+        "foley",
+        "door",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/qubodup-door-open06.m4a",
+      "src": "qubodup-door-set/qubodup-DoorSet/flac/qubodup-DoorOpen06.flac",
+      "name": "Qubodup Door Open06",
+      "tags": [
+        "foley",
+        "door",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/qubodup-door-open07.m4a",
+      "src": "qubodup-door-set/qubodup-DoorSet/flac/qubodup-DoorOpen07.flac",
+      "name": "Qubodup Door Open07",
+      "tags": [
+        "foley",
+        "door",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/qubodup-door-open08.m4a",
+      "src": "qubodup-door-set/qubodup-DoorSet/flac/qubodup-DoorOpen08.flac",
+      "name": "Qubodup Door Open08",
+      "tags": [
+        "foley",
+        "door",
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

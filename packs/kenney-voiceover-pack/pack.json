@@ -1,7 +1,7 @@
 {
   "id": "kenney-voiceover-pack",
   "title": "Voiceover Pack",
-  "blurb": "51 sounds — mostly Human and Game.",
+  "blurb": "51 sounds — mostly Human and Interface.",
   "kind": "sound",
   "license": "CC0-1.0",
   "attribution": "Kenney · kenney.nl · CC0 1.0 (public domain)",
@@ -9,6 +9,7 @@
     "id": "kenney",
     "name": "Kenney"
   },
+  "homepage": "https://kenney.nl/assets/category:Audio",
   "tags": [
     "cc0",
     "human",
@@ -17,6 +18,7 @@
   "files": [
     {
       "file": "audio/1.m4a",
+      "src": "Female/1.ogg",
       "name": "Female 1",
       "tags": [
         "human",
@@ -27,6 +29,7 @@
     },
     {
       "file": "audio/10.m4a",
+      "src": "Female/10.ogg",
       "name": "Female 10",
       "tags": [
         "human",
@@ -37,6 +40,7 @@
     },
     {
       "file": "audio/2.m4a",
+      "src": "Female/2.ogg",
       "name": "Female 2",
       "tags": [
         "human",
@@ -47,6 +51,7 @@
     },
     {
       "file": "audio/3.m4a",
+      "src": "Female/3.ogg",
       "name": "Female 3",
       "tags": [
         "human",
@@ -57,6 +62,7 @@
     },
     {
       "file": "audio/4.m4a",
+      "src": "Female/4.ogg",
       "name": "Female 4",
       "tags": [
         "human",
@@ -67,6 +73,7 @@
     },
     {
       "file": "audio/5.m4a",
+      "src": "Female/5.ogg",
       "name": "Female 5",
       "tags": [
         "human",
@@ -77,6 +84,7 @@
     },
     {
       "file": "audio/6.m4a",
+      "src": "Female/6.ogg",
       "name": "Female 6",
       "tags": [
         "human",
@@ -87,6 +95,7 @@
     },
     {
       "file": "audio/7.m4a",
+      "src": "Female/7.ogg",
       "name": "Female 7",
       "tags": [
         "human",
@@ -97,6 +106,7 @@
     },
     {
       "file": "audio/8.m4a",
+      "src": "Female/8.ogg",
       "name": "Female 8",
       "tags": [
         "human",
@@ -107,6 +117,7 @@
     },
     {
       "file": "audio/9.m4a",
+      "src": "Female/9.ogg",
       "name": "Female 9",
       "tags": [
         "human",
@@ -117,7 +128,8 @@
     },
     {
       "file": "audio/congratulations.m4a",
-      "name": "Female Congratulations",
+      "src": "Female/congratulations.ogg",
+      "name": "Congratulations",
       "tags": [
         "human",
         "female",
@@ -127,7 +139,8 @@
     },
     {
       "file": "audio/correct.m4a",
-      "name": "Female Correct",
+      "src": "Female/correct.ogg",
+      "name": "Correct",
       "tags": [
         "human",
         "female",
@@ -137,7 +150,8 @@
     },
     {
       "file": "audio/final-round.m4a",
-      "name": "Female Round",
+      "src": "Female/final_round.ogg",
+      "name": "Round",
       "tags": [
         "human",
         "female",
@@ -147,7 +161,8 @@
     },
     {
       "file": "audio/game-over.m4a",
-      "name": "Female Game Over",
+      "src": "Female/game_over.ogg",
+      "name": "Game Over",
       "tags": [
         "human",
         "female",
@@ -157,7 +172,8 @@
     },
     {
       "file": "audio/go.m4a",
-      "name": "Female Go",
+      "src": "Female/go.ogg",
+      "name": "Go",
       "tags": [
         "human",
         "female",
@@ -167,7 +183,8 @@
     },
     {
       "file": "audio/hold.m4a",
-      "name": "Male Hold",
+      "src": "Male/hold.ogg",
+      "name": "Hold",
       "tags": [
         "human",
         "male",
@@ -177,7 +194,8 @@
     },
     {
       "file": "audio/hurry-up.m4a",
-      "name": "Female Hurry Up",
+      "src": "Female/hurry_up.ogg",
+      "name": "Hurry Up",
       "tags": [
         "human",
         "female",
@@ -187,7 +205,8 @@
     },
     {
       "file": "audio/its-a-tie.m4a",
-      "name": "Female Its Tie",
+      "src": "Female/its_a_tie.ogg",
+      "name": "Its Tie",
       "tags": [
         "human",
         "female",
@@ -197,9 +216,10 @@
     },
     {
       "file": "audio/level.m4a",
-      "name": "Female Level",
+      "src": "Female/level.ogg",
+      "name": "Level",
       "tags": [
-        "game",
+        "interface",
         "female",
         "level",
         "human",
@@ -209,9 +229,10 @@
     },
     {
       "file": "audio/level-up.m4a",
-      "name": "Female Level Up",
+      "src": "Female/level_up.ogg",
+      "name": "Level Up",
       "tags": [
-        "game",
+        "interface",
         "female",
         "level",
         "human",
@@ -221,7 +242,8 @@
     },
     {
       "file": "audio/mission-completed.m4a",
-      "name": "Female Mission Completed",
+      "src": "Female/mission_completed.ogg",
+      "name": "Mission Completed",
       "tags": [
         "human",
         "female",
@@ -231,7 +253,8 @@
     },
     {
       "file": "audio/mission-failed.m4a",
-      "name": "Female Mission Failed",
+      "src": "Female/mission_failed.ogg",
+      "name": "Mission Failed",
       "tags": [
         "human",
         "female",
@@ -241,7 +264,8 @@
     },
     {
       "file": "audio/new-highscore.m4a",
-      "name": "Female Highscore",
+      "src": "Female/new_highscore.ogg",
+      "name": "Highscore",
       "tags": [
         "human",
         "female",
@@ -251,7 +275,8 @@
     },
     {
       "file": "audio/objective-achieved.m4a",
-      "name": "Female Objective Achieved",
+      "src": "Female/objective_achieved.ogg",
+      "name": "Objective Achieved",
       "tags": [
         "human",
         "female",
@@ -261,18 +286,18 @@
     },
     {
       "file": "audio/power-up.m4a",
-      "name": "Female Power Up",
+      "src": "Female/power_up.ogg",
+      "name": "Power Up",
       "tags": [
-        "game",
-        "female",
-        "power",
         "human",
+        "female",
         "voice"
       ],
       "blurb": null
     },
     {
       "file": "audio/preview.m4a",
+      "src": "Preview.ogg",
       "name": "Preview",
       "tags": [
         "human",
@@ -282,6 +307,7 @@
     },
     {
       "file": "audio/preview-female.m4a",
+      "src": "Preview (Female).ogg",
       "name": "Preview Female",
       "tags": [
         "human",
@@ -292,6 +318,7 @@
     },
     {
       "file": "audio/preview-male.m4a",
+      "src": "Preview (Male).ogg",
       "name": "Preview Male",
       "tags": [
         "human",
@@ -302,7 +329,8 @@
     },
     {
       "file": "audio/ready.m4a",
-      "name": "Female Ready",
+      "src": "Female/ready.ogg",
+      "name": "Ready",
       "tags": [
         "human",
         "female",
@@ -312,7 +340,8 @@
     },
     {
       "file": "audio/round.m4a",
-      "name": "Female Round",
+      "src": "Female/round.ogg",
+      "name": "Round",
       "tags": [
         "human",
         "female",
@@ -322,7 +351,8 @@
     },
     {
       "file": "audio/set.m4a",
-      "name": "Female Set",
+      "src": "Female/set.ogg",
+      "name": "Set",
       "tags": [
         "human",
         "female",
@@ -332,7 +362,8 @@
     },
     {
       "file": "audio/time-over.m4a",
-      "name": "Female Time Over",
+      "src": "Female/time_over.ogg",
+      "name": "Time Over",
       "tags": [
         "human",
         "female",
@@ -342,7 +373,8 @@
     },
     {
       "file": "audio/war-call-for-backup.m4a",
-      "name": "Female War Call Backup",
+      "src": "Female/war_call_for_backup.ogg",
+      "name": "War Call Backup",
       "tags": [
         "human",
         "female",
@@ -352,7 +384,8 @@
     },
     {
       "file": "audio/war-cover-me.m4a",
-      "name": "Female War Cover Me",
+      "src": "Female/war_cover_me.ogg",
+      "name": "War Cover Me",
       "tags": [
         "human",
         "female",
@@ -362,7 +395,8 @@
     },
     {
       "file": "audio/war-fire-in-the-hole.m4a",
-      "name": "Female War Fire In Hole",
+      "src": "Female/war_fire_in_the_hole.ogg",
+      "name": "War Fire In Hole",
       "tags": [
         "human",
         "female",
@@ -373,7 +407,8 @@
     },
     {
       "file": "audio/war-get-down.m4a",
-      "name": "Female War Get Down",
+      "src": "Female/war_get_down.ogg",
+      "name": "War Get Down",
       "tags": [
         "human",
         "female",
@@ -383,7 +418,8 @@
     },
     {
       "file": "audio/war-go-go-go.m4a",
-      "name": "Female War Go Go Go",
+      "src": "Female/war_go_go_go.ogg",
+      "name": "War Go",
       "tags": [
         "human",
         "female",
@@ -393,7 +429,8 @@
     },
     {
       "file": "audio/war-hold.m4a",
-      "name": "Female War Hold",
+      "src": "Female/war_hold.ogg",
+      "name": "War Hold",
       "tags": [
         "human",
         "female",
@@ -403,7 +440,8 @@
     },
     {
       "file": "audio/war-look-out.m4a",
-      "name": "Female War Look Out",
+      "src": "Female/war_look_out.ogg",
+      "name": "War Look Out",
       "tags": [
         "human",
         "female",
@@ -413,7 +451,8 @@
     },
     {
       "file": "audio/war-medic.m4a",
-      "name": "Female War Medic",
+      "src": "Female/war_medic.ogg",
+      "name": "War Medic",
       "tags": [
         "human",
         "female",
@@ -423,7 +462,8 @@
     },
     {
       "file": "audio/war-reloading.m4a",
-      "name": "Female War Reloading",
+      "src": "Female/war_reloading.ogg",
+      "name": "War Reloading",
       "tags": [
         "human",
         "female",
@@ -433,17 +473,20 @@
     },
     {
       "file": "audio/war-rpg.m4a",
-      "name": "Female War Rpg",
+      "src": "Female/war_rpg.ogg",
+      "name": "War Rpg",
       "tags": [
         "human",
         "female",
+        "rpg",
         "voice"
       ],
       "blurb": null
     },
     {
       "file": "audio/war-sniper.m4a",
-      "name": "Female War Sniper",
+      "src": "Female/war_sniper.ogg",
+      "name": "War Sniper",
       "tags": [
         "human",
         "female",
@@ -453,7 +496,8 @@
     },
     {
       "file": "audio/war-suppressing-fire.m4a",
-      "name": "Male War Suppressing Fire",
+      "src": "Male/war_suppressing_fire.ogg",
+      "name": "War Suppressing Fire",
       "tags": [
         "human",
         "male",
@@ -464,7 +508,8 @@
     },
     {
       "file": "audio/war-supressing-fire.m4a",
-      "name": "Female War Supressing Fire",
+      "src": "Female/war_supressing_fire.ogg",
+      "name": "War Supressing Fire",
       "tags": [
         "human",
         "female",
@@ -475,7 +520,8 @@
     },
     {
       "file": "audio/war-target-destroyed.m4a",
-      "name": "Female War Target Destroyed",
+      "src": "Female/war_target_destroyed.ogg",
+      "name": "War Target Destroyed",
       "tags": [
         "human",
         "female",
@@ -485,7 +531,8 @@
     },
     {
       "file": "audio/war-target-engaged.m4a",
-      "name": "Female War Target Engaged",
+      "src": "Female/war_target_engaged.ogg",
+      "name": "War Target Engaged",
       "tags": [
         "human",
         "female",
@@ -495,7 +542,8 @@
     },
     {
       "file": "audio/war-watch-my-back.m4a",
-      "name": "Female War Watch My Back",
+      "src": "Female/war_watch_my_back.ogg",
+      "name": "War Watch My Back",
       "tags": [
         "human",
         "female",
@@ -505,7 +553,8 @@
     },
     {
       "file": "audio/wrong.m4a",
-      "name": "Female Wrong",
+      "src": "Female/wrong.ogg",
+      "name": "Wrong",
       "tags": [
         "human",
         "female",
@@ -515,9 +564,10 @@
     },
     {
       "file": "audio/you-lose.m4a",
-      "name": "Female You Lose",
+      "src": "Female/you_lose.ogg",
+      "name": "You Lose",
       "tags": [
-        "game",
+        "interface",
         "female",
         "lose",
         "human",
@@ -527,9 +577,10 @@
     },
     {
       "file": "audio/you-win.m4a",
-      "name": "Female You Win",
+      "src": "Female/you_win.ogg",
+      "name": "You Win",
       "tags": [
-        "game",
+        "interface",
         "female",
         "win",
         "human",

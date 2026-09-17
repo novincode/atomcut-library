@@ -1,0 +1,168 @@
+{
+  "id": "opengameart-15-vocal-male-strainhurtpainjump-sounds",
+  "title": "15 vocal male strain/hurt/pain/jump sounds",
+  "blurb": "15 sounds — mostly Foley.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "qubodup · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-qubodup",
+    "name": "qubodup"
+  },
+  "homepage": "https://opengameart.org/content/15-vocal-male-strainhurtpainjump-sounds",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/slightscream-01.m4a",
+      "src": "slightscreams/slightscream-01.flac",
+      "name": "Slightscream 1",
+      "tags": [
+        "foley",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/slightscream-02.m4a",
+      "src": "slightscreams/slightscream-02.flac",
+      "name": "Slightscream 2",
+      "tags": [
+        "foley",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/slightscream-03.m4a",
+      "src": "slightscreams/slightscream-03.flac",
+      "name": "Slightscream 3",
+      "tags": [
+        "foley",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/slightscream-04.m4a",
+      "src": "slightscreams/slightscream-04.flac",
+      "name": "Slightscream 4",
+      "tags": [
+        "foley",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/slightscream-05.m4a",
+      "src": "slightscreams/slightscream-05.flac",
+      "name": "Slightscream 5",
+      "tags": [
+        "foley",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/slightscream-06.m4a",
+      "src": "slightscreams/slightscream-06.flac",
+      "name": "Slightscream 6",
+      "tags": [
+        "foley",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/slightscream-07.m4a",
+      "src": "slightscreams/slightscream-07.flac",
+      "name": "Slightscream 7",
+      "tags": [
+        "foley",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/slightscream-08.m4a",
+      "src": "slightscreams/slightscream-08.flac",
+      "name": "Slightscream 8",
+      "tags": [
+        "foley",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/slightscream-09.m4a",
+      "src": "slightscreams/slightscream-09.flac",
+      "name": "Slightscream 9",
+      "tags": [
+        "foley",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/slightscream-10.m4a",
+      "src": "slightscreams/slightscream-10.flac",
+      "name": "Slightscream 10",
+      "tags": [
+        "foley",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/slightscream-11.m4a",
+      "src": "slightscreams/slightscream-11.flac",
+      "name": "Slightscream 11",
+      "tags": [
+        "foley",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/slightscream-12.m4a",
+      "src": "slightscreams/slightscream-12.flac",
+      "name": "Slightscream 12",
+      "tags": [
+        "foley",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/slightscream-13.m4a",
+      "src": "slightscreams/slightscream-13.flac",
+      "name": "Slightscream 13",
+      "tags": [
+        "foley",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/slightscream-14.m4a",
+      "src": "slightscreams/slightscream-14.flac",
+      "name": "Slightscream 14",
+      "tags": [
+        "foley",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/slightscream-15.m4a",
+      "src": "slightscreams/slightscream-15.flac",
+      "name": "Slightscream 15",
+      "tags": [
+        "foley",
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

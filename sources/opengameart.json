@@ -1,0 +1,13 @@
+{
+  "id": "opengameart",
+  "fetch": "opengameart",
+  "license": "CC0-1.0",
+  "attribution": "opengameart.org · CC0 1.0 (public domain)",
+  "homepage": "https://opengameart.org/art-search-advanced?field_art_type_tid%5B%5D=13&field_art_licenses_tid%5B%5D=4",
+  "publisher": { "id": "opengameart", "name": "OpenGameArt" },
+  "tags": ["cc0"],
+  "discover": { "limit": 420 },
+  "maxSounds": 400,
+  "minSounds": 6,
+  "maxSeconds": 45
+}

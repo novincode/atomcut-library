@@ -1,0 +1,161 @@
+{
+  "id": "opengameart-swishes-sound-pack",
+  "title": "Swishes Sound Pack",
+  "blurb": "13 sounds — mostly Whooshes.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "artisticdude · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-artisticdude",
+    "name": "artisticdude"
+  },
+  "homepage": "https://opengameart.org/content/swishes-sound-pack",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/swish-1.m4a",
+      "src": "swishes/swishes/swish-1.wav",
+      "name": "Swish 1",
+      "tags": [
+        "whoosh",
+        "swish",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/swish-10.m4a",
+      "src": "swishes/swishes/swish-10.wav",
+      "name": "Swish 10",
+      "tags": [
+        "whoosh",
+        "swish",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/swish-11.m4a",
+      "src": "swishes/swishes/swish-11.wav",
+      "name": "Swish 11",
+      "tags": [
+        "whoosh",
+        "swish",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/swish-12.m4a",
+      "src": "swishes/swishes/swish-12.wav",
+      "name": "Swish 12",
+      "tags": [
+        "whoosh",
+        "swish",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/swish-13.m4a",
+      "src": "swishes/swishes/swish-13.wav",
+      "name": "Swish 13",
+      "tags": [
+        "whoosh",
+        "swish",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/swish-2.m4a",
+      "src": "swishes/swishes/swish-2.wav",
+      "name": "Swish 2",
+      "tags": [
+        "whoosh",
+        "swish",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/swish-3.m4a",
+      "src": "swishes/swishes/swish-3.wav",
+      "name": "Swish 3",
+      "tags": [
+        "whoosh",
+        "swish",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/swish-4.m4a",
+      "src": "swishes/swishes/swish-4.wav",
+      "name": "Swish 4",
+      "tags": [
+        "whoosh",
+        "swish",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/swish-5.m4a",
+      "src": "swishes/swishes/swish-5.wav",
+      "name": "Swish 5",
+      "tags": [
+        "whoosh",
+        "swish",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/swish-6.m4a",
+      "src": "swishes/swishes/swish-6.wav",
+      "name": "Swish 6",
+      "tags": [
+        "whoosh",
+        "swish",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/swish-7.m4a",
+      "src": "swishes/swishes/swish-7.wav",
+      "name": "Swish 7",
+      "tags": [
+        "whoosh",
+        "swish",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/swish-8.m4a",
+      "src": "swishes/swishes/swish-8.wav",
+      "name": "Swish 8",
+      "tags": [
+        "whoosh",
+        "swish",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/swish-9.m4a",
+      "src": "swishes/swishes/swish-9.wav",
+      "name": "Swish 9",
+      "tags": [
+        "whoosh",
+        "swish",
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

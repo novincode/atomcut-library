@@ -1,0 +1,337 @@
+{
+  "id": "opengameart-2-dice-roll-29-throws",
+  "title": "2 dice roll (29 throws)",
+  "blurb": "29 sounds — mostly Foley.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "rpg · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-rpg",
+    "name": "rpg"
+  },
+  "homepage": "https://opengameart.org/content/2-dice-roll-29-throws",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/dice-1.m4a",
+      "src": "dice-20sound/dice-1.wav",
+      "name": "Dice 1",
+      "tags": [
+        "foley",
+        "dice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/dice-10.m4a",
+      "src": "dice-20sound/dice-10.wav",
+      "name": "Dice 10",
+      "tags": [
+        "foley",
+        "dice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/dice-11.m4a",
+      "src": "dice-20sound/dice-11.wav",
+      "name": "Dice 11",
+      "tags": [
+        "foley",
+        "dice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/dice-12.m4a",
+      "src": "dice-20sound/dice-12.wav",
+      "name": "Dice 12",
+      "tags": [
+        "foley",
+        "dice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/dice-13.m4a",
+      "src": "dice-20sound/dice-13.wav",
+      "name": "Dice 13",
+      "tags": [
+        "foley",
+        "dice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/dice-14.m4a",
+      "src": "dice-20sound/dice-14.wav",
+      "name": "Dice 14",
+      "tags": [
+        "foley",
+        "dice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/dice-15.m4a",
+      "src": "dice-20sound/dice-15.wav",
+      "name": "Dice 15",
+      "tags": [
+        "foley",
+        "dice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/dice-16.m4a",
+      "src": "dice-20sound/dice-16.wav",
+      "name": "Dice 16",
+      "tags": [
+        "foley",
+        "dice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/dice-17.m4a",
+      "src": "dice-20sound/dice-17.wav",
+      "name": "Dice 17",
+      "tags": [
+        "foley",
+        "dice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/dice-18.m4a",
+      "src": "dice-20sound/dice-18.wav",
+      "name": "Dice 18",
+      "tags": [
+        "foley",
+        "dice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/dice-19.m4a",
+      "src": "dice-20sound/dice-19.wav",
+      "name": "Dice 19",
+      "tags": [
+        "foley",
+        "dice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/dice-2.m4a",
+      "src": "dice-20sound/dice-2.wav",
+      "name": "Dice 2",
+      "tags": [
+        "foley",
+        "dice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/dice-20.m4a",
+      "src": "dice-20sound/dice-20.wav",
+      "name": "Dice 20",
+      "tags": [
+        "foley",
+        "dice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/dice-21.m4a",
+      "src": "dice-20sound/dice-21.wav",
+      "name": "Dice 21",
+      "tags": [
+        "foley",
+        "dice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/dice-22.m4a",
+      "src": "dice-20sound/dice-22.wav",
+      "name": "Dice 22",
+      "tags": [
+        "foley",
+        "dice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/dice-23.m4a",
+      "src": "dice-20sound/dice-23.wav",
+      "name": "Dice 23",
+      "tags": [
+        "foley",
+        "dice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/dice-24.m4a",
+      "src": "dice-20sound/dice-24.wav",
+      "name": "Dice 24",
+      "tags": [
+        "foley",
+        "dice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/dice-25.m4a",
+      "src": "dice-20sound/dice-25.wav",
+      "name": "Dice 25",
+      "tags": [
+        "foley",
+        "dice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/dice-26.m4a",
+      "src": "dice-20sound/dice-26.wav",
+      "name": "Dice 26",
+      "tags": [
+        "foley",
+        "dice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/dice-27.m4a",
+      "src": "dice-20sound/dice-27.wav",
+      "name": "Dice 27",
+      "tags": [
+        "foley",
+        "dice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/dice-28.m4a",
+      "src": "dice-20sound/dice-28.wav",
+      "name": "Dice 28",
+      "tags": [
+        "foley",
+        "dice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/dice-29.m4a",
+      "src": "dice-20sound/dice-29.wav",
+      "name": "Dice 29",
+      "tags": [
+        "foley",
+        "dice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/dice-3.m4a",
+      "src": "dice-20sound/dice-3.wav",
+      "name": "Dice 3",
+      "tags": [
+        "foley",
+        "dice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/dice-4.m4a",
+      "src": "dice-20sound/dice-4.wav",
+      "name": "Dice 4",
+      "tags": [
+        "foley",
+        "dice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/dice-5.m4a",
+      "src": "dice-20sound/dice-5.wav",
+      "name": "Dice 5",
+      "tags": [
+        "foley",
+        "dice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/dice-6.m4a",
+      "src": "dice-20sound/dice-6.wav",
+      "name": "Dice 6",
+      "tags": [
+        "foley",
+        "dice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/dice-7.m4a",
+      "src": "dice-20sound/dice-7.wav",
+      "name": "Dice 7",
+      "tags": [
+        "foley",
+        "dice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/dice-8.m4a",
+      "src": "dice-20sound/dice-8.wav",
+      "name": "Dice 8",
+      "tags": [
+        "foley",
+        "dice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/dice-9.m4a",
+      "src": "dice-20sound/dice-9.wav",
+      "name": "Dice 9",
+      "tags": [
+        "foley",
+        "dice",
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

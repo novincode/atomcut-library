@@ -1,0 +1,108 @@
+{
+  "id": "opengameart-atmospheric-interaction-sound-pack",
+  "title": "Atmospheric Interaction Sound Pack",
+  "blurb": "10 sounds.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "qubodup · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-qubodup",
+    "name": "qubodup"
+  },
+  "homepage": "https://opengameart.org/content/atmospheric-interaction-sound-pack",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/anchor-action.m4a",
+      "src": "krank-sounds/krank_sounds/industry/anchor_action.wav",
+      "name": "Anchor Action",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/exit.m4a",
+      "src": "krank-sounds/krank_sounds/industry/exit.wav",
+      "name": "Exit",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/link.m4a",
+      "src": "krank-sounds/krank_sounds/industry/link.wav",
+      "name": "Link",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/magnet-action.m4a",
+      "src": "krank-sounds/krank_sounds/industry/magnet_action.wav",
+      "name": "Magnet Action",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/magnet-off.m4a",
+      "src": "krank-sounds/krank_sounds/industry/magnet_off.wav",
+      "name": "Magnet Off",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/magnet-on.m4a",
+      "src": "krank-sounds/krank_sounds/industry/magnet_on.wav",
+      "name": "Magnet On",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/magnet-start.m4a",
+      "src": "krank-sounds/krank_sounds/industry/magnet_start.wav",
+      "name": "Magnet Start",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/part.m4a",
+      "src": "krank-sounds/krank_sounds/industry/part.wav",
+      "name": "Part",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/unlink.m4a",
+      "src": "krank-sounds/krank_sounds/industry/unlink.wav",
+      "name": "Unlink",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wall.m4a",
+      "src": "krank-sounds/krank_sounds/industry/wall.wav",
+      "name": "Wall",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

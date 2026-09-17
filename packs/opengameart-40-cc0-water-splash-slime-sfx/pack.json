@@ -1,0 +1,545 @@
+{
+  "id": "opengameart-40-cc0-water-splash-slime-sfx",
+  "title": "40 water / splash / slime SFX",
+  "blurb": "40 sounds — mostly Creatures.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "rubberduck · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-rubberduck",
+    "name": "rubberduck"
+  },
+  "homepage": "https://opengameart.org/content/40-cc0-water-splash-slime-sfx",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/bubble-01.m4a",
+      "src": "water-splash-slime-sfx/bubble_01.ogg",
+      "name": "Bubble 1",
+      "tags": [
+        "creature",
+        "water",
+        "splash",
+        "slime",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bubble-02.m4a",
+      "src": "water-splash-slime-sfx/bubble_02.ogg",
+      "name": "Bubble 2",
+      "tags": [
+        "creature",
+        "water",
+        "splash",
+        "slime",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bubble-03.m4a",
+      "src": "water-splash-slime-sfx/bubble_03.ogg",
+      "name": "Bubble 3",
+      "tags": [
+        "creature",
+        "water",
+        "splash",
+        "slime",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/loop-bubbles-02.m4a",
+      "src": "water-splash-slime-sfx/loop_bubbles_02.ogg",
+      "name": "Loop Bubbles 2",
+      "tags": [
+        "creature",
+        "water",
+        "splash",
+        "slime",
+        "loop",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/loop-bubbles-1.m4a",
+      "src": "water-splash-slime-sfx/loop_bubbles_1.ogg",
+      "name": "Loop Bubbles 1",
+      "tags": [
+        "creature",
+        "water",
+        "splash",
+        "slime",
+        "loop",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/loop-rain.m4a",
+      "src": "water-splash-slime-sfx/loop_rain.ogg",
+      "name": "Loop Rain",
+      "tags": [
+        "creature",
+        "water",
+        "splash",
+        "slime",
+        "loop",
+        "rain",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/loop-water-01.m4a",
+      "src": "water-splash-slime-sfx/loop_water_01.ogg",
+      "name": "Loop Water 1",
+      "tags": [
+        "creature",
+        "water",
+        "splash",
+        "slime",
+        "loop",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/loop-water-02.m4a",
+      "src": "water-splash-slime-sfx/loop_water_02.ogg",
+      "name": "Loop Water 2",
+      "tags": [
+        "creature",
+        "water",
+        "splash",
+        "slime",
+        "loop",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/loop-water-03.m4a",
+      "src": "water-splash-slime-sfx/loop_water_03.ogg",
+      "name": "Loop Water 3",
+      "tags": [
+        "creature",
+        "water",
+        "splash",
+        "slime",
+        "loop",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/slime-01.m4a",
+      "src": "water-splash-slime-sfx/slime_01.ogg",
+      "name": "Slime 1",
+      "tags": [
+        "creature",
+        "water",
+        "splash",
+        "slime",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/slime-02.m4a",
+      "src": "water-splash-slime-sfx/slime_02.ogg",
+      "name": "Slime 2",
+      "tags": [
+        "creature",
+        "water",
+        "splash",
+        "slime",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/slime-03.m4a",
+      "src": "water-splash-slime-sfx/slime_03.ogg",
+      "name": "Slime 3",
+      "tags": [
+        "creature",
+        "water",
+        "splash",
+        "slime",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/slime-04.m4a",
+      "src": "water-splash-slime-sfx/slime_04.ogg",
+      "name": "Slime 4",
+      "tags": [
+        "creature",
+        "water",
+        "splash",
+        "slime",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/slime-05.m4a",
+      "src": "water-splash-slime-sfx/slime_05.ogg",
+      "name": "Slime 5",
+      "tags": [
+        "creature",
+        "water",
+        "splash",
+        "slime",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/slime-06.m4a",
+      "src": "water-splash-slime-sfx/slime_06.ogg",
+      "name": "Slime 6",
+      "tags": [
+        "creature",
+        "water",
+        "splash",
+        "slime",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/slime-07.m4a",
+      "src": "water-splash-slime-sfx/slime_07.ogg",
+      "name": "Slime 7",
+      "tags": [
+        "creature",
+        "water",
+        "splash",
+        "slime",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/slime-08.m4a",
+      "src": "water-splash-slime-sfx/slime_08.ogg",
+      "name": "Slime 8",
+      "tags": [
+        "creature",
+        "water",
+        "splash",
+        "slime",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/slime-09.m4a",
+      "src": "water-splash-slime-sfx/slime_09.ogg",
+      "name": "Slime 9",
+      "tags": [
+        "creature",
+        "water",
+        "splash",
+        "slime",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/slime-10.m4a",
+      "src": "water-splash-slime-sfx/slime_10.ogg",
+      "name": "Slime 10",
+      "tags": [
+        "creature",
+        "water",
+        "splash",
+        "slime",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/slime-11.m4a",
+      "src": "water-splash-slime-sfx/slime_11.ogg",
+      "name": "Slime 11",
+      "tags": [
+        "creature",
+        "water",
+        "splash",
+        "slime",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/slime-12.m4a",
+      "src": "water-splash-slime-sfx/slime_12.ogg",
+      "name": "Slime 12",
+      "tags": [
+        "creature",
+        "water",
+        "splash",
+        "slime",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/slime-13.m4a",
+      "src": "water-splash-slime-sfx/slime_13.ogg",
+      "name": "Slime 13",
+      "tags": [
+        "creature",
+        "water",
+        "splash",
+        "slime",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/slime-14.m4a",
+      "src": "water-splash-slime-sfx/slime_14.ogg",
+      "name": "Slime 14",
+      "tags": [
+        "creature",
+        "water",
+        "splash",
+        "slime",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/slime-15.m4a",
+      "src": "water-splash-slime-sfx/slime_15.ogg",
+      "name": "Slime 15",
+      "tags": [
+        "creature",
+        "water",
+        "splash",
+        "slime",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/slime-16.m4a",
+      "src": "water-splash-slime-sfx/slime_16.ogg",
+      "name": "Slime 16",
+      "tags": [
+        "creature",
+        "water",
+        "splash",
+        "slime",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/splash-01.m4a",
+      "src": "water-splash-slime-sfx/splash_01.ogg",
+      "name": "Splash 1",
+      "tags": [
+        "creature",
+        "water",
+        "splash",
+        "slime",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/splash-02.m4a",
+      "src": "water-splash-slime-sfx/splash_02.ogg",
+      "name": "Splash 2",
+      "tags": [
+        "creature",
+        "water",
+        "splash",
+        "slime",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/splash-03.m4a",
+      "src": "water-splash-slime-sfx/splash_03.ogg",
+      "name": "Splash 3",
+      "tags": [
+        "creature",
+        "water",
+        "splash",
+        "slime",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/splash-04.m4a",
+      "src": "water-splash-slime-sfx/splash_04.ogg",
+      "name": "Splash 4",
+      "tags": [
+        "creature",
+        "water",
+        "splash",
+        "slime",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/splash-05.m4a",
+      "src": "water-splash-slime-sfx/splash_05.ogg",
+      "name": "Splash 5",
+      "tags": [
+        "creature",
+        "water",
+        "splash",
+        "slime",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/splash-06.m4a",
+      "src": "water-splash-slime-sfx/splash_06.ogg",
+      "name": "Splash 6",
+      "tags": [
+        "creature",
+        "water",
+        "splash",
+        "slime",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/splash-07.m4a",
+      "src": "water-splash-slime-sfx/splash_07.ogg",
+      "name": "Splash 7",
+      "tags": [
+        "creature",
+        "water",
+        "splash",
+        "slime",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/splash-08.m4a",
+      "src": "water-splash-slime-sfx/splash_08.ogg",
+      "name": "Splash 8",
+      "tags": [
+        "creature",
+        "water",
+        "splash",
+        "slime",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/splash-09.m4a",
+      "src": "water-splash-slime-sfx/splash_09.ogg",
+      "name": "Splash 9",
+      "tags": [
+        "creature",
+        "water",
+        "splash",
+        "slime",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/splash-10.m4a",
+      "src": "water-splash-slime-sfx/splash_10.ogg",
+      "name": "Splash 10",
+      "tags": [
+        "creature",
+        "water",
+        "splash",
+        "slime",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/splash-11.m4a",
+      "src": "water-splash-slime-sfx/splash_11.ogg",
+      "name": "Splash 11",
+      "tags": [
+        "creature",
+        "water",
+        "splash",
+        "slime",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/splash-12.m4a",
+      "src": "water-splash-slime-sfx/splash_12.ogg",
+      "name": "Splash 12",
+      "tags": [
+        "creature",
+        "water",
+        "splash",
+        "slime",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/splash-13.m4a",
+      "src": "water-splash-slime-sfx/splash_13.ogg",
+      "name": "Splash 13",
+      "tags": [
+        "creature",
+        "water",
+        "splash",
+        "slime",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/splash-14.m4a",
+      "src": "water-splash-slime-sfx/splash_14.ogg",
+      "name": "Splash 14",
+      "tags": [
+        "creature",
+        "water",
+        "splash",
+        "slime",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/splash-15.m4a",
+      "src": "water-splash-slime-sfx/splash_15.ogg",
+      "name": "Splash 15",
+      "tags": [
+        "creature",
+        "water",
+        "splash",
+        "slime",
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

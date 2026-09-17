@@ -1,0 +1,638 @@
+{
+  "id": "opengameart-male-gruntyelling-sounds",
+  "title": "Male Grunt/Yelling sounds",
+  "blurb": "62 sounds — mostly Human.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "haeldb · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-haeldb",
+    "name": "haeldb"
+  },
+  "homepage": "https://opengameart.org/content/male-gruntyelling-sounds",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/1yell1.m4a",
+      "src": "yelling-20sounds/yelling sounds/1yell1.wav",
+      "name": "1yell1",
+      "tags": [
+        "human",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/1yell10.m4a",
+      "src": "yelling-20sounds/yelling sounds/1yell10.wav",
+      "name": "1yell10",
+      "tags": [
+        "human",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/1yell11.m4a",
+      "src": "yelling-20sounds/yelling sounds/1yell11.wav",
+      "name": "1yell11",
+      "tags": [
+        "human",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/1yell12.m4a",
+      "src": "yelling-20sounds/yelling sounds/1yell12.wav",
+      "name": "1yell12",
+      "tags": [
+        "human",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/1yell13.m4a",
+      "src": "yelling-20sounds/yelling sounds/1yell13.wav",
+      "name": "1yell13",
+      "tags": [
+        "human",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/1yell14.m4a",
+      "src": "yelling-20sounds/yelling sounds/1yell14.wav",
+      "name": "1yell14",
+      "tags": [
+        "human",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/1yell15.m4a",
+      "src": "yelling-20sounds/yelling sounds/1yell15.wav",
+      "name": "1yell15",
+      "tags": [
+        "human",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/1yell16.m4a",
+      "src": "yelling-20sounds/yelling sounds/1yell16.wav",
+      "name": "1yell16",
+      "tags": [
+        "human",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/1yell2.m4a",
+      "src": "yelling-20sounds/yelling sounds/1yell2.wav",
+      "name": "1yell2",
+      "tags": [
+        "human",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/1yell3.m4a",
+      "src": "yelling-20sounds/yelling sounds/1yell3.wav",
+      "name": "1yell3",
+      "tags": [
+        "human",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/1yell4.m4a",
+      "src": "yelling-20sounds/yelling sounds/1yell4.wav",
+      "name": "1yell4",
+      "tags": [
+        "human",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/1yell5.m4a",
+      "src": "yelling-20sounds/yelling sounds/1yell5.wav",
+      "name": "1yell5",
+      "tags": [
+        "human",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/1yell6.m4a",
+      "src": "yelling-20sounds/yelling sounds/1yell6.wav",
+      "name": "1yell6",
+      "tags": [
+        "human",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/1yell7.m4a",
+      "src": "yelling-20sounds/yelling sounds/1yell7.wav",
+      "name": "1yell7",
+      "tags": [
+        "human",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/1yell8.m4a",
+      "src": "yelling-20sounds/yelling sounds/1yell8.wav",
+      "name": "1yell8",
+      "tags": [
+        "human",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/1yell9.m4a",
+      "src": "yelling-20sounds/yelling sounds/1yell9.wav",
+      "name": "1yell9",
+      "tags": [
+        "human",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/2yell1.m4a",
+      "src": "yelling-20sounds/yelling sounds/2yell1.wav",
+      "name": "2yell1",
+      "tags": [
+        "human",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/2yell10.m4a",
+      "src": "yelling-20sounds/yelling sounds/2yell10.wav",
+      "name": "2yell10",
+      "tags": [
+        "human",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/2yell11.m4a",
+      "src": "yelling-20sounds/yelling sounds/2yell11.wav",
+      "name": "2yell11",
+      "tags": [
+        "human",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/2yell2.m4a",
+      "src": "yelling-20sounds/yelling sounds/2yell2.wav",
+      "name": "2yell2",
+      "tags": [
+        "human",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/2yell3.m4a",
+      "src": "yelling-20sounds/yelling sounds/2yell3.wav",
+      "name": "2yell3",
+      "tags": [
+        "human",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/2yell4.m4a",
+      "src": "yelling-20sounds/yelling sounds/2yell4.wav",
+      "name": "2yell4",
+      "tags": [
+        "human",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/2yell5.m4a",
+      "src": "yelling-20sounds/yelling sounds/2yell5.wav",
+      "name": "2yell5",
+      "tags": [
+        "human",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/2yell6.m4a",
+      "src": "yelling-20sounds/yelling sounds/2yell6.wav",
+      "name": "2yell6",
+      "tags": [
+        "human",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/2yell7.m4a",
+      "src": "yelling-20sounds/yelling sounds/2yell7.wav",
+      "name": "2yell7",
+      "tags": [
+        "human",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/2yell8.m4a",
+      "src": "yelling-20sounds/yelling sounds/2yell8.wav",
+      "name": "2yell8",
+      "tags": [
+        "human",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/2yell9.m4a",
+      "src": "yelling-20sounds/yelling sounds/2yell9.wav",
+      "name": "2yell9",
+      "tags": [
+        "human",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/3grunt1.m4a",
+      "src": "yelling-20sounds/yelling sounds/3grunt1.wav",
+      "name": "3grunt1",
+      "tags": [
+        "human",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/3grunt2.m4a",
+      "src": "yelling-20sounds/yelling sounds/3grunt2.wav",
+      "name": "3grunt2",
+      "tags": [
+        "human",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/3grunt3.m4a",
+      "src": "yelling-20sounds/yelling sounds/3grunt3.wav",
+      "name": "3grunt3",
+      "tags": [
+        "human",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/3grunt4.m4a",
+      "src": "yelling-20sounds/yelling sounds/3grunt4.wav",
+      "name": "3grunt4",
+      "tags": [
+        "human",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/3grunt5.m4a",
+      "src": "yelling-20sounds/yelling sounds/3grunt5.wav",
+      "name": "3grunt5",
+      "tags": [
+        "human",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/3grunt6.m4a",
+      "src": "yelling-20sounds/yelling sounds/3grunt6.wav",
+      "name": "3grunt6",
+      "tags": [
+        "human",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/3yell1.m4a",
+      "src": "yelling-20sounds/yelling sounds/3yell1.wav",
+      "name": "3yell1",
+      "tags": [
+        "human",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/3yell10.m4a",
+      "src": "yelling-20sounds/yelling sounds/3yell10.wav",
+      "name": "3yell10",
+      "tags": [
+        "human",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/3yell11.m4a",
+      "src": "yelling-20sounds/yelling sounds/3yell11.wav",
+      "name": "3yell11",
+      "tags": [
+        "human",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/3yell12.m4a",
+      "src": "yelling-20sounds/yelling sounds/3yell12.wav",
+      "name": "3yell12",
+      "tags": [
+        "human",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/3yell13.m4a",
+      "src": "yelling-20sounds/yelling sounds/3yell13.wav",
+      "name": "3yell13",
+      "tags": [
+        "human",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/3yell14.m4a",
+      "src": "yelling-20sounds/yelling sounds/3yell14.wav",
+      "name": "3yell14",
+      "tags": [
+        "human",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/3yell15.m4a",
+      "src": "yelling-20sounds/yelling sounds/3yell15.wav",
+      "name": "3yell15",
+      "tags": [
+        "human",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/3yell16.m4a",
+      "src": "yelling-20sounds/yelling sounds/3yell16.wav",
+      "name": "3yell16",
+      "tags": [
+        "human",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/3yell2.m4a",
+      "src": "yelling-20sounds/yelling sounds/3yell2.wav",
+      "name": "3yell2",
+      "tags": [
+        "human",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/3yell3.m4a",
+      "src": "yelling-20sounds/yelling sounds/3yell3.wav",
+      "name": "3yell3",
+      "tags": [
+        "human",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/3yell4.m4a",
+      "src": "yelling-20sounds/yelling sounds/3yell4.wav",
+      "name": "3yell4",
+      "tags": [
+        "human",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/3yell5.m4a",
+      "src": "yelling-20sounds/yelling sounds/3yell5.wav",
+      "name": "3yell5",
+      "tags": [
+        "human",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/3yell6.m4a",
+      "src": "yelling-20sounds/yelling sounds/3yell6.wav",
+      "name": "3yell6",
+      "tags": [
+        "human",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/3yell7.m4a",
+      "src": "yelling-20sounds/yelling sounds/3yell7.wav",
+      "name": "3yell7",
+      "tags": [
+        "human",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/3yell8.m4a",
+      "src": "yelling-20sounds/yelling sounds/3yell8.wav",
+      "name": "3yell8",
+      "tags": [
+        "human",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/3yell9.m4a",
+      "src": "yelling-20sounds/yelling sounds/3yell9.wav",
+      "name": "3yell9",
+      "tags": [
+        "human",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/yell1.m4a",
+      "src": "yelling-20sounds/yelling sounds/yell1.wav",
+      "name": "Yell1",
+      "tags": [
+        "human",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/yell10.m4a",
+      "src": "yelling-20sounds/yelling sounds/yell10.wav",
+      "name": "Yell10",
+      "tags": [
+        "human",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/yell11.m4a",
+      "src": "yelling-20sounds/yelling sounds/yell11.wav",
+      "name": "Yell11",
+      "tags": [
+        "human",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/yell12.m4a",
+      "src": "yelling-20sounds/yelling sounds/yell12.wav",
+      "name": "Yell12",
+      "tags": [
+        "human",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/yell13.m4a",
+      "src": "yelling-20sounds/yelling sounds/yell13.wav",
+      "name": "Yell13",
+      "tags": [
+        "human",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/yell2.m4a",
+      "src": "yelling-20sounds/yelling sounds/yell2.wav",
+      "name": "Yell2",
+      "tags": [
+        "human",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/yell3.m4a",
+      "src": "yelling-20sounds/yelling sounds/yell3.wav",
+      "name": "Yell3",
+      "tags": [
+        "human",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/yell4.m4a",
+      "src": "yelling-20sounds/yelling sounds/yell4.wav",
+      "name": "Yell4",
+      "tags": [
+        "human",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/yell5.m4a",
+      "src": "yelling-20sounds/yelling sounds/yell5.wav",
+      "name": "Yell5",
+      "tags": [
+        "human",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/yell6.m4a",
+      "src": "yelling-20sounds/yelling sounds/yell6.wav",
+      "name": "Yell6",
+      "tags": [
+        "human",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/yell7.m4a",
+      "src": "yelling-20sounds/yelling sounds/yell7.wav",
+      "name": "Yell7",
+      "tags": [
+        "human",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/yell8.m4a",
+      "src": "yelling-20sounds/yelling sounds/yell8.wav",
+      "name": "Yell8",
+      "tags": [
+        "human",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/yell9.m4a",
+      "src": "yelling-20sounds/yelling sounds/yell9.wav",
+      "name": "Yell9",
+      "tags": [
+        "human",
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

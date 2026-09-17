@@ -1,0 +1,449 @@
+{
+  "id": "opengameart-voiceover-pack-fighter-40-taunts",
+  "title": "Voiceover Pack: Fighter (40+ taunts)",
+  "blurb": "47 sounds — mostly Interface and Human.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "kenney · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-kenney",
+    "name": "kenney"
+  },
+  "homepage": "https://opengameart.org/content/voiceover-pack-fighter-40-taunts",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/1.m4a",
+      "src": "kenney-voiceover-fighter/Audio/1.ogg",
+      "name": "Kenney Voiceover Fighter 1",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/10.m4a",
+      "src": "kenney-voiceover-fighter/Audio/10.ogg",
+      "name": "Kenney Voiceover Fighter 10",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/2.m4a",
+      "src": "kenney-voiceover-fighter/Audio/2.ogg",
+      "name": "Kenney Voiceover Fighter 2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/3.m4a",
+      "src": "kenney-voiceover-fighter/Audio/3.ogg",
+      "name": "Kenney Voiceover Fighter 3",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/4.m4a",
+      "src": "kenney-voiceover-fighter/Audio/4.ogg",
+      "name": "Kenney Voiceover Fighter 4",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/5.m4a",
+      "src": "kenney-voiceover-fighter/Audio/5.ogg",
+      "name": "Kenney Voiceover Fighter 5",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/6.m4a",
+      "src": "kenney-voiceover-fighter/Audio/6.ogg",
+      "name": "Kenney Voiceover Fighter 6",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/7.m4a",
+      "src": "kenney-voiceover-fighter/Audio/7.ogg",
+      "name": "Kenney Voiceover Fighter 7",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/8.m4a",
+      "src": "kenney-voiceover-fighter/Audio/8.ogg",
+      "name": "Kenney Voiceover Fighter 8",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/9.m4a",
+      "src": "kenney-voiceover-fighter/Audio/9.ogg",
+      "name": "Kenney Voiceover Fighter 9",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/arcade-mode.m4a",
+      "src": "kenney-voiceover-fighter/Audio/arcade_mode.ogg",
+      "name": "Arcade Mode",
+      "tags": [
+        "arcade",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/battle-mode.m4a",
+      "src": "kenney-voiceover-fighter/Audio/battle_mode.ogg",
+      "name": "Battle Mode",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/begin.m4a",
+      "src": "kenney-voiceover-fighter/Audio/begin.ogg",
+      "name": "Begin",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/championship-mode.m4a",
+      "src": "kenney-voiceover-fighter/Audio/championship_mode.ogg",
+      "name": "Championship Mode",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/choose-your-character.m4a",
+      "src": "kenney-voiceover-fighter/Audio/choose_your_character.ogg",
+      "name": "Choose Your Character",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/combo.m4a",
+      "src": "kenney-voiceover-fighter/Audio/combo.ogg",
+      "name": "Combo",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/combo-breaker.m4a",
+      "src": "kenney-voiceover-fighter/Audio/combo_breaker.ogg",
+      "name": "Combo Breaker",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/deathmatch.m4a",
+      "src": "kenney-voiceover-fighter/Audio/deathmatch.ogg",
+      "name": "Deathmatch",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/fight.m4a",
+      "src": "kenney-voiceover-fighter/Audio/fight.ogg",
+      "name": "Fight",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/final-round.m4a",
+      "src": "kenney-voiceover-fighter/Audio/final_round.ogg",
+      "name": "Round",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/flawless-victory.m4a",
+      "src": "kenney-voiceover-fighter/Audio/flawless_victory.ogg",
+      "name": "Flawless Victory",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/game-over.m4a",
+      "src": "kenney-voiceover-fighter/Audio/game_over.ogg",
+      "name": "Game Over",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/it-s-a-tie.m4a",
+      "src": "kenney-voiceover-fighter/Audio/it's_a_tie.ogg",
+      "name": "It Tie",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/kill-her.m4a",
+      "src": "kenney-voiceover-fighter/Audio/kill_her.ogg",
+      "name": "Kill Her",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/kill-him.m4a",
+      "src": "kenney-voiceover-fighter/Audio/kill_him.ogg",
+      "name": "Kill Him",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/kill-it.m4a",
+      "src": "kenney-voiceover-fighter/Audio/kill_it.ogg",
+      "name": "Kill It",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/loser.m4a",
+      "src": "kenney-voiceover-fighter/Audio/loser.ogg",
+      "name": "Loser",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/multi-kill.m4a",
+      "src": "kenney-voiceover-fighter/Audio/multi_kill.ogg",
+      "name": "Multi Kill",
+      "tags": [
+        "multi",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/player-1.m4a",
+      "src": "kenney-voiceover-fighter/Audio/player_1.ogg",
+      "name": "Player 1",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/player-2.m4a",
+      "src": "kenney-voiceover-fighter/Audio/player_2.ogg",
+      "name": "Player 2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/prepare-yourself.m4a",
+      "src": "kenney-voiceover-fighter/Audio/prepare_yourself.ogg",
+      "name": "Prepare Yourself",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/preview.m4a",
+      "src": "kenney-voiceover-fighter/Preview.ogg",
+      "name": "Preview",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/ready.m4a",
+      "src": "kenney-voiceover-fighter/Audio/ready.ogg",
+      "name": "Ready",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/round-1.m4a",
+      "src": "kenney-voiceover-fighter/Audio/round_1.ogg",
+      "name": "Round 1",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/round-2.m4a",
+      "src": "kenney-voiceover-fighter/Audio/round_2.ogg",
+      "name": "Round 2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/round-3.m4a",
+      "src": "kenney-voiceover-fighter/Audio/round_3.ogg",
+      "name": "Round 3",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/round-4.m4a",
+      "src": "kenney-voiceover-fighter/Audio/round_4.ogg",
+      "name": "Round 4",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/round-5.m4a",
+      "src": "kenney-voiceover-fighter/Audio/round_5.ogg",
+      "name": "Round 5",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/story-mode.m4a",
+      "src": "kenney-voiceover-fighter/Audio/story_mode.ogg",
+      "name": "Story Mode",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sudden-death.m4a",
+      "src": "kenney-voiceover-fighter/Audio/sudden_death.ogg",
+      "name": "Sudden Death",
+      "tags": [
+        "human",
+        "death",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/survival-mode.m4a",
+      "src": "kenney-voiceover-fighter/Audio/survival_mode.ogg",
+      "name": "Survival Mode",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/tie.m4a",
+      "src": "kenney-voiceover-fighter/Audio/tie.ogg",
+      "name": "Tie",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/tie-breaker.m4a",
+      "src": "kenney-voiceover-fighter/Audio/tie_breaker.ogg",
+      "name": "Tie Breaker",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/time.m4a",
+      "src": "kenney-voiceover-fighter/Audio/time.ogg",
+      "name": "Time",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/winner.m4a",
+      "src": "kenney-voiceover-fighter/Audio/winner.ogg",
+      "name": "Winner",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/you-lose.m4a",
+      "src": "kenney-voiceover-fighter/Audio/you_lose.ogg",
+      "name": "You Lose",
+      "tags": [
+        "interface",
+        "lose",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/you-win.m4a",
+      "src": "kenney-voiceover-fighter/Audio/you_win.ogg",
+      "name": "You Win",
+      "tags": [
+        "interface",
+        "win",
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

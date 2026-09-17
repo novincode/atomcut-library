@@ -1,0 +1,122 @@
+{
+  "id": "opengameart-8-wet-squish-slurp-impacts",
+  "title": "8 wet squish, slurp impacts",
+  "blurb": "8 sounds — mostly Impacts.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "qubodup · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-qubodup",
+    "name": "qubodup"
+  },
+  "homepage": "https://opengameart.org/content/8-wet-squish-slurp-impacts",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/impactsplat01-mp3.m4a",
+      "src": "independent-nu-ljudbank-wet-squish-slurp/impsplat/impactsplat01.mp3.flac",
+      "name": "Impactsplat01",
+      "tags": [
+        "impact",
+        "wet",
+        "squish",
+        "slurp",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/impactsplat02-mp3.m4a",
+      "src": "independent-nu-ljudbank-wet-squish-slurp/impsplat/impactsplat02.mp3.flac",
+      "name": "Impactsplat02",
+      "tags": [
+        "impact",
+        "wet",
+        "squish",
+        "slurp",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/impactsplat03-mp3.m4a",
+      "src": "independent-nu-ljudbank-wet-squish-slurp/impsplat/impactsplat03.mp3.flac",
+      "name": "Impactsplat03",
+      "tags": [
+        "impact",
+        "wet",
+        "squish",
+        "slurp",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/impactsplat04-mp3.m4a",
+      "src": "independent-nu-ljudbank-wet-squish-slurp/impsplat/impactsplat04.mp3.flac",
+      "name": "Impactsplat04",
+      "tags": [
+        "impact",
+        "wet",
+        "squish",
+        "slurp",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/impactsplat05-mp3.m4a",
+      "src": "independent-nu-ljudbank-wet-squish-slurp/impsplat/impactsplat05.mp3.flac",
+      "name": "Impactsplat05",
+      "tags": [
+        "impact",
+        "wet",
+        "squish",
+        "slurp",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/impactsplat06-mp3.m4a",
+      "src": "independent-nu-ljudbank-wet-squish-slurp/impsplat/impactsplat06.mp3.flac",
+      "name": "Impactsplat06",
+      "tags": [
+        "impact",
+        "wet",
+        "squish",
+        "slurp",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/impactsplat07-mp3.m4a",
+      "src": "independent-nu-ljudbank-wet-squish-slurp/impsplat/impactsplat07.mp3.flac",
+      "name": "Impactsplat07",
+      "tags": [
+        "impact",
+        "wet",
+        "squish",
+        "slurp",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/impactsplat08-mp3.m4a",
+      "src": "independent-nu-ljudbank-wet-squish-slurp/impsplat/impactsplat08.mp3.flac",
+      "name": "Impactsplat08",
+      "tags": [
+        "impact",
+        "wet",
+        "squish",
+        "slurp",
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

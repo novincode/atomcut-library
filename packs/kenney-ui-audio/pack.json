@@ -9,6 +9,7 @@
     "id": "kenney",
     "name": "Kenney"
   },
+  "homepage": "https://kenney.nl/assets/category:Audio",
   "tags": [
     "cc0",
     "ui"
@@ -16,6 +17,7 @@
   "files": [
     {
       "file": "audio/click1.m4a",
+      "src": "Audio/click1.ogg",
       "name": "Click1",
       "tags": [
         "interface",
@@ -25,6 +27,7 @@
     },
     {
       "file": "audio/click2.m4a",
+      "src": "Audio/click2.ogg",
       "name": "Click2",
       "tags": [
         "interface",
@@ -34,6 +37,7 @@
     },
     {
       "file": "audio/click3.m4a",
+      "src": "Audio/click3.ogg",
       "name": "Click3",
       "tags": [
         "interface",
@@ -43,6 +47,7 @@
     },
     {
       "file": "audio/click4.m4a",
+      "src": "Audio/click4.ogg",
       "name": "Click4",
       "tags": [
         "interface",
@@ -52,6 +57,7 @@
     },
     {
       "file": "audio/click5.m4a",
+      "src": "Audio/click5.ogg",
       "name": "Click5",
       "tags": [
         "interface",
@@ -61,6 +67,7 @@
     },
     {
       "file": "audio/mouseclick1.m4a",
+      "src": "Audio/mouseclick1.ogg",
       "name": "Mouseclick1",
       "tags": [
         "interface",
@@ -70,6 +77,7 @@
     },
     {
       "file": "audio/mouserelease1.m4a",
+      "src": "Audio/mouserelease1.ogg",
       "name": "Mouserelease1",
       "tags": [
         "interface",
@@ -79,6 +87,7 @@
     },
     {
       "file": "audio/preview.m4a",
+      "src": "Preview.ogg",
       "name": "Preview",
       "tags": [
         "interface",
@@ -88,6 +97,7 @@
     },
     {
       "file": "audio/rollover1.m4a",
+      "src": "Audio/rollover1.ogg",
       "name": "Rollover1",
       "tags": [
         "interface",
@@ -97,6 +107,7 @@
     },
     {
       "file": "audio/rollover2.m4a",
+      "src": "Audio/rollover2.ogg",
       "name": "Rollover2",
       "tags": [
         "interface",
@@ -106,6 +117,7 @@
     },
     {
       "file": "audio/rollover3.m4a",
+      "src": "Audio/rollover3.ogg",
       "name": "Rollover3",
       "tags": [
         "interface",
@@ -115,6 +127,7 @@
     },
     {
       "file": "audio/rollover4.m4a",
+      "src": "Audio/rollover4.ogg",
       "name": "Rollover4",
       "tags": [
         "interface",
@@ -124,6 +137,7 @@
     },
     {
       "file": "audio/rollover5.m4a",
+      "src": "Audio/rollover5.ogg",
       "name": "Rollover5",
       "tags": [
         "interface",
@@ -133,6 +147,7 @@
     },
     {
       "file": "audio/rollover6.m4a",
+      "src": "Audio/rollover6.ogg",
       "name": "Rollover6",
       "tags": [
         "interface",
@@ -142,6 +157,7 @@
     },
     {
       "file": "audio/switch1.m4a",
+      "src": "Audio/switch1.ogg",
       "name": "Switch1",
       "tags": [
         "interface",
@@ -151,6 +167,7 @@
     },
     {
       "file": "audio/switch10.m4a",
+      "src": "Audio/switch10.ogg",
       "name": "Switch10",
       "tags": [
         "interface",
@@ -160,6 +177,7 @@
     },
     {
       "file": "audio/switch11.m4a",
+      "src": "Audio/switch11.ogg",
       "name": "Switch11",
       "tags": [
         "interface",
@@ -169,6 +187,7 @@
     },
     {
       "file": "audio/switch12.m4a",
+      "src": "Audio/switch12.ogg",
       "name": "Switch12",
       "tags": [
         "interface",
@@ -178,6 +197,7 @@
     },
     {
       "file": "audio/switch13.m4a",
+      "src": "Audio/switch13.ogg",
       "name": "Switch13",
       "tags": [
         "interface",
@@ -187,6 +207,7 @@
     },
     {
       "file": "audio/switch14.m4a",
+      "src": "Audio/switch14.ogg",
       "name": "Switch14",
       "tags": [
         "interface",
@@ -196,6 +217,7 @@
     },
     {
       "file": "audio/switch15.m4a",
+      "src": "Audio/switch15.ogg",
       "name": "Switch15",
       "tags": [
         "interface",
@@ -205,6 +227,7 @@
     },
     {
       "file": "audio/switch16.m4a",
+      "src": "Audio/switch16.ogg",
       "name": "Switch16",
       "tags": [
         "interface",
@@ -214,6 +237,7 @@
     },
     {
       "file": "audio/switch17.m4a",
+      "src": "Audio/switch17.ogg",
       "name": "Switch17",
       "tags": [
         "interface",
@@ -223,6 +247,7 @@
     },
     {
       "file": "audio/switch18.m4a",
+      "src": "Audio/switch18.ogg",
       "name": "Switch18",
       "tags": [
         "interface",
@@ -232,6 +257,7 @@
     },
     {
       "file": "audio/switch19.m4a",
+      "src": "Audio/switch19.ogg",
       "name": "Switch19",
       "tags": [
         "interface",
@@ -241,6 +267,7 @@
     },
     {
       "file": "audio/switch2.m4a",
+      "src": "Audio/switch2.ogg",
       "name": "Switch2",
       "tags": [
         "interface",
@@ -250,6 +277,7 @@
     },
     {
       "file": "audio/switch20.m4a",
+      "src": "Audio/switch20.ogg",
       "name": "Switch20",
       "tags": [
         "interface",
@@ -259,6 +287,7 @@
     },
     {
       "file": "audio/switch21.m4a",
+      "src": "Audio/switch21.ogg",
       "name": "Switch21",
       "tags": [
         "interface",
@@ -268,6 +297,7 @@
     },
     {
       "file": "audio/switch22.m4a",
+      "src": "Audio/switch22.ogg",
       "name": "Switch22",
       "tags": [
         "interface",
@@ -277,6 +307,7 @@
     },
     {
       "file": "audio/switch23.m4a",
+      "src": "Audio/switch23.ogg",
       "name": "Switch23",
       "tags": [
         "interface",
@@ -286,6 +317,7 @@
     },
     {
       "file": "audio/switch24.m4a",
+      "src": "Audio/switch24.ogg",
       "name": "Switch24",
       "tags": [
         "interface",
@@ -295,6 +327,7 @@
     },
     {
       "file": "audio/switch25.m4a",
+      "src": "Audio/switch25.ogg",
       "name": "Switch25",
       "tags": [
         "interface",
@@ -304,6 +337,7 @@
     },
     {
       "file": "audio/switch26.m4a",
+      "src": "Audio/switch26.ogg",
       "name": "Switch26",
       "tags": [
         "interface",
@@ -313,6 +347,7 @@
     },
     {
       "file": "audio/switch27.m4a",
+      "src": "Audio/switch27.ogg",
       "name": "Switch27",
       "tags": [
         "interface",
@@ -322,6 +357,7 @@
     },
     {
       "file": "audio/switch28.m4a",
+      "src": "Audio/switch28.ogg",
       "name": "Switch28",
       "tags": [
         "interface",
@@ -331,6 +367,7 @@
     },
     {
       "file": "audio/switch29.m4a",
+      "src": "Audio/switch29.ogg",
       "name": "Switch29",
       "tags": [
         "interface",
@@ -340,6 +377,7 @@
     },
     {
       "file": "audio/switch3.m4a",
+      "src": "Audio/switch3.ogg",
       "name": "Switch3",
       "tags": [
         "interface",
@@ -349,6 +387,7 @@
     },
     {
       "file": "audio/switch30.m4a",
+      "src": "Audio/switch30.ogg",
       "name": "Switch30",
       "tags": [
         "interface",
@@ -358,6 +397,7 @@
     },
     {
       "file": "audio/switch31.m4a",
+      "src": "Audio/switch31.ogg",
       "name": "Switch31",
       "tags": [
         "interface",
@@ -367,6 +407,7 @@
     },
     {
       "file": "audio/switch32.m4a",
+      "src": "Audio/switch32.ogg",
       "name": "Switch32",
       "tags": [
         "interface",
@@ -376,6 +417,7 @@
     },
     {
       "file": "audio/switch33.m4a",
+      "src": "Audio/switch33.ogg",
       "name": "Switch33",
       "tags": [
         "interface",
@@ -385,6 +427,7 @@
     },
     {
       "file": "audio/switch34.m4a",
+      "src": "Audio/switch34.ogg",
       "name": "Switch34",
       "tags": [
         "interface",
@@ -394,6 +437,7 @@
     },
     {
       "file": "audio/switch35.m4a",
+      "src": "Audio/switch35.ogg",
       "name": "Switch35",
       "tags": [
         "interface",
@@ -403,6 +447,7 @@
     },
     {
       "file": "audio/switch36.m4a",
+      "src": "Audio/switch36.ogg",
       "name": "Switch36",
       "tags": [
         "interface",
@@ -412,6 +457,7 @@
     },
     {
       "file": "audio/switch37.m4a",
+      "src": "Audio/switch37.ogg",
       "name": "Switch37",
       "tags": [
         "interface",
@@ -421,6 +467,7 @@
     },
     {
       "file": "audio/switch38.m4a",
+      "src": "Audio/switch38.ogg",
       "name": "Switch38",
       "tags": [
         "interface",
@@ -430,6 +477,7 @@
     },
     {
       "file": "audio/switch4.m4a",
+      "src": "Audio/switch4.ogg",
       "name": "Switch4",
       "tags": [
         "interface",
@@ -439,6 +487,7 @@
     },
     {
       "file": "audio/switch5.m4a",
+      "src": "Audio/switch5.ogg",
       "name": "Switch5",
       "tags": [
         "interface",
@@ -448,6 +497,7 @@
     },
     {
       "file": "audio/switch6.m4a",
+      "src": "Audio/switch6.ogg",
       "name": "Switch6",
       "tags": [
         "interface",
@@ -457,6 +507,7 @@
     },
     {
       "file": "audio/switch7.m4a",
+      "src": "Audio/switch7.ogg",
       "name": "Switch7",
       "tags": [
         "interface",
@@ -466,6 +517,7 @@
     },
     {
       "file": "audio/switch8.m4a",
+      "src": "Audio/switch8.ogg",
       "name": "Switch8",
       "tags": [
         "interface",
@@ -475,6 +527,7 @@
     },
     {
       "file": "audio/switch9.m4a",
+      "src": "Audio/switch9.ogg",
       "name": "Switch9",
       "tags": [
         "interface",

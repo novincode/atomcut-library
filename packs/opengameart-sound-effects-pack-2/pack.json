@@ -1,0 +1,1188 @@
+{
+  "id": "opengameart-sound-effects-pack-2",
+  "title": "Sound effects Pack 2",
+  "blurb": "110 sounds — mostly Digital and Interface.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "phoenix1291 · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-phoenix1291",
+    "name": "phoenix1291"
+  },
+  "homepage": "https://opengameart.org/content/sound-effects-pack-2",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/1up-1-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/1up/WAV/1up 1 - Sound effects Pack 2.wav",
+      "name": "1up 2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/1up-10-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/1up/WAV/1up 10 - Sound effects Pack 2.wav",
+      "name": "1up 2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/1up-2-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/1up/WAV/1up 2 - Sound effects Pack 2.wav",
+      "name": "1up 2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/1up-3-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/1up/WAV/1up 3 - Sound effects Pack 2.wav",
+      "name": "1up 2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/1up-4-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/1up/WAV/1up 4 - Sound effects Pack 2.wav",
+      "name": "1up 2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/1up-5-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/1up/WAV/1up 5 - Sound effects Pack 2.wav",
+      "name": "1up 2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/1up-6-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/1up/WAV/1up 6 - Sound effects Pack 2.wav",
+      "name": "1up 2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/1up-7-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/1up/WAV/1up 7 - Sound effects Pack 2.wav",
+      "name": "1up 2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/1up-8-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/1up/WAV/1up 8 - Sound effects Pack 2.wav",
+      "name": "1up 2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/1up-9-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/1up/WAV/1up 9 - Sound effects Pack 2.wav",
+      "name": "1up 2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/blip-1-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Blip/WAV/Blip 1 - Sound effects Pack 2.wav",
+      "name": "Blip 2",
+      "tags": [
+        "digital",
+        "blip",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/blip-10-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Blip/WAV/Blip 10 - Sound effects Pack 2.wav",
+      "name": "Blip 2",
+      "tags": [
+        "digital",
+        "blip",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/blip-2-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Blip/WAV/Blip 2 - Sound effects Pack 2.wav",
+      "name": "Blip 2",
+      "tags": [
+        "digital",
+        "blip",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/blip-3-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Blip/WAV/Blip 3 - Sound effects Pack 2.wav",
+      "name": "Blip 2",
+      "tags": [
+        "digital",
+        "blip",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/blip-4-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Blip/WAV/Blip 4 - Sound effects Pack 2.wav",
+      "name": "Blip 2",
+      "tags": [
+        "digital",
+        "blip",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/blip-5-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Blip/WAV/Blip 5 - Sound effects Pack 2.wav",
+      "name": "Blip 2",
+      "tags": [
+        "digital",
+        "blip",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/blip-6-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Blip/WAV/Blip 6 - Sound effects Pack 2.wav",
+      "name": "Blip 2",
+      "tags": [
+        "digital",
+        "blip",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/blip-7-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Blip/WAV/Blip 7 - Sound effects Pack 2.wav",
+      "name": "Blip 2",
+      "tags": [
+        "digital",
+        "blip",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/blip-8-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Blip/WAV/Blip 8 - Sound effects Pack 2.wav",
+      "name": "Blip 2",
+      "tags": [
+        "digital",
+        "blip",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/blip-9-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Blip/WAV/Blip 9 - Sound effects Pack 2.wav",
+      "name": "Blip 2",
+      "tags": [
+        "digital",
+        "blip",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/coins-1-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Coins/WAV/Coins 1 - Sound effects Pack 2.wav",
+      "name": "Coins 2",
+      "tags": [
+        "interface",
+        "coin",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/coins-10-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Coins/WAV/Coins 10 - Sound effects Pack 2.wav",
+      "name": "Coins 2",
+      "tags": [
+        "interface",
+        "coin",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/coins-2-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Coins/WAV/Coins 2 - Sound effects Pack 2.wav",
+      "name": "Coins 2",
+      "tags": [
+        "interface",
+        "coin",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/coins-3-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Coins/WAV/Coins 3 - Sound effects Pack 2.wav",
+      "name": "Coins 2",
+      "tags": [
+        "interface",
+        "coin",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/coins-4-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Coins/WAV/Coins 4 - Sound effects Pack 2.wav",
+      "name": "Coins 2",
+      "tags": [
+        "interface",
+        "coin",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/coins-5-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Coins/WAV/Coins 5 - Sound effects Pack 2.wav",
+      "name": "Coins 2",
+      "tags": [
+        "interface",
+        "coin",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/coins-6-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Coins/WAV/Coins 6 - Sound effects Pack 2.wav",
+      "name": "Coins 2",
+      "tags": [
+        "interface",
+        "coin",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/coins-7-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Coins/WAV/Coins 7 - Sound effects Pack 2.wav",
+      "name": "Coins 2",
+      "tags": [
+        "interface",
+        "coin",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/coins-8-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Coins/WAV/Coins 8 - Sound effects Pack 2.wav",
+      "name": "Coins 2",
+      "tags": [
+        "interface",
+        "coin",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/coins-9-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Coins/WAV/Coins 9 - Sound effects Pack 2.wav",
+      "name": "Coins 2",
+      "tags": [
+        "interface",
+        "coin",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/explosion-1-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Explosions/WAV/Explosion 1 - Sound effects Pack 2.wav",
+      "name": "Explosion 2",
+      "tags": [
+        "weapon",
+        "explosion",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/explosion-10-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Explosions/WAV/Explosion 10 - Sound effects Pack 2.wav",
+      "name": "Explosion 2",
+      "tags": [
+        "weapon",
+        "explosion",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/explosion-2-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Explosions/WAV/Explosion 2 - Sound effects Pack 2.wav",
+      "name": "Explosion 2",
+      "tags": [
+        "weapon",
+        "explosion",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/explosion-3-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Explosions/WAV/Explosion 3 - Sound effects Pack 2.wav",
+      "name": "Explosion 2",
+      "tags": [
+        "weapon",
+        "explosion",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/explosion-4-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Explosions/WAV/Explosion 4 - Sound effects Pack 2.wav",
+      "name": "Explosion 2",
+      "tags": [
+        "weapon",
+        "explosion",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/explosion-5-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Explosions/WAV/Explosion 5 - Sound effects Pack 2.wav",
+      "name": "Explosion 2",
+      "tags": [
+        "weapon",
+        "explosion",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/explosion-6-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Explosions/WAV/Explosion 6 - Sound effects Pack 2.wav",
+      "name": "Explosion 2",
+      "tags": [
+        "weapon",
+        "explosion",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/explosion-7-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Explosions/WAV/Explosion 7 - Sound effects Pack 2.wav",
+      "name": "Explosion 2",
+      "tags": [
+        "weapon",
+        "explosion",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/explosion-8-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Explosions/WAV/Explosion 8 - Sound effects Pack 2.wav",
+      "name": "Explosion 2",
+      "tags": [
+        "weapon",
+        "explosion",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/explosion-9-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Explosions/WAV/Explosion 9 - Sound effects Pack 2.wav",
+      "name": "Explosion 2",
+      "tags": [
+        "weapon",
+        "explosion",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit-1-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Hit/WAV/Hit 1 - Sound effects Pack 2.wav",
+      "name": "Hit 2",
+      "tags": [
+        "impact",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit-10-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Hit/WAV/Hit 10 - Sound effects Pack 2.wav",
+      "name": "Hit 2",
+      "tags": [
+        "impact",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit-2-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Hit/WAV/Hit 2 - Sound effects Pack 2.wav",
+      "name": "Hit 2",
+      "tags": [
+        "impact",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit-3-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Hit/WAV/Hit 3 - Sound effects Pack 2.wav",
+      "name": "Hit 2",
+      "tags": [
+        "impact",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit-4-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Hit/WAV/Hit 4 - Sound effects Pack 2.wav",
+      "name": "Hit 2",
+      "tags": [
+        "impact",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit-5-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Hit/WAV/Hit 5 - Sound effects Pack 2.wav",
+      "name": "Hit 2",
+      "tags": [
+        "impact",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit-6-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Hit/WAV/Hit 6 - Sound effects Pack 2.wav",
+      "name": "Hit 2",
+      "tags": [
+        "impact",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit-7-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Hit/WAV/Hit 7 - Sound effects Pack 2.wav",
+      "name": "Hit 2",
+      "tags": [
+        "impact",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit-8-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Hit/WAV/Hit 8 - Sound effects Pack 2.wav",
+      "name": "Hit 2",
+      "tags": [
+        "impact",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit-9-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Hit/WAV/Hit 9 - Sound effects Pack 2.wav",
+      "name": "Hit 2",
+      "tags": [
+        "impact",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jump-1-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Jump/WAV/Jump 1 - Sound effects Pack 2.wav",
+      "name": "Jump 2",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jump-10-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Jump/WAV/Jump 10 - Sound effects Pack 2.wav",
+      "name": "Jump 2",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jump-2-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Jump/WAV/Jump 2 - Sound effects Pack 2.wav",
+      "name": "Jump 2",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jump-3-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Jump/WAV/Jump 3 - Sound effects Pack 2.wav",
+      "name": "Jump 2",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jump-4-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Jump/WAV/Jump 4 - Sound effects Pack 2.wav",
+      "name": "Jump 2",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jump-5-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Jump/WAV/Jump 5 - Sound effects Pack 2.wav",
+      "name": "Jump 2",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jump-6-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Jump/WAV/Jump 6 - Sound effects Pack 2.wav",
+      "name": "Jump 2",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jump-7-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Jump/WAV/Jump 7 - Sound effects Pack 2.wav",
+      "name": "Jump 2",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jump-8-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Jump/WAV/Jump 8 - Sound effects Pack 2.wav",
+      "name": "Jump 2",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jump-9-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Jump/WAV/Jump 9 - Sound effects Pack 2.wav",
+      "name": "Jump 2",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/laser-weapon-1-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Laser-weapon/WAV/Laser-weapon 1 - Sound effects Pack 2.wav",
+      "name": "Laser Weapon 2",
+      "tags": [
+        "digital",
+        "laser",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/laser-weapon-10-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Laser-weapon/WAV/Laser-weapon 10 - Sound effects Pack 2.wav",
+      "name": "Laser Weapon 2",
+      "tags": [
+        "digital",
+        "laser",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/laser-weapon-2-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Laser-weapon/WAV/Laser-weapon 2 - Sound effects Pack 2.wav",
+      "name": "Laser Weapon 2",
+      "tags": [
+        "digital",
+        "laser",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/laser-weapon-3-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Laser-weapon/WAV/Laser-weapon 3 - Sound effects Pack 2.wav",
+      "name": "Laser Weapon 2",
+      "tags": [
+        "digital",
+        "laser",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/laser-weapon-4-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Laser-weapon/WAV/Laser-weapon 4 - Sound effects Pack 2.wav",
+      "name": "Laser Weapon 2",
+      "tags": [
+        "digital",
+        "laser",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/laser-weapon-5-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Laser-weapon/WAV/Laser-weapon 5 - Sound effects Pack 2.wav",
+      "name": "Laser Weapon 2",
+      "tags": [
+        "digital",
+        "laser",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/laser-weapon-6-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Laser-weapon/WAV/Laser-weapon 6 - Sound effects Pack 2.wav",
+      "name": "Laser Weapon 2",
+      "tags": [
+        "digital",
+        "laser",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/laser-weapon-7-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Laser-weapon/WAV/Laser-weapon 7 - Sound effects Pack 2.wav",
+      "name": "Laser Weapon 2",
+      "tags": [
+        "digital",
+        "laser",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/laser-weapon-8-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Laser-weapon/WAV/Laser-weapon 8 - Sound effects Pack 2.wav",
+      "name": "Laser Weapon 2",
+      "tags": [
+        "digital",
+        "laser",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/laser-weapon-9-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Laser-weapon/WAV/Laser-weapon 9 - Sound effects Pack 2.wav",
+      "name": "Laser Weapon 2",
+      "tags": [
+        "digital",
+        "laser",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/lose-1-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Lose/WAV/Lose 1 - Sound effects Pack 2.wav",
+      "name": "Lose 2",
+      "tags": [
+        "interface",
+        "lose",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/lose-10-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Lose/WAV/Lose 10 - Sound effects Pack 2.wav",
+      "name": "Lose 2",
+      "tags": [
+        "interface",
+        "lose",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/lose-2-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Lose/WAV/Lose 2 - Sound effects Pack 2.wav",
+      "name": "Lose 2",
+      "tags": [
+        "interface",
+        "lose",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/lose-3-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Lose/WAV/Lose 3 - Sound effects Pack 2.wav",
+      "name": "Lose 2",
+      "tags": [
+        "interface",
+        "lose",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/lose-4-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Lose/WAV/Lose 4 - Sound effects Pack 2.wav",
+      "name": "Lose 2",
+      "tags": [
+        "interface",
+        "lose",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/lose-5-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Lose/WAV/Lose 5 - Sound effects Pack 2.wav",
+      "name": "Lose 2",
+      "tags": [
+        "interface",
+        "lose",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/lose-6-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Lose/WAV/Lose 6 - Sound effects Pack 2.wav",
+      "name": "Lose 2",
+      "tags": [
+        "interface",
+        "lose",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/lose-7-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Lose/WAV/Lose 7 - Sound effects Pack 2.wav",
+      "name": "Lose 2",
+      "tags": [
+        "interface",
+        "lose",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/lose-8-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Lose/WAV/Lose 8 - Sound effects Pack 2.wav",
+      "name": "Lose 2",
+      "tags": [
+        "interface",
+        "lose",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/lose-9-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Lose/WAV/Lose 9 - Sound effects Pack 2.wav",
+      "name": "Lose 2",
+      "tags": [
+        "interface",
+        "lose",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/powerup-1-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Power-up/WAV/Powerup 1 - Sound effects Pack 2.wav",
+      "name": "Powerup 2",
+      "tags": [
+        "magic",
+        "powerup",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/powerup-10-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Power-up/WAV/Powerup 10 - Sound effects Pack 2.wav",
+      "name": "Powerup 2",
+      "tags": [
+        "magic",
+        "powerup",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/powerup-2-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Power-up/WAV/Powerup 2 - Sound effects Pack 2.wav",
+      "name": "Powerup 2",
+      "tags": [
+        "magic",
+        "powerup",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/powerup-3-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Power-up/WAV/Powerup 3 - Sound effects Pack 2.wav",
+      "name": "Powerup 2",
+      "tags": [
+        "magic",
+        "powerup",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/powerup-4-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Power-up/WAV/Powerup 4 - Sound effects Pack 2.wav",
+      "name": "Powerup 2",
+      "tags": [
+        "magic",
+        "powerup",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/powerup-5-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Power-up/WAV/Powerup 5 - Sound effects Pack 2.wav",
+      "name": "Powerup 2",
+      "tags": [
+        "magic",
+        "powerup",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/powerup-6-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Power-up/WAV/Powerup 6 - Sound effects Pack 2.wav",
+      "name": "Powerup 2",
+      "tags": [
+        "magic",
+        "powerup",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/powerup-7-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Power-up/WAV/Powerup 7 - Sound effects Pack 2.wav",
+      "name": "Powerup 2",
+      "tags": [
+        "magic",
+        "powerup",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/powerup-8-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Power-up/WAV/Powerup 8 - Sound effects Pack 2.wav",
+      "name": "Powerup 2",
+      "tags": [
+        "magic",
+        "powerup",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/powerup-9-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Power-up/WAV/Powerup 9 - Sound effects Pack 2.wav",
+      "name": "Powerup 2",
+      "tags": [
+        "magic",
+        "powerup",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/random-1-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Random/WAV/Random 1 - Sound effects Pack 2.wav",
+      "name": "Random 2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/random-10-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Random/WAV/Random 10 - Sound effects Pack 2.wav",
+      "name": "Random 2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/random-2-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Random/WAV/Random 2 - Sound effects Pack 2.wav",
+      "name": "Random 2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/random-3-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Random/WAV/Random 3 - Sound effects Pack 2.wav",
+      "name": "Random 2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/random-4-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Random/WAV/Random 4 - Sound effects Pack 2.wav",
+      "name": "Random 2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/random-5-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Random/WAV/Random 5 - Sound effects Pack 2.wav",
+      "name": "Random 2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/random-6-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Random/WAV/Random 6 - Sound effects Pack 2.wav",
+      "name": "Random 2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/random-7-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Random/WAV/Random 7 - Sound effects Pack 2.wav",
+      "name": "Random 2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/random-8-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Random/WAV/Random 8 - Sound effects Pack 2.wav",
+      "name": "Random 2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/random-9-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Random/WAV/Random 9 - Sound effects Pack 2.wav",
+      "name": "Random 2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/teleport-1-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Teleport/WAV/Teleport 1 - Sound effects Pack 2.wav",
+      "name": "Teleport 2",
+      "tags": [
+        "digital",
+        "teleport",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/teleport-10-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Teleport/WAV/Teleport 10 - Sound effects Pack 2.wav",
+      "name": "Teleport 2",
+      "tags": [
+        "digital",
+        "teleport",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/teleport-2-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Teleport/WAV/Teleport 2 - Sound effects Pack 2.wav",
+      "name": "Teleport 2",
+      "tags": [
+        "digital",
+        "teleport",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/teleport-3-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Teleport/WAV/Teleport 3 - Sound effects Pack 2.wav",
+      "name": "Teleport 2",
+      "tags": [
+        "digital",
+        "teleport",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/teleport-4-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Teleport/WAV/Teleport 4 - Sound effects Pack 2.wav",
+      "name": "Teleport 2",
+      "tags": [
+        "digital",
+        "teleport",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/teleport-5-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Teleport/WAV/Teleport 5 - Sound effects Pack 2.wav",
+      "name": "Teleport 2",
+      "tags": [
+        "digital",
+        "teleport",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/teleport-6-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Teleport/WAV/Teleport 6 - Sound effects Pack 2.wav",
+      "name": "Teleport 2",
+      "tags": [
+        "digital",
+        "teleport",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/teleport-7-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Teleport/WAV/Teleport 7 - Sound effects Pack 2.wav",
+      "name": "Teleport 2",
+      "tags": [
+        "digital",
+        "teleport",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/teleport-8-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Teleport/WAV/Teleport 8 - Sound effects Pack 2.wav",
+      "name": "Teleport 2",
+      "tags": [
+        "digital",
+        "teleport",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/teleport-9-sound-effects-pack-2.m4a",
+      "src": "sound-20effects-20-pack-202/Sound effects Pack 2/Teleport/WAV/Teleport 9 - Sound effects Pack 2.wav",
+      "name": "Teleport 2",
+      "tags": [
+        "digital",
+        "teleport",
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

@@ -1,0 +1,1532 @@
+{
+  "id": "opengameart-fantasy-accessory-sfx-library",
+  "title": "Fantasy Accessory SFX Library",
+  "blurb": "137 sounds — mostly Foley and Impacts.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "vehicle · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-vehicle",
+    "name": "vehicle"
+  },
+  "homepage": "https://opengameart.org/content/fantasy-accessory-sfx-library",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/bottle-clay-uncork-02.m4a",
+      "src": "accessory/sfx/bottle-clay-uncork-02.wav",
+      "name": "Bottle Clay Uncork 2",
+      "tags": [
+        "foley",
+        "bottle",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bottle-clay-uncork-03.m4a",
+      "src": "accessory/sfx/bottle-clay-uncork-03.wav",
+      "name": "Bottle Clay Uncork 3",
+      "tags": [
+        "foley",
+        "bottle",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bottle-coffee-shake-01.m4a",
+      "src": "accessory/sfx/bottle-coffee-shake-01.wav",
+      "name": "Bottle Coffee Shake 1",
+      "tags": [
+        "foley",
+        "bottle",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bottle-coffee-shake-02.m4a",
+      "src": "accessory/sfx/bottle-coffee-shake-02.wav",
+      "name": "Bottle Coffee Shake 2",
+      "tags": [
+        "foley",
+        "bottle",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bottle-coffee-shake-03.m4a",
+      "src": "accessory/sfx/bottle-coffee-shake-03.wav",
+      "name": "Bottle Coffee Shake 3",
+      "tags": [
+        "foley",
+        "bottle",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bottle-coffee-shake-04.m4a",
+      "src": "accessory/sfx/bottle-coffee-shake-04.wav",
+      "name": "Bottle Coffee Shake 4",
+      "tags": [
+        "foley",
+        "bottle",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bottle-coffee-shake-05.m4a",
+      "src": "accessory/sfx/bottle-coffee-shake-05.wav",
+      "name": "Bottle Coffee Shake 5",
+      "tags": [
+        "foley",
+        "bottle",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bottle-coffee-shake-06.m4a",
+      "src": "accessory/sfx/bottle-coffee-shake-06.wav",
+      "name": "Bottle Coffee Shake 6",
+      "tags": [
+        "foley",
+        "bottle",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bottle-glass-uncork-02.m4a",
+      "src": "accessory/sfx/bottle-glass-uncork-02.wav",
+      "name": "Bottle Glass Uncork 2",
+      "tags": [
+        "impact",
+        "bottle",
+        "glass",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bottle-glass-uncork-03.m4a",
+      "src": "accessory/sfx/bottle-glass-uncork-03.wav",
+      "name": "Bottle Glass Uncork 3",
+      "tags": [
+        "impact",
+        "bottle",
+        "glass",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bottle-glass-uncork-04.m4a",
+      "src": "accessory/sfx/bottle-glass-uncork-04.wav",
+      "name": "Bottle Glass Uncork 4",
+      "tags": [
+        "impact",
+        "bottle",
+        "glass",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bottle-glass-uncork-05.m4a",
+      "src": "accessory/sfx/bottle-glass-uncork-05.wav",
+      "name": "Bottle Glass Uncork 5",
+      "tags": [
+        "impact",
+        "bottle",
+        "glass",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bottle-pills-shake-02.m4a",
+      "src": "accessory/sfx/bottle-pills-shake-02.wav",
+      "name": "Bottle Pills Shake 2",
+      "tags": [
+        "foley",
+        "bottle",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bottle-pills-shake-04.m4a",
+      "src": "accessory/sfx/bottle-pills-shake-04.wav",
+      "name": "Bottle Pills Shake 4",
+      "tags": [
+        "foley",
+        "bottle",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bottle-pills-shake-05.m4a",
+      "src": "accessory/sfx/bottle-pills-shake-05.wav",
+      "name": "Bottle Pills Shake 5",
+      "tags": [
+        "foley",
+        "bottle",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bottle-pills-shake-06.m4a",
+      "src": "accessory/sfx/bottle-pills-shake-06.wav",
+      "name": "Bottle Pills Shake 6",
+      "tags": [
+        "foley",
+        "bottle",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bottle-pills-shake-07.m4a",
+      "src": "accessory/sfx/bottle-pills-shake-07.wav",
+      "name": "Bottle Pills Shake 7",
+      "tags": [
+        "foley",
+        "bottle",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bottle-pills-shake-08.m4a",
+      "src": "accessory/sfx/bottle-pills-shake-08.wav",
+      "name": "Bottle Pills Shake 8",
+      "tags": [
+        "foley",
+        "bottle",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bottle-pills-shake-09.m4a",
+      "src": "accessory/sfx/bottle-pills-shake-09.wav",
+      "name": "Bottle Pills Shake 9",
+      "tags": [
+        "foley",
+        "bottle",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/coin-spin-fall-02.m4a",
+      "src": "accessory/sfx/coin-spin-fall-02.wav",
+      "name": "Coin Spin Fall 2",
+      "tags": [
+        "interface",
+        "coin",
+        "fall",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/coin-spin-fall-03.m4a",
+      "src": "accessory/sfx/coin-spin-fall-03.wav",
+      "name": "Coin Spin Fall 3",
+      "tags": [
+        "interface",
+        "coin",
+        "fall",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/coin-spin-fall-04.m4a",
+      "src": "accessory/sfx/coin-spin-fall-04.wav",
+      "name": "Coin Spin Fall 4",
+      "tags": [
+        "interface",
+        "coin",
+        "fall",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/coin-spin-fall-05.m4a",
+      "src": "accessory/sfx/coin-spin-fall-05.wav",
+      "name": "Coin Spin Fall 5",
+      "tags": [
+        "interface",
+        "coin",
+        "fall",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/coin-spin-fall-06.m4a",
+      "src": "accessory/sfx/coin-spin-fall-06.wav",
+      "name": "Coin Spin Fall 6",
+      "tags": [
+        "interface",
+        "coin",
+        "fall",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/coinflip-02.m4a",
+      "src": "accessory/sfx/coinflip-02.wav",
+      "name": "Coinflip 2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/coinflip-03.m4a",
+      "src": "accessory/sfx/coinflip-03.wav",
+      "name": "Coinflip 3",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/coins-shake-02.m4a",
+      "src": "accessory/sfx/coins-shake-02.wav",
+      "name": "Coins Shake 2",
+      "tags": [
+        "interface",
+        "coin",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/coins-shake-03.m4a",
+      "src": "accessory/sfx/coins-shake-03.wav",
+      "name": "Coins Shake 3",
+      "tags": [
+        "interface",
+        "coin",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/coins-shake-04.m4a",
+      "src": "accessory/sfx/coins-shake-04.wav",
+      "name": "Coins Shake 4",
+      "tags": [
+        "interface",
+        "coin",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/coins-shake-05.m4a",
+      "src": "accessory/sfx/coins-shake-05.wav",
+      "name": "Coins Shake 5",
+      "tags": [
+        "interface",
+        "coin",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/coins-shake-06.m4a",
+      "src": "accessory/sfx/coins-shake-06.wav",
+      "name": "Coins Shake 6",
+      "tags": [
+        "interface",
+        "coin",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/coins-shake-07.m4a",
+      "src": "accessory/sfx/coins-shake-07.wav",
+      "name": "Coins Shake 7",
+      "tags": [
+        "interface",
+        "coin",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/coins-shake-08.m4a",
+      "src": "accessory/sfx/coins-shake-08.wav",
+      "name": "Coins Shake 8",
+      "tags": [
+        "interface",
+        "coin",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/container-nuts-01.m4a",
+      "src": "accessory/sfx/container-nuts-01.wav",
+      "name": "Container Nuts 1",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/container-nuts-02.m4a",
+      "src": "accessory/sfx/container-nuts-02.wav",
+      "name": "Container Nuts 2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/container-nuts-03.m4a",
+      "src": "accessory/sfx/container-nuts-03.wav",
+      "name": "Container Nuts 3",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/container-nuts-04.m4a",
+      "src": "accessory/sfx/container-nuts-04.wav",
+      "name": "Container Nuts 4",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/container-nuts-05.m4a",
+      "src": "accessory/sfx/container-nuts-05.wav",
+      "name": "Container Nuts 5",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/dice-many-roll-01.m4a",
+      "src": "accessory/sfx/dice-many-roll-01.wav",
+      "name": "Dice Many Roll 1",
+      "tags": [
+        "foley",
+        "dice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/dice-many-roll-02.m4a",
+      "src": "accessory/sfx/dice-many-roll-02.wav",
+      "name": "Dice Many Roll 2",
+      "tags": [
+        "foley",
+        "dice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/dice-many-roll-03.m4a",
+      "src": "accessory/sfx/dice-many-roll-03.wav",
+      "name": "Dice Many Roll 3",
+      "tags": [
+        "foley",
+        "dice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/dice-many-shake-01.m4a",
+      "src": "accessory/sfx/dice-many-shake-01.wav",
+      "name": "Dice Many Shake 1",
+      "tags": [
+        "foley",
+        "dice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/dice-many-shake-02.m4a",
+      "src": "accessory/sfx/dice-many-shake-02.wav",
+      "name": "Dice Many Shake 2",
+      "tags": [
+        "foley",
+        "dice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/dice-many-shake-03.m4a",
+      "src": "accessory/sfx/dice-many-shake-03.wav",
+      "name": "Dice Many Shake 3",
+      "tags": [
+        "foley",
+        "dice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/dice-two-roll-01.m4a",
+      "src": "accessory/sfx/dice-two-roll-01.wav",
+      "name": "Dice Two Roll 1",
+      "tags": [
+        "foley",
+        "dice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/dice-two-roll-02.m4a",
+      "src": "accessory/sfx/dice-two-roll-02.wav",
+      "name": "Dice Two Roll 2",
+      "tags": [
+        "foley",
+        "dice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/dice-two-roll-03.m4a",
+      "src": "accessory/sfx/dice-two-roll-03.wav",
+      "name": "Dice Two Roll 3",
+      "tags": [
+        "foley",
+        "dice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/dice-two-roll-04.m4a",
+      "src": "accessory/sfx/dice-two-roll-04.wav",
+      "name": "Dice Two Roll 4",
+      "tags": [
+        "foley",
+        "dice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/dice-two-roll-05.m4a",
+      "src": "accessory/sfx/dice-two-roll-05.wav",
+      "name": "Dice Two Roll 5",
+      "tags": [
+        "foley",
+        "dice",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/die-one-roll-01.m4a",
+      "src": "accessory/sfx/die-one-roll-01.wav",
+      "name": "Die One Roll 1",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/die-one-roll-02.m4a",
+      "src": "accessory/sfx/die-one-roll-02.wav",
+      "name": "Die One Roll 2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/die-one-roll-03.m4a",
+      "src": "accessory/sfx/die-one-roll-03.wav",
+      "name": "Die One Roll 3",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/keyhole-lockbox-insert-02.m4a",
+      "src": "accessory/sfx/keyhole-lockbox-insert-02.wav",
+      "name": "Keyhole Lockbox Insert 2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/keyhole-lockbox-insert-03.m4a",
+      "src": "accessory/sfx/keyhole-lockbox-insert-03.wav",
+      "name": "Keyhole Lockbox Insert 3",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/keyhole-lockbox-remove-02.m4a",
+      "src": "accessory/sfx/keyhole-lockbox-remove-02.wav",
+      "name": "Keyhole Lockbox Remove 2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/keyhole-lockbox-remove-03.m4a",
+      "src": "accessory/sfx/keyhole-lockbox-remove-03.wav",
+      "name": "Keyhole Lockbox Remove 3",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/keyhole-lockbox-turn-02.m4a",
+      "src": "accessory/sfx/keyhole-lockbox-turn-02.wav",
+      "name": "Keyhole Lockbox Turn 2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/keyhole-lockbox-turn-03.m4a",
+      "src": "accessory/sfx/keyhole-lockbox-turn-03.wav",
+      "name": "Keyhole Lockbox Turn 3",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/keyhole-lockbox-turn-04.m4a",
+      "src": "accessory/sfx/keyhole-lockbox-turn-04.wav",
+      "name": "Keyhole Lockbox Turn 4",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/keyhole-lockbox-turn-05.m4a",
+      "src": "accessory/sfx/keyhole-lockbox-turn-05.wav",
+      "name": "Keyhole Lockbox Turn 5",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/keyhole-lockbox-turn-06.m4a",
+      "src": "accessory/sfx/keyhole-lockbox-turn-06.wav",
+      "name": "Keyhole Lockbox Turn 6",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/keyhole-lockbox-unlock-01.m4a",
+      "src": "accessory/sfx/keyhole-lockbox-unlock-01.wav",
+      "name": "Keyhole Lockbox Unlock 1",
+      "tags": [
+        "interface",
+        "unlock",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/keyhole-lockbox-unlock-02.m4a",
+      "src": "accessory/sfx/keyhole-lockbox-unlock-02.wav",
+      "name": "Keyhole Lockbox Unlock 2",
+      "tags": [
+        "interface",
+        "unlock",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/keyhole-lockbox-unlock-03.m4a",
+      "src": "accessory/sfx/keyhole-lockbox-unlock-03.wav",
+      "name": "Keyhole Lockbox Unlock 3",
+      "tags": [
+        "interface",
+        "unlock",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/keyhole-lockbox-unlock-04.m4a",
+      "src": "accessory/sfx/keyhole-lockbox-unlock-04.wav",
+      "name": "Keyhole Lockbox Unlock 4",
+      "tags": [
+        "interface",
+        "unlock",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/keyhole-lockbox-unlock-05.m4a",
+      "src": "accessory/sfx/keyhole-lockbox-unlock-05.wav",
+      "name": "Keyhole Lockbox Unlock 5",
+      "tags": [
+        "interface",
+        "unlock",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/keys-rattle-01.m4a",
+      "src": "accessory/sfx/keys-rattle-01.wav",
+      "name": "Keys Rattle 1",
+      "tags": [
+        "interface",
+        "key",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/keys-rattle-02.m4a",
+      "src": "accessory/sfx/keys-rattle-02.wav",
+      "name": "Keys Rattle 2",
+      "tags": [
+        "interface",
+        "key",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/keys-rattle-03.m4a",
+      "src": "accessory/sfx/keys-rattle-03.wav",
+      "name": "Keys Rattle 3",
+      "tags": [
+        "interface",
+        "key",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/metal-pot-drop-grain-01.m4a",
+      "src": "accessory/sfx/metal-pot-drop-grain-01.wav",
+      "name": "Metal Pot Drop Grain 1",
+      "tags": [
+        "foley",
+        "metal",
+        "drop",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/metal-pot-drop-grain-02.m4a",
+      "src": "accessory/sfx/metal-pot-drop-grain-02.wav",
+      "name": "Metal Pot Drop Grain 2",
+      "tags": [
+        "foley",
+        "metal",
+        "drop",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/metal-pot-drop-grain-03.m4a",
+      "src": "accessory/sfx/metal-pot-drop-grain-03.wav",
+      "name": "Metal Pot Drop Grain 3",
+      "tags": [
+        "foley",
+        "metal",
+        "drop",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/metal-pot-drop-nuts-01.m4a",
+      "src": "accessory/sfx/metal-pot-drop-nuts-01.wav",
+      "name": "Metal Pot Drop Nuts 1",
+      "tags": [
+        "foley",
+        "metal",
+        "drop",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/metal-pot-drop-nuts-02.m4a",
+      "src": "accessory/sfx/metal-pot-drop-nuts-02.wav",
+      "name": "Metal Pot Drop Nuts 2",
+      "tags": [
+        "foley",
+        "metal",
+        "drop",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/metal-pot-drop-nuts-03.m4a",
+      "src": "accessory/sfx/metal-pot-drop-nuts-03.wav",
+      "name": "Metal Pot Drop Nuts 3",
+      "tags": [
+        "foley",
+        "metal",
+        "drop",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/metal-pot-drop-nuts-04.m4a",
+      "src": "accessory/sfx/metal-pot-drop-nuts-04.wav",
+      "name": "Metal Pot Drop Nuts 4",
+      "tags": [
+        "foley",
+        "metal",
+        "drop",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/vial-glass-round-cork-twist-01.m4a",
+      "src": "accessory/sfx/vial-glass-round-cork-twist-01.wav",
+      "name": "Vial Glass Round Cork Twist 1",
+      "tags": [
+        "impact",
+        "glass",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/vial-glass-round-cork-twist-02.m4a",
+      "src": "accessory/sfx/vial-glass-round-cork-twist-02.wav",
+      "name": "Vial Glass Round Cork Twist 2",
+      "tags": [
+        "impact",
+        "glass",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/vial-glass-round-cork-twist-03.m4a",
+      "src": "accessory/sfx/vial-glass-round-cork-twist-03.wav",
+      "name": "Vial Glass Round Cork Twist 3",
+      "tags": [
+        "impact",
+        "glass",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/vial-glass-round-cork-twist-04.m4a",
+      "src": "accessory/sfx/vial-glass-round-cork-twist-04.wav",
+      "name": "Vial Glass Round Cork Twist 4",
+      "tags": [
+        "impact",
+        "glass",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/vial-glass-round-cork-twist-05.m4a",
+      "src": "accessory/sfx/vial-glass-round-cork-twist-05.wav",
+      "name": "Vial Glass Round Cork Twist 5",
+      "tags": [
+        "impact",
+        "glass",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/vial-glass-round-uncork-02.m4a",
+      "src": "accessory/sfx/vial-glass-round-uncork-02.wav",
+      "name": "Vial Glass Round Uncork 2",
+      "tags": [
+        "impact",
+        "glass",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/vial-glass-round-uncork-03.m4a",
+      "src": "accessory/sfx/vial-glass-round-uncork-03.wav",
+      "name": "Vial Glass Round Uncork 3",
+      "tags": [
+        "impact",
+        "glass",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/vial-glass-small-drop-01.m4a",
+      "src": "accessory/sfx/vial-glass-small-drop-01.wav",
+      "name": "Vial Glass Small Drop 1",
+      "tags": [
+        "impact",
+        "glass",
+        "small",
+        "drop",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/vial-glass-small-drop-02.m4a",
+      "src": "accessory/sfx/vial-glass-small-drop-02.wav",
+      "name": "Vial Glass Small Drop 2",
+      "tags": [
+        "impact",
+        "glass",
+        "small",
+        "drop",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/vial-glass-small-drop-03.m4a",
+      "src": "accessory/sfx/vial-glass-small-drop-03.wav",
+      "name": "Vial Glass Small Drop 3",
+      "tags": [
+        "impact",
+        "glass",
+        "small",
+        "drop",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/vial-glass-square-cinnamon-sticks-open-01.m4a",
+      "src": "accessory/sfx/vial-glass-square-cinnamon-sticks-open-01.wav",
+      "name": "Vial Glass Square Cinnamon Sticks Open 1",
+      "tags": [
+        "impact",
+        "glass",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/vial-glass-square-cinnamon-sticks-open-02.m4a",
+      "src": "accessory/sfx/vial-glass-square-cinnamon-sticks-open-02.wav",
+      "name": "Vial Glass Square Cinnamon Sticks Open 2",
+      "tags": [
+        "impact",
+        "glass",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/vial-glass-square-cinnamon-sticks-open-03.m4a",
+      "src": "accessory/sfx/vial-glass-square-cinnamon-sticks-open-03.wav",
+      "name": "Vial Glass Square Cinnamon Sticks Open 3",
+      "tags": [
+        "impact",
+        "glass",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/vial-glass-square-cinnamon-sticks-open-04.m4a",
+      "src": "accessory/sfx/vial-glass-square-cinnamon-sticks-open-04.wav",
+      "name": "Vial Glass Square Cinnamon Sticks Open 4",
+      "tags": [
+        "impact",
+        "glass",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/vial-glass-square-cinnamon-sticks-open-05.m4a",
+      "src": "accessory/sfx/vial-glass-square-cinnamon-sticks-open-05.wav",
+      "name": "Vial Glass Square Cinnamon Sticks Open 5",
+      "tags": [
+        "impact",
+        "glass",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/vial-glass-square-cinnamon-sticks-rattle-01.m4a",
+      "src": "accessory/sfx/vial-glass-square-cinnamon-sticks-rattle-01.wav",
+      "name": "Vial Glass Square Cinnamon Sticks Rattle 1",
+      "tags": [
+        "impact",
+        "glass",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/vial-glass-square-cinnamon-sticks-rattle-02.m4a",
+      "src": "accessory/sfx/vial-glass-square-cinnamon-sticks-rattle-02.wav",
+      "name": "Vial Glass Square Cinnamon Sticks Rattle 2",
+      "tags": [
+        "impact",
+        "glass",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/vial-glass-square-cinnamon-sticks-rattle-03.m4a",
+      "src": "accessory/sfx/vial-glass-square-cinnamon-sticks-rattle-03.wav",
+      "name": "Vial Glass Square Cinnamon Sticks Rattle 3",
+      "tags": [
+        "impact",
+        "glass",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/vial-glass-square-cinnamon-sticks-rattle-04.m4a",
+      "src": "accessory/sfx/vial-glass-square-cinnamon-sticks-rattle-04.wav",
+      "name": "Vial Glass Square Cinnamon Sticks Rattle 4",
+      "tags": [
+        "impact",
+        "glass",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/vial-glass-square-empty-close-02.m4a",
+      "src": "accessory/sfx/vial-glass-square-empty-close-02.wav",
+      "name": "Vial Glass Square Empty Close 2",
+      "tags": [
+        "impact",
+        "glass",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/vial-glass-square-empty-close-03.m4a",
+      "src": "accessory/sfx/vial-glass-square-empty-close-03.wav",
+      "name": "Vial Glass Square Empty Close 3",
+      "tags": [
+        "impact",
+        "glass",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/vial-glass-square-empty-close-04.m4a",
+      "src": "accessory/sfx/vial-glass-square-empty-close-04.wav",
+      "name": "Vial Glass Square Empty Close 4",
+      "tags": [
+        "impact",
+        "glass",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/vial-glass-square-empty-close-05.m4a",
+      "src": "accessory/sfx/vial-glass-square-empty-close-05.wav",
+      "name": "Vial Glass Square Empty Close 5",
+      "tags": [
+        "impact",
+        "glass",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/vial-glass-square-empty-open-02.m4a",
+      "src": "accessory/sfx/vial-glass-square-empty-open-02.wav",
+      "name": "Vial Glass Square Empty Open",
+      "tags": [
+        "impact",
+        "glass",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/vials-glass-rattle-01.m4a",
+      "src": "accessory/sfx/vials-glass-rattle-01.wav",
+      "name": "Vials Glass Rattle 1",
+      "tags": [
+        "impact",
+        "glass",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/vials-glass-rattle-02.m4a",
+      "src": "accessory/sfx/vials-glass-rattle-02.wav",
+      "name": "Vials Glass Rattle 2",
+      "tags": [
+        "impact",
+        "glass",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/vials-glass-rattle-03.m4a",
+      "src": "accessory/sfx/vials-glass-rattle-03.wav",
+      "name": "Vials Glass Rattle 3",
+      "tags": [
+        "impact",
+        "glass",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/vials-glass-rattle-04.m4a",
+      "src": "accessory/sfx/vials-glass-rattle-04.wav",
+      "name": "Vials Glass Rattle 4",
+      "tags": [
+        "impact",
+        "glass",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/vials-glass-rattle-05.m4a",
+      "src": "accessory/sfx/vials-glass-rattle-05.wav",
+      "name": "Vials Glass Rattle 5",
+      "tags": [
+        "impact",
+        "glass",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-bowl-drop-grain-01.m4a",
+      "src": "accessory/sfx/wood-bowl-drop-grain-01.wav",
+      "name": "Wood Bowl Drop Grain 1",
+      "tags": [
+        "foley",
+        "wood",
+        "drop",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-bowl-drop-grain-02.m4a",
+      "src": "accessory/sfx/wood-bowl-drop-grain-02.wav",
+      "name": "Wood Bowl Drop Grain 2",
+      "tags": [
+        "foley",
+        "wood",
+        "drop",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-bowl-drop-grain-03.m4a",
+      "src": "accessory/sfx/wood-bowl-drop-grain-03.wav",
+      "name": "Wood Bowl Drop Grain 3",
+      "tags": [
+        "foley",
+        "wood",
+        "drop",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-bowl-drop-grain-04.m4a",
+      "src": "accessory/sfx/wood-bowl-drop-grain-04.wav",
+      "name": "Wood Bowl Drop Grain 4",
+      "tags": [
+        "foley",
+        "wood",
+        "drop",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-bowl-drop-metal-spoon-02.m4a",
+      "src": "accessory/sfx/wood-bowl-drop-metal-spoon-02.wav",
+      "name": "Wood Bowl Drop Metal Spoon 2",
+      "tags": [
+        "foley",
+        "wood",
+        "drop",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-bowl-drop-metal-spoon-04.m4a",
+      "src": "accessory/sfx/wood-bowl-drop-metal-spoon-04.wav",
+      "name": "Wood Bowl Drop Metal Spoon 4",
+      "tags": [
+        "foley",
+        "wood",
+        "drop",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-bowl-drop-nuts-01.m4a",
+      "src": "accessory/sfx/wood-bowl-drop-nuts-01.wav",
+      "name": "Wood Bowl Drop Nuts 1",
+      "tags": [
+        "foley",
+        "wood",
+        "drop",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-bowl-drop-nuts-02.m4a",
+      "src": "accessory/sfx/wood-bowl-drop-nuts-02.wav",
+      "name": "Wood Bowl Drop Nuts 2",
+      "tags": [
+        "foley",
+        "wood",
+        "drop",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-bowl-drop-nuts-03.m4a",
+      "src": "accessory/sfx/wood-bowl-drop-nuts-03.wav",
+      "name": "Wood Bowl Drop Nuts 3",
+      "tags": [
+        "foley",
+        "wood",
+        "drop",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-bowl-drop-nuts-04.m4a",
+      "src": "accessory/sfx/wood-bowl-drop-nuts-04.wav",
+      "name": "Wood Bowl Drop Nuts 4",
+      "tags": [
+        "foley",
+        "wood",
+        "drop",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-bowl-drop-nuts-05.m4a",
+      "src": "accessory/sfx/wood-bowl-drop-nuts-05.wav",
+      "name": "Wood Bowl Drop Nuts 5",
+      "tags": [
+        "foley",
+        "wood",
+        "drop",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-bowl-drop-nuts-06.m4a",
+      "src": "accessory/sfx/wood-bowl-drop-nuts-06.wav",
+      "name": "Wood Bowl Drop Nuts 6",
+      "tags": [
+        "foley",
+        "wood",
+        "drop",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-bowl-drop-wood-spoon-02.m4a",
+      "src": "accessory/sfx/wood-bowl-drop-wood-spoon-02.wav",
+      "name": "Wood Bowl Drop Spoon 2",
+      "tags": [
+        "foley",
+        "wood",
+        "drop",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-bowl-drop-wood-spoon-04.m4a",
+      "src": "accessory/sfx/wood-bowl-drop-wood-spoon-04.wav",
+      "name": "Wood Bowl Drop Spoon 4",
+      "tags": [
+        "foley",
+        "wood",
+        "drop",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-bowl-drop-wood-spoon-05.m4a",
+      "src": "accessory/sfx/wood-bowl-drop-wood-spoon-05.wav",
+      "name": "Wood Bowl Drop Spoon 5",
+      "tags": [
+        "foley",
+        "wood",
+        "drop",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-bowl-drop-wood-spoon-06.m4a",
+      "src": "accessory/sfx/wood-bowl-drop-wood-spoon-06.wav",
+      "name": "Wood Bowl Drop Spoon 6",
+      "tags": [
+        "foley",
+        "wood",
+        "drop",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-bowl-drop-wood-spoon-07.m4a",
+      "src": "accessory/sfx/wood-bowl-drop-wood-spoon-07.wav",
+      "name": "Wood Bowl Drop Spoon 7",
+      "tags": [
+        "foley",
+        "wood",
+        "drop",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-bowl-drop-wood-spoon-08.m4a",
+      "src": "accessory/sfx/wood-bowl-drop-wood-spoon-08.wav",
+      "name": "Wood Bowl Drop Spoon 8",
+      "tags": [
+        "foley",
+        "wood",
+        "drop",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-bowl-drop-wood-spoon-09.m4a",
+      "src": "accessory/sfx/wood-bowl-drop-wood-spoon-09.wav",
+      "name": "Wood Bowl Drop Spoon 9",
+      "tags": [
+        "foley",
+        "wood",
+        "drop",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-bowl-hit-wood-spoon-01.m4a",
+      "src": "accessory/sfx/wood-bowl-hit-wood-spoon-01.wav",
+      "name": "Wood Bowl Hit Spoon",
+      "tags": [
+        "impact",
+        "wood",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-bowl-put-metal-spoon-01.m4a",
+      "src": "accessory/sfx/wood-bowl-put-metal-spoon-01.wav",
+      "name": "Wood Bowl Put Metal Spoon",
+      "tags": [
+        "foley",
+        "wood",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-bowl-put-wood-01.m4a",
+      "src": "accessory/sfx/wood-bowl-put-wood-01.wav",
+      "name": "Wood Bowl Put 1",
+      "tags": [
+        "foley",
+        "wood",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-bowl-put-wood-02.m4a",
+      "src": "accessory/sfx/wood-bowl-put-wood-02.wav",
+      "name": "Wood Bowl Put 2",
+      "tags": [
+        "foley",
+        "wood",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-bowl-put-wood-03.m4a",
+      "src": "accessory/sfx/wood-bowl-put-wood-03.wav",
+      "name": "Wood Bowl Put 3",
+      "tags": [
+        "foley",
+        "wood",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-bowl-put-wood-04.m4a",
+      "src": "accessory/sfx/wood-bowl-put-wood-04.wav",
+      "name": "Wood Bowl Put 4",
+      "tags": [
+        "foley",
+        "wood",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-bowl-put-wood-05.m4a",
+      "src": "accessory/sfx/wood-bowl-put-wood-05.wav",
+      "name": "Wood Bowl Put 5",
+      "tags": [
+        "foley",
+        "wood",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-bowl-put-wood-06.m4a",
+      "src": "accessory/sfx/wood-bowl-put-wood-06.wav",
+      "name": "Wood Bowl Put 6",
+      "tags": [
+        "foley",
+        "wood",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-bowl-put-wood-07.m4a",
+      "src": "accessory/sfx/wood-bowl-put-wood-07.wav",
+      "name": "Wood Bowl Put 7",
+      "tags": [
+        "foley",
+        "wood",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-bowl-put-wood-08.m4a",
+      "src": "accessory/sfx/wood-bowl-put-wood-08.wav",
+      "name": "Wood Bowl Put 8",
+      "tags": [
+        "foley",
+        "wood",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-bowl-put-wood-09.m4a",
+      "src": "accessory/sfx/wood-bowl-put-wood-09.wav",
+      "name": "Wood Bowl Put 9",
+      "tags": [
+        "foley",
+        "wood",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-bowl-put-wood-10.m4a",
+      "src": "accessory/sfx/wood-bowl-put-wood-10.wav",
+      "name": "Wood Bowl Put 10",
+      "tags": [
+        "foley",
+        "wood",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-bowl-put-wood-11.m4a",
+      "src": "accessory/sfx/wood-bowl-put-wood-11.wav",
+      "name": "Wood Bowl Put 11",
+      "tags": [
+        "foley",
+        "wood",
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

@@ -1,0 +1,1023 @@
+{
+  "id": "opengameart-100-cc0-sfx",
+  "title": "100 SFX",
+  "blurb": "100 sounds — mostly Foley and Impacts.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "rubberduck · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-rubberduck",
+    "name": "rubberduck"
+  },
+  "homepage": "https://opengameart.org/content/100-cc0-sfx",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/bell-01.m4a",
+      "src": "100-cc0-sfx-0/bell_01.ogg",
+      "name": "Bell 1",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bell-02.m4a",
+      "src": "100-cc0-sfx-0/bell_02.ogg",
+      "name": "Bell 2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bell-03.m4a",
+      "src": "100-cc0-sfx-0/bell_03.ogg",
+      "name": "Bell 3",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/dishes-01.m4a",
+      "src": "100-cc0-sfx-0/dishes_01.ogg",
+      "name": "Dishes 1",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/dishes-02.m4a",
+      "src": "100-cc0-sfx-0/dishes_02.ogg",
+      "name": "Dishes 2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/dishes-03.m4a",
+      "src": "100-cc0-sfx-0/dishes_03.ogg",
+      "name": "Dishes 3",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/dishes-04.m4a",
+      "src": "100-cc0-sfx-0/dishes_04.ogg",
+      "name": "Dishes 4",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/door-01.m4a",
+      "src": "100-cc0-sfx-0/door_01.ogg",
+      "name": "Door 1",
+      "tags": [
+        "foley",
+        "door",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/door-02.m4a",
+      "src": "100-cc0-sfx-0/door_02.ogg",
+      "name": "Door 2",
+      "tags": [
+        "foley",
+        "door",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/door-close-01.m4a",
+      "src": "100-cc0-sfx-0/door_close_01.ogg",
+      "name": "Door Close 1",
+      "tags": [
+        "foley",
+        "door",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/door-close-02.m4a",
+      "src": "100-cc0-sfx-0/door_close_02.ogg",
+      "name": "Door Close 2",
+      "tags": [
+        "foley",
+        "door",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/door-close-03.m4a",
+      "src": "100-cc0-sfx-0/door_close_03.ogg",
+      "name": "Door Close 3",
+      "tags": [
+        "foley",
+        "door",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/door-close-04.m4a",
+      "src": "100-cc0-sfx-0/door_close_04.ogg",
+      "name": "Door Close 4",
+      "tags": [
+        "foley",
+        "door",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/door-open.m4a",
+      "src": "100-cc0-sfx-0/door_open.ogg",
+      "name": "Door Open",
+      "tags": [
+        "foley",
+        "door",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/explosion.m4a",
+      "src": "100-cc0-sfx-0/explosion.ogg",
+      "name": "Explosion",
+      "tags": [
+        "weapon",
+        "explosion",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/glass-01.m4a",
+      "src": "100-cc0-sfx-0/glass_01.ogg",
+      "name": "Glass 1",
+      "tags": [
+        "impact",
+        "glass",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/glass-02.m4a",
+      "src": "100-cc0-sfx-0/glass_02.ogg",
+      "name": "Glass 2",
+      "tags": [
+        "impact",
+        "glass",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/glass-03.m4a",
+      "src": "100-cc0-sfx-0/glass_03.ogg",
+      "name": "Glass 3",
+      "tags": [
+        "impact",
+        "glass",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/glass-04.m4a",
+      "src": "100-cc0-sfx-0/glass_04.ogg",
+      "name": "Glass 4",
+      "tags": [
+        "impact",
+        "glass",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/glass-05.m4a",
+      "src": "100-cc0-sfx-0/glass_05.ogg",
+      "name": "Glass 5",
+      "tags": [
+        "impact",
+        "glass",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/gong-01.m4a",
+      "src": "100-cc0-sfx-0/gong_01.ogg",
+      "name": "Gong 1",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/gong-02.m4a",
+      "src": "100-cc0-sfx-0/gong_02.ogg",
+      "name": "Gong 2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit-01.m4a",
+      "src": "100-cc0-sfx-0/hit_01.ogg",
+      "name": "Hit 1",
+      "tags": [
+        "impact",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit-02.m4a",
+      "src": "100-cc0-sfx-0/hit_02.ogg",
+      "name": "Hit 2",
+      "tags": [
+        "impact",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit-03.m4a",
+      "src": "100-cc0-sfx-0/hit_03.ogg",
+      "name": "Hit 3",
+      "tags": [
+        "impact",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit-04.m4a",
+      "src": "100-cc0-sfx-0/hit_04.ogg",
+      "name": "Hit 4",
+      "tags": [
+        "impact",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/key-open-01.m4a",
+      "src": "100-cc0-sfx-0/key_open_01.ogg",
+      "name": "Key Open 1",
+      "tags": [
+        "interface",
+        "key",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/key-open-02.m4a",
+      "src": "100-cc0-sfx-0/key_open_02.ogg",
+      "name": "Key Open 2",
+      "tags": [
+        "interface",
+        "key",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/machine-01.m4a",
+      "src": "100-cc0-sfx-0/machine_01.ogg",
+      "name": "Machine 1",
+      "tags": [
+        "machine",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/machine-02.m4a",
+      "src": "100-cc0-sfx-0/machine_02.ogg",
+      "name": "Machine 2",
+      "tags": [
+        "machine",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/machine-03.m4a",
+      "src": "100-cc0-sfx-0/machine_03.ogg",
+      "name": "Machine 3",
+      "tags": [
+        "machine",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/metal-01.m4a",
+      "src": "100-cc0-sfx-0/metal_01.ogg",
+      "name": "Metal 1",
+      "tags": [
+        "foley",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/metal-02.m4a",
+      "src": "100-cc0-sfx-0/metal_02.ogg",
+      "name": "Metal 2",
+      "tags": [
+        "foley",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/metal-03.m4a",
+      "src": "100-cc0-sfx-0/metal_03.ogg",
+      "name": "Metal 3",
+      "tags": [
+        "foley",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/metal-04.m4a",
+      "src": "100-cc0-sfx-0/metal_04.ogg",
+      "name": "Metal 4",
+      "tags": [
+        "foley",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/metal-05.m4a",
+      "src": "100-cc0-sfx-0/metal_05.ogg",
+      "name": "Metal 5",
+      "tags": [
+        "foley",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/metal-06.m4a",
+      "src": "100-cc0-sfx-0/metal_06.ogg",
+      "name": "Metal 6",
+      "tags": [
+        "foley",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/metal-07.m4a",
+      "src": "100-cc0-sfx-0/metal_07.ogg",
+      "name": "Metal 7",
+      "tags": [
+        "foley",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/metal-08.m4a",
+      "src": "100-cc0-sfx-0/metal_08.ogg",
+      "name": "Metal 8",
+      "tags": [
+        "foley",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/metal-09.m4a",
+      "src": "100-cc0-sfx-0/metal_09.ogg",
+      "name": "Metal 9",
+      "tags": [
+        "foley",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/metal-10.m4a",
+      "src": "100-cc0-sfx-0/metal_10.ogg",
+      "name": "Metal 10",
+      "tags": [
+        "foley",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/metal-11.m4a",
+      "src": "100-cc0-sfx-0/metal_11.ogg",
+      "name": "Metal 11",
+      "tags": [
+        "foley",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/metal-12.m4a",
+      "src": "100-cc0-sfx-0/metal_12.ogg",
+      "name": "Metal 12",
+      "tags": [
+        "foley",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/microwave-door-close.m4a",
+      "src": "100-cc0-sfx-0/microwave_door_close.ogg",
+      "name": "Microwave Door Close",
+      "tags": [
+        "foley",
+        "door",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/microwave-door-open.m4a",
+      "src": "100-cc0-sfx-0/microwave_door_open.ogg",
+      "name": "Microwave Door Open",
+      "tags": [
+        "foley",
+        "door",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/noise-01.m4a",
+      "src": "100-cc0-sfx-0/noise_01.ogg",
+      "name": "Noise 1",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/noise-02.m4a",
+      "src": "100-cc0-sfx-0/noise_02.ogg",
+      "name": "Noise 2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/other-01.m4a",
+      "src": "100-cc0-sfx-0/other_01.ogg",
+      "name": "Other 1",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/other-02.m4a",
+      "src": "100-cc0-sfx-0/other_02.ogg",
+      "name": "Other 2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/other-03.m4a",
+      "src": "100-cc0-sfx-0/other_03.ogg",
+      "name": "Other 3",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/other-04.m4a",
+      "src": "100-cc0-sfx-0/other_04.ogg",
+      "name": "Other 4",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/other-05.m4a",
+      "src": "100-cc0-sfx-0/other_05.ogg",
+      "name": "Other 5",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/other-06.m4a",
+      "src": "100-cc0-sfx-0/other_06.ogg",
+      "name": "Other 6",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/other-07.m4a",
+      "src": "100-cc0-sfx-0/other_07.ogg",
+      "name": "Other 7",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/paper-01.m4a",
+      "src": "100-cc0-sfx-0/paper_01.ogg",
+      "name": "Paper 1",
+      "tags": [
+        "foley",
+        "paper",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/paper-02.m4a",
+      "src": "100-cc0-sfx-0/paper_02.ogg",
+      "name": "Paper 2",
+      "tags": [
+        "foley",
+        "paper",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/paper-03.m4a",
+      "src": "100-cc0-sfx-0/paper_03.ogg",
+      "name": "Paper 3",
+      "tags": [
+        "foley",
+        "paper",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/paper-04.m4a",
+      "src": "100-cc0-sfx-0/paper_04.ogg",
+      "name": "Paper 4",
+      "tags": [
+        "foley",
+        "paper",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/plop-01.m4a",
+      "src": "100-cc0-sfx-0/plop_01.ogg",
+      "name": "Plop 1",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/plop-02.m4a",
+      "src": "100-cc0-sfx-0/plop_02.ogg",
+      "name": "Plop 2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/pot-01.m4a",
+      "src": "100-cc0-sfx-0/pot_01.ogg",
+      "name": "Pot 1",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/pot-02.m4a",
+      "src": "100-cc0-sfx-0/pot_02.ogg",
+      "name": "Pot 2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/shot-01.m4a",
+      "src": "100-cc0-sfx-0/shot_01.ogg",
+      "name": "Shot 1",
+      "tags": [
+        "weapon",
+        "shot",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/shot-02.m4a",
+      "src": "100-cc0-sfx-0/shot_02.ogg",
+      "name": "Shot 2",
+      "tags": [
+        "weapon",
+        "shot",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/slam-01.m4a",
+      "src": "100-cc0-sfx-0/slam_01.ogg",
+      "name": "Slam 1",
+      "tags": [
+        "impact",
+        "slam",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/slam-02.m4a",
+      "src": "100-cc0-sfx-0/slam_02.ogg",
+      "name": "Slam 2",
+      "tags": [
+        "impact",
+        "slam",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/slam-03.m4a",
+      "src": "100-cc0-sfx-0/slam_03.ogg",
+      "name": "Slam 3",
+      "tags": [
+        "impact",
+        "slam",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/slam-04.m4a",
+      "src": "100-cc0-sfx-0/slam_04.ogg",
+      "name": "Slam 4",
+      "tags": [
+        "impact",
+        "slam",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/slam-05.m4a",
+      "src": "100-cc0-sfx-0/slam_05.ogg",
+      "name": "Slam 5",
+      "tags": [
+        "impact",
+        "slam",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/slam-06.m4a",
+      "src": "100-cc0-sfx-0/slam_06.ogg",
+      "name": "Slam 6",
+      "tags": [
+        "impact",
+        "slam",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/slam-07.m4a",
+      "src": "100-cc0-sfx-0/slam_07.ogg",
+      "name": "Slam 7",
+      "tags": [
+        "impact",
+        "slam",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/splash-01.m4a",
+      "src": "100-cc0-sfx-0/splash_01.ogg",
+      "name": "Splash 1",
+      "tags": [
+        "nature",
+        "splash",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/splash-02.m4a",
+      "src": "100-cc0-sfx-0/splash_02.ogg",
+      "name": "Splash 2",
+      "tags": [
+        "nature",
+        "splash",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/spring-01.m4a",
+      "src": "100-cc0-sfx-0/spring_01.ogg",
+      "name": "Spring 1",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/spring-02.m4a",
+      "src": "100-cc0-sfx-0/spring_02.ogg",
+      "name": "Spring 2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/spring-03.m4a",
+      "src": "100-cc0-sfx-0/spring_03.ogg",
+      "name": "Spring 3",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/spring-04.m4a",
+      "src": "100-cc0-sfx-0/spring_04.ogg",
+      "name": "Spring 4",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/spring-05.m4a",
+      "src": "100-cc0-sfx-0/spring_05.ogg",
+      "name": "Spring 5",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/spring-06.m4a",
+      "src": "100-cc0-sfx-0/spring_06.ogg",
+      "name": "Spring 6",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/spring-07.m4a",
+      "src": "100-cc0-sfx-0/spring_07.ogg",
+      "name": "Spring 7",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/spring-08.m4a",
+      "src": "100-cc0-sfx-0/spring_08.ogg",
+      "name": "Spring 8",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/spring-09.m4a",
+      "src": "100-cc0-sfx-0/spring_09.ogg",
+      "name": "Spring 9",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/switch-01.m4a",
+      "src": "100-cc0-sfx-0/switch_01.ogg",
+      "name": "Switch 1",
+      "tags": [
+        "interface",
+        "switch",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/switch-02.m4a",
+      "src": "100-cc0-sfx-0/switch_02.ogg",
+      "name": "Switch 2",
+      "tags": [
+        "interface",
+        "switch",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/toilet-01.m4a",
+      "src": "100-cc0-sfx-0/toilet_01.ogg",
+      "name": "Toilet 1",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/toilet-02.m4a",
+      "src": "100-cc0-sfx-0/toilet_02.ogg",
+      "name": "Toilet 2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/tools-01.m4a",
+      "src": "100-cc0-sfx-0/tools_01.ogg",
+      "name": "Tools 1",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/tools-02.m4a",
+      "src": "100-cc0-sfx-0/tools_02.ogg",
+      "name": "Tools 2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/tools-03.m4a",
+      "src": "100-cc0-sfx-0/tools_03.ogg",
+      "name": "Tools 3",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/tools-04.m4a",
+      "src": "100-cc0-sfx-0/tools_04.ogg",
+      "name": "Tools 4",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/tools-05.m4a",
+      "src": "100-cc0-sfx-0/tools_05.ogg",
+      "name": "Tools 5",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/weird-01.m4a",
+      "src": "100-cc0-sfx-0/weird_01.ogg",
+      "name": "Weird 1",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/weird-02.m4a",
+      "src": "100-cc0-sfx-0/weird_02.ogg",
+      "name": "Weird 2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/weird-03.m4a",
+      "src": "100-cc0-sfx-0/weird_03.ogg",
+      "name": "Weird 3",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/weird-04.m4a",
+      "src": "100-cc0-sfx-0/weird_04.ogg",
+      "name": "Weird 4",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/weird-05.m4a",
+      "src": "100-cc0-sfx-0/weird_05.ogg",
+      "name": "Weird 5",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wooded-box-open.m4a",
+      "src": "100-cc0-sfx-0/wooded_box_open.ogg",
+      "name": "Wooded Box Open",
+      "tags": [
+        "foley",
+        "box",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wooden-01.m4a",
+      "src": "100-cc0-sfx-0/wooden_01.ogg",
+      "name": "Wooden 1",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wooden-02.m4a",
+      "src": "100-cc0-sfx-0/wooden_02.ogg",
+      "name": "Wooden 2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wooden-03.m4a",
+      "src": "100-cc0-sfx-0/wooden_03.ogg",
+      "name": "Wooden 3",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

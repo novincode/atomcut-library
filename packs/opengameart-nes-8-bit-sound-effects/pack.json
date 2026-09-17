@@ -1,0 +1,777 @@
+{
+  "id": "opengameart-nes-8-bit-sound-effects",
+  "title": "NES 8-bit sound effects",
+  "blurb": "81 sounds — mostly Foley and Interface.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "shiru8bit · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-shiru8bit",
+    "name": "shiru8bit"
+  },
+  "homepage": "https://opengameart.org/content/nes-8-bit-sound-effects",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/00-start1.m4a",
+      "src": "nessfx/00_start1.wav",
+      "name": "Start1",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/01-start2.m4a",
+      "src": "nessfx/01_start2.wav",
+      "name": "Start2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/02-start3.m4a",
+      "src": "nessfx/02_start3.wav",
+      "name": "Start3",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/03-start4.m4a",
+      "src": "nessfx/03_start4.wav",
+      "name": "Start4",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/04-start5.m4a",
+      "src": "nessfx/04_start5.wav",
+      "name": "Start5",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/05-cursor1.m4a",
+      "src": "nessfx/05_cursor1.wav",
+      "name": "Cursor1",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/06-cursor2.m4a",
+      "src": "nessfx/06_cursor2.wav",
+      "name": "Cursor2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/07-pause1.m4a",
+      "src": "nessfx/07_pause1.wav",
+      "name": "Pause1",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/08-pause2.m4a",
+      "src": "nessfx/08_pause2.wav",
+      "name": "Pause2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/09-select1.m4a",
+      "src": "nessfx/09_select1.wav",
+      "name": "Select1",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/10-select2.m4a",
+      "src": "nessfx/10_select2.wav",
+      "name": "Select2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/11-menu.m4a",
+      "src": "nessfx/11_menu.wav",
+      "name": "Menu",
+      "tags": [
+        "interface",
+        "menu",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/12-exchange.m4a",
+      "src": "nessfx/12_exchange.wav",
+      "name": "Exchange",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/13-item1.m4a",
+      "src": "nessfx/13_item1.wav",
+      "name": "Item1",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/14-item2.m4a",
+      "src": "nessfx/14_item2.wav",
+      "name": "Item2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/15-hit.m4a",
+      "src": "nessfx/15_hit.wav",
+      "name": "Hit",
+      "tags": [
+        "impact",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/16-falling.m4a",
+      "src": "nessfx/16_falling.wav",
+      "name": "Falling",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/17-drop.m4a",
+      "src": "nessfx/17_drop.wav",
+      "name": "Drop",
+      "tags": [
+        "foley",
+        "drop",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/18-cantdo1.m4a",
+      "src": "nessfx/18_cantdo1.wav",
+      "name": "Cantdo1",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/19-cantdo2.m4a",
+      "src": "nessfx/19_cantdo2.wav",
+      "name": "Cantdo2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/20-bridge.m4a",
+      "src": "nessfx/20_bridge.wav",
+      "name": "Bridge",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/21-walk1.m4a",
+      "src": "nessfx/21_walk1.wav",
+      "name": "Walk1",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/22-walk2.m4a",
+      "src": "nessfx/22_walk2.wav",
+      "name": "Walk2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/23-ladder.m4a",
+      "src": "nessfx/23_ladder.wav",
+      "name": "Ladder",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/24-levelclear.m4a",
+      "src": "nessfx/24_levelclear.wav",
+      "name": "Levelclear",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/25-item.m4a",
+      "src": "nessfx/25_item.wav",
+      "name": "Item",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/26-respawn1.m4a",
+      "src": "nessfx/26_respawn1.wav",
+      "name": "Respawn1",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/27-respawn2.m4a",
+      "src": "nessfx/27_respawn2.wav",
+      "name": "Respawn2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/28-jingle.m4a",
+      "src": "nessfx/28_jingle.wav",
+      "name": "Jingle",
+      "tags": [
+        "music",
+        "jingle",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/29-noise.m4a",
+      "src": "nessfx/29_noise.wav",
+      "name": "Noise",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/30-triangle.m4a",
+      "src": "nessfx/30_triangle.wav",
+      "name": "Triangle",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/31-text.m4a",
+      "src": "nessfx/31_text.wav",
+      "name": "Text",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/32-error.m4a",
+      "src": "nessfx/32_error.wav",
+      "name": "Error",
+      "tags": [
+        "digital",
+        "error",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/33-rotate1.m4a",
+      "src": "nessfx/33_rotate1.wav",
+      "name": "Rotate1",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/34-rotate2.m4a",
+      "src": "nessfx/34_rotate2.wav",
+      "name": "Rotate2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/35-rotate3.m4a",
+      "src": "nessfx/35_rotate3.wav",
+      "name": "Rotate3",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/36-rotate4.m4a",
+      "src": "nessfx/36_rotate4.wav",
+      "name": "Rotate4",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/37-level.m4a",
+      "src": "nessfx/37_level.wav",
+      "name": "Level",
+      "tags": [
+        "interface",
+        "level",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/38-time.m4a",
+      "src": "nessfx/38_time.wav",
+      "name": "Time",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/39-timeup.m4a",
+      "src": "nessfx/39_timeup.wav",
+      "name": "Timeup",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/40-enginestart.m4a",
+      "src": "nessfx/40_enginestart.wav",
+      "name": "Enginestart",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/41-enginespeedup.m4a",
+      "src": "nessfx/41_enginespeedup.wav",
+      "name": "Enginespeedup",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/42-enginestop.m4a",
+      "src": "nessfx/42_enginestop.wav",
+      "name": "Enginestop",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/43-enginestall.m4a",
+      "src": "nessfx/43_enginestall.wav",
+      "name": "Enginestall",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/44-fuelspawn.m4a",
+      "src": "nessfx/44_fuelspawn.wav",
+      "name": "Fuelspawn",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/45-fuelget.m4a",
+      "src": "nessfx/45_fuelget.wav",
+      "name": "Fuelget",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/46-fuellow.m4a",
+      "src": "nessfx/46_fuellow.wav",
+      "name": "Fuellow",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/47-grass.m4a",
+      "src": "nessfx/47_grass.wav",
+      "name": "Grass",
+      "tags": [
+        "grass",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/48-skip.m4a",
+      "src": "nessfx/48_skip.wav",
+      "name": "Skip",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/49-stone.m4a",
+      "src": "nessfx/49_stone.wav",
+      "name": "Stone",
+      "tags": [
+        "stone",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/50-flowers.m4a",
+      "src": "nessfx/50_flowers.wav",
+      "name": "Flowers",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/51-ring.m4a",
+      "src": "nessfx/51_ring.wav",
+      "name": "Ring",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/52-step1.m4a",
+      "src": "nessfx/52_step1.wav",
+      "name": "Step1",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/53-step2.m4a",
+      "src": "nessfx/53_step2.wav",
+      "name": "Step2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/54-step3.m4a",
+      "src": "nessfx/54_step3.wav",
+      "name": "Step3",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/55-step4.m4a",
+      "src": "nessfx/55_step4.wav",
+      "name": "Step4",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/56-fall.m4a",
+      "src": "nessfx/56_fall.wav",
+      "name": "Fall",
+      "tags": [
+        "whoosh",
+        "fall",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/57-drop.m4a",
+      "src": "nessfx/57_drop.wav",
+      "name": "Drop",
+      "tags": [
+        "foley",
+        "drop",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/58-locker.m4a",
+      "src": "nessfx/58_locker.wav",
+      "name": "Locker",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/59-confirm.m4a",
+      "src": "nessfx/59_confirm.wav",
+      "name": "Confirm",
+      "tags": [
+        "interface",
+        "confirm",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/60-bla1.m4a",
+      "src": "nessfx/60_bla1.wav",
+      "name": "Bla1",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/61-bla2.m4a",
+      "src": "nessfx/61_bla2.wav",
+      "name": "Bla2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/62-miss.m4a",
+      "src": "nessfx/62_miss.wav",
+      "name": "Miss",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/63-lose1.m4a",
+      "src": "nessfx/63_lose1.wav",
+      "name": "Lose1",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/64-lose2.m4a",
+      "src": "nessfx/64_lose2.wav",
+      "name": "Lose2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/65-pour.m4a",
+      "src": "nessfx/65_pour.wav",
+      "name": "Pour",
+      "tags": [
+        "foley",
+        "pour",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/66-drink.m4a",
+      "src": "nessfx/66_drink.wav",
+      "name": "Drink",
+      "tags": [
+        "foley",
+        "drink",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/67-knock.m4a",
+      "src": "nessfx/67_knock.wav",
+      "name": "Knock",
+      "tags": [
+        "impact",
+        "knock",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/68-wisdom.m4a",
+      "src": "nessfx/68_wisdom.wav",
+      "name": "Wisdom",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/69-explode.m4a",
+      "src": "nessfx/69_explode.wav",
+      "name": "Explode",
+      "tags": [
+        "weapon",
+        "explode",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/70-teleport.m4a",
+      "src": "nessfx/70_teleport.wav",
+      "name": "Teleport",
+      "tags": [
+        "digital",
+        "teleport",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/71-bowcharge.m4a",
+      "src": "nessfx/71_bowcharge.wav",
+      "name": "Bowcharge",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/72-bowmaxcharge.m4a",
+      "src": "nessfx/72_bowmaxcharge.wav",
+      "name": "Bowmaxcharge",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/73-bowrelease1.m4a",
+      "src": "nessfx/73_bowrelease1.wav",
+      "name": "Bowrelease1",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/74-bowrelease2.m4a",
+      "src": "nessfx/74_bowrelease2.wav",
+      "name": "Bowrelease2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/75-bowrelease3.m4a",
+      "src": "nessfx/75_bowrelease3.wav",
+      "name": "Bowrelease3",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/76-bowrelease4.m4a",
+      "src": "nessfx/76_bowrelease4.wav",
+      "name": "Bowrelease4",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/77-arrowbounce.m4a",
+      "src": "nessfx/77_arrowbounce.wav",
+      "name": "Arrowbounce",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/78-arrowhit.m4a",
+      "src": "nessfx/78_arrowhit.wav",
+      "name": "Arrowhit",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/79-arrowchain.m4a",
+      "src": "nessfx/79_arrowchain.wav",
+      "name": "Arrowchain",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/80-chaindone.m4a",
+      "src": "nessfx/80_chaindone.wav",
+      "name": "Chaindone",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "id": "opengameart-random-sfx",
+  "title": "Random SFX",
+  "blurb": "21 sounds — mostly Digital and Ambience.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "%C3%A9crivain · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-c3-a9crivain",
+    "name": "%C3%A9crivain"
+  },
+  "homepage": "https://opengameart.org/content/random-sfx",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/1.m4a",
+      "src": "sfx/SFX/1.wav",
+      "name": "Random SFX 1",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/10.m4a",
+      "src": "sfx/SFX/Beep/10.wav",
+      "name": "Beep 10",
+      "tags": [
+        "digital",
+        "beep",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/11.m4a",
+      "src": "sfx/SFX/Beep/11.wav",
+      "name": "Beep 11",
+      "tags": [
+        "digital",
+        "beep",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/12.m4a",
+      "src": "sfx/SFX/Beep/12.wav",
+      "name": "Beep 12",
+      "tags": [
+        "digital",
+        "beep",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/13.m4a",
+      "src": "sfx/SFX/Beep/13.wav",
+      "name": "Beep 13",
+      "tags": [
+        "digital",
+        "beep",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/2.m4a",
+      "src": "sfx/SFX/2.wav",
+      "name": "Random SFX 2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/3.m4a",
+      "src": "sfx/SFX/3.wav",
+      "name": "Random SFX 3",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/4.m4a",
+      "src": "sfx/SFX/Beep/1/4.wav",
+      "name": "Beep 4",
+      "tags": [
+        "digital",
+        "beep",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/6.m4a",
+      "src": "sfx/SFX/Beep/6.wav",
+      "name": "Beep 6",
+      "tags": [
+        "digital",
+        "beep",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/7.m4a",
+      "src": "sfx/SFX/Beep/7.wav",
+      "name": "Beep 7",
+      "tags": [
+        "digital",
+        "beep",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/8.m4a",
+      "src": "sfx/SFX/Beep/8.wav",
+      "name": "Beep 8",
+      "tags": [
+        "digital",
+        "beep",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/crystal-falls.m4a",
+      "src": "sfx/SFX/Background/Crystal Falls.wav",
+      "name": "Crystal Falls",
+      "tags": [
+        "whoosh",
+        "background",
+        "fall",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/engine.m4a",
+      "src": "sfx/SFX/Beep/Engine.wav",
+      "name": "Engine",
+      "tags": [
+        "digital",
+        "beep",
+        "engine",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/falls.m4a",
+      "src": "sfx/SFX/Background/Falls.wav",
+      "name": "Falls",
+      "tags": [
+        "whoosh",
+        "background",
+        "fall",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hollow-wind.m4a",
+      "src": "sfx/SFX/Background/Hollow Wind.wav",
+      "name": "Hollow Wind",
+      "tags": [
+        "nature",
+        "background",
+        "wind",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/loop.m4a",
+      "src": "sfx/SFX/Misc/1/1/loop.wav",
+      "name": "Loop",
+      "tags": [
+        "ambience",
+        "loop",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/metal-bubbles.m4a",
+      "src": "sfx/SFX/Background/Metal Bubbles.wav",
+      "name": "Metal Bubbles",
+      "tags": [
+        "foley",
+        "background",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/muck-bubbles.m4a",
+      "src": "sfx/SFX/Background/Muck Bubbles.wav",
+      "name": "Muck Bubbles",
+      "tags": [
+        "ambience",
+        "background",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/oooo.m4a",
+      "src": "sfx/SFX/Misc/Other/Oooo.wav",
+      "name": "Oooo",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/shallow-bubbles.m4a",
+      "src": "sfx/SFX/Background/Shallow Bubbles.wav",
+      "name": "Shallow Bubbles",
+      "tags": [
+        "ambience",
+        "background",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/trex-moan.m4a",
+      "src": "sfx/SFX/Misc/Other/TRex Moan.wav",
+      "name": "Trex Moan",
+      "tags": [
+        "human",
+        "moan",
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

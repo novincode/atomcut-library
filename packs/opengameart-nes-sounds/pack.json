@@ -1,0 +1,259 @@
+{
+  "id": "opengameart-nes-sounds",
+  "title": "NES Sounds",
+  "blurb": "24 sounds — mostly Nature and Weapons.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "ba%C5%9Dto · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-ba-c5-9-dto",
+    "name": "ba%C5%9Dto"
+  },
+  "homepage": "https://opengameart.org/content/nes-sounds",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/achieved.m4a",
+      "src": "sounds-5/sounds/achieved.ogg",
+      "name": "Achieved",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/arrow-hit.m4a",
+      "src": "sounds-5/sounds/arrow_hit.ogg",
+      "name": "Arrow Hit",
+      "tags": [
+        "weapon",
+        "arrow",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bird.m4a",
+      "src": "sounds-5/sounds/bird.ogg",
+      "name": "Bird",
+      "tags": [
+        "nature",
+        "bird",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bling.m4a",
+      "src": "sounds-5/sounds/bling.ogg",
+      "name": "Bling",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bomb.m4a",
+      "src": "sounds-5/sounds/bomb.ogg",
+      "name": "Bomb",
+      "tags": [
+        "weapon",
+        "bomb",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bounce-back.m4a",
+      "src": "sounds-5/sounds/bounce_back.ogg",
+      "name": "Bounce Back",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/coin.m4a",
+      "src": "sounds-5/sounds/coin.ogg",
+      "name": "Coin",
+      "tags": [
+        "interface",
+        "coin",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/cut.m4a",
+      "src": "sounds-5/sounds/cut.ogg",
+      "name": "Cut",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/fly-away.m4a",
+      "src": "sounds-5/sounds/fly_away.ogg",
+      "name": "Fly Away",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/heavy-splash.m4a",
+      "src": "sounds-5/sounds/heavy_splash.ogg",
+      "name": "Heavy Splash",
+      "tags": [
+        "nature",
+        "heavy",
+        "splash",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit.m4a",
+      "src": "sounds-5/sounds/hit.ogg",
+      "name": "Hit",
+      "tags": [
+        "impact",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hurt.m4a",
+      "src": "sounds-5/sounds/hurt.ogg",
+      "name": "Hurt",
+      "tags": [
+        "human",
+        "hurt",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jump.m4a",
+      "src": "sounds-5/sounds/jump.ogg",
+      "name": "Jump",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/magic.m4a",
+      "src": "sounds-5/sounds/magic.ogg",
+      "name": "Magic",
+      "tags": [
+        "magic",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/nearly-dead.m4a",
+      "src": "sounds-5/sounds/nearly_dead.ogg",
+      "name": "Nearly Dead",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/plant-growth.m4a",
+      "src": "sounds-5/sounds/plant_growth.ogg",
+      "name": "Plant Growth",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/secret.m4a",
+      "src": "sounds-5/sounds/secret.ogg",
+      "name": "Secret",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/splash.m4a",
+      "src": "sounds-5/sounds/splash.ogg",
+      "name": "Splash",
+      "tags": [
+        "nature",
+        "splash",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/stair-down.m4a",
+      "src": "sounds-5/sounds/stair_down.ogg",
+      "name": "Stair Down",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/stair-down-end.m4a",
+      "src": "sounds-5/sounds/stair_down_end.ogg",
+      "name": "Stair Down End",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/stair-up.m4a",
+      "src": "sounds-5/sounds/stair_up.ogg",
+      "name": "Stair Up",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/stair-up-end.m4a",
+      "src": "sounds-5/sounds/stair_up_end.ogg",
+      "name": "Stair Up End",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/water-drain.m4a",
+      "src": "sounds-5/sounds/water_drain.ogg",
+      "name": "Water Drain",
+      "tags": [
+        "nature",
+        "water",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/water-fill.m4a",
+      "src": "sounds-5/sounds/water_fill.ogg",
+      "name": "Water Fill",
+      "tags": [
+        "nature",
+        "water",
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

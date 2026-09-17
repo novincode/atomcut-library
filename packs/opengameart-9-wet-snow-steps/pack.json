@@ -1,0 +1,135 @@
+{
+  "id": "opengameart-9-wet-snow-steps",
+  "title": "9 wet snow steps",
+  "blurb": "9 sounds — mostly Foley.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "qubodup · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-qubodup",
+    "name": "qubodup"
+  },
+  "homepage": "https://opengameart.org/content/9-wet-snow-steps",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/snow-step-wet-01.m4a",
+      "src": "qubodup-wet-snow-steps/qubodup-wet_snow_steps/snow_step_wet-01.flac",
+      "name": "Snow Step Wet 1",
+      "tags": [
+        "foley",
+        "wet",
+        "snow",
+        "step",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/snow-step-wet-02.m4a",
+      "src": "qubodup-wet-snow-steps/qubodup-wet_snow_steps/snow_step_wet-02.flac",
+      "name": "Snow Step Wet 2",
+      "tags": [
+        "foley",
+        "wet",
+        "snow",
+        "step",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/snow-step-wet-03.m4a",
+      "src": "qubodup-wet-snow-steps/qubodup-wet_snow_steps/snow_step_wet-03.flac",
+      "name": "Snow Step Wet 3",
+      "tags": [
+        "foley",
+        "wet",
+        "snow",
+        "step",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/snow-step-wet-04.m4a",
+      "src": "qubodup-wet-snow-steps/qubodup-wet_snow_steps/snow_step_wet-04.flac",
+      "name": "Snow Step Wet 4",
+      "tags": [
+        "foley",
+        "wet",
+        "snow",
+        "step",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/snow-step-wet-05.m4a",
+      "src": "qubodup-wet-snow-steps/qubodup-wet_snow_steps/snow_step_wet-05.flac",
+      "name": "Snow Step Wet 5",
+      "tags": [
+        "foley",
+        "wet",
+        "snow",
+        "step",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/snow-step-wet-06.m4a",
+      "src": "qubodup-wet-snow-steps/qubodup-wet_snow_steps/snow_step_wet-06.flac",
+      "name": "Snow Step Wet 6",
+      "tags": [
+        "foley",
+        "wet",
+        "snow",
+        "step",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/snow-step-wet-07.m4a",
+      "src": "qubodup-wet-snow-steps/qubodup-wet_snow_steps/snow_step_wet-07.flac",
+      "name": "Snow Step Wet 7",
+      "tags": [
+        "foley",
+        "wet",
+        "snow",
+        "step",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/snow-step-wet-08.m4a",
+      "src": "qubodup-wet-snow-steps/qubodup-wet_snow_steps/snow_step_wet-08.flac",
+      "name": "Snow Step Wet 8",
+      "tags": [
+        "foley",
+        "wet",
+        "snow",
+        "step",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/snow-step-wet-09.m4a",
+      "src": "qubodup-wet-snow-steps/qubodup-wet_snow_steps/snow_step_wet-09.flac",
+      "name": "Snow Step Wet 9",
+      "tags": [
+        "foley",
+        "wet",
+        "snow",
+        "step",
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

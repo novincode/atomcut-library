@@ -1,0 +1,227 @@
+{
+  "id": "opengameart-hurt-death-sound-effect-for-character",
+  "title": "Hurt / Death sound effect for character",
+  "blurb": "19 sounds — mostly Human.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "badre-eddine · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-badre-eddine",
+    "name": "badre-eddine"
+  },
+  "homepage": "https://opengameart.org/content/hurt-death-sound-effect-for-character",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/1.m4a",
+      "src": "death-20sound-20effect/1.mp3",
+      "name": "Death 20sound 20effect 1",
+      "tags": [
+        "human",
+        "death",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/10.m4a",
+      "src": "death-20sound-20effect/10.mp3",
+      "name": "Death 20sound 20effect 10",
+      "tags": [
+        "human",
+        "death",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/11.m4a",
+      "src": "death-20sound-20effect/11.mp3",
+      "name": "Death 20sound 20effect 11",
+      "tags": [
+        "human",
+        "death",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/12.m4a",
+      "src": "death-20sound-20effect/12.mp3",
+      "name": "Death 20sound 20effect 12",
+      "tags": [
+        "human",
+        "death",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/13.m4a",
+      "src": "death-20sound-20effect/13.mp3",
+      "name": "Death 20sound 20effect 13",
+      "tags": [
+        "human",
+        "death",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/14.m4a",
+      "src": "death-20sound-20effect/14.mp3",
+      "name": "Death 20sound 20effect 14",
+      "tags": [
+        "human",
+        "death",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/15.m4a",
+      "src": "death-20sound-20effect/15.mp3",
+      "name": "Death 20sound 20effect 15",
+      "tags": [
+        "human",
+        "death",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/16.m4a",
+      "src": "death-20sound-20effect/16.mp3",
+      "name": "Death 20sound 20effect 16",
+      "tags": [
+        "human",
+        "death",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/17.m4a",
+      "src": "death-20sound-20effect/17.mp3",
+      "name": "Death 20sound 20effect 17",
+      "tags": [
+        "human",
+        "death",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/18.m4a",
+      "src": "death-20sound-20effect/18.mp3",
+      "name": "Death 20sound 20effect 18",
+      "tags": [
+        "human",
+        "death",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/19.m4a",
+      "src": "death-20sound-20effect/19.mp3",
+      "name": "Death 20sound 20effect 19",
+      "tags": [
+        "human",
+        "death",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/2.m4a",
+      "src": "death-20sound-20effect/2.mp3",
+      "name": "Death 20sound 20effect 2",
+      "tags": [
+        "human",
+        "death",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/3.m4a",
+      "src": "death-20sound-20effect/3.mp3",
+      "name": "Death 20sound 20effect 3",
+      "tags": [
+        "human",
+        "death",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/4.m4a",
+      "src": "death-20sound-20effect/4.mp3",
+      "name": "Death 20sound 20effect 4",
+      "tags": [
+        "human",
+        "death",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/5.m4a",
+      "src": "death-20sound-20effect/5.mp3",
+      "name": "Death 20sound 20effect 5",
+      "tags": [
+        "human",
+        "death",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/6.m4a",
+      "src": "death-20sound-20effect/6.mp3",
+      "name": "Death 20sound 20effect 6",
+      "tags": [
+        "human",
+        "death",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/7.m4a",
+      "src": "death-20sound-20effect/7.mp3",
+      "name": "Death 20sound 20effect 7",
+      "tags": [
+        "human",
+        "death",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/8.m4a",
+      "src": "death-20sound-20effect/8.mp3",
+      "name": "Death 20sound 20effect 8",
+      "tags": [
+        "human",
+        "death",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/9.m4a",
+      "src": "death-20sound-20effect/9.mp3",
+      "name": "Death 20sound 20effect 9",
+      "tags": [
+        "human",
+        "death",
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

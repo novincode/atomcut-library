@@ -1,7 +1,7 @@
 {
   "id": "kenney-digital-audio",
   "title": "Digital Audio",
-  "blurb": "63 sounds — mostly Digital and Game.",
+  "blurb": "63 sounds — mostly Digital.",
   "kind": "sound",
   "license": "CC0-1.0",
   "attribution": "Kenney · kenney.nl · CC0 1.0 (public domain)",
@@ -9,6 +9,7 @@
     "id": "kenney",
     "name": "Kenney"
   },
+  "homepage": "https://kenney.nl/assets/category:Audio",
   "tags": [
     "cc0",
     "digital"
@@ -16,6 +17,7 @@
   "files": [
     {
       "file": "audio/high-down.m4a",
+      "src": "Audio/highDown.ogg",
       "name": "High Down",
       "tags": [
         "digital",
@@ -25,6 +27,7 @@
     },
     {
       "file": "audio/high-up.m4a",
+      "src": "Audio/highUp.ogg",
       "name": "High Up",
       "tags": [
         "digital",
@@ -34,6 +37,7 @@
     },
     {
       "file": "audio/laser1.m4a",
+      "src": "Audio/laser1.ogg",
       "name": "Laser1",
       "tags": [
         "digital"
@@ -42,6 +46,7 @@
     },
     {
       "file": "audio/laser2.m4a",
+      "src": "Audio/laser2.ogg",
       "name": "Laser2",
       "tags": [
         "digital"
@@ -50,6 +55,7 @@
     },
     {
       "file": "audio/laser3.m4a",
+      "src": "Audio/laser3.ogg",
       "name": "Laser3",
       "tags": [
         "digital"
@@ -58,6 +64,7 @@
     },
     {
       "file": "audio/laser4.m4a",
+      "src": "Audio/laser4.ogg",
       "name": "Laser4",
       "tags": [
         "digital"
@@ -66,6 +73,7 @@
     },
     {
       "file": "audio/laser5.m4a",
+      "src": "Audio/laser5.ogg",
       "name": "Laser5",
       "tags": [
         "digital"
@@ -74,6 +82,7 @@
     },
     {
       "file": "audio/laser6.m4a",
+      "src": "Audio/laser6.ogg",
       "name": "Laser6",
       "tags": [
         "digital"
@@ -82,6 +91,7 @@
     },
     {
       "file": "audio/laser7.m4a",
+      "src": "Audio/laser7.ogg",
       "name": "Laser7",
       "tags": [
         "digital"
@@ -90,6 +100,7 @@
     },
     {
       "file": "audio/laser8.m4a",
+      "src": "Audio/laser8.ogg",
       "name": "Laser8",
       "tags": [
         "digital"
@@ -98,6 +109,7 @@
     },
     {
       "file": "audio/laser9.m4a",
+      "src": "Audio/laser9.ogg",
       "name": "Laser9",
       "tags": [
         "digital"
@@ -106,6 +118,7 @@
     },
     {
       "file": "audio/low-down.m4a",
+      "src": "Audio/lowDown.ogg",
       "name": "Low Down",
       "tags": [
         "digital",
@@ -115,6 +128,7 @@
     },
     {
       "file": "audio/low-random.m4a",
+      "src": "Audio/lowRandom.ogg",
       "name": "Low Random",
       "tags": [
         "digital",
@@ -124,6 +138,7 @@
     },
     {
       "file": "audio/low-three-tone.m4a",
+      "src": "Audio/lowThreeTone.ogg",
       "name": "Low Three Tone",
       "tags": [
         "digital",
@@ -133,6 +148,7 @@
     },
     {
       "file": "audio/pep-sound1.m4a",
+      "src": "Audio/pepSound1.ogg",
       "name": "Pep Sound1",
       "tags": [
         "digital"
@@ -141,6 +157,7 @@
     },
     {
       "file": "audio/pep-sound2.m4a",
+      "src": "Audio/pepSound2.ogg",
       "name": "Pep Sound2",
       "tags": [
         "digital"
@@ -149,6 +166,7 @@
     },
     {
       "file": "audio/pep-sound3.m4a",
+      "src": "Audio/pepSound3.ogg",
       "name": "Pep Sound3",
       "tags": [
         "digital"
@@ -157,6 +175,7 @@
     },
     {
       "file": "audio/pep-sound4.m4a",
+      "src": "Audio/pepSound4.ogg",
       "name": "Pep Sound4",
       "tags": [
         "digital"
@@ -165,6 +184,7 @@
     },
     {
       "file": "audio/pep-sound5.m4a",
+      "src": "Audio/pepSound5.ogg",
       "name": "Pep Sound5",
       "tags": [
         "digital"
@@ -173,6 +193,7 @@
     },
     {
       "file": "audio/phase-jump1.m4a",
+      "src": "Audio/phaseJump1.ogg",
       "name": "Phase Jump1",
       "tags": [
         "digital"
@@ -181,6 +202,7 @@
     },
     {
       "file": "audio/phase-jump2.m4a",
+      "src": "Audio/phaseJump2.ogg",
       "name": "Phase Jump2",
       "tags": [
         "digital"
@@ -189,6 +211,7 @@
     },
     {
       "file": "audio/phase-jump3.m4a",
+      "src": "Audio/phaseJump3.ogg",
       "name": "Phase Jump3",
       "tags": [
         "digital"
@@ -197,6 +220,7 @@
     },
     {
       "file": "audio/phase-jump4.m4a",
+      "src": "Audio/phaseJump4.ogg",
       "name": "Phase Jump4",
       "tags": [
         "digital"
@@ -205,6 +229,7 @@
     },
     {
       "file": "audio/phase-jump5.m4a",
+      "src": "Audio/phaseJump5.ogg",
       "name": "Phase Jump5",
       "tags": [
         "digital"
@@ -213,6 +238,7 @@
     },
     {
       "file": "audio/phaser-down1.m4a",
+      "src": "Audio/phaserDown1.ogg",
       "name": "Phaser Down1",
       "tags": [
         "digital",
@@ -222,6 +248,7 @@
     },
     {
       "file": "audio/phaser-down2.m4a",
+      "src": "Audio/phaserDown2.ogg",
       "name": "Phaser Down2",
       "tags": [
         "digital",
@@ -231,6 +258,7 @@
     },
     {
       "file": "audio/phaser-down3.m4a",
+      "src": "Audio/phaserDown3.ogg",
       "name": "Phaser Down3",
       "tags": [
         "digital",
@@ -240,6 +268,7 @@
     },
     {
       "file": "audio/phaser-up1.m4a",
+      "src": "Audio/phaserUp1.ogg",
       "name": "Phaser Up1",
       "tags": [
         "digital",
@@ -249,6 +278,7 @@
     },
     {
       "file": "audio/phaser-up2.m4a",
+      "src": "Audio/phaserUp2.ogg",
       "name": "Phaser Up2",
       "tags": [
         "digital",
@@ -258,6 +288,7 @@
     },
     {
       "file": "audio/phaser-up3.m4a",
+      "src": "Audio/phaserUp3.ogg",
       "name": "Phaser Up3",
       "tags": [
         "digital",
@@ -267,6 +298,7 @@
     },
     {
       "file": "audio/phaser-up4.m4a",
+      "src": "Audio/phaserUp4.ogg",
       "name": "Phaser Up4",
       "tags": [
         "digital",
@@ -276,6 +308,7 @@
     },
     {
       "file": "audio/phaser-up5.m4a",
+      "src": "Audio/phaserUp5.ogg",
       "name": "Phaser Up5",
       "tags": [
         "digital",
@@ -285,6 +318,7 @@
     },
     {
       "file": "audio/phaser-up6.m4a",
+      "src": "Audio/phaserUp6.ogg",
       "name": "Phaser Up6",
       "tags": [
         "digital",
@@ -294,6 +328,7 @@
     },
     {
       "file": "audio/phaser-up7.m4a",
+      "src": "Audio/phaserUp7.ogg",
       "name": "Phaser Up7",
       "tags": [
         "digital",
@@ -303,126 +338,115 @@
     },
     {
       "file": "audio/power-up1.m4a",
+      "src": "Audio/powerUp1.ogg",
       "name": "Power Up1",
       "tags": [
-        "game",
-        "power",
         "digital"
       ],
       "blurb": null
     },
     {
       "file": "audio/power-up10.m4a",
+      "src": "Audio/powerUp10.ogg",
       "name": "Power Up10",
       "tags": [
-        "game",
-        "power",
         "digital"
       ],
       "blurb": null
     },
     {
       "file": "audio/power-up11.m4a",
+      "src": "Audio/powerUp11.ogg",
       "name": "Power Up11",
       "tags": [
-        "game",
-        "power",
         "digital"
       ],
       "blurb": null
     },
     {
       "file": "audio/power-up12.m4a",
+      "src": "Audio/powerUp12.ogg",
       "name": "Power Up12",
       "tags": [
-        "game",
-        "power",
         "digital"
       ],
       "blurb": null
     },
     {
       "file": "audio/power-up2.m4a",
+      "src": "Audio/powerUp2.ogg",
       "name": "Power Up2",
       "tags": [
-        "game",
-        "power",
         "digital"
       ],
       "blurb": null
     },
     {
       "file": "audio/power-up3.m4a",
+      "src": "Audio/powerUp3.ogg",
       "name": "Power Up3",
       "tags": [
-        "game",
-        "power",
         "digital"
       ],
       "blurb": null
     },
     {
       "file": "audio/power-up4.m4a",
+      "src": "Audio/powerUp4.ogg",
       "name": "Power Up4",
       "tags": [
-        "game",
-        "power",
         "digital"
       ],
       "blurb": null
     },
     {
       "file": "audio/power-up5.m4a",
+      "src": "Audio/powerUp5.ogg",
       "name": "Power Up5",
       "tags": [
-        "game",
-        "power",
         "digital"
       ],
       "blurb": null
     },
     {
       "file": "audio/power-up6.m4a",
+      "src": "Audio/powerUp6.ogg",
       "name": "Power Up6",
       "tags": [
-        "game",
-        "power",
         "digital"
       ],
       "blurb": null
     },
     {
       "file": "audio/power-up7.m4a",
+      "src": "Audio/powerUp7.ogg",
       "name": "Power Up7",
       "tags": [
-        "game",
-        "power",
         "digital"
       ],
       "blurb": null
     },
     {
       "file": "audio/power-up8.m4a",
+      "src": "Audio/powerUp8.ogg",
       "name": "Power Up8",
       "tags": [
-        "game",
-        "power",
         "digital"
       ],
       "blurb": null
     },
     {
       "file": "audio/power-up9.m4a",
+      "src": "Audio/powerUp9.ogg",
       "name": "Power Up9",
       "tags": [
-        "game",
-        "power",
         "digital"
       ],
       "blurb": null
     },
     {
       "file": "audio/preview.m4a",
+      "src": "Preview.ogg",
       "name": "Preview",
       "tags": [
         "digital"
@@ -431,6 +455,7 @@
     },
     {
       "file": "audio/space-trash1.m4a",
+      "src": "Audio/spaceTrash1.ogg",
       "name": "Space Trash1",
       "tags": [
         "digital"
@@ -439,6 +464,7 @@
     },
     {
       "file": "audio/space-trash2.m4a",
+      "src": "Audio/spaceTrash2.ogg",
       "name": "Space Trash2",
       "tags": [
         "digital"
@@ -447,6 +473,7 @@
     },
     {
       "file": "audio/space-trash3.m4a",
+      "src": "Audio/spaceTrash3.ogg",
       "name": "Space Trash3",
       "tags": [
         "digital"
@@ -455,6 +482,7 @@
     },
     {
       "file": "audio/space-trash4.m4a",
+      "src": "Audio/spaceTrash4.ogg",
       "name": "Space Trash4",
       "tags": [
         "digital"
@@ -463,6 +491,7 @@
     },
     {
       "file": "audio/space-trash5.m4a",
+      "src": "Audio/spaceTrash5.ogg",
       "name": "Space Trash5",
       "tags": [
         "digital"
@@ -471,6 +500,7 @@
     },
     {
       "file": "audio/three-tone1.m4a",
+      "src": "Audio/threeTone1.ogg",
       "name": "Three Tone1",
       "tags": [
         "digital"
@@ -479,6 +509,7 @@
     },
     {
       "file": "audio/three-tone2.m4a",
+      "src": "Audio/threeTone2.ogg",
       "name": "Three Tone2",
       "tags": [
         "digital"
@@ -487,6 +518,7 @@
     },
     {
       "file": "audio/tone1.m4a",
+      "src": "Audio/tone1.ogg",
       "name": "Tone1",
       "tags": [
         "digital"
@@ -495,6 +527,7 @@
     },
     {
       "file": "audio/two-tone1.m4a",
+      "src": "Audio/twoTone1.ogg",
       "name": "Two Tone1",
       "tags": [
         "digital"
@@ -503,6 +536,7 @@
     },
     {
       "file": "audio/two-tone2.m4a",
+      "src": "Audio/twoTone2.ogg",
       "name": "Two Tone2",
       "tags": [
         "digital"
@@ -511,6 +545,7 @@
     },
     {
       "file": "audio/zap-three-tone-down.m4a",
+      "src": "Audio/zapThreeToneDown.ogg",
       "name": "Zap Three Tone Down",
       "tags": [
         "digital",
@@ -520,6 +555,7 @@
     },
     {
       "file": "audio/zap-three-tone-up.m4a",
+      "src": "Audio/zapThreeToneUp.ogg",
       "name": "Zap Three Tone Up",
       "tags": [
         "digital",
@@ -529,6 +565,7 @@
     },
     {
       "file": "audio/zap-two-tone.m4a",
+      "src": "Audio/zapTwoTone.ogg",
       "name": "Zap Two Tone",
       "tags": [
         "digital",
@@ -538,6 +575,7 @@
     },
     {
       "file": "audio/zap-two-tone2.m4a",
+      "src": "Audio/zapTwoTone2.ogg",
       "name": "Zap Two Tone2",
       "tags": [
         "digital",
@@ -547,6 +585,7 @@
     },
     {
       "file": "audio/zap1.m4a",
+      "src": "Audio/zap1.ogg",
       "name": "Zap1",
       "tags": [
         "digital"
@@ -555,6 +594,7 @@
     },
     {
       "file": "audio/zap2.m4a",
+      "src": "Audio/zap2.ogg",
       "name": "Zap2",
       "tags": [
         "digital"

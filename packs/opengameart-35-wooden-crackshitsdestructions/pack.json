@@ -1,0 +1,460 @@
+{
+  "id": "opengameart-35-wooden-crackshitsdestructions",
+  "title": "35 wooden cracks/hits/destructions",
+  "blurb": "34 sounds — mostly Impacts.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "qubodup · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-qubodup",
+    "name": "qubodup"
+  },
+  "homepage": "https://opengameart.org/content/35-wooden-crackshitsdestructions",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/crack01-mp3.m4a",
+      "src": "independent-nu-ljudbank-wood-crack-hit-d/wood_impact/crack01.mp3.flac",
+      "name": "Crack01",
+      "tags": [
+        "impact",
+        "wood",
+        "crack",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/crack02-mp3.m4a",
+      "src": "independent-nu-ljudbank-wood-crack-hit-d/wood_impact/crack02.mp3.flac",
+      "name": "Crack02",
+      "tags": [
+        "impact",
+        "wood",
+        "crack",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/crack03-mp3.m4a",
+      "src": "independent-nu-ljudbank-wood-crack-hit-d/wood_impact/crack03.mp3.flac",
+      "name": "Crack03",
+      "tags": [
+        "impact",
+        "wood",
+        "crack",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/crack04-mp3.m4a",
+      "src": "independent-nu-ljudbank-wood-crack-hit-d/wood_impact/crack04.mp3.flac",
+      "name": "Crack04",
+      "tags": [
+        "impact",
+        "wood",
+        "crack",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/crack05-mp3.m4a",
+      "src": "independent-nu-ljudbank-wood-crack-hit-d/wood_impact/crack05.mp3.flac",
+      "name": "Crack05",
+      "tags": [
+        "impact",
+        "wood",
+        "crack",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/crack06-mp3.m4a",
+      "src": "independent-nu-ljudbank-wood-crack-hit-d/wood_impact/crack06.mp3.flac",
+      "name": "Crack06",
+      "tags": [
+        "impact",
+        "wood",
+        "crack",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/crack07-mp3.m4a",
+      "src": "independent-nu-ljudbank-wood-crack-hit-d/wood_impact/crack07.mp3.flac",
+      "name": "Crack07",
+      "tags": [
+        "impact",
+        "wood",
+        "crack",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/crack08-mp3.m4a",
+      "src": "independent-nu-ljudbank-wood-crack-hit-d/wood_impact/crack08.mp3.flac",
+      "name": "Crack08",
+      "tags": [
+        "impact",
+        "wood",
+        "crack",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/crack09-mp3.m4a",
+      "src": "independent-nu-ljudbank-wood-crack-hit-d/wood_impact/crack09.mp3.flac",
+      "name": "Crack09",
+      "tags": [
+        "impact",
+        "wood",
+        "crack",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/crack10-mp3.m4a",
+      "src": "independent-nu-ljudbank-wood-crack-hit-d/wood_impact/crack10.mp3.flac",
+      "name": "Crack10",
+      "tags": [
+        "impact",
+        "wood",
+        "crack",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/impactwood01-mp3.m4a",
+      "src": "independent-nu-ljudbank-wood-crack-hit-d/wood_impact/impactwood01.mp3.flac",
+      "name": "Impactwood01",
+      "tags": [
+        "impact",
+        "wood",
+        "crack",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/impactwood02-mp3.m4a",
+      "src": "independent-nu-ljudbank-wood-crack-hit-d/wood_impact/impactwood02.mp3.flac",
+      "name": "Impactwood02",
+      "tags": [
+        "impact",
+        "wood",
+        "crack",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/impactwood03-mp3.m4a",
+      "src": "independent-nu-ljudbank-wood-crack-hit-d/wood_impact/impactwood03.mp3.flac",
+      "name": "Impactwood03",
+      "tags": [
+        "impact",
+        "wood",
+        "crack",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/impactwood04-mp3.m4a",
+      "src": "independent-nu-ljudbank-wood-crack-hit-d/wood_impact/impactwood04.mp3.flac",
+      "name": "Impactwood04",
+      "tags": [
+        "impact",
+        "wood",
+        "crack",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/impactwood05-mp3.m4a",
+      "src": "independent-nu-ljudbank-wood-crack-hit-d/wood_impact/impactwood05.mp3.flac",
+      "name": "Impactwood05",
+      "tags": [
+        "impact",
+        "wood",
+        "crack",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/impactwood06-mp3.m4a",
+      "src": "independent-nu-ljudbank-wood-crack-hit-d/wood_impact/impactwood06.mp3.flac",
+      "name": "Impactwood06",
+      "tags": [
+        "impact",
+        "wood",
+        "crack",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/impactwood07-mp3.m4a",
+      "src": "independent-nu-ljudbank-wood-crack-hit-d/wood_impact/impactwood07.mp3.flac",
+      "name": "Impactwood07",
+      "tags": [
+        "impact",
+        "wood",
+        "crack",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/impactwood08-mp3.m4a",
+      "src": "independent-nu-ljudbank-wood-crack-hit-d/wood_impact/impactwood08.mp3.flac",
+      "name": "Impactwood08",
+      "tags": [
+        "impact",
+        "wood",
+        "crack",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/impactwood09-mp3.m4a",
+      "src": "independent-nu-ljudbank-wood-crack-hit-d/wood_impact/impactwood09.mp3.flac",
+      "name": "Impactwood09",
+      "tags": [
+        "impact",
+        "wood",
+        "crack",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/impactwood10-mp3.m4a",
+      "src": "independent-nu-ljudbank-wood-crack-hit-d/wood_impact/impactwood10.mp3.flac",
+      "name": "Impactwood10",
+      "tags": [
+        "impact",
+        "wood",
+        "crack",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/impactwood11-mp3.m4a",
+      "src": "independent-nu-ljudbank-wood-crack-hit-d/wood_impact/impactwood11.mp3.flac",
+      "name": "Impactwood11",
+      "tags": [
+        "impact",
+        "wood",
+        "crack",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/impactwood12-mp3.m4a",
+      "src": "independent-nu-ljudbank-wood-crack-hit-d/wood_impact/impactwood12.mp3.flac",
+      "name": "Impactwood12",
+      "tags": [
+        "impact",
+        "wood",
+        "crack",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/impactwood13-mp3.m4a",
+      "src": "independent-nu-ljudbank-wood-crack-hit-d/wood_impact/impactwood13.mp3.flac",
+      "name": "Impactwood13",
+      "tags": [
+        "impact",
+        "wood",
+        "crack",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/impactwood14-mp3.m4a",
+      "src": "independent-nu-ljudbank-wood-crack-hit-d/wood_impact/impactwood14.mp3.flac",
+      "name": "Impactwood14",
+      "tags": [
+        "impact",
+        "wood",
+        "crack",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/impactwood15-mp3.m4a",
+      "src": "independent-nu-ljudbank-wood-crack-hit-d/wood_impact/impactwood15.mp3.flac",
+      "name": "Impactwood15",
+      "tags": [
+        "impact",
+        "wood",
+        "crack",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/impactwood17-mp3.m4a",
+      "src": "independent-nu-ljudbank-wood-crack-hit-d/wood_impact/impactwood17.mp3.flac",
+      "name": "Impactwood17",
+      "tags": [
+        "impact",
+        "wood",
+        "crack",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/impactwood18-mp3.m4a",
+      "src": "independent-nu-ljudbank-wood-crack-hit-d/wood_impact/impactwood18.mp3.flac",
+      "name": "Impactwood18",
+      "tags": [
+        "impact",
+        "wood",
+        "crack",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/impactwood19-mp3.m4a",
+      "src": "independent-nu-ljudbank-wood-crack-hit-d/wood_impact/impactwood19.mp3.flac",
+      "name": "Impactwood19",
+      "tags": [
+        "impact",
+        "wood",
+        "crack",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/impactwood20-mp3.m4a",
+      "src": "independent-nu-ljudbank-wood-crack-hit-d/wood_impact/impactwood20.mp3.flac",
+      "name": "Impactwood20",
+      "tags": [
+        "impact",
+        "wood",
+        "crack",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/impactwood21-mp3.m4a",
+      "src": "independent-nu-ljudbank-wood-crack-hit-d/wood_impact/impactwood21.mp3.flac",
+      "name": "Impactwood21",
+      "tags": [
+        "impact",
+        "wood",
+        "crack",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/impactwood22-mp3.m4a",
+      "src": "independent-nu-ljudbank-wood-crack-hit-d/wood_impact/impactwood22.mp3.flac",
+      "name": "Impactwood22",
+      "tags": [
+        "impact",
+        "wood",
+        "crack",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/impactwood23-mp3.m4a",
+      "src": "independent-nu-ljudbank-wood-crack-hit-d/wood_impact/impactwood23.mp3.flac",
+      "name": "Impactwood23",
+      "tags": [
+        "impact",
+        "wood",
+        "crack",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/impactwood24-mp3.m4a",
+      "src": "independent-nu-ljudbank-wood-crack-hit-d/wood_impact/impactwood24.mp3.flac",
+      "name": "Impactwood24",
+      "tags": [
+        "impact",
+        "wood",
+        "crack",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/impactwood25-mp3.m4a",
+      "src": "independent-nu-ljudbank-wood-crack-hit-d/wood_impact/impactwood25.mp3.flac",
+      "name": "Impactwood25",
+      "tags": [
+        "impact",
+        "wood",
+        "crack",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

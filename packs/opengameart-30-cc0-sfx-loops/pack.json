@@ -1,0 +1,358 @@
+{
+  "id": "opengameart-30-cc0-sfx-loops",
+  "title": "30 SFX loops",
+  "blurb": "30 sounds — mostly Ambience and Machines.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "rubberduck · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-rubberduck",
+    "name": "rubberduck"
+  },
+  "homepage": "https://opengameart.org/content/30-cc0-sfx-loops",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/alarm-01.m4a",
+      "src": "sfx-loops/alarm_01.ogg",
+      "name": "Alarm 1",
+      "tags": [
+        "digital",
+        "loop",
+        "alarm",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/alarm-02.m4a",
+      "src": "sfx-loops/alarm_02.ogg",
+      "name": "Alarm 2",
+      "tags": [
+        "digital",
+        "loop",
+        "alarm",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/alarm-03.m4a",
+      "src": "sfx-loops/alarm_03.ogg",
+      "name": "Alarm 3",
+      "tags": [
+        "digital",
+        "loop",
+        "alarm",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/ambient-01.m4a",
+      "src": "sfx-loops/ambient_01.ogg",
+      "name": "Ambient 1",
+      "tags": [
+        "ambience",
+        "loop",
+        "ambient",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/ambient-02.m4a",
+      "src": "sfx-loops/ambient_02.ogg",
+      "name": "Ambient 2",
+      "tags": [
+        "ambience",
+        "loop",
+        "ambient",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/ambient-03.m4a",
+      "src": "sfx-loops/ambient_03.ogg",
+      "name": "Ambient 3",
+      "tags": [
+        "ambience",
+        "loop",
+        "ambient",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/machine-01.m4a",
+      "src": "sfx-loops/machine_01.ogg",
+      "name": "Machine 1",
+      "tags": [
+        "machine",
+        "loop",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/machine-02.m4a",
+      "src": "sfx-loops/machine_02.ogg",
+      "name": "Machine 2",
+      "tags": [
+        "machine",
+        "loop",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/machine-03.m4a",
+      "src": "sfx-loops/machine_03.ogg",
+      "name": "Machine 3",
+      "tags": [
+        "machine",
+        "loop",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/machine-04.m4a",
+      "src": "sfx-loops/machine_04.ogg",
+      "name": "Machine 4",
+      "tags": [
+        "machine",
+        "loop",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/machine-05.m4a",
+      "src": "sfx-loops/machine_05.ogg",
+      "name": "Machine 5",
+      "tags": [
+        "machine",
+        "loop",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/machine-06.m4a",
+      "src": "sfx-loops/machine_06.ogg",
+      "name": "Machine 6",
+      "tags": [
+        "machine",
+        "loop",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/machine-07.m4a",
+      "src": "sfx-loops/machine_07.ogg",
+      "name": "Machine 7",
+      "tags": [
+        "machine",
+        "loop",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/machine-08.m4a",
+      "src": "sfx-loops/machine_08.ogg",
+      "name": "Machine 8",
+      "tags": [
+        "machine",
+        "loop",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/machine-09.m4a",
+      "src": "sfx-loops/machine_09.ogg",
+      "name": "Machine 9",
+      "tags": [
+        "machine",
+        "loop",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/machine-10.m4a",
+      "src": "sfx-loops/machine_10.ogg",
+      "name": "Machine 10",
+      "tags": [
+        "machine",
+        "loop",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/machine-11.m4a",
+      "src": "sfx-loops/machine_11.ogg",
+      "name": "Machine 11",
+      "tags": [
+        "machine",
+        "loop",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/noise-01.m4a",
+      "src": "sfx-loops/noise_01.ogg",
+      "name": "Noise 1",
+      "tags": [
+        "ambience",
+        "loop",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/noise-02.m4a",
+      "src": "sfx-loops/noise_02.ogg",
+      "name": "Noise 2",
+      "tags": [
+        "ambience",
+        "loop",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/noise-03.m4a",
+      "src": "sfx-loops/noise_03.ogg",
+      "name": "Noise 3",
+      "tags": [
+        "ambience",
+        "loop",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/pump-01.m4a",
+      "src": "sfx-loops/pump_01.ogg",
+      "name": "Pump 1",
+      "tags": [
+        "ambience",
+        "loop",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/pump-02.m4a",
+      "src": "sfx-loops/pump_02.ogg",
+      "name": "Pump 2",
+      "tags": [
+        "ambience",
+        "loop",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/rain.m4a",
+      "src": "sfx-loops/rain.ogg",
+      "name": "Rain",
+      "tags": [
+        "nature",
+        "loop",
+        "rain",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/rolling.m4a",
+      "src": "sfx-loops/rolling.ogg",
+      "name": "Rolling",
+      "tags": [
+        "ambience",
+        "loop",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/saw.m4a",
+      "src": "sfx-loops/saw.ogg",
+      "name": "Saw",
+      "tags": [
+        "machine",
+        "loop",
+        "saw",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/water-boiling.m4a",
+      "src": "sfx-loops/water_boiling.ogg",
+      "name": "Water Boiling",
+      "tags": [
+        "nature",
+        "loop",
+        "water",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/water-flowing.m4a",
+      "src": "sfx-loops/water_flowing.ogg",
+      "name": "Water Flowing",
+      "tags": [
+        "nature",
+        "loop",
+        "water",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/weird-01.m4a",
+      "src": "sfx-loops/weird_01.ogg",
+      "name": "Weird 1",
+      "tags": [
+        "ambience",
+        "loop",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/weird-02.m4a",
+      "src": "sfx-loops/weird_02.ogg",
+      "name": "Weird 2",
+      "tags": [
+        "ambience",
+        "loop",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/weird-03.m4a",
+      "src": "sfx-loops/weird_03.ogg",
+      "name": "Weird 3",
+      "tags": [
+        "ambience",
+        "loop",
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

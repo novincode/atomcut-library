@@ -1,0 +1,121 @@
+{
+  "id": "opengameart-card-game-sounds",
+  "title": "Card Game sounds",
+  "blurb": "10 sounds — mostly Foley and Digital.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "haeldb · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-haeldb",
+    "name": "haeldb"
+  },
+  "homepage": "https://opengameart.org/content/card-game-sounds",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/cuckoo.m4a",
+      "src": "cardsounds/cockatrice/cuckoo.wav",
+      "name": "Cuckoo",
+      "tags": [
+        "foley",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/draw.m4a",
+      "src": "cardsounds/cockatrice/draw.wav",
+      "name": "Draw",
+      "tags": [
+        "foley",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/error.m4a",
+      "src": "cardsounds/cockatrice/error.wav",
+      "name": "Error",
+      "tags": [
+        "digital",
+        "error",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/passturn.m4a",
+      "src": "cardsounds/cockatrice/Passturn.wav",
+      "name": "Passturn",
+      "tags": [
+        "foley",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/playcard.m4a",
+      "src": "cardsounds/cockatrice/playcard.wav",
+      "name": "Playcard",
+      "tags": [
+        "foley",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/rolldie.m4a",
+      "src": "cardsounds/cockatrice/rolldie.wav",
+      "name": "Rolldie",
+      "tags": [
+        "foley",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/shuffle.m4a",
+      "src": "cardsounds/cockatrice/shuffle.wav",
+      "name": "Shuffle",
+      "tags": [
+        "foley",
+        "shuffle",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/stagechangeoldnotification.m4a",
+      "src": "cardsounds/cockatrice/stagechangeoldnotification.wav",
+      "name": "Stagechangeoldnotification",
+      "tags": [
+        "foley",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/tap.m4a",
+      "src": "cardsounds/cockatrice/tap.wav",
+      "name": "Tap",
+      "tags": [
+        "interface",
+        "tap",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/untap.m4a",
+      "src": "cardsounds/cockatrice/untap.wav",
+      "name": "Untap",
+      "tags": [
+        "foley",
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

@@ -1,0 +1,942 @@
+{
+  "id": "opengameart-80-cc0-rpg-sfx",
+  "title": "80 RPG SFX",
+  "blurb": "80 sounds — mostly Creatures and Foley.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "rubberduck · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-rubberduck",
+    "name": "rubberduck"
+  },
+  "homepage": "https://opengameart.org/content/80-cc0-rpg-sfx",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/blade-01.m4a",
+      "src": "80-cc0-rpg-sfx-0/blade_01.ogg",
+      "name": "Blade 1",
+      "tags": [
+        "weapon",
+        "rpg",
+        "blade",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/blade-02.m4a",
+      "src": "80-cc0-rpg-sfx-0/blade_02.ogg",
+      "name": "Blade 2",
+      "tags": [
+        "weapon",
+        "rpg",
+        "blade",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/blade-03.m4a",
+      "src": "80-cc0-rpg-sfx-0/blade_03.ogg",
+      "name": "Blade 3",
+      "tags": [
+        "weapon",
+        "rpg",
+        "blade",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/book-01.m4a",
+      "src": "80-cc0-rpg-sfx-0/book_01.ogg",
+      "name": "Book 1",
+      "tags": [
+        "foley",
+        "rpg",
+        "book",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/book-02.m4a",
+      "src": "80-cc0-rpg-sfx-0/book_02.ogg",
+      "name": "Book 2",
+      "tags": [
+        "foley",
+        "rpg",
+        "book",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/book-03.m4a",
+      "src": "80-cc0-rpg-sfx-0/book_03.ogg",
+      "name": "Book 3",
+      "tags": [
+        "foley",
+        "rpg",
+        "book",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/book-04.m4a",
+      "src": "80-cc0-rpg-sfx-0/book_04.ogg",
+      "name": "Book 4",
+      "tags": [
+        "foley",
+        "rpg",
+        "book",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/chain-01.m4a",
+      "src": "80-cc0-rpg-sfx-0/chain_01.ogg",
+      "name": "Chain 1",
+      "tags": [
+        "foley",
+        "rpg",
+        "chain",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/chain-02.m4a",
+      "src": "80-cc0-rpg-sfx-0/chain_02.ogg",
+      "name": "Chain 2",
+      "tags": [
+        "foley",
+        "rpg",
+        "chain",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/chain-03.m4a",
+      "src": "80-cc0-rpg-sfx-0/chain_03.ogg",
+      "name": "Chain 3",
+      "tags": [
+        "foley",
+        "rpg",
+        "chain",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/creature-die-01.m4a",
+      "src": "80-cc0-rpg-sfx-0/creature_die_01.ogg",
+      "name": "Creature Die",
+      "tags": [
+        "creature",
+        "rpg",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/creature-hurt-01.m4a",
+      "src": "80-cc0-rpg-sfx-0/creature_hurt_01.ogg",
+      "name": "Creature Hurt 1",
+      "tags": [
+        "creature",
+        "rpg",
+        "hurt",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/creature-hurt-02.m4a",
+      "src": "80-cc0-rpg-sfx-0/creature_hurt_02.ogg",
+      "name": "Creature Hurt 2",
+      "tags": [
+        "creature",
+        "rpg",
+        "hurt",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/creature-misc-01.m4a",
+      "src": "80-cc0-rpg-sfx-0/creature_misc_01.ogg",
+      "name": "Creature Misc 1",
+      "tags": [
+        "creature",
+        "rpg",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/creature-misc-02.m4a",
+      "src": "80-cc0-rpg-sfx-0/creature_misc_02.ogg",
+      "name": "Creature Misc 2",
+      "tags": [
+        "creature",
+        "rpg",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/creature-misc-03.m4a",
+      "src": "80-cc0-rpg-sfx-0/creature_misc_03.ogg",
+      "name": "Creature Misc 3",
+      "tags": [
+        "creature",
+        "rpg",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/creature-misc-04.m4a",
+      "src": "80-cc0-rpg-sfx-0/creature_misc_04.ogg",
+      "name": "Creature Misc 4",
+      "tags": [
+        "creature",
+        "rpg",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/creature-misc-05.m4a",
+      "src": "80-cc0-rpg-sfx-0/creature_misc_05.ogg",
+      "name": "Creature Misc 5",
+      "tags": [
+        "creature",
+        "rpg",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/creature-misc-06.m4a",
+      "src": "80-cc0-rpg-sfx-0/creature_misc_06.ogg",
+      "name": "Creature Misc 6",
+      "tags": [
+        "creature",
+        "rpg",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/creature-misc-07.m4a",
+      "src": "80-cc0-rpg-sfx-0/creature_misc_07.ogg",
+      "name": "Creature Misc 7",
+      "tags": [
+        "creature",
+        "rpg",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/creature-misc-08.m4a",
+      "src": "80-cc0-rpg-sfx-0/creature_misc_08.ogg",
+      "name": "Creature Misc 8",
+      "tags": [
+        "creature",
+        "rpg",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/creature-monster-01.m4a",
+      "src": "80-cc0-rpg-sfx-0/creature_monster_01.ogg",
+      "name": "Creature Monster 1",
+      "tags": [
+        "creature",
+        "rpg",
+        "monster",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/creature-monster-02.m4a",
+      "src": "80-cc0-rpg-sfx-0/creature_monster_02.ogg",
+      "name": "Creature Monster 2",
+      "tags": [
+        "creature",
+        "rpg",
+        "monster",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/creature-monster-03.m4a",
+      "src": "80-cc0-rpg-sfx-0/creature_monster_03.ogg",
+      "name": "Creature Monster 3",
+      "tags": [
+        "creature",
+        "rpg",
+        "monster",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/creature-monster-04.m4a",
+      "src": "80-cc0-rpg-sfx-0/creature_monster_04.ogg",
+      "name": "Creature Monster 4",
+      "tags": [
+        "creature",
+        "rpg",
+        "monster",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/creature-roar-01.m4a",
+      "src": "80-cc0-rpg-sfx-0/creature_roar_01.ogg",
+      "name": "Creature Roar 1",
+      "tags": [
+        "creature",
+        "rpg",
+        "roar",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/creature-roar-02.m4a",
+      "src": "80-cc0-rpg-sfx-0/creature_roar_02.ogg",
+      "name": "Creature Roar 2",
+      "tags": [
+        "creature",
+        "rpg",
+        "roar",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/creature-roar-03.m4a",
+      "src": "80-cc0-rpg-sfx-0/creature_roar_03.ogg",
+      "name": "Creature Roar 3",
+      "tags": [
+        "creature",
+        "rpg",
+        "roar",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/creature-slime-01.m4a",
+      "src": "80-cc0-rpg-sfx-0/creature_slime_01.ogg",
+      "name": "Creature Slime 1",
+      "tags": [
+        "creature",
+        "rpg",
+        "slime",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/creature-slime-02.m4a",
+      "src": "80-cc0-rpg-sfx-0/creature_slime_02.ogg",
+      "name": "Creature Slime 2",
+      "tags": [
+        "creature",
+        "rpg",
+        "slime",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/creature-slime-03.m4a",
+      "src": "80-cc0-rpg-sfx-0/creature_slime_03.ogg",
+      "name": "Creature Slime 3",
+      "tags": [
+        "creature",
+        "rpg",
+        "slime",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/creature-slime-04.m4a",
+      "src": "80-cc0-rpg-sfx-0/creature_slime_04.ogg",
+      "name": "Creature Slime 4",
+      "tags": [
+        "creature",
+        "rpg",
+        "slime",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/item-coins-01.m4a",
+      "src": "80-cc0-rpg-sfx-0/item_coins_01.ogg",
+      "name": "Item Coins 1",
+      "tags": [
+        "interface",
+        "rpg",
+        "coin",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/item-coins-02.m4a",
+      "src": "80-cc0-rpg-sfx-0/item_coins_02.ogg",
+      "name": "Item Coins 2",
+      "tags": [
+        "interface",
+        "rpg",
+        "coin",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/item-coins-03.m4a",
+      "src": "80-cc0-rpg-sfx-0/item_coins_03.ogg",
+      "name": "Item Coins 3",
+      "tags": [
+        "interface",
+        "rpg",
+        "coin",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/item-coins-04.m4a",
+      "src": "80-cc0-rpg-sfx-0/item_coins_04.ogg",
+      "name": "Item Coins 4",
+      "tags": [
+        "interface",
+        "rpg",
+        "coin",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/item-gem-01.m4a",
+      "src": "80-cc0-rpg-sfx-0/item_gem_01.ogg",
+      "name": "Item Gem 1",
+      "tags": [
+        "rpg",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/item-gem-02.m4a",
+      "src": "80-cc0-rpg-sfx-0/item_gem_02.ogg",
+      "name": "Item Gem 2",
+      "tags": [
+        "rpg",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/item-gem-03.m4a",
+      "src": "80-cc0-rpg-sfx-0/item_gem_03.ogg",
+      "name": "Item Gem 3",
+      "tags": [
+        "rpg",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/item-gem-04.m4a",
+      "src": "80-cc0-rpg-sfx-0/item_gem_04.ogg",
+      "name": "Item Gem 4",
+      "tags": [
+        "rpg",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/item-misc-01.m4a",
+      "src": "80-cc0-rpg-sfx-0/item_misc_01.ogg",
+      "name": "Item Misc 1",
+      "tags": [
+        "rpg",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/item-misc-02.m4a",
+      "src": "80-cc0-rpg-sfx-0/item_misc_02.ogg",
+      "name": "Item Misc 2",
+      "tags": [
+        "rpg",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/item-misc-03.m4a",
+      "src": "80-cc0-rpg-sfx-0/item_misc_03.ogg",
+      "name": "Item Misc 3",
+      "tags": [
+        "rpg",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/item-misc-04.m4a",
+      "src": "80-cc0-rpg-sfx-0/item_misc_04.ogg",
+      "name": "Item Misc 4",
+      "tags": [
+        "rpg",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/item-misc-05.m4a",
+      "src": "80-cc0-rpg-sfx-0/item_misc_05.ogg",
+      "name": "Item Misc 5",
+      "tags": [
+        "rpg",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/item-misc-06.m4a",
+      "src": "80-cc0-rpg-sfx-0/item_misc_06.ogg",
+      "name": "Item Misc 6",
+      "tags": [
+        "rpg",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/item-stone-01.m4a",
+      "src": "80-cc0-rpg-sfx-0/item_stone_01.ogg",
+      "name": "Item Stone 1",
+      "tags": [
+        "rpg",
+        "stone",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/item-stone-02.m4a",
+      "src": "80-cc0-rpg-sfx-0/item_stone_02.ogg",
+      "name": "Item Stone 2",
+      "tags": [
+        "rpg",
+        "stone",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/item-stone-03.m4a",
+      "src": "80-cc0-rpg-sfx-0/item_stone_03.ogg",
+      "name": "Item Stone 3",
+      "tags": [
+        "rpg",
+        "stone",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/item-stone-04.m4a",
+      "src": "80-cc0-rpg-sfx-0/item_stone_04.ogg",
+      "name": "Item Stone 4",
+      "tags": [
+        "rpg",
+        "stone",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/item-wood-01.m4a",
+      "src": "80-cc0-rpg-sfx-0/item_wood_01.ogg",
+      "name": "Item Wood 1",
+      "tags": [
+        "foley",
+        "rpg",
+        "wood",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/item-wood-02.m4a",
+      "src": "80-cc0-rpg-sfx-0/item_wood_02.ogg",
+      "name": "Item Wood 2",
+      "tags": [
+        "foley",
+        "rpg",
+        "wood",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/item-wood-03.m4a",
+      "src": "80-cc0-rpg-sfx-0/item_wood_03.ogg",
+      "name": "Item Wood 3",
+      "tags": [
+        "foley",
+        "rpg",
+        "wood",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/lock-01.m4a",
+      "src": "80-cc0-rpg-sfx-0/lock_01.ogg",
+      "name": "Lock 1",
+      "tags": [
+        "foley",
+        "rpg",
+        "lock",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/lock-02.m4a",
+      "src": "80-cc0-rpg-sfx-0/lock_02.ogg",
+      "name": "Lock 2",
+      "tags": [
+        "foley",
+        "rpg",
+        "lock",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/lock-03.m4a",
+      "src": "80-cc0-rpg-sfx-0/lock_03.ogg",
+      "name": "Lock 3",
+      "tags": [
+        "foley",
+        "rpg",
+        "lock",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/metal-01.m4a",
+      "src": "80-cc0-rpg-sfx-0/metal_01.ogg",
+      "name": "Metal 1",
+      "tags": [
+        "foley",
+        "rpg",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/metal-02.m4a",
+      "src": "80-cc0-rpg-sfx-0/metal_02.ogg",
+      "name": "Metal 2",
+      "tags": [
+        "foley",
+        "rpg",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/metal-03.m4a",
+      "src": "80-cc0-rpg-sfx-0/metal_03.ogg",
+      "name": "Metal 3",
+      "tags": [
+        "foley",
+        "rpg",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/misc-01.m4a",
+      "src": "80-cc0-rpg-sfx-0/misc_01.ogg",
+      "name": "Misc 1",
+      "tags": [
+        "rpg",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/misc-02.m4a",
+      "src": "80-cc0-rpg-sfx-0/misc_02.ogg",
+      "name": "Misc 2",
+      "tags": [
+        "rpg",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/misc-03.m4a",
+      "src": "80-cc0-rpg-sfx-0/misc_03.ogg",
+      "name": "Misc 3",
+      "tags": [
+        "rpg",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/spell-01.m4a",
+      "src": "80-cc0-rpg-sfx-0/spell_01.ogg",
+      "name": "Spell 1",
+      "tags": [
+        "magic",
+        "rpg",
+        "spell",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/spell-02.m4a",
+      "src": "80-cc0-rpg-sfx-0/spell_02.ogg",
+      "name": "Spell 2",
+      "tags": [
+        "magic",
+        "rpg",
+        "spell",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/spell-fire-01.m4a",
+      "src": "80-cc0-rpg-sfx-0/spell_fire_01.ogg",
+      "name": "Spell Fire 1",
+      "tags": [
+        "magic",
+        "rpg",
+        "spell",
+        "fire",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/spell-fire-02.m4a",
+      "src": "80-cc0-rpg-sfx-0/spell_fire_02.ogg",
+      "name": "Spell Fire 2",
+      "tags": [
+        "magic",
+        "rpg",
+        "spell",
+        "fire",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/spell-fire-03.m4a",
+      "src": "80-cc0-rpg-sfx-0/spell_fire_03.ogg",
+      "name": "Spell Fire 3",
+      "tags": [
+        "magic",
+        "rpg",
+        "spell",
+        "fire",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/spell-fire-04.m4a",
+      "src": "80-cc0-rpg-sfx-0/spell_fire_04.ogg",
+      "name": "Spell Fire 4",
+      "tags": [
+        "magic",
+        "rpg",
+        "spell",
+        "fire",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/spell-fire-05.m4a",
+      "src": "80-cc0-rpg-sfx-0/spell_fire_05.ogg",
+      "name": "Spell Fire 5",
+      "tags": [
+        "magic",
+        "rpg",
+        "spell",
+        "fire",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/spell-fire-06.m4a",
+      "src": "80-cc0-rpg-sfx-0/spell_fire_06.ogg",
+      "name": "Spell Fire 6",
+      "tags": [
+        "magic",
+        "rpg",
+        "spell",
+        "fire",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/spell-fire-07.m4a",
+      "src": "80-cc0-rpg-sfx-0/spell_fire_07.ogg",
+      "name": "Spell Fire 7",
+      "tags": [
+        "magic",
+        "rpg",
+        "spell",
+        "fire",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/stones-01.m4a",
+      "src": "80-cc0-rpg-sfx-0/stones_01.ogg",
+      "name": "Stones 1",
+      "tags": [
+        "rpg",
+        "stone",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/stones-02.m4a",
+      "src": "80-cc0-rpg-sfx-0/stones_02.ogg",
+      "name": "Stones 2",
+      "tags": [
+        "rpg",
+        "stone",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/stones-03.m4a",
+      "src": "80-cc0-rpg-sfx-0/stones_03.ogg",
+      "name": "Stones 3",
+      "tags": [
+        "rpg",
+        "stone",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/stones-04.m4a",
+      "src": "80-cc0-rpg-sfx-0/stones_04.ogg",
+      "name": "Stones 4",
+      "tags": [
+        "rpg",
+        "stone",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-01.m4a",
+      "src": "80-cc0-rpg-sfx-0/wood_01.ogg",
+      "name": "Wood 1",
+      "tags": [
+        "foley",
+        "rpg",
+        "wood",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-02.m4a",
+      "src": "80-cc0-rpg-sfx-0/wood_02.ogg",
+      "name": "Wood 2",
+      "tags": [
+        "foley",
+        "rpg",
+        "wood",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-03.m4a",
+      "src": "80-cc0-rpg-sfx-0/wood_03.ogg",
+      "name": "Wood 3",
+      "tags": [
+        "foley",
+        "rpg",
+        "wood",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-04.m4a",
+      "src": "80-cc0-rpg-sfx-0/wood_04.ogg",
+      "name": "Wood 4",
+      "tags": [
+        "foley",
+        "rpg",
+        "wood",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wood-05.m4a",
+      "src": "80-cc0-rpg-sfx-0/wood_05.ogg",
+      "name": "Wood 5",
+      "tags": [
+        "foley",
+        "rpg",
+        "wood",
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

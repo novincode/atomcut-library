@@ -1,0 +1,194 @@
+{
+  "id": "opengameart-interface-beeps",
+  "title": "Interface beeps",
+  "blurb": "16 sounds — mostly Digital.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "bart · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-bart",
+    "name": "bart"
+  },
+  "homepage": "https://opengameart.org/content/interface-beeps",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/beep-00.m4a",
+      "src": "beeps/Beeps/beep-00.wav",
+      "name": "Beep 1",
+      "tags": [
+        "digital",
+        "beep",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/beep-01.m4a",
+      "src": "beeps/Beeps/beep-01.wav",
+      "name": "Beep 2",
+      "tags": [
+        "digital",
+        "beep",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/beep-02.m4a",
+      "src": "beeps/Beeps/beep-02.wav",
+      "name": "Beep 3",
+      "tags": [
+        "digital",
+        "beep",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/beep-03.m4a",
+      "src": "beeps/Beeps/beep-03.wav",
+      "name": "Beep 4",
+      "tags": [
+        "digital",
+        "beep",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/beep-04.m4a",
+      "src": "beeps/Beeps/beep-04.wav",
+      "name": "Beep 5",
+      "tags": [
+        "digital",
+        "beep",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/beep-05.m4a",
+      "src": "beeps/Beeps/beep-05.wav",
+      "name": "Beep 6",
+      "tags": [
+        "digital",
+        "beep",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/beep-06.m4a",
+      "src": "beeps/Beeps/beep-06.wav",
+      "name": "Beep 7",
+      "tags": [
+        "digital",
+        "beep",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/beep-07.m4a",
+      "src": "beeps/Beeps/beep-07.wav",
+      "name": "Beep 8",
+      "tags": [
+        "digital",
+        "beep",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/beep-08.m4a",
+      "src": "beeps/Beeps/beep-08.wav",
+      "name": "Beep 9",
+      "tags": [
+        "digital",
+        "beep",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/beep-09.m4a",
+      "src": "beeps/Beeps/beep-09.wav",
+      "name": "Beep 10",
+      "tags": [
+        "digital",
+        "beep",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/beep-10.m4a",
+      "src": "beeps/Beeps/beep-10.wav",
+      "name": "Beep 11",
+      "tags": [
+        "digital",
+        "beep",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/beep-11.m4a",
+      "src": "beeps/Beeps/beep-11.wav",
+      "name": "Beep 12",
+      "tags": [
+        "digital",
+        "beep",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/beep-12.m4a",
+      "src": "beeps/Beeps/beep-12.wav",
+      "name": "Beep 13",
+      "tags": [
+        "digital",
+        "beep",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/beep-13.m4a",
+      "src": "beeps/Beeps/beep-13.wav",
+      "name": "Beep 14",
+      "tags": [
+        "digital",
+        "beep",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/beep-14.m4a",
+      "src": "beeps/Beeps/beep-14.wav",
+      "name": "Beep 15",
+      "tags": [
+        "digital",
+        "beep",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/beep-15.m4a",
+      "src": "beeps/Beeps/beep-15.wav",
+      "name": "Beep 16",
+      "tags": [
+        "digital",
+        "beep",
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

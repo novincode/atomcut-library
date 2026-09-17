@@ -1,0 +1,181 @@
+{
+  "id": "opengameart-swamp-environment-audio",
+  "title": "Swamp Environment Audio",
+  "blurb": "17 sounds — mostly Ambience and Creatures.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "lokif · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-lokif",
+    "name": "lokif"
+  },
+  "homepage": "https://opengameart.org/content/swamp-environment-audio",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/atmosphere-1.m4a",
+      "src": "swamp-sounds/atmosphere_1.ogg",
+      "name": "Atmosphere 1",
+      "tags": [
+        "ambience",
+        "atmosphere",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/atmosphere-2.m4a",
+      "src": "swamp-sounds/atmosphere_2.ogg",
+      "name": "Atmosphere 2",
+      "tags": [
+        "ambience",
+        "atmosphere",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/atmosphere-3.m4a",
+      "src": "swamp-sounds/atmosphere_3.ogg",
+      "name": "Atmosphere 3",
+      "tags": [
+        "ambience",
+        "atmosphere",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/beast-1.m4a",
+      "src": "swamp-sounds/beast_1.ogg",
+      "name": "Beast 1",
+      "tags": [
+        "creature",
+        "beast",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/beast-2.m4a",
+      "src": "swamp-sounds/beast_2.ogg",
+      "name": "Beast 2",
+      "tags": [
+        "creature",
+        "beast",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bubbling-1.m4a",
+      "src": "swamp-sounds/bubbling_1.ogg",
+      "name": "Bubbling 1",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bubbling-2.m4a",
+      "src": "swamp-sounds/bubbling_2.ogg",
+      "name": "Bubbling 2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bubbling-3.m4a",
+      "src": "swamp-sounds/bubbling_3.ogg",
+      "name": "Bubbling 3",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bubbling-4.m4a",
+      "src": "swamp-sounds/bubbling_4.ogg",
+      "name": "Bubbling 4",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bug-1.m4a",
+      "src": "swamp-sounds/bug_1.ogg",
+      "name": "Bug 1",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bug-2.m4a",
+      "src": "swamp-sounds/bug_2.ogg",
+      "name": "Bug 2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/cicada-1.m4a",
+      "src": "swamp-sounds/cicada_1.ogg",
+      "name": "Cicada 1",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/cicada-2.m4a",
+      "src": "swamp-sounds/cicada_2.ogg",
+      "name": "Cicada 2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/cricket-1.m4a",
+      "src": "swamp-sounds/cricket_1.ogg",
+      "name": "Cricket 1",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/cricket-2.m4a",
+      "src": "swamp-sounds/cricket_2.ogg",
+      "name": "Cricket 2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/fly-2.m4a",
+      "src": "swamp-sounds/fly_2.ogg",
+      "name": "Fly 2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/fly-3.m4a",
+      "src": "swamp-sounds/fly_3.ogg",
+      "name": "Fly 3",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

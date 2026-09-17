@@ -1,0 +1,210 @@
+{
+  "id": "opengameart-16-button-clicks",
+  "title": "16 button clicks",
+  "blurb": "16 sounds — mostly Interface.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "qubodup · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-qubodup",
+    "name": "qubodup"
+  },
+  "homepage": "https://opengameart.org/content/16-button-clicks",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/button01-mp3.m4a",
+      "src": "independent-nu-ljudbank-buttons-and-clic/buttons_and_clicks/button01.mp3.flac",
+      "name": "Button01",
+      "tags": [
+        "interface",
+        "button",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/button02-mp3.m4a",
+      "src": "independent-nu-ljudbank-buttons-and-clic/buttons_and_clicks/button02.mp3.flac",
+      "name": "Button02",
+      "tags": [
+        "interface",
+        "button",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/button03-mp3.m4a",
+      "src": "independent-nu-ljudbank-buttons-and-clic/buttons_and_clicks/button03.mp3.flac",
+      "name": "Button03",
+      "tags": [
+        "interface",
+        "button",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/button04-mp3.m4a",
+      "src": "independent-nu-ljudbank-buttons-and-clic/buttons_and_clicks/button04.mp3.flac",
+      "name": "Button04",
+      "tags": [
+        "interface",
+        "button",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/button05-mp3.m4a",
+      "src": "independent-nu-ljudbank-buttons-and-clic/buttons_and_clicks/button05.mp3.flac",
+      "name": "Button05",
+      "tags": [
+        "interface",
+        "button",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/button06-mp3.m4a",
+      "src": "independent-nu-ljudbank-buttons-and-clic/buttons_and_clicks/button06.mp3.flac",
+      "name": "Button06",
+      "tags": [
+        "interface",
+        "button",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/clic01-mp3.m4a",
+      "src": "independent-nu-ljudbank-buttons-and-clic/buttons_and_clicks/Clic01.mp3.flac",
+      "name": "Clic01",
+      "tags": [
+        "interface",
+        "button",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/clic02-mp3.m4a",
+      "src": "independent-nu-ljudbank-buttons-and-clic/buttons_and_clicks/clic02.mp3.flac",
+      "name": "Clic02",
+      "tags": [
+        "interface",
+        "button",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/clic03-mp3.m4a",
+      "src": "independent-nu-ljudbank-buttons-and-clic/buttons_and_clicks/Clic03.mp3.flac",
+      "name": "Clic03",
+      "tags": [
+        "interface",
+        "button",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/clic04-mp3.m4a",
+      "src": "independent-nu-ljudbank-buttons-and-clic/buttons_and_clicks/Clic04.mp3.flac",
+      "name": "Clic04",
+      "tags": [
+        "interface",
+        "button",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/clic05-mp3.m4a",
+      "src": "independent-nu-ljudbank-buttons-and-clic/buttons_and_clicks/Clic05.mp3.flac",
+      "name": "Clic05",
+      "tags": [
+        "interface",
+        "button",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/clic06-mp3.m4a",
+      "src": "independent-nu-ljudbank-buttons-and-clic/buttons_and_clicks/Clic06.mp3.flac",
+      "name": "Clic06",
+      "tags": [
+        "interface",
+        "button",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/clic07-mp3.m4a",
+      "src": "independent-nu-ljudbank-buttons-and-clic/buttons_and_clicks/Clic07.mp3.flac",
+      "name": "Clic07",
+      "tags": [
+        "interface",
+        "button",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/clic08-mp3.m4a",
+      "src": "independent-nu-ljudbank-buttons-and-clic/buttons_and_clicks/Clic08.mp3.flac",
+      "name": "Clic08",
+      "tags": [
+        "interface",
+        "button",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/clic09-mp3.m4a",
+      "src": "independent-nu-ljudbank-buttons-and-clic/buttons_and_clicks/Clic09.mp3.flac",
+      "name": "Clic09",
+      "tags": [
+        "interface",
+        "button",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/clic10-mp3.m4a",
+      "src": "independent-nu-ljudbank-buttons-and-clic/buttons_and_clicks/clic10.mp3.flac",
+      "name": "Clic10",
+      "tags": [
+        "interface",
+        "button",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

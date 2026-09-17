@@ -1,0 +1,605 @@
+{
+  "id": "opengameart-50-cc0-sci-fi-sfx",
+  "title": "50 Sci-Fi SFX",
+  "blurb": "50 sounds — mostly Digital.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "rubberduck · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-rubberduck",
+    "name": "rubberduck"
+  },
+  "homepage": "https://opengameart.org/content/50-cc0-sci-fi-sfx",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/beep-01.m4a",
+      "src": "sci-fi-sfx/beep_01.ogg",
+      "name": "Beep 1",
+      "tags": [
+        "digital",
+        "sci",
+        "beep",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/beep-02.m4a",
+      "src": "sci-fi-sfx/beep_02.ogg",
+      "name": "Beep 2",
+      "tags": [
+        "digital",
+        "sci",
+        "beep",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/beep-03.m4a",
+      "src": "sci-fi-sfx/beep_03.ogg",
+      "name": "Beep 3",
+      "tags": [
+        "digital",
+        "sci",
+        "beep",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/explosion-01.m4a",
+      "src": "sci-fi-sfx/explosion_01.ogg",
+      "name": "Explosion 1",
+      "tags": [
+        "digital",
+        "sci",
+        "explosion",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/explosion-02.m4a",
+      "src": "sci-fi-sfx/explosion_02.ogg",
+      "name": "Explosion 2",
+      "tags": [
+        "digital",
+        "sci",
+        "explosion",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/loop-ambient-01.m4a",
+      "src": "sci-fi-sfx/loop_ambient_01.ogg",
+      "name": "Loop Ambient",
+      "tags": [
+        "digital",
+        "sci",
+        "loop",
+        "ambient",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/loop-ambient-weird.m4a",
+      "src": "sci-fi-sfx/loop_ambient_weird.ogg",
+      "name": "Loop Ambient Weird",
+      "tags": [
+        "digital",
+        "sci",
+        "loop",
+        "ambient",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/loop-machine-01.m4a",
+      "src": "sci-fi-sfx/loop_machine_01.ogg",
+      "name": "Loop Machine 1",
+      "tags": [
+        "digital",
+        "sci",
+        "loop",
+        "machine",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/loop-machine-02.m4a",
+      "src": "sci-fi-sfx/loop_machine_02.ogg",
+      "name": "Loop Machine 2",
+      "tags": [
+        "digital",
+        "sci",
+        "loop",
+        "machine",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/loop-machine-03.m4a",
+      "src": "sci-fi-sfx/loop_machine_03.ogg",
+      "name": "Loop Machine 3",
+      "tags": [
+        "digital",
+        "sci",
+        "loop",
+        "machine",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/misc-01.m4a",
+      "src": "sci-fi-sfx/misc_01.ogg",
+      "name": "Misc 1",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/misc-02.m4a",
+      "src": "sci-fi-sfx/misc_02.ogg",
+      "name": "Misc 2",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/misc-03.m4a",
+      "src": "sci-fi-sfx/misc_03.ogg",
+      "name": "Misc 3",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/misc-04.m4a",
+      "src": "sci-fi-sfx/misc_04.ogg",
+      "name": "Misc 4",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/misc-05.m4a",
+      "src": "sci-fi-sfx/misc_05.ogg",
+      "name": "Misc 5",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/misc-06.m4a",
+      "src": "sci-fi-sfx/misc_06.ogg",
+      "name": "Misc 6",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/misc-07.m4a",
+      "src": "sci-fi-sfx/misc_07.ogg",
+      "name": "Misc 7",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/misc-08.m4a",
+      "src": "sci-fi-sfx/misc_08.ogg",
+      "name": "Misc 8",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/misc-09.m4a",
+      "src": "sci-fi-sfx/misc_09.ogg",
+      "name": "Misc 9",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/misc-10.m4a",
+      "src": "sci-fi-sfx/misc_10.ogg",
+      "name": "Misc 10",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/misc-11.m4a",
+      "src": "sci-fi-sfx/misc_11.ogg",
+      "name": "Misc 11",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/misc-12.m4a",
+      "src": "sci-fi-sfx/misc_12.ogg",
+      "name": "Misc 12",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/retro-beep-01.m4a",
+      "src": "sci-fi-sfx/retro_beep_01.ogg",
+      "name": "Retro Beep 1",
+      "tags": [
+        "digital",
+        "sci",
+        "retro",
+        "beep",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/retro-beep-02.m4a",
+      "src": "sci-fi-sfx/retro_beep_02.ogg",
+      "name": "Retro Beep 2",
+      "tags": [
+        "digital",
+        "sci",
+        "retro",
+        "beep",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/retro-beep-03.m4a",
+      "src": "sci-fi-sfx/retro_beep_03.ogg",
+      "name": "Retro Beep 3",
+      "tags": [
+        "digital",
+        "sci",
+        "retro",
+        "beep",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/retro-beep-04.m4a",
+      "src": "sci-fi-sfx/retro_beep_04.ogg",
+      "name": "Retro Beep 4",
+      "tags": [
+        "digital",
+        "sci",
+        "retro",
+        "beep",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/retro-beep-05.m4a",
+      "src": "sci-fi-sfx/retro_beep_05.ogg",
+      "name": "Retro Beep 5",
+      "tags": [
+        "digital",
+        "sci",
+        "retro",
+        "beep",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/retro-beep-06.m4a",
+      "src": "sci-fi-sfx/retro_beep_06.ogg",
+      "name": "Retro Beep 6",
+      "tags": [
+        "digital",
+        "sci",
+        "retro",
+        "beep",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/retro-explosion.m4a",
+      "src": "sci-fi-sfx/retro_explosion.ogg",
+      "name": "Retro Explosion",
+      "tags": [
+        "digital",
+        "sci",
+        "retro",
+        "explosion",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/retro-laser-01.m4a",
+      "src": "sci-fi-sfx/retro_laser_01.ogg",
+      "name": "Retro Laser 1",
+      "tags": [
+        "digital",
+        "sci",
+        "retro",
+        "laser",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/retro-laser-02.m4a",
+      "src": "sci-fi-sfx/retro_laser_02.ogg",
+      "name": "Retro Laser 2",
+      "tags": [
+        "digital",
+        "sci",
+        "retro",
+        "laser",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/rocket-01.m4a",
+      "src": "sci-fi-sfx/rocket_01.ogg",
+      "name": "Rocket",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/shoot-01.m4a",
+      "src": "sci-fi-sfx/shoot_01.ogg",
+      "name": "Shoot 1",
+      "tags": [
+        "digital",
+        "sci",
+        "shoot",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/shoot-02.m4a",
+      "src": "sci-fi-sfx/shoot_02.ogg",
+      "name": "Shoot 2",
+      "tags": [
+        "digital",
+        "sci",
+        "shoot",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/teleport-01.m4a",
+      "src": "sci-fi-sfx/teleport_01.ogg",
+      "name": "Teleport 1",
+      "tags": [
+        "digital",
+        "sci",
+        "teleport",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/teleport-02.m4a",
+      "src": "sci-fi-sfx/teleport_02.ogg",
+      "name": "Teleport 2",
+      "tags": [
+        "digital",
+        "sci",
+        "teleport",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/terminal-01.m4a",
+      "src": "sci-fi-sfx/terminal_01.ogg",
+      "name": "Terminal 1",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/terminal-02.m4a",
+      "src": "sci-fi-sfx/terminal_02.ogg",
+      "name": "Terminal 2",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/terminal-03.m4a",
+      "src": "sci-fi-sfx/terminal_03.ogg",
+      "name": "Terminal 3",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/terminal-04.m4a",
+      "src": "sci-fi-sfx/terminal_04.ogg",
+      "name": "Terminal 4",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/terminal-05.m4a",
+      "src": "sci-fi-sfx/terminal_05.ogg",
+      "name": "Terminal 5",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/terminal-06.m4a",
+      "src": "sci-fi-sfx/terminal_06.ogg",
+      "name": "Terminal 6",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/terminal-07.m4a",
+      "src": "sci-fi-sfx/terminal_07.ogg",
+      "name": "Terminal 7",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/terminal-08.m4a",
+      "src": "sci-fi-sfx/terminal_08.ogg",
+      "name": "Terminal 8",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/terminal-09.m4a",
+      "src": "sci-fi-sfx/terminal_09.ogg",
+      "name": "Terminal 9",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/weird-01.m4a",
+      "src": "sci-fi-sfx/weird_01.ogg",
+      "name": "Weird 1",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/weird-02.m4a",
+      "src": "sci-fi-sfx/weird_02.ogg",
+      "name": "Weird 2",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/weird-03.m4a",
+      "src": "sci-fi-sfx/weird_03.ogg",
+      "name": "Weird 3",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/weird-04.m4a",
+      "src": "sci-fi-sfx/weird_04.ogg",
+      "name": "Weird 4",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/weird-05.m4a",
+      "src": "sci-fi-sfx/weird_05.ogg",
+      "name": "Weird 5",
+      "tags": [
+        "digital",
+        "sci",
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

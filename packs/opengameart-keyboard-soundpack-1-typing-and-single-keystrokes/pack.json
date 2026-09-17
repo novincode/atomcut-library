@@ -1,0 +1,651 @@
+{
+  "id": "opengameart-keyboard-soundpack-1-typing-and-single-keystrokes",
+  "title": "Keyboard Soundpack #1",
+  "blurb": "50 sounds — mostly Interface.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "unicaegames · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-unicaegames",
+    "name": "unicaegames"
+  },
+  "homepage": "https://opengameart.org/content/keyboard-soundpack-1-typing-and-single-keystrokes",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/generated-001-slowest.m4a",
+      "src": "unicae-games-keyboard-soundpack-1-0/Generated Typing/generated-001_slowest.wav",
+      "name": "Generated Slowest",
+      "tags": [
+        "interface",
+        "keyboard",
+        "typing",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/generated-002-slower.m4a",
+      "src": "unicae-games-keyboard-soundpack-1-0/Generated Typing/generated-002_slower.wav",
+      "name": "Generated Slower",
+      "tags": [
+        "interface",
+        "keyboard",
+        "typing",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/generated-003-slow.m4a",
+      "src": "unicae-games-keyboard-soundpack-1-0/Generated Typing/generated-003_slow.wav",
+      "name": "Generated Slow",
+      "tags": [
+        "interface",
+        "keyboard",
+        "typing",
+        "slow",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/generated-004-medium.m4a",
+      "src": "unicae-games-keyboard-soundpack-1-0/Generated Typing/generated-004_medium.wav",
+      "name": "Generated Medium",
+      "tags": [
+        "interface",
+        "keyboard",
+        "typing",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/generated-005-fast.m4a",
+      "src": "unicae-games-keyboard-soundpack-1-0/Generated Typing/generated-005_fast.wav",
+      "name": "Generated Fast",
+      "tags": [
+        "interface",
+        "keyboard",
+        "typing",
+        "fast",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/generated-006-faster.m4a",
+      "src": "unicae-games-keyboard-soundpack-1-0/Generated Typing/generated-006_faster.wav",
+      "name": "Generated Faster",
+      "tags": [
+        "interface",
+        "keyboard",
+        "typing",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/generated-007-irregular.m4a",
+      "src": "unicae-games-keyboard-soundpack-1-0/Generated Typing/generated-007_irregular.wav",
+      "name": "Generated Irregular",
+      "tags": [
+        "interface",
+        "keyboard",
+        "typing",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/human-vel-001.m4a",
+      "src": "unicae-games-keyboard-soundpack-1-0/Human Typing/human_vel-001.wav",
+      "name": "Human Vel 1",
+      "tags": [
+        "interface",
+        "keyboard",
+        "typing",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/human-vel-002.m4a",
+      "src": "unicae-games-keyboard-soundpack-1-0/Human Typing/human_vel-002.wav",
+      "name": "Human Vel 2",
+      "tags": [
+        "interface",
+        "keyboard",
+        "typing",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/human-vel-003.m4a",
+      "src": "unicae-games-keyboard-soundpack-1-0/Human Typing/human_vel-003.wav",
+      "name": "Human Vel 3",
+      "tags": [
+        "interface",
+        "keyboard",
+        "typing",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/human-vel-004.m4a",
+      "src": "unicae-games-keyboard-soundpack-1-0/Human Typing/human_vel-004.wav",
+      "name": "Human Vel 4",
+      "tags": [
+        "interface",
+        "keyboard",
+        "typing",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/human-vel-005.m4a",
+      "src": "unicae-games-keyboard-soundpack-1-0/Human Typing/human_vel-005.wav",
+      "name": "Human Vel 5",
+      "tags": [
+        "interface",
+        "keyboard",
+        "typing",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/human-vel-006.m4a",
+      "src": "unicae-games-keyboard-soundpack-1-0/Human Typing/human_vel-006.wav",
+      "name": "Human Vel 6",
+      "tags": [
+        "interface",
+        "keyboard",
+        "typing",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/human-vel-007.m4a",
+      "src": "unicae-games-keyboard-soundpack-1-0/Human Typing/human_vel-007.wav",
+      "name": "Human Vel 7",
+      "tags": [
+        "interface",
+        "keyboard",
+        "typing",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/human-vel-008.m4a",
+      "src": "unicae-games-keyboard-soundpack-1-0/Human Typing/human_vel-008.wav",
+      "name": "Human Vel 8",
+      "tags": [
+        "interface",
+        "keyboard",
+        "typing",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/human-vel-009.m4a",
+      "src": "unicae-games-keyboard-soundpack-1-0/Human Typing/human_vel-009.wav",
+      "name": "Human Vel 9",
+      "tags": [
+        "interface",
+        "keyboard",
+        "typing",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/human-vel-010.m4a",
+      "src": "unicae-games-keyboard-soundpack-1-0/Human Typing/human_vel-010.wav",
+      "name": "Human Vel 10",
+      "tags": [
+        "interface",
+        "keyboard",
+        "typing",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/keypress-001.m4a",
+      "src": "unicae-games-keyboard-soundpack-1-0/Single Keys/keypress-001.wav",
+      "name": "Keypress 1",
+      "tags": [
+        "interface",
+        "keyboard",
+        "single",
+        "key",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/keypress-002.m4a",
+      "src": "unicae-games-keyboard-soundpack-1-0/Single Keys/keypress-002.wav",
+      "name": "Keypress 2",
+      "tags": [
+        "interface",
+        "keyboard",
+        "single",
+        "key",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/keypress-003.m4a",
+      "src": "unicae-games-keyboard-soundpack-1-0/Single Keys/keypress-003.wav",
+      "name": "Keypress 3",
+      "tags": [
+        "interface",
+        "keyboard",
+        "single",
+        "key",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/keypress-004.m4a",
+      "src": "unicae-games-keyboard-soundpack-1-0/Single Keys/keypress-004.wav",
+      "name": "Keypress 4",
+      "tags": [
+        "interface",
+        "keyboard",
+        "single",
+        "key",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/keypress-005.m4a",
+      "src": "unicae-games-keyboard-soundpack-1-0/Single Keys/keypress-005.wav",
+      "name": "Keypress 5",
+      "tags": [
+        "interface",
+        "keyboard",
+        "single",
+        "key",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/keypress-006.m4a",
+      "src": "unicae-games-keyboard-soundpack-1-0/Single Keys/keypress-006.wav",
+      "name": "Keypress 6",
+      "tags": [
+        "interface",
+        "keyboard",
+        "single",
+        "key",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/keypress-007.m4a",
+      "src": "unicae-games-keyboard-soundpack-1-0/Single Keys/keypress-007.wav",
+      "name": "Keypress 7",
+      "tags": [
+        "interface",
+        "keyboard",
+        "single",
+        "key",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/keypress-008.m4a",
+      "src": "unicae-games-keyboard-soundpack-1-0/Single Keys/keypress-008.wav",
+      "name": "Keypress 8",
+      "tags": [
+        "interface",
+        "keyboard",
+        "single",
+        "key",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/keypress-009.m4a",
+      "src": "unicae-games-keyboard-soundpack-1-0/Single Keys/keypress-009.wav",
+      "name": "Keypress 9",
+      "tags": [
+        "interface",
+        "keyboard",
+        "single",
+        "key",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/keypress-010.m4a",
+      "src": "unicae-games-keyboard-soundpack-1-0/Single Keys/keypress-010.wav",
+      "name": "Keypress 10",
+      "tags": [
+        "interface",
+        "keyboard",
+        "single",
+        "key",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/keypress-011.m4a",
+      "src": "unicae-games-keyboard-soundpack-1-0/Single Keys/keypress-011.wav",
+      "name": "Keypress 11",
+      "tags": [
+        "interface",
+        "keyboard",
+        "single",
+        "key",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/keypress-012.m4a",
+      "src": "unicae-games-keyboard-soundpack-1-0/Single Keys/keypress-012.wav",
+      "name": "Keypress 12",
+      "tags": [
+        "interface",
+        "keyboard",
+        "single",
+        "key",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/keypress-013.m4a",
+      "src": "unicae-games-keyboard-soundpack-1-0/Single Keys/keypress-013.wav",
+      "name": "Keypress 13",
+      "tags": [
+        "interface",
+        "keyboard",
+        "single",
+        "key",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/keypress-014.m4a",
+      "src": "unicae-games-keyboard-soundpack-1-0/Single Keys/keypress-014.wav",
+      "name": "Keypress 14",
+      "tags": [
+        "interface",
+        "keyboard",
+        "single",
+        "key",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/keypress-015.m4a",
+      "src": "unicae-games-keyboard-soundpack-1-0/Single Keys/keypress-015.wav",
+      "name": "Keypress 15",
+      "tags": [
+        "interface",
+        "keyboard",
+        "single",
+        "key",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/keypress-016.m4a",
+      "src": "unicae-games-keyboard-soundpack-1-0/Single Keys/keypress-016.wav",
+      "name": "Keypress 16",
+      "tags": [
+        "interface",
+        "keyboard",
+        "single",
+        "key",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/keypress-017.m4a",
+      "src": "unicae-games-keyboard-soundpack-1-0/Single Keys/keypress-017.wav",
+      "name": "Keypress 17",
+      "tags": [
+        "interface",
+        "keyboard",
+        "single",
+        "key",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/keypress-018.m4a",
+      "src": "unicae-games-keyboard-soundpack-1-0/Single Keys/keypress-018.wav",
+      "name": "Keypress 18",
+      "tags": [
+        "interface",
+        "keyboard",
+        "single",
+        "key",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/keypress-019.m4a",
+      "src": "unicae-games-keyboard-soundpack-1-0/Single Keys/keypress-019.wav",
+      "name": "Keypress 19",
+      "tags": [
+        "interface",
+        "keyboard",
+        "single",
+        "key",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/keypress-020.m4a",
+      "src": "unicae-games-keyboard-soundpack-1-0/Single Keys/keypress-020.wav",
+      "name": "Keypress 20",
+      "tags": [
+        "interface",
+        "keyboard",
+        "single",
+        "key",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/keypress-021.m4a",
+      "src": "unicae-games-keyboard-soundpack-1-0/Single Keys/keypress-021.wav",
+      "name": "Keypress 21",
+      "tags": [
+        "interface",
+        "keyboard",
+        "single",
+        "key",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/keypress-022.m4a",
+      "src": "unicae-games-keyboard-soundpack-1-0/Single Keys/keypress-022.wav",
+      "name": "Keypress 22",
+      "tags": [
+        "interface",
+        "keyboard",
+        "single",
+        "key",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/keypress-023.m4a",
+      "src": "unicae-games-keyboard-soundpack-1-0/Single Keys/keypress-023.wav",
+      "name": "Keypress 23",
+      "tags": [
+        "interface",
+        "keyboard",
+        "single",
+        "key",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/keypress-024.m4a",
+      "src": "unicae-games-keyboard-soundpack-1-0/Single Keys/keypress-024.wav",
+      "name": "Keypress 24",
+      "tags": [
+        "interface",
+        "keyboard",
+        "single",
+        "key",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/keypress-025.m4a",
+      "src": "unicae-games-keyboard-soundpack-1-0/Single Keys/keypress-025.wav",
+      "name": "Keypress 25",
+      "tags": [
+        "interface",
+        "keyboard",
+        "single",
+        "key",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/keypress-026.m4a",
+      "src": "unicae-games-keyboard-soundpack-1-0/Single Keys/keypress-026.wav",
+      "name": "Keypress 26",
+      "tags": [
+        "interface",
+        "keyboard",
+        "single",
+        "key",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/keypress-027.m4a",
+      "src": "unicae-games-keyboard-soundpack-1-0/Single Keys/keypress-027.wav",
+      "name": "Keypress 27",
+      "tags": [
+        "interface",
+        "keyboard",
+        "single",
+        "key",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/keypress-028.m4a",
+      "src": "unicae-games-keyboard-soundpack-1-0/Single Keys/keypress-028.wav",
+      "name": "Keypress 28",
+      "tags": [
+        "interface",
+        "keyboard",
+        "single",
+        "key",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/keypress-029.m4a",
+      "src": "unicae-games-keyboard-soundpack-1-0/Single Keys/keypress-029.wav",
+      "name": "Keypress 29",
+      "tags": [
+        "interface",
+        "keyboard",
+        "single",
+        "key",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/keypress-030.m4a",
+      "src": "unicae-games-keyboard-soundpack-1-0/Single Keys/keypress-030.wav",
+      "name": "Keypress 30",
+      "tags": [
+        "interface",
+        "keyboard",
+        "single",
+        "key",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/keypress-031.m4a",
+      "src": "unicae-games-keyboard-soundpack-1-0/Single Keys/keypress-031.wav",
+      "name": "Keypress 31",
+      "tags": [
+        "interface",
+        "keyboard",
+        "single",
+        "key",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/keypress-032.m4a",
+      "src": "unicae-games-keyboard-soundpack-1-0/Single Keys/keypress-032.wav",
+      "name": "Keypress 32",
+      "tags": [
+        "interface",
+        "keyboard",
+        "single",
+        "key",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/preview.m4a",
+      "src": "unicae-games-keyboard-soundpack-1-0/preview.ogg",
+      "name": "Preview",
+      "tags": [
+        "interface",
+        "keyboard",
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

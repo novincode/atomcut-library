@@ -1,0 +1,149 @@
+{
+  "id": "opengameart-level-up-power-up-coin-get-13-sounds",
+  "title": "Level up, power up, Coin get (13 Sounds)",
+  "blurb": "13 sounds — mostly Interface and Digital.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "wobbleboxx · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-wobbleboxx",
+    "name": "wobbleboxx"
+  },
+  "homepage": "https://opengameart.org/content/level-up-power-up-coin-get-13-sounds",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/alarm.m4a",
+      "src": "sound-pack01/Alarm.aif",
+      "name": "Alarm",
+      "tags": [
+        "digital",
+        "alarm",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/coin01.m4a",
+      "src": "sound-pack01/Coin01.aif",
+      "name": "Coin01",
+      "tags": [
+        "interface",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/downer01.m4a",
+      "src": "sound-pack01/Downer01.aif",
+      "name": "Downer01",
+      "tags": [
+        "interface",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/fx01.m4a",
+      "src": "sound-pack01/FX01.aif",
+      "name": "Fx01",
+      "tags": [
+        "interface",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/fx02.m4a",
+      "src": "sound-pack01/FX02.aif",
+      "name": "Fx02",
+      "tags": [
+        "interface",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/rise01.m4a",
+      "src": "sound-pack01/Rise01.aif",
+      "name": "Rise01",
+      "tags": [
+        "interface",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/rise02.m4a",
+      "src": "sound-pack01/Rise02.aif",
+      "name": "Rise02",
+      "tags": [
+        "interface",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/rise03.m4a",
+      "src": "sound-pack01/Rise03.aif",
+      "name": "Rise03",
+      "tags": [
+        "interface",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/rise04.m4a",
+      "src": "sound-pack01/Rise04.aif",
+      "name": "Rise04",
+      "tags": [
+        "interface",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/rise05.m4a",
+      "src": "sound-pack01/Rise05.aif",
+      "name": "Rise05",
+      "tags": [
+        "interface",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/rise06.m4a",
+      "src": "sound-pack01/Rise06.aif",
+      "name": "Rise06",
+      "tags": [
+        "interface",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/rise07.m4a",
+      "src": "sound-pack01/Rise07.aif",
+      "name": "Rise07",
+      "tags": [
+        "interface",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/upper01.m4a",
+      "src": "sound-pack01/Upper01.aif",
+      "name": "Upper01",
+      "tags": [
+        "interface",
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

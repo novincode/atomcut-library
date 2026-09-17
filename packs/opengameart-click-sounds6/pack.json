@@ -1,0 +1,84 @@
+{
+  "id": "opengameart-click-sounds6",
+  "title": "Click sounds(6)",
+  "blurb": "6 sounds — mostly Interface.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "pauliuw · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-pauliuw",
+    "name": "pauliuw"
+  },
+  "homepage": "https://opengameart.org/content/click-sounds6",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/click-sound.m4a",
+      "src": "click_sound.mp3",
+      "name": "Click",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click-sound-1.m4a",
+      "src": "click_sound_1.mp3",
+      "name": "Click 1",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click-sound-2.m4a",
+      "src": "click_sound_2.mp3",
+      "name": "Click 2",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click-sound-4.m4a",
+      "src": "click_sound_4.mp3",
+      "name": "Click 4",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click-sound-5.m4a",
+      "src": "click_sound_5.mp3",
+      "name": "Click 5",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/click-sound-6.m4a",
+      "src": "click_sound_6.mp3",
+      "name": "Click 6",
+      "tags": [
+        "interface",
+        "click",
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

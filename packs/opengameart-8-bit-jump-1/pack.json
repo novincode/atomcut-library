@@ -1,0 +1,557 @@
+{
+  "id": "opengameart-8-bit-jump-1",
+  "title": "8-BIT Jump #1",
+  "blurb": "49 sounds — mostly Foley.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "jalastram · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-jalastram",
+    "name": "jalastram"
+  },
+  "homepage": "https://opengameart.org/content/8-bit-jump-1",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/sfx-jump-01.m4a",
+      "src": "8-bit-5-b50-sfx-5-d-jump-free-sound-effe/8_BIT_[50_SFX]_Jump_Free_Sound_Effects_N1_BY_jalastram/SFX_Jump_01.wav",
+      "name": "Jump 1",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-jump-02.m4a",
+      "src": "8-bit-5-b50-sfx-5-d-jump-free-sound-effe/8_BIT_[50_SFX]_Jump_Free_Sound_Effects_N1_BY_jalastram/SFX_Jump_02.wav",
+      "name": "Jump 2",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-jump-03.m4a",
+      "src": "8-bit-5-b50-sfx-5-d-jump-free-sound-effe/8_BIT_[50_SFX]_Jump_Free_Sound_Effects_N1_BY_jalastram/SFX_Jump_03.wav",
+      "name": "Jump 3",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-jump-04.m4a",
+      "src": "8-bit-5-b50-sfx-5-d-jump-free-sound-effe/8_BIT_[50_SFX]_Jump_Free_Sound_Effects_N1_BY_jalastram/SFX_Jump_04.wav",
+      "name": "Jump 4",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-jump-05.m4a",
+      "src": "8-bit-5-b50-sfx-5-d-jump-free-sound-effe/8_BIT_[50_SFX]_Jump_Free_Sound_Effects_N1_BY_jalastram/SFX_Jump_05.wav",
+      "name": "Jump 5",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-jump-06.m4a",
+      "src": "8-bit-5-b50-sfx-5-d-jump-free-sound-effe/8_BIT_[50_SFX]_Jump_Free_Sound_Effects_N1_BY_jalastram/SFX_Jump_06.wav",
+      "name": "Jump 6",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-jump-07.m4a",
+      "src": "8-bit-5-b50-sfx-5-d-jump-free-sound-effe/8_BIT_[50_SFX]_Jump_Free_Sound_Effects_N1_BY_jalastram/SFX_Jump_07.wav",
+      "name": "Jump 7",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-jump-08.m4a",
+      "src": "8-bit-5-b50-sfx-5-d-jump-free-sound-effe/8_BIT_[50_SFX]_Jump_Free_Sound_Effects_N1_BY_jalastram/SFX_Jump_08.wav",
+      "name": "Jump 8",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-jump-09.m4a",
+      "src": "8-bit-5-b50-sfx-5-d-jump-free-sound-effe/8_BIT_[50_SFX]_Jump_Free_Sound_Effects_N1_BY_jalastram/SFX_Jump_09.wav",
+      "name": "Jump 9",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-jump-10.m4a",
+      "src": "8-bit-5-b50-sfx-5-d-jump-free-sound-effe/8_BIT_[50_SFX]_Jump_Free_Sound_Effects_N1_BY_jalastram/SFX_Jump_10.wav",
+      "name": "Jump 10",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-jump-11.m4a",
+      "src": "8-bit-5-b50-sfx-5-d-jump-free-sound-effe/8_BIT_[50_SFX]_Jump_Free_Sound_Effects_N1_BY_jalastram/SFX_Jump_11.wav",
+      "name": "Jump 11",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-jump-12.m4a",
+      "src": "8-bit-5-b50-sfx-5-d-jump-free-sound-effe/8_BIT_[50_SFX]_Jump_Free_Sound_Effects_N1_BY_jalastram/SFX_Jump_12.wav",
+      "name": "Jump 12",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-jump-13.m4a",
+      "src": "8-bit-5-b50-sfx-5-d-jump-free-sound-effe/8_BIT_[50_SFX]_Jump_Free_Sound_Effects_N1_BY_jalastram/SFX_Jump_13.wav",
+      "name": "Jump 13",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-jump-14.m4a",
+      "src": "8-bit-5-b50-sfx-5-d-jump-free-sound-effe/8_BIT_[50_SFX]_Jump_Free_Sound_Effects_N1_BY_jalastram/SFX_Jump_14.wav",
+      "name": "Jump 14",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-jump-15.m4a",
+      "src": "8-bit-5-b50-sfx-5-d-jump-free-sound-effe/8_BIT_[50_SFX]_Jump_Free_Sound_Effects_N1_BY_jalastram/SFX_Jump_15.wav",
+      "name": "Jump 15",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-jump-16.m4a",
+      "src": "8-bit-5-b50-sfx-5-d-jump-free-sound-effe/8_BIT_[50_SFX]_Jump_Free_Sound_Effects_N1_BY_jalastram/SFX_Jump_16.wav",
+      "name": "Jump 16",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-jump-17.m4a",
+      "src": "8-bit-5-b50-sfx-5-d-jump-free-sound-effe/8_BIT_[50_SFX]_Jump_Free_Sound_Effects_N1_BY_jalastram/SFX_Jump_17.wav",
+      "name": "Jump 17",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-jump-18.m4a",
+      "src": "8-bit-5-b50-sfx-5-d-jump-free-sound-effe/8_BIT_[50_SFX]_Jump_Free_Sound_Effects_N1_BY_jalastram/SFX_Jump_18.wav",
+      "name": "Jump 18",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-jump-19.m4a",
+      "src": "8-bit-5-b50-sfx-5-d-jump-free-sound-effe/8_BIT_[50_SFX]_Jump_Free_Sound_Effects_N1_BY_jalastram/SFX_Jump_19.wav",
+      "name": "Jump 19",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-jump-20.m4a",
+      "src": "8-bit-5-b50-sfx-5-d-jump-free-sound-effe/8_BIT_[50_SFX]_Jump_Free_Sound_Effects_N1_BY_jalastram/SFX_Jump_20.wav",
+      "name": "Jump 20",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-jump-21.m4a",
+      "src": "8-bit-5-b50-sfx-5-d-jump-free-sound-effe/8_BIT_[50_SFX]_Jump_Free_Sound_Effects_N1_BY_jalastram/SFX_Jump_21.wav",
+      "name": "Jump 21",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-jump-22.m4a",
+      "src": "8-bit-5-b50-sfx-5-d-jump-free-sound-effe/8_BIT_[50_SFX]_Jump_Free_Sound_Effects_N1_BY_jalastram/SFX_Jump_22.wav",
+      "name": "Jump 22",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-jump-23.m4a",
+      "src": "8-bit-5-b50-sfx-5-d-jump-free-sound-effe/8_BIT_[50_SFX]_Jump_Free_Sound_Effects_N1_BY_jalastram/SFX_Jump_23.wav",
+      "name": "Jump 23",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-jump-24.m4a",
+      "src": "8-bit-5-b50-sfx-5-d-jump-free-sound-effe/8_BIT_[50_SFX]_Jump_Free_Sound_Effects_N1_BY_jalastram/SFX_Jump_24.wav",
+      "name": "Jump 24",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-jump-25.m4a",
+      "src": "8-bit-5-b50-sfx-5-d-jump-free-sound-effe/8_BIT_[50_SFX]_Jump_Free_Sound_Effects_N1_BY_jalastram/SFX_Jump_25.wav",
+      "name": "Jump 25",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-jump-26.m4a",
+      "src": "8-bit-5-b50-sfx-5-d-jump-free-sound-effe/8_BIT_[50_SFX]_Jump_Free_Sound_Effects_N1_BY_jalastram/SFX_Jump_26.wav",
+      "name": "Jump 26",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-jump-27.m4a",
+      "src": "8-bit-5-b50-sfx-5-d-jump-free-sound-effe/8_BIT_[50_SFX]_Jump_Free_Sound_Effects_N1_BY_jalastram/SFX_Jump_27.wav",
+      "name": "Jump 27",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-jump-28.m4a",
+      "src": "8-bit-5-b50-sfx-5-d-jump-free-sound-effe/8_BIT_[50_SFX]_Jump_Free_Sound_Effects_N1_BY_jalastram/SFX_Jump_28.wav",
+      "name": "Jump 28",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-jump-30.m4a",
+      "src": "8-bit-5-b50-sfx-5-d-jump-free-sound-effe/8_BIT_[50_SFX]_Jump_Free_Sound_Effects_N1_BY_jalastram/SFX_Jump_30.wav",
+      "name": "Jump 30",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-jump-31.m4a",
+      "src": "8-bit-5-b50-sfx-5-d-jump-free-sound-effe/8_BIT_[50_SFX]_Jump_Free_Sound_Effects_N1_BY_jalastram/SFX_Jump_31.wav",
+      "name": "Jump 31",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-jump-32.m4a",
+      "src": "8-bit-5-b50-sfx-5-d-jump-free-sound-effe/8_BIT_[50_SFX]_Jump_Free_Sound_Effects_N1_BY_jalastram/SFX_Jump_32.wav",
+      "name": "Jump 32",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-jump-33.m4a",
+      "src": "8-bit-5-b50-sfx-5-d-jump-free-sound-effe/8_BIT_[50_SFX]_Jump_Free_Sound_Effects_N1_BY_jalastram/SFX_Jump_33.wav",
+      "name": "Jump 33",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-jump-34.m4a",
+      "src": "8-bit-5-b50-sfx-5-d-jump-free-sound-effe/8_BIT_[50_SFX]_Jump_Free_Sound_Effects_N1_BY_jalastram/SFX_Jump_34.wav",
+      "name": "Jump 34",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-jump-35.m4a",
+      "src": "8-bit-5-b50-sfx-5-d-jump-free-sound-effe/8_BIT_[50_SFX]_Jump_Free_Sound_Effects_N1_BY_jalastram/SFX_Jump_35.wav",
+      "name": "Jump 35",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-jump-36.m4a",
+      "src": "8-bit-5-b50-sfx-5-d-jump-free-sound-effe/8_BIT_[50_SFX]_Jump_Free_Sound_Effects_N1_BY_jalastram/SFX_Jump_36.wav",
+      "name": "Jump 36",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-jump-37.m4a",
+      "src": "8-bit-5-b50-sfx-5-d-jump-free-sound-effe/8_BIT_[50_SFX]_Jump_Free_Sound_Effects_N1_BY_jalastram/SFX_Jump_37.wav",
+      "name": "Jump 37",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-jump-38.m4a",
+      "src": "8-bit-5-b50-sfx-5-d-jump-free-sound-effe/8_BIT_[50_SFX]_Jump_Free_Sound_Effects_N1_BY_jalastram/SFX_Jump_38.wav",
+      "name": "Jump 38",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-jump-39.m4a",
+      "src": "8-bit-5-b50-sfx-5-d-jump-free-sound-effe/8_BIT_[50_SFX]_Jump_Free_Sound_Effects_N1_BY_jalastram/SFX_Jump_39.wav",
+      "name": "Jump 39",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-jump-40.m4a",
+      "src": "8-bit-5-b50-sfx-5-d-jump-free-sound-effe/8_BIT_[50_SFX]_Jump_Free_Sound_Effects_N1_BY_jalastram/SFX_Jump_40.wav",
+      "name": "Jump 40",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-jump-41.m4a",
+      "src": "8-bit-5-b50-sfx-5-d-jump-free-sound-effe/8_BIT_[50_SFX]_Jump_Free_Sound_Effects_N1_BY_jalastram/SFX_Jump_41.wav",
+      "name": "Jump 41",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-jump-42.m4a",
+      "src": "8-bit-5-b50-sfx-5-d-jump-free-sound-effe/8_BIT_[50_SFX]_Jump_Free_Sound_Effects_N1_BY_jalastram/SFX_Jump_42.wav",
+      "name": "Jump 42",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-jump-43.m4a",
+      "src": "8-bit-5-b50-sfx-5-d-jump-free-sound-effe/8_BIT_[50_SFX]_Jump_Free_Sound_Effects_N1_BY_jalastram/SFX_Jump_43.wav",
+      "name": "Jump 43",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-jump-44.m4a",
+      "src": "8-bit-5-b50-sfx-5-d-jump-free-sound-effe/8_BIT_[50_SFX]_Jump_Free_Sound_Effects_N1_BY_jalastram/SFX_Jump_44.wav",
+      "name": "Jump 44",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-jump-45.m4a",
+      "src": "8-bit-5-b50-sfx-5-d-jump-free-sound-effe/8_BIT_[50_SFX]_Jump_Free_Sound_Effects_N1_BY_jalastram/SFX_Jump_45.wav",
+      "name": "Jump 45",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-jump-46.m4a",
+      "src": "8-bit-5-b50-sfx-5-d-jump-free-sound-effe/8_BIT_[50_SFX]_Jump_Free_Sound_Effects_N1_BY_jalastram/SFX_Jump_46.wav",
+      "name": "Jump 46",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-jump-47.m4a",
+      "src": "8-bit-5-b50-sfx-5-d-jump-free-sound-effe/8_BIT_[50_SFX]_Jump_Free_Sound_Effects_N1_BY_jalastram/SFX_Jump_47.wav",
+      "name": "Jump 47",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-jump-48.m4a",
+      "src": "8-bit-5-b50-sfx-5-d-jump-free-sound-effe/8_BIT_[50_SFX]_Jump_Free_Sound_Effects_N1_BY_jalastram/SFX_Jump_48.wav",
+      "name": "Jump 48",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-jump-49.m4a",
+      "src": "8-bit-5-b50-sfx-5-d-jump-free-sound-effe/8_BIT_[50_SFX]_Jump_Free_Sound_Effects_N1_BY_jalastram/SFX_Jump_49.wav",
+      "name": "Jump 49",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/sfx-jump-50.m4a",
+      "src": "8-bit-5-b50-sfx-5-d-jump-free-sound-effe/8_BIT_[50_SFX]_Jump_Free_Sound_Effects_N1_BY_jalastram/SFX_Jump_50.wav",
+      "name": "Jump 50",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

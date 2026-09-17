@@ -1,7 +1,7 @@
 {
   "id": "kenney-interface-sounds",
   "title": "Interface Sounds",
-  "blurb": "100 sounds — mostly Interface and Digital.",
+  "blurb": "95 sounds — mostly Interface and Digital.",
   "kind": "sound",
   "license": "CC0-1.0",
   "attribution": "Kenney · kenney.nl · CC0 1.0 (public domain)",
@@ -9,6 +9,7 @@
     "id": "kenney",
     "name": "Kenney"
   },
+  "homepage": "https://kenney.nl/assets/category:Audio",
   "tags": [
     "cc0",
     "ui"
@@ -16,6 +17,7 @@
   "files": [
     {
       "file": "audio/back-001.m4a",
+      "src": "Audio/back_001.ogg",
       "name": "Back 1",
       "tags": [
         "interface",
@@ -25,6 +27,7 @@
     },
     {
       "file": "audio/back-002.m4a",
+      "src": "Audio/back_002.ogg",
       "name": "Back 2",
       "tags": [
         "interface",
@@ -34,6 +37,7 @@
     },
     {
       "file": "audio/back-003.m4a",
+      "src": "Audio/back_003.ogg",
       "name": "Back 3",
       "tags": [
         "interface",
@@ -43,6 +47,7 @@
     },
     {
       "file": "audio/back-004.m4a",
+      "src": "Audio/back_004.ogg",
       "name": "Back 4",
       "tags": [
         "interface",
@@ -52,6 +57,7 @@
     },
     {
       "file": "audio/bong-001.m4a",
+      "src": "Audio/bong_001.ogg",
       "name": "Bong",
       "tags": [
         "interface",
@@ -61,6 +67,7 @@
     },
     {
       "file": "audio/click-001.m4a",
+      "src": "Audio/click_001.ogg",
       "name": "Click 1",
       "tags": [
         "interface",
@@ -70,47 +77,8 @@
       "blurb": null
     },
     {
-      "file": "audio/click-002.m4a",
-      "name": "Click 2",
-      "tags": [
-        "interface",
-        "click",
-        "ui"
-      ],
-      "blurb": null
-    },
-    {
-      "file": "audio/click-003.m4a",
-      "name": "Click 3",
-      "tags": [
-        "interface",
-        "click",
-        "ui"
-      ],
-      "blurb": null
-    },
-    {
-      "file": "audio/click-004.m4a",
-      "name": "Click 4",
-      "tags": [
-        "interface",
-        "click",
-        "ui"
-      ],
-      "blurb": null
-    },
-    {
-      "file": "audio/click-005.m4a",
-      "name": "Click 5",
-      "tags": [
-        "interface",
-        "click",
-        "ui"
-      ],
-      "blurb": null
-    },
-    {
       "file": "audio/close-001.m4a",
+      "src": "Audio/close_001.ogg",
       "name": "Close 1",
       "tags": [
         "interface",
@@ -120,6 +88,7 @@
     },
     {
       "file": "audio/close-002.m4a",
+      "src": "Audio/close_002.ogg",
       "name": "Close 2",
       "tags": [
         "interface",
@@ -129,6 +98,7 @@
     },
     {
       "file": "audio/close-003.m4a",
+      "src": "Audio/close_003.ogg",
       "name": "Close 3",
       "tags": [
         "interface",
@@ -138,6 +108,7 @@
     },
     {
       "file": "audio/close-004.m4a",
+      "src": "Audio/close_004.ogg",
       "name": "Close 4",
       "tags": [
         "interface",
@@ -147,6 +118,7 @@
     },
     {
       "file": "audio/confirmation-001.m4a",
+      "src": "Audio/confirmation_001.ogg",
       "name": "Confirmation 1",
       "tags": [
         "interface",
@@ -156,6 +128,7 @@
     },
     {
       "file": "audio/confirmation-002.m4a",
+      "src": "Audio/confirmation_002.ogg",
       "name": "Confirmation 2",
       "tags": [
         "interface",
@@ -165,6 +138,7 @@
     },
     {
       "file": "audio/confirmation-003.m4a",
+      "src": "Audio/confirmation_003.ogg",
       "name": "Confirmation 3",
       "tags": [
         "interface",
@@ -174,6 +148,7 @@
     },
     {
       "file": "audio/confirmation-004.m4a",
+      "src": "Audio/confirmation_004.ogg",
       "name": "Confirmation 4",
       "tags": [
         "interface",
@@ -183,6 +158,7 @@
     },
     {
       "file": "audio/drop-001.m4a",
+      "src": "Audio/drop_001.ogg",
       "name": "Drop 1",
       "tags": [
         "foley",
@@ -193,6 +169,7 @@
     },
     {
       "file": "audio/drop-002.m4a",
+      "src": "Audio/drop_002.ogg",
       "name": "Drop 2",
       "tags": [
         "foley",
@@ -203,6 +180,7 @@
     },
     {
       "file": "audio/drop-003.m4a",
+      "src": "Audio/drop_003.ogg",
       "name": "Drop 3",
       "tags": [
         "foley",
@@ -213,6 +191,7 @@
     },
     {
       "file": "audio/drop-004.m4a",
+      "src": "Audio/drop_004.ogg",
       "name": "Drop 4",
       "tags": [
         "foley",
@@ -223,6 +202,7 @@
     },
     {
       "file": "audio/error-001.m4a",
+      "src": "Audio/error_001.ogg",
       "name": "Error 1",
       "tags": [
         "digital",
@@ -233,6 +213,7 @@
     },
     {
       "file": "audio/error-002.m4a",
+      "src": "Audio/error_002.ogg",
       "name": "Error 2",
       "tags": [
         "digital",
@@ -243,6 +224,7 @@
     },
     {
       "file": "audio/error-003.m4a",
+      "src": "Audio/error_003.ogg",
       "name": "Error 3",
       "tags": [
         "digital",
@@ -253,6 +235,7 @@
     },
     {
       "file": "audio/error-004.m4a",
+      "src": "Audio/error_004.ogg",
       "name": "Error 4",
       "tags": [
         "digital",
@@ -263,6 +246,7 @@
     },
     {
       "file": "audio/error-005.m4a",
+      "src": "Audio/error_005.ogg",
       "name": "Error 5",
       "tags": [
         "digital",
@@ -273,6 +257,7 @@
     },
     {
       "file": "audio/error-006.m4a",
+      "src": "Audio/error_006.ogg",
       "name": "Error 6",
       "tags": [
         "digital",
@@ -283,6 +268,7 @@
     },
     {
       "file": "audio/error-007.m4a",
+      "src": "Audio/error_007.ogg",
       "name": "Error 7",
       "tags": [
         "digital",
@@ -293,6 +279,7 @@
     },
     {
       "file": "audio/error-008.m4a",
+      "src": "Audio/error_008.ogg",
       "name": "Error 8",
       "tags": [
         "digital",
@@ -303,6 +290,7 @@
     },
     {
       "file": "audio/glass-001.m4a",
+      "src": "Audio/glass_001.ogg",
       "name": "Glass 1",
       "tags": [
         "impact",
@@ -313,6 +301,7 @@
     },
     {
       "file": "audio/glass-002.m4a",
+      "src": "Audio/glass_002.ogg",
       "name": "Glass 2",
       "tags": [
         "impact",
@@ -323,6 +312,7 @@
     },
     {
       "file": "audio/glass-003.m4a",
+      "src": "Audio/glass_003.ogg",
       "name": "Glass 3",
       "tags": [
         "impact",
@@ -333,6 +323,7 @@
     },
     {
       "file": "audio/glass-004.m4a",
+      "src": "Audio/glass_004.ogg",
       "name": "Glass 4",
       "tags": [
         "impact",
@@ -343,6 +334,7 @@
     },
     {
       "file": "audio/glass-005.m4a",
+      "src": "Audio/glass_005.ogg",
       "name": "Glass 5",
       "tags": [
         "impact",
@@ -353,6 +345,7 @@
     },
     {
       "file": "audio/glass-006.m4a",
+      "src": "Audio/glass_006.ogg",
       "name": "Glass 6",
       "tags": [
         "impact",
@@ -363,6 +356,7 @@
     },
     {
       "file": "audio/glitch-001.m4a",
+      "src": "Audio/glitch_001.ogg",
       "name": "Glitch 1",
       "tags": [
         "digital",
@@ -373,6 +367,7 @@
     },
     {
       "file": "audio/glitch-002.m4a",
+      "src": "Audio/glitch_002.ogg",
       "name": "Glitch 2",
       "tags": [
         "digital",
@@ -382,17 +377,8 @@
       "blurb": null
     },
     {
-      "file": "audio/glitch-003.m4a",
-      "name": "Glitch 3",
-      "tags": [
-        "digital",
-        "glitch",
-        "ui"
-      ],
-      "blurb": null
-    },
-    {
       "file": "audio/glitch-004.m4a",
+      "src": "Audio/glitch_004.ogg",
       "name": "Glitch 4",
       "tags": [
         "digital",
@@ -403,6 +389,7 @@
     },
     {
       "file": "audio/maximize-001.m4a",
+      "src": "Audio/maximize_001.ogg",
       "name": "Maximize 1",
       "tags": [
         "interface",
@@ -412,6 +399,7 @@
     },
     {
       "file": "audio/maximize-002.m4a",
+      "src": "Audio/maximize_002.ogg",
       "name": "Maximize 2",
       "tags": [
         "interface",
@@ -421,6 +409,7 @@
     },
     {
       "file": "audio/maximize-003.m4a",
+      "src": "Audio/maximize_003.ogg",
       "name": "Maximize 3",
       "tags": [
         "interface",
@@ -430,6 +419,7 @@
     },
     {
       "file": "audio/maximize-004.m4a",
+      "src": "Audio/maximize_004.ogg",
       "name": "Maximize 4",
       "tags": [
         "interface",
@@ -439,6 +429,7 @@
     },
     {
       "file": "audio/maximize-005.m4a",
+      "src": "Audio/maximize_005.ogg",
       "name": "Maximize 5",
       "tags": [
         "interface",
@@ -448,6 +439,7 @@
     },
     {
       "file": "audio/maximize-006.m4a",
+      "src": "Audio/maximize_006.ogg",
       "name": "Maximize 6",
       "tags": [
         "interface",
@@ -457,6 +449,7 @@
     },
     {
       "file": "audio/maximize-007.m4a",
+      "src": "Audio/maximize_007.ogg",
       "name": "Maximize 7",
       "tags": [
         "interface",
@@ -466,6 +459,7 @@
     },
     {
       "file": "audio/maximize-008.m4a",
+      "src": "Audio/maximize_008.ogg",
       "name": "Maximize 8",
       "tags": [
         "interface",
@@ -475,6 +469,7 @@
     },
     {
       "file": "audio/maximize-009.m4a",
+      "src": "Audio/maximize_009.ogg",
       "name": "Maximize 9",
       "tags": [
         "interface",
@@ -484,6 +479,7 @@
     },
     {
       "file": "audio/minimize-001.m4a",
+      "src": "Audio/minimize_001.ogg",
       "name": "Minimize 1",
       "tags": [
         "interface",
@@ -493,6 +489,7 @@
     },
     {
       "file": "audio/minimize-002.m4a",
+      "src": "Audio/minimize_002.ogg",
       "name": "Minimize 2",
       "tags": [
         "interface",
@@ -502,6 +499,7 @@
     },
     {
       "file": "audio/minimize-003.m4a",
+      "src": "Audio/minimize_003.ogg",
       "name": "Minimize 3",
       "tags": [
         "interface",
@@ -511,6 +509,7 @@
     },
     {
       "file": "audio/minimize-004.m4a",
+      "src": "Audio/minimize_004.ogg",
       "name": "Minimize 4",
       "tags": [
         "interface",
@@ -520,6 +519,7 @@
     },
     {
       "file": "audio/minimize-005.m4a",
+      "src": "Audio/minimize_005.ogg",
       "name": "Minimize 5",
       "tags": [
         "interface",
@@ -529,6 +529,7 @@
     },
     {
       "file": "audio/minimize-006.m4a",
+      "src": "Audio/minimize_006.ogg",
       "name": "Minimize 6",
       "tags": [
         "interface",
@@ -538,6 +539,7 @@
     },
     {
       "file": "audio/minimize-007.m4a",
+      "src": "Audio/minimize_007.ogg",
       "name": "Minimize 7",
       "tags": [
         "interface",
@@ -547,6 +549,7 @@
     },
     {
       "file": "audio/minimize-008.m4a",
+      "src": "Audio/minimize_008.ogg",
       "name": "Minimize 8",
       "tags": [
         "interface",
@@ -556,6 +559,7 @@
     },
     {
       "file": "audio/minimize-009.m4a",
+      "src": "Audio/minimize_009.ogg",
       "name": "Minimize 9",
       "tags": [
         "interface",
@@ -565,6 +569,7 @@
     },
     {
       "file": "audio/open-001.m4a",
+      "src": "Audio/open_001.ogg",
       "name": "Open 1",
       "tags": [
         "interface",
@@ -574,6 +579,7 @@
     },
     {
       "file": "audio/open-002.m4a",
+      "src": "Audio/open_002.ogg",
       "name": "Open 2",
       "tags": [
         "interface",
@@ -583,6 +589,7 @@
     },
     {
       "file": "audio/open-003.m4a",
+      "src": "Audio/open_003.ogg",
       "name": "Open 3",
       "tags": [
         "interface",
@@ -592,6 +599,7 @@
     },
     {
       "file": "audio/open-004.m4a",
+      "src": "Audio/open_004.ogg",
       "name": "Open 4",
       "tags": [
         "interface",
@@ -601,6 +609,7 @@
     },
     {
       "file": "audio/pluck-001.m4a",
+      "src": "Audio/pluck_001.ogg",
       "name": "Pluck 1",
       "tags": [
         "interface",
@@ -610,6 +619,7 @@
     },
     {
       "file": "audio/pluck-002.m4a",
+      "src": "Audio/pluck_002.ogg",
       "name": "Pluck 2",
       "tags": [
         "interface",
@@ -619,6 +629,7 @@
     },
     {
       "file": "audio/question-001.m4a",
+      "src": "Audio/question_001.ogg",
       "name": "Question 1",
       "tags": [
         "interface",
@@ -628,6 +639,7 @@
     },
     {
       "file": "audio/question-002.m4a",
+      "src": "Audio/question_002.ogg",
       "name": "Question 2",
       "tags": [
         "interface",
@@ -637,6 +649,7 @@
     },
     {
       "file": "audio/question-003.m4a",
+      "src": "Audio/question_003.ogg",
       "name": "Question 3",
       "tags": [
         "interface",
@@ -646,6 +659,7 @@
     },
     {
       "file": "audio/question-004.m4a",
+      "src": "Audio/question_004.ogg",
       "name": "Question 4",
       "tags": [
         "interface",
@@ -655,6 +669,7 @@
     },
     {
       "file": "audio/scratch-001.m4a",
+      "src": "Audio/scratch_001.ogg",
       "name": "Scratch 1",
       "tags": [
         "interface",
@@ -664,6 +679,7 @@
     },
     {
       "file": "audio/scratch-002.m4a",
+      "src": "Audio/scratch_002.ogg",
       "name": "Scratch 2",
       "tags": [
         "interface",
@@ -673,6 +689,7 @@
     },
     {
       "file": "audio/scratch-003.m4a",
+      "src": "Audio/scratch_003.ogg",
       "name": "Scratch 3",
       "tags": [
         "interface",
@@ -682,6 +699,7 @@
     },
     {
       "file": "audio/scratch-004.m4a",
+      "src": "Audio/scratch_004.ogg",
       "name": "Scratch 4",
       "tags": [
         "interface",
@@ -691,6 +709,7 @@
     },
     {
       "file": "audio/scratch-005.m4a",
+      "src": "Audio/scratch_005.ogg",
       "name": "Scratch 5",
       "tags": [
         "interface",
@@ -700,6 +719,7 @@
     },
     {
       "file": "audio/scroll-001.m4a",
+      "src": "Audio/scroll_001.ogg",
       "name": "Scroll 1",
       "tags": [
         "interface",
@@ -710,6 +730,7 @@
     },
     {
       "file": "audio/scroll-002.m4a",
+      "src": "Audio/scroll_002.ogg",
       "name": "Scroll 2",
       "tags": [
         "interface",
@@ -720,6 +741,7 @@
     },
     {
       "file": "audio/scroll-003.m4a",
+      "src": "Audio/scroll_003.ogg",
       "name": "Scroll 3",
       "tags": [
         "interface",
@@ -730,6 +752,7 @@
     },
     {
       "file": "audio/scroll-004.m4a",
+      "src": "Audio/scroll_004.ogg",
       "name": "Scroll 4",
       "tags": [
         "interface",
@@ -740,6 +763,7 @@
     },
     {
       "file": "audio/scroll-005.m4a",
+      "src": "Audio/scroll_005.ogg",
       "name": "Scroll 5",
       "tags": [
         "interface",
@@ -750,6 +774,7 @@
     },
     {
       "file": "audio/select-001.m4a",
+      "src": "Audio/select_001.ogg",
       "name": "Select 1",
       "tags": [
         "interface",
@@ -760,6 +785,7 @@
     },
     {
       "file": "audio/select-002.m4a",
+      "src": "Audio/select_002.ogg",
       "name": "Select 2",
       "tags": [
         "interface",
@@ -770,6 +796,7 @@
     },
     {
       "file": "audio/select-003.m4a",
+      "src": "Audio/select_003.ogg",
       "name": "Select 3",
       "tags": [
         "interface",
@@ -780,6 +807,7 @@
     },
     {
       "file": "audio/select-004.m4a",
+      "src": "Audio/select_004.ogg",
       "name": "Select 4",
       "tags": [
         "interface",
@@ -790,6 +818,7 @@
     },
     {
       "file": "audio/select-005.m4a",
+      "src": "Audio/select_005.ogg",
       "name": "Select 5",
       "tags": [
         "interface",
@@ -800,6 +829,7 @@
     },
     {
       "file": "audio/select-006.m4a",
+      "src": "Audio/select_006.ogg",
       "name": "Select 6",
       "tags": [
         "interface",
@@ -810,6 +840,7 @@
     },
     {
       "file": "audio/select-007.m4a",
+      "src": "Audio/select_007.ogg",
       "name": "Select 7",
       "tags": [
         "interface",
@@ -820,6 +851,7 @@
     },
     {
       "file": "audio/select-008.m4a",
+      "src": "Audio/select_008.ogg",
       "name": "Select 8",
       "tags": [
         "interface",
@@ -830,6 +862,7 @@
     },
     {
       "file": "audio/switch-001.m4a",
+      "src": "Audio/switch_001.ogg",
       "name": "Switch 1",
       "tags": [
         "interface",
@@ -840,6 +873,7 @@
     },
     {
       "file": "audio/switch-002.m4a",
+      "src": "Audio/switch_002.ogg",
       "name": "Switch 2",
       "tags": [
         "interface",
@@ -850,6 +884,7 @@
     },
     {
       "file": "audio/switch-003.m4a",
+      "src": "Audio/switch_003.ogg",
       "name": "Switch 3",
       "tags": [
         "interface",
@@ -860,6 +895,7 @@
     },
     {
       "file": "audio/switch-004.m4a",
+      "src": "Audio/switch_004.ogg",
       "name": "Switch 4",
       "tags": [
         "interface",
@@ -870,6 +906,7 @@
     },
     {
       "file": "audio/switch-005.m4a",
+      "src": "Audio/switch_005.ogg",
       "name": "Switch 5",
       "tags": [
         "interface",
@@ -880,6 +917,7 @@
     },
     {
       "file": "audio/switch-006.m4a",
+      "src": "Audio/switch_006.ogg",
       "name": "Switch 6",
       "tags": [
         "interface",
@@ -890,6 +928,7 @@
     },
     {
       "file": "audio/switch-007.m4a",
+      "src": "Audio/switch_007.ogg",
       "name": "Switch 7",
       "tags": [
         "interface",
@@ -900,6 +939,7 @@
     },
     {
       "file": "audio/tick-001.m4a",
+      "src": "Audio/tick_001.ogg",
       "name": "Tick 1",
       "tags": [
         "interface",
@@ -910,6 +950,7 @@
     },
     {
       "file": "audio/tick-002.m4a",
+      "src": "Audio/tick_002.ogg",
       "name": "Tick 2",
       "tags": [
         "interface",
@@ -920,6 +961,7 @@
     },
     {
       "file": "audio/tick-004.m4a",
+      "src": "Audio/tick_004.ogg",
       "name": "Tick 4",
       "tags": [
         "interface",
@@ -930,6 +972,7 @@
     },
     {
       "file": "audio/toggle-001.m4a",
+      "src": "Audio/toggle_001.ogg",
       "name": "Toggle 1",
       "tags": [
         "interface",
@@ -940,6 +983,7 @@
     },
     {
       "file": "audio/toggle-002.m4a",
+      "src": "Audio/toggle_002.ogg",
       "name": "Toggle 2",
       "tags": [
         "interface",
@@ -950,6 +994,7 @@
     },
     {
       "file": "audio/toggle-003.m4a",
+      "src": "Audio/toggle_003.ogg",
       "name": "Toggle 3",
       "tags": [
         "interface",
@@ -960,6 +1005,7 @@
     },
     {
       "file": "audio/toggle-004.m4a",
+      "src": "Audio/toggle_004.ogg",
       "name": "Toggle 4",
       "tags": [
         "interface",

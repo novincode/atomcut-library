@@ -1,0 +1,498 @@
+{
+  "id": "opengameart-8-bit-sound-effect-pack-vol-001",
+  "title": "8-Bit Sound Effect Pack (Vol. 001)",
+  "blurb": "46 sounds — mostly Interface and Weapons.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "deva · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-deva",
+    "name": "deva"
+  },
+  "homepage": "https://opengameart.org/content/8-bit-sound-effect-pack-vol-001",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/coin-1.m4a",
+      "src": "8-bit-20-sound-20-effects-20-pack-20001/Coin 1.wav",
+      "name": "Coin 1",
+      "tags": [
+        "interface",
+        "coin",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/coin-2.m4a",
+      "src": "8-bit-20-sound-20-effects-20-pack-20001/Coin 2.wav",
+      "name": "Coin 2",
+      "tags": [
+        "interface",
+        "coin",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/coin-3.m4a",
+      "src": "8-bit-20-sound-20-effects-20-pack-20001/Coin 3.wav",
+      "name": "Coin 3",
+      "tags": [
+        "interface",
+        "coin",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/coin-4.m4a",
+      "src": "8-bit-20-sound-20-effects-20-pack-20001/Coin 4.wav",
+      "name": "Coin 4",
+      "tags": [
+        "interface",
+        "coin",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/coin-5.m4a",
+      "src": "8-bit-20-sound-20-effects-20-pack-20001/Coin 5.wav",
+      "name": "Coin 5",
+      "tags": [
+        "interface",
+        "coin",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/exit-1.m4a",
+      "src": "8-bit-20-sound-20-effects-20-pack-20001/Exit 1.wav",
+      "name": "Exit 1",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/exit-2.m4a",
+      "src": "8-bit-20-sound-20-effects-20-pack-20001/Exit 2.wav",
+      "name": "Exit 2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/exit-3.m4a",
+      "src": "8-bit-20-sound-20-effects-20-pack-20001/Exit 3.wav",
+      "name": "Exit 3",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/explosion-1.m4a",
+      "src": "8-bit-20-sound-20-effects-20-pack-20001/Explosion 1.wav",
+      "name": "Explosion 1",
+      "tags": [
+        "weapon",
+        "explosion",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/explosion-2.m4a",
+      "src": "8-bit-20-sound-20-effects-20-pack-20001/Explosion 2.wav",
+      "name": "Explosion 2",
+      "tags": [
+        "weapon",
+        "explosion",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/explosion-3.m4a",
+      "src": "8-bit-20-sound-20-effects-20-pack-20001/Explosion 3.wav",
+      "name": "Explosion 3",
+      "tags": [
+        "weapon",
+        "explosion",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/explosion-4.m4a",
+      "src": "8-bit-20-sound-20-effects-20-pack-20001/Explosion 4.wav",
+      "name": "Explosion 4",
+      "tags": [
+        "weapon",
+        "explosion",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/explosion-5.m4a",
+      "src": "8-bit-20-sound-20-effects-20-pack-20001/Explosion 5.wav",
+      "name": "Explosion 5",
+      "tags": [
+        "weapon",
+        "explosion",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/fly-1.m4a",
+      "src": "8-bit-20-sound-20-effects-20-pack-20001/Fly 1.wav",
+      "name": "Fly 1",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/fly-2.m4a",
+      "src": "8-bit-20-sound-20-effects-20-pack-20001/Fly 2.wav",
+      "name": "Fly 2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/fly-3.m4a",
+      "src": "8-bit-20-sound-20-effects-20-pack-20001/Fly 3.wav",
+      "name": "Fly 3",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit-1.m4a",
+      "src": "8-bit-20-sound-20-effects-20-pack-20001/Hit 1.wav",
+      "name": "Hit 1",
+      "tags": [
+        "impact",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit-2.m4a",
+      "src": "8-bit-20-sound-20-effects-20-pack-20001/Hit 2.wav",
+      "name": "Hit 2",
+      "tags": [
+        "impact",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit-3.m4a",
+      "src": "8-bit-20-sound-20-effects-20-pack-20001/Hit 3.wav",
+      "name": "Hit 3",
+      "tags": [
+        "impact",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit-4.m4a",
+      "src": "8-bit-20-sound-20-effects-20-pack-20001/Hit 4.wav",
+      "name": "Hit 4",
+      "tags": [
+        "impact",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit-5.m4a",
+      "src": "8-bit-20-sound-20-effects-20-pack-20001/Hit 5.wav",
+      "name": "Hit 5",
+      "tags": [
+        "impact",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/hit-6.m4a",
+      "src": "8-bit-20-sound-20-effects-20-pack-20001/Hit 6.wav",
+      "name": "Hit 6",
+      "tags": [
+        "impact",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jump-1.m4a",
+      "src": "8-bit-20-sound-20-effects-20-pack-20001/Jump 1.wav",
+      "name": "Jump 1",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jump-2.m4a",
+      "src": "8-bit-20-sound-20-effects-20-pack-20001/Jump 2.wav",
+      "name": "Jump 2",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jump-3.m4a",
+      "src": "8-bit-20-sound-20-effects-20-pack-20001/Jump 3.wav",
+      "name": "Jump 3",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/jump-4.m4a",
+      "src": "8-bit-20-sound-20-effects-20-pack-20001/Jump 4.wav",
+      "name": "Jump 4",
+      "tags": [
+        "foley",
+        "jump",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/noise-select-1.m4a",
+      "src": "8-bit-20-sound-20-effects-20-pack-20001/Noise Select 1.wav",
+      "name": "Noise Select 1",
+      "tags": [
+        "interface",
+        "select",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/noise-select-2.m4a",
+      "src": "8-bit-20-sound-20-effects-20-pack-20001/Noise Select 2.wav",
+      "name": "Noise Select 2",
+      "tags": [
+        "interface",
+        "select",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/noise-select-3.m4a",
+      "src": "8-bit-20-sound-20-effects-20-pack-20001/Noise Select 3.wav",
+      "name": "Noise Select 3",
+      "tags": [
+        "interface",
+        "select",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/powerup-1.m4a",
+      "src": "8-bit-20-sound-20-effects-20-pack-20001/Powerup 1.wav",
+      "name": "Powerup 1",
+      "tags": [
+        "magic",
+        "powerup",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/powerup-2.m4a",
+      "src": "8-bit-20-sound-20-effects-20-pack-20001/Powerup 2.wav",
+      "name": "Powerup 2",
+      "tags": [
+        "magic",
+        "powerup",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/powerup-3.m4a",
+      "src": "8-bit-20-sound-20-effects-20-pack-20001/Powerup 3.wav",
+      "name": "Powerup 3",
+      "tags": [
+        "magic",
+        "powerup",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/select-1.m4a",
+      "src": "8-bit-20-sound-20-effects-20-pack-20001/Select 1.wav",
+      "name": "Select 1",
+      "tags": [
+        "interface",
+        "select",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/select-2.m4a",
+      "src": "8-bit-20-sound-20-effects-20-pack-20001/Select 2.wav",
+      "name": "Select 2",
+      "tags": [
+        "interface",
+        "select",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/select-3.m4a",
+      "src": "8-bit-20-sound-20-effects-20-pack-20001/Select 3.wav",
+      "name": "Select 3",
+      "tags": [
+        "interface",
+        "select",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/select-4.m4a",
+      "src": "8-bit-20-sound-20-effects-20-pack-20001/Select 4.wav",
+      "name": "Select 4",
+      "tags": [
+        "interface",
+        "select",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/shoot-1.m4a",
+      "src": "8-bit-20-sound-20-effects-20-pack-20001/Shoot 1.wav",
+      "name": "Shoot 1",
+      "tags": [
+        "weapon",
+        "shoot",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/shoot-2.m4a",
+      "src": "8-bit-20-sound-20-effects-20-pack-20001/Shoot 2.wav",
+      "name": "Shoot 2",
+      "tags": [
+        "weapon",
+        "shoot",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/shoot-3.m4a",
+      "src": "8-bit-20-sound-20-effects-20-pack-20001/Shoot 3.wav",
+      "name": "Shoot 3",
+      "tags": [
+        "weapon",
+        "shoot",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/talk-1.m4a",
+      "src": "8-bit-20-sound-20-effects-20-pack-20001/Talk 1.wav",
+      "name": "Talk 1",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/talk-2.m4a",
+      "src": "8-bit-20-sound-20-effects-20-pack-20001/Talk 2.wav",
+      "name": "Talk 2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/talk-3.m4a",
+      "src": "8-bit-20-sound-20-effects-20-pack-20001/Talk 3.wav",
+      "name": "Talk 3",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/talk-4.m4a",
+      "src": "8-bit-20-sound-20-effects-20-pack-20001/Talk 4.wav",
+      "name": "Talk 4",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wrong-1.m4a",
+      "src": "8-bit-20-sound-20-effects-20-pack-20001/Wrong 1.wav",
+      "name": "Wrong 1",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wrong-2.m4a",
+      "src": "8-bit-20-sound-20-effects-20-pack-20001/Wrong 2.wav",
+      "name": "Wrong 2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/wrong-3.m4a",
+      "src": "8-bit-20-sound-20-effects-20-pack-20001/Wrong 3.wav",
+      "name": "Wrong 3",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

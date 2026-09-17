@@ -1,0 +1,243 @@
+{
+  "id": "opengameart-25-cc0-mud-sfx",
+  "title": "25 mud sfx",
+  "blurb": "25 sounds.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "rubberduck · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-rubberduck",
+    "name": "rubberduck"
+  },
+  "homepage": "https://opengameart.org/content/25-cc0-mud-sfx",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/mud-01.m4a",
+      "src": "25-cc0-mud-sfx/mud_01.ogg",
+      "name": "Mud 1",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/mud-02.m4a",
+      "src": "25-cc0-mud-sfx/mud_02.ogg",
+      "name": "Mud 2",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/mud-03.m4a",
+      "src": "25-cc0-mud-sfx/mud_03.ogg",
+      "name": "Mud 3",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/mud-04.m4a",
+      "src": "25-cc0-mud-sfx/mud_04.ogg",
+      "name": "Mud 4",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/mud-05.m4a",
+      "src": "25-cc0-mud-sfx/mud_05.ogg",
+      "name": "Mud 5",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/mud-06.m4a",
+      "src": "25-cc0-mud-sfx/mud_06.ogg",
+      "name": "Mud 6",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/mud-07.m4a",
+      "src": "25-cc0-mud-sfx/mud_07.ogg",
+      "name": "Mud 7",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/mud-08.m4a",
+      "src": "25-cc0-mud-sfx/mud_08.ogg",
+      "name": "Mud 8",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/mud-09.m4a",
+      "src": "25-cc0-mud-sfx/mud_09.ogg",
+      "name": "Mud 9",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/mud-10.m4a",
+      "src": "25-cc0-mud-sfx/mud_10.ogg",
+      "name": "Mud 10",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/mud-11.m4a",
+      "src": "25-cc0-mud-sfx/mud_11.ogg",
+      "name": "Mud 11",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/mud-12.m4a",
+      "src": "25-cc0-mud-sfx/mud_12.ogg",
+      "name": "Mud 12",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/mud-13.m4a",
+      "src": "25-cc0-mud-sfx/mud_13.ogg",
+      "name": "Mud 13",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/mud-14.m4a",
+      "src": "25-cc0-mud-sfx/mud_14.ogg",
+      "name": "Mud 14",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/mud-15.m4a",
+      "src": "25-cc0-mud-sfx/mud_15.ogg",
+      "name": "Mud 15",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/mud-16.m4a",
+      "src": "25-cc0-mud-sfx/mud_16.ogg",
+      "name": "Mud 16",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/mud-17.m4a",
+      "src": "25-cc0-mud-sfx/mud_17.ogg",
+      "name": "Mud 17",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/mud-18.m4a",
+      "src": "25-cc0-mud-sfx/mud_18.ogg",
+      "name": "Mud 18",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/mud-19.m4a",
+      "src": "25-cc0-mud-sfx/mud_19.ogg",
+      "name": "Mud 19",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/mud-20.m4a",
+      "src": "25-cc0-mud-sfx/mud_20.ogg",
+      "name": "Mud 20",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/mud-21.m4a",
+      "src": "25-cc0-mud-sfx/mud_21.ogg",
+      "name": "Mud 21",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/mud-22.m4a",
+      "src": "25-cc0-mud-sfx/mud_22.ogg",
+      "name": "Mud 22",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/mud-23.m4a",
+      "src": "25-cc0-mud-sfx/mud_23.ogg",
+      "name": "Mud 23",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/mud-24.m4a",
+      "src": "25-cc0-mud-sfx/mud_24.ogg",
+      "name": "Mud 24",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/mud-25.m4a",
+      "src": "25-cc0-mud-sfx/mud_25.ogg",
+      "name": "Mud 25",
+      "tags": [
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

@@ -1,0 +1,825 @@
+{
+  "id": "opengameart-75-cc0-breaking-falling-hit-sfx",
+  "title": "75 breaking / falling / hit sfx",
+  "blurb": "75 sounds — mostly Impacts and Foley.",
+  "kind": "sound",
+  "license": "CC0-1.0",
+  "attribution": "rubberduck · opengameart.org · CC0 1.0 (public domain)",
+  "publisher": {
+    "id": "oga-rubberduck",
+    "name": "rubberduck"
+  },
+  "homepage": "https://opengameart.org/content/75-cc0-breaking-falling-hit-sfx",
+  "tags": [
+    "cc0"
+  ],
+  "files": [
+    {
+      "file": "audio/bfh1-breaking-01.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_breaking_01.ogg",
+      "name": "Bfh1 Breaking 1",
+      "tags": [
+        "impact",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-breaking-02.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_breaking_02.ogg",
+      "name": "Bfh1 Breaking 2",
+      "tags": [
+        "impact",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-breaking-03.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_breaking_03.ogg",
+      "name": "Bfh1 Breaking 3",
+      "tags": [
+        "impact",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-falling-01.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_falling_01.ogg",
+      "name": "Bfh1 Falling 1",
+      "tags": [
+        "impact",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-falling-02.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_falling_02.ogg",
+      "name": "Bfh1 Falling 2",
+      "tags": [
+        "impact",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-falling-03.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_falling_03.ogg",
+      "name": "Bfh1 Falling 3",
+      "tags": [
+        "impact",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-falling-04.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_falling_04.ogg",
+      "name": "Bfh1 Falling 4",
+      "tags": [
+        "impact",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-falling-05.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_falling_05.ogg",
+      "name": "Bfh1 Falling 5",
+      "tags": [
+        "impact",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-falling-06.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_falling_06.ogg",
+      "name": "Bfh1 Falling 6",
+      "tags": [
+        "impact",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-falling-07.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_falling_07.ogg",
+      "name": "Bfh1 Falling 7",
+      "tags": [
+        "impact",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-glass-breaking-01.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_glass_breaking_01.ogg",
+      "name": "Bfh1 Glass Breaking 1",
+      "tags": [
+        "impact",
+        "glass",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-glass-breaking-02.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_glass_breaking_02.ogg",
+      "name": "Bfh1 Glass Breaking 2",
+      "tags": [
+        "impact",
+        "glass",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-glass-breaking-03.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_glass_breaking_03.ogg",
+      "name": "Bfh1 Glass Breaking 3",
+      "tags": [
+        "impact",
+        "glass",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-glass-breaking-04.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_glass_breaking_04.ogg",
+      "name": "Bfh1 Glass Breaking 4",
+      "tags": [
+        "impact",
+        "glass",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-glass-breaking-05.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_glass_breaking_05.ogg",
+      "name": "Bfh1 Glass Breaking 5",
+      "tags": [
+        "impact",
+        "glass",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-glass-breaking-06.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_glass_breaking_06.ogg",
+      "name": "Bfh1 Glass Breaking 6",
+      "tags": [
+        "impact",
+        "glass",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-glass-falling-01.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_glass_falling_01.ogg",
+      "name": "Bfh1 Glass Falling 1",
+      "tags": [
+        "impact",
+        "glass",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-glass-falling-02.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_glass_falling_02.ogg",
+      "name": "Bfh1 Glass Falling 2",
+      "tags": [
+        "impact",
+        "glass",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-glass-falling-03.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_glass_falling_03.ogg",
+      "name": "Bfh1 Glass Falling 3",
+      "tags": [
+        "impact",
+        "glass",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-glass-falling-04.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_glass_falling_04.ogg",
+      "name": "Bfh1 Glass Falling 4",
+      "tags": [
+        "impact",
+        "glass",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-glass-hit-01.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_glass_hit_01.ogg",
+      "name": "Bfh1 Glass Hit 1",
+      "tags": [
+        "impact",
+        "glass",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-glass-hit-02.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_glass_hit_02.ogg",
+      "name": "Bfh1 Glass Hit 2",
+      "tags": [
+        "impact",
+        "glass",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-hit-01.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_hit_01.ogg",
+      "name": "Bfh1 Hit 1",
+      "tags": [
+        "impact",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-hit-02.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_hit_02.ogg",
+      "name": "Bfh1 Hit 2",
+      "tags": [
+        "impact",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-hit-03.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_hit_03.ogg",
+      "name": "Bfh1 Hit 3",
+      "tags": [
+        "impact",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-hit-04.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_hit_04.ogg",
+      "name": "Bfh1 Hit 4",
+      "tags": [
+        "impact",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-hit-05.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_hit_05.ogg",
+      "name": "Bfh1 Hit 5",
+      "tags": [
+        "impact",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-hit-06.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_hit_06.ogg",
+      "name": "Bfh1 Hit 6",
+      "tags": [
+        "impact",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-hit-07.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_hit_07.ogg",
+      "name": "Bfh1 Hit 7",
+      "tags": [
+        "impact",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-hit-08.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_hit_08.ogg",
+      "name": "Bfh1 Hit 8",
+      "tags": [
+        "impact",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-hit-09.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_hit_09.ogg",
+      "name": "Bfh1 Hit 9",
+      "tags": [
+        "impact",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-hit-10.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_hit_10.ogg",
+      "name": "Bfh1 Hit 10",
+      "tags": [
+        "impact",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-hit-11.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_hit_11.ogg",
+      "name": "Bfh1 Hit 11",
+      "tags": [
+        "impact",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-hit-12.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_hit_12.ogg",
+      "name": "Bfh1 Hit 12",
+      "tags": [
+        "impact",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-hit-13.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_hit_13.ogg",
+      "name": "Bfh1 Hit 13",
+      "tags": [
+        "impact",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-metal-falling-01.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_metal_falling_01.ogg",
+      "name": "Bfh1 Metal Falling 1",
+      "tags": [
+        "foley",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-metal-falling-02.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_metal_falling_02.ogg",
+      "name": "Bfh1 Metal Falling 2",
+      "tags": [
+        "foley",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-metal-falling-03.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_metal_falling_03.ogg",
+      "name": "Bfh1 Metal Falling 3",
+      "tags": [
+        "foley",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-metal-falling-04.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_metal_falling_04.ogg",
+      "name": "Bfh1 Metal Falling 4",
+      "tags": [
+        "foley",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-metal-falling-05.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_metal_falling_05.ogg",
+      "name": "Bfh1 Metal Falling 5",
+      "tags": [
+        "foley",
+        "metal",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-metal-hit-01.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_metal_hit_01.ogg",
+      "name": "Bfh1 Metal Hit 1",
+      "tags": [
+        "impact",
+        "metal",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-metal-hit-02.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_metal_hit_02.ogg",
+      "name": "Bfh1 Metal Hit 2",
+      "tags": [
+        "impact",
+        "metal",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-metal-hit-03.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_metal_hit_03.ogg",
+      "name": "Bfh1 Metal Hit 3",
+      "tags": [
+        "impact",
+        "metal",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-metal-hit-04.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_metal_hit_04.ogg",
+      "name": "Bfh1 Metal Hit 4",
+      "tags": [
+        "impact",
+        "metal",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-metal-hit-05.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_metal_hit_05.ogg",
+      "name": "Bfh1 Metal Hit 5",
+      "tags": [
+        "impact",
+        "metal",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-metal-hit-06.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_metal_hit_06.ogg",
+      "name": "Bfh1 Metal Hit 6",
+      "tags": [
+        "impact",
+        "metal",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-misc-01.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_misc_01.ogg",
+      "name": "Bfh1 Misc 1",
+      "tags": [
+        "impact",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-misc-02.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_misc_02.ogg",
+      "name": "Bfh1 Misc 2",
+      "tags": [
+        "impact",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-misc-03.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_misc_03.ogg",
+      "name": "Bfh1 Misc 3",
+      "tags": [
+        "impact",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-misc-04.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_misc_04.ogg",
+      "name": "Bfh1 Misc 4",
+      "tags": [
+        "impact",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-misc-05.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_misc_05.ogg",
+      "name": "Bfh1 Misc 5",
+      "tags": [
+        "impact",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-misc-06.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_misc_06.ogg",
+      "name": "Bfh1 Misc 6",
+      "tags": [
+        "impact",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-misc-07.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_misc_07.ogg",
+      "name": "Bfh1 Misc 7",
+      "tags": [
+        "impact",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-rock-breaking-01.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_rock_breaking_01.ogg",
+      "name": "Bfh1 Rock Breaking 1",
+      "tags": [
+        "impact",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-rock-breaking-02.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_rock_breaking_02.ogg",
+      "name": "Bfh1 Rock Breaking 2",
+      "tags": [
+        "impact",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-rock-breaking-03.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_rock_breaking_03.ogg",
+      "name": "Bfh1 Rock Breaking 3",
+      "tags": [
+        "impact",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-rock-falling-01.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_rock_falling_01.ogg",
+      "name": "Bfh1 Rock Falling 1",
+      "tags": [
+        "impact",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-rock-falling-02.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_rock_falling_02.ogg",
+      "name": "Bfh1 Rock Falling 2",
+      "tags": [
+        "impact",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-rock-falling-03.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_rock_falling_03.ogg",
+      "name": "Bfh1 Rock Falling 3",
+      "tags": [
+        "impact",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-rock-falling-04.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_rock_falling_04.ogg",
+      "name": "Bfh1 Rock Falling 4",
+      "tags": [
+        "impact",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-rock-falling-05.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_rock_falling_05.ogg",
+      "name": "Bfh1 Rock Falling 5",
+      "tags": [
+        "impact",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-rock-falling-06.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_rock_falling_06.ogg",
+      "name": "Bfh1 Rock Falling 6",
+      "tags": [
+        "impact",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-rock-falling-07.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_rock_falling_07.ogg",
+      "name": "Bfh1 Rock Falling 7",
+      "tags": [
+        "impact",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-rock-falling-08.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_rock_falling_08.ogg",
+      "name": "Bfh1 Rock Falling 8",
+      "tags": [
+        "impact",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-rock-falling-09.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_rock_falling_09.ogg",
+      "name": "Bfh1 Rock Falling 9",
+      "tags": [
+        "impact",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-rock-hit-01.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_rock_hit_01.ogg",
+      "name": "Bfh1 Rock Hit",
+      "tags": [
+        "impact",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-wood-breaking-01.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_wood_breaking_01.ogg",
+      "name": "Bfh1 Wood Breaking 1",
+      "tags": [
+        "foley",
+        "wood",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-wood-breaking-02.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_wood_breaking_02.ogg",
+      "name": "Bfh1 Wood Breaking 2",
+      "tags": [
+        "foley",
+        "wood",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-wood-breaking-03.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_wood_breaking_03.ogg",
+      "name": "Bfh1 Wood Breaking 3",
+      "tags": [
+        "foley",
+        "wood",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-wood-breaking-04.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_wood_breaking_04.ogg",
+      "name": "Bfh1 Wood Breaking 4",
+      "tags": [
+        "foley",
+        "wood",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-wood-falling-01.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_wood_falling_01.ogg",
+      "name": "Bfh1 Wood Falling 1",
+      "tags": [
+        "foley",
+        "wood",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-wood-falling-02.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_wood_falling_02.ogg",
+      "name": "Bfh1 Wood Falling 2",
+      "tags": [
+        "foley",
+        "wood",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-wood-hit-01.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_wood_hit_01.ogg",
+      "name": "Bfh1 Wood Hit 1",
+      "tags": [
+        "impact",
+        "wood",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-wood-hit-02.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_wood_hit_02.ogg",
+      "name": "Bfh1 Wood Hit 2",
+      "tags": [
+        "impact",
+        "wood",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    },
+    {
+      "file": "audio/bfh1-wood-hit-03.m4a",
+      "src": "sfx-breaking-and-falling/bfh1_wood_hit_03.ogg",
+      "name": "Bfh1 Wood Hit 3",
+      "tags": [
+        "impact",
+        "wood",
+        "hit",
+        "cc0"
+      ],
+      "blurb": null
+    }
+  ]
+}

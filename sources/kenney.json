@@ -6,14 +6,15 @@
   "homepage": "https://kenney.nl/assets/category:Audio",
   "publisher": { "id": "kenney", "name": "Kenney" },
   "tags": ["cc0"],
+  "maxSeconds": 120,
   "packs": [
     { "slug": "interface-sounds", "title": "Interface Sounds", "tags": ["ui"] },
     { "slug": "ui-audio", "title": "UI Audio", "tags": ["ui"] },
     { "slug": "impact-sounds", "title": "Impact Sounds", "tags": ["impact"] },
     { "slug": "digital-audio", "title": "Digital Audio", "tags": ["digital"] },
     { "slug": "sci-fi-sounds", "title": "Sci-Fi Sounds", "tags": ["digital", "scifi"] },
-    { "slug": "rpg-audio", "title": "RPG Audio", "tags": ["game"] },
-    { "slug": "casino-audio", "title": "Casino Audio", "tags": ["game"] },
+    { "slug": "rpg-audio", "title": "RPG Audio", "tags": ["fantasy"] },
+    { "slug": "casino-audio", "title": "Casino Audio", "tags": ["foley"] },
     { "slug": "music-jingles", "title": "Music Jingles", "tags": ["music"] },
     { "slug": "voiceover-pack", "title": "Voiceover Pack", "tags": ["human", "voice"] }
   ]
